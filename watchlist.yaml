@@ -1,0 +1,120 @@
+# AI 밸류체인 워치리스트 — 기업 추가/세분화는 이 파일만 수정하면 됨 (코드 변경 불필요)
+#
+# 필드 설명:
+#   aliases:      기사 제목/본문에서 이 중 하나라도 매치되면 후보
+#                 (영문 짧은 대문자 약어는 단어 단위·대소문자 구분 매칭 — MS가 "systems"에 안 걸림)
+#   broad:        true면 범용 대기업 → 아래 context_keywords 중 하나가 함께 있어야 푸시 (노이즈 차단)
+#   require_any:  broad 대신 회사별 맞춤 문맥 키워드 (이 중 하나 필수)
+#   en_query:     Google News RSS 영문 검색어. 없으면 영문 소스 생략
+#   extra_keywords: 회사명 없이도 잡을 계층 테마 키워드 (네이버만)
+
+layers:
+  1_csp:
+    name: "CSP·Neocloud"
+    emoji: "🏦"
+    companies:
+      - name: Microsoft
+        aliases: [마이크로소프트, Microsoft, 애저, Azure]
+        broad: true
+        en_query: "Microsoft AI OR Azure datacenter"
+      - name: Amazon
+        aliases: [아마존, Amazon, AWS]
+        broad: true
+        en_query: "AWS AI OR Amazon datacenter"
+      - name: Google
+        aliases: [구글, Google, 알파벳]
+        broad: true
+        en_query: "Google AI infrastructure OR Google TPU"
+      - name: Meta
+        aliases: [메타, Meta]
+        broad: true
+        en_query: "Meta AI datacenter OR Meta capex"
+      - name: Oracle
+        aliases: [오라클, Oracle]
+        broad: true
+        en_query: "Oracle AI cloud OR Oracle OCI"
+      - name: CoreWeave
+        aliases: [코어위브, CoreWeave]
+        en_query: "CoreWeave"
+      - name: Nebius
+        aliases: [네비우스, Nebius]
+        en_query: "Nebius"
+
+  2_ai_labs:
+    name: "AI Labs"
+    emoji: "🧠"
+    companies:
+      - name: OpenAI
+        aliases: [오픈AI, 오픈에이아이, OpenAI, 챗GPT, ChatGPT, 샘 올트먼]
+        en_query: "OpenAI"
+      - name: Anthropic
+        aliases: [앤스로픽, Anthropic, 클로드, Claude]
+        en_query: "Anthropic"
+      - name: Google DeepMind
+        aliases: [딥마인드, DeepMind, 제미나이, Gemini]
+        en_query: "Google DeepMind OR Gemini model"
+      - name: xAI
+        aliases: [xAI, 그록, Grok]
+        en_query: "xAI Grok"
+      - name: Meta AI
+        aliases: [라마, Llama, 메타 AI, 슈퍼인텔리전스]
+        en_query: "Meta Llama OR Meta Superintelligence"
+
+  3_ai_chips:
+    name: "AI Chips"
+    emoji: "🔷"
+    extra_keywords: [TPU, Trainium, MTIA]
+    companies:
+      - name: Nvidia
+        aliases: [엔비디아, Nvidia, NVIDIA, 젠슨 황]
+        en_query: "Nvidia"
+      - name: AMD
+        aliases: [AMD]
+        en_query: "AMD AI chip OR AMD Instinct"
+      - name: Broadcom
+        aliases: [브로드컴, Broadcom]
+        en_query: "Broadcom"
+
+  4_foundry:
+    name: "파운드리"
+    emoji: "🏭"
+    extra_keywords: [CoWoS, 첨단 패키징]
+    companies:
+      - name: TSMC
+        aliases: [TSMC, 티에스엠씨]
+        en_query: "TSMC"
+      - name: 삼성 파운드리
+        aliases: [삼성 파운드리, 삼성파운드리, Samsung Foundry]
+        en_query: "Samsung Foundry"
+      - name: Intel Foundry
+        aliases: [인텔 파운드리, 인텔파운드리, Intel Foundry, 18A]
+        en_query: "Intel Foundry"
+      - name: Rapidus
+        aliases: [라피더스, Rapidus]
+        en_query: "Rapidus"
+
+  5_memory:
+    name: "메모리"
+    emoji: "🇰🇷"
+    extra_keywords: [HBM, HBM3E, HBM4]
+    companies:
+      - name: SK하이닉스
+        aliases: [SK하이닉스, 하이닉스]
+        en_query: "SK Hynix"
+      - name: 삼성전자 메모리
+        aliases: [삼성전자, Samsung]
+        require_any: [HBM, 메모리, D램, DRAM, 낸드, NAND, 반도체]
+        en_query: "Samsung HBM OR Samsung memory chip"
+      - name: Micron
+        aliases: [마이크론, Micron]
+        en_query: "Micron"
+
+# 제목에 이 단어가 있으면 무조건 제외 — 시황/마감/특징주 잡뉴스 차단
+exclude_title_keywords:
+  [마감시황, 장마감, 특징주, 테마주, 수혜주, 관련주, 급등주, 상한가, 하한가,
+   코스피, 코스닥, 서킷브레이커, 사이드카, 오늘의 증시, 증시 요약, 장중, 개장]
+
+# broad: true 기업용 AND 필터 — 이 중 하나가 기사에 같이 있어야 푸시됨
+context_keywords:
+  [AI, 인공지능, 데이터센터, 데이터 센터, CAPEX, 설비투자, GPU, HBM,
+   반도체, 파운드리, 칩, 엔비디아, LLM, 거대언어모델, 슈퍼컴퓨터, datacenter, capex, chip]
