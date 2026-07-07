@@ -18,3 +18,6 @@ STATE_FILE = ROOT / "state" / "seen.json"
 
 # 이 시간(분)보다 오래된 기사는 푸시하지 않음 — 봇 재시작 시 과거 기사 폭탄 방지
 LOOKBACK_MIN = int(os.environ.get("LOOKBACK_MIN", "60"))
+
+# Gemini 중요도 점수(1~5)가 이 값 미만이면 발송 안 함 — 높일수록 엄격
+IMPORTANCE_MIN = int(os.environ.get("IMPORTANCE_MIN", "3"))

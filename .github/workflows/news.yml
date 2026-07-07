@@ -34,6 +34,7 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LOOKBACK_MIN: "120"   # cron 지연 대비 여유 창 (중복은 seen.json 이 막음)
+          IMPORTANCE_MIN: "3"   # Gemini 중요도 컷 (1~5) — 높일수록 조용해짐
         run: python -m src.main
 
       - name: persist seen state
