@@ -15,7 +15,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -27,6 +27,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: run bot
+        timeout-minutes: 9   # 봇이 늦어도 job 이 통째로 취소되지 않게 스텝 단위로 제한
+        continue-on-error: true   # 스텝 타임아웃이어도 아래 커밋은 실행 (진행분 보존)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -36,9 +38,11 @@ jobs:
           LOOKBACK_MIN: "120"   # cron 지연 대비 여유 창 (중복은 seen.json 이 막음)
           IMPORTANCE_MIN: "3"   # Gemini 중요도 컷 (1~5) — 높일수록 조용해짐
           PAGE_IMPORTANCE_MIN: "4"  # 기업 페이지 축적 컷 — 텔레그램보다 엄격
+          MAX_PER_CYCLE: "40"   # 한 실행당 처리 상한 — 나머지는 다음 사이클에서 이어감
         run: python -m src.main
 
       - name: persist seen state + company pages
+        if: always()          # 봇이 실패/타임아웃해도 진행분(seen/pages)은 커밋
         run: |
           git config user.name "news-bot"
           git config user.email "actions@users.noreply.github.com"

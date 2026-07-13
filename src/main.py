@@ -14,7 +14,7 @@ from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 from . import gnews, naver, noise, pages, store, summarizer, telegram, watchlist
-from .config import IMPORTANCE_MIN, LOOKBACK_MIN
+from .config import IMPORTANCE_MIN, LOOKBACK_MIN, MAX_PER_CYCLE
 from .models import Article
 
 log = logging.getLogger("news-bot")
@@ -74,7 +74,11 @@ def run_once(wl: watchlist.Watchlist, dry: bool = False) -> None:
         log.info(f"first run: seeded {len(fresh)} articles without sending")
         return
 
-    log.info(f"{len(fresh)} new articles")
+    if len(fresh) > MAX_PER_CYCLE:
+        log.info(f"{len(fresh)} new articles — capping at {MAX_PER_CYCLE}, rest next cycle")
+        fresh = fresh[:MAX_PER_CYCLE]  # 오래된 것부터 — 나머지는 seen 미기록이라 이어짐
+    else:
+        log.info(f"{len(fresh)} new articles")
     dropped = 0
     for a in fresh:
         v = summarizer.assess(a)

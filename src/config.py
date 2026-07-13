@@ -24,3 +24,7 @@ IMPORTANCE_MIN = int(os.environ.get("IMPORTANCE_MIN", "3"))
 
 # 기업 페이지(pages/<page>-news.json)에는 이 점수 이상만 축적 — 텔레그램보다 엄격
 PAGE_IMPORTANCE_MIN = int(os.environ.get("PAGE_IMPORTANCE_MIN", "4"))
+
+# 한 사이클에 처리(판정+발송)할 기사 상한 — 기사 폭탄으로 실행이 늘어지는 것 방지.
+# 넘친 기사는 seen 처리 안 하므로 다음 사이클이 이어서 처리 (오래된 것부터).
+MAX_PER_CYCLE = int(os.environ.get("MAX_PER_CYCLE", "40"))
