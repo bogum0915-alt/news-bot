@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-14 07:44",
+  "tag": "제품",
+  "title": "Nvidia boosts token throughput 5x with software optimizations, reshaping AI inference economics",
+  "source": "Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSm44M1V5NEpyNXBCajlWb1JVajFBWXhkMTEzZGh5WUNJWGgyZ3pGYVpRWkNwZDF4R0QzT0YwRTZOZi1mMVV2czNTTTNHd3psN05fOGxUa0t3WkItYk9hQjBmYVJpN1UzWWMtXzFIRkJlNExUanhfSXN1Ym1obXVXbEpsUQ?oc=5",
+  "summary": "Nvidia가 소프트웨어 최적화를 통해 AI 추론 처리량을 5배 향상시켰음.\n이는 AI 추론의 경제성을 재편하는 중요한 진전임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 07:40",
+  "tag": "기타",
+  "title": "[GAM] 엔비디아 비공개 설명회 무슨 얘기 나왔나...3가지 메시지",
+  "source": "newspim.com",
+  "url": "https://www.newspim.com/news/view/20260713000986",
+  "summary": "엔비디아, 대형 클라우드 업체(하이퍼스케일러)의\n구매 확대에 따른 전력, 토지, 데이터센터 건설 속도\n등 물리적 제약 관련 논의가 있었음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 06:46",
+  "tag": "수주",
+  "title": "AI 패키징 병목에 흔들리는 TSMC…엔비디아, 인텔로 25% 분산 검토",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=202607140629364291fbbec65dfb_1",
+  "summary": "AI 패키징 병목 문제로 TSMC가 흔들리고 있음.\n엔비디아가 차세대 GPU 물량 25%를 인텔로 분산 검토 중.\n이는 삼성전자, SK하이닉스 후공정 생태계에도 영향을 줄 전망임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 06:45",
+  "tag": "실적",
+  "title": "TSMC Sales Jump 36% as Memory Stocks Plunge. What It Means for NVIDIA and AMD",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0o5aVVtX04yZ0lvMUVnOFlaeDU1azR2MkF2RERlaEZZeTAxQW1CdEkxb1RlYV9QaS1mQ2UxNTc2dzY3cXlCM29LYkZuYTN3ZjROMXdLTFRjQmljaTdVcGIwR05vanl2Mm90ZFhNNnkzcGI1MzktdU1XNUx4ZkpKd0o1UDMwek1odi1GaWFXakhMOGNV?oc=5",
+  "summary": "TSMC 매출 36% 급증했음.\n메모리 주가는 급락했음.\n이는 NVIDIA, AMD에 중요한 의미를 가짐.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-14 00:52",
   "tag": "제품",
   "title": "구글, TPU 판매 확대…엔비디아 AI 칩 의존 낮춘다",
