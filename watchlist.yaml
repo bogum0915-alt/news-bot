@@ -68,6 +68,7 @@ layers:
       - name: Nvidia
         aliases: [엔비디아, Nvidia, NVIDIA, 젠슨 황]
         en_query: "Nvidia"
+        page: nvda   # 기업 페이지 뉴스 축적 (pages/nvda-news.json)
       - name: AMD
         aliases: [AMD]
         en_query: "AMD AI chip OR AMD Instinct"

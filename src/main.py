@@ -13,7 +13,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-from . import gnews, naver, noise, store, summarizer, telegram, watchlist
+from . import gnews, naver, noise, pages, store, summarizer, telegram, watchlist
 from .config import IMPORTANCE_MIN, LOOKBACK_MIN
 from .models import Article
 
@@ -87,11 +87,12 @@ def run_once(wl: watchlist.Watchlist, dry: bool = False) -> None:
             continue
         if dry:
             print("-" * 60)
-            print(f'[PUSH i={v["importance"]}]')
+            print(f'[PUSH i={v["importance"]} cat={v.get("category","")}]')
             print(fmt(a, v["summary"]))
             continue
         if telegram.send(fmt(a, v["summary"])):
             store.mark(a.url)  # 전송 성공 시에만 기록 → 실패하면 다음 사이클 재시도
+            pages.add(a, v)    # 기업 페이지 뉴스 축적 (PAGE_IMPORTANCE_MIN 이상만)
             time.sleep(1)  # 텔레그램 rate limit 여유
     if dropped:
         log.info(f"dropped {dropped} low-importance articles")

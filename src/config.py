@@ -21,3 +21,6 @@ LOOKBACK_MIN = int(os.environ.get("LOOKBACK_MIN", "60"))
 
 # Gemini 중요도 점수(1~5)가 이 값 미만이면 발송 안 함 — 높일수록 엄격
 IMPORTANCE_MIN = int(os.environ.get("IMPORTANCE_MIN", "3"))
+
+# 기업 페이지(pages/<page>-news.json)에는 이 점수 이상만 축적 — 텔레그램보다 엄격
+PAGE_IMPORTANCE_MIN = int(os.environ.get("PAGE_IMPORTANCE_MIN", "4"))

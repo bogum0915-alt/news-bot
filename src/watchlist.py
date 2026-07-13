@@ -20,6 +20,7 @@ class Company:
     require_any: list[str] = field(default_factory=list)
     en_query: str = ""
     is_theme: bool = False  # 계층 extra_keywords 로 만들어진 가상 엔트리
+    page: str = ""          # 기업 페이지 키 — 있으면 중요 뉴스를 pages/<page>-news.json 에 축적
 
     @property
     def tag(self) -> str:
@@ -80,6 +81,7 @@ def load() -> Watchlist:
                 broad=bool(c.get("broad")),
                 require_any=c.get("require_any") or [],
                 en_query=c.get("en_query", ""),
+                page=c.get("page", ""),
             ))
         for kw in layer.get("extra_keywords", []):
             companies.append(Company(
