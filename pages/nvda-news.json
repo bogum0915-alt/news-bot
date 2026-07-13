@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-14 00:52",
+  "tag": "제품",
+  "title": "구글, TPU 판매 확대…엔비디아 AI 칩 의존 낮춘다",
+  "source": "tokenpost.kr",
+  "url": "https://www.tokenpost.kr/news/breaking/377323",
+  "summary": "구글이 자체 개발한 TPU 판매를 확대함.\n신흥 클라우드 업체 대상 판매를 추진 중임.\n이는 엔비디아 AI 칩 의존도를 낮추려는 전략임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 00:02",
+  "tag": "실적",
+  "title": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWjExaFFrQlFRbnltYUNNQWkzRFh3dDRUVy1VTzl5NFFHV0JTX250TXdYTld4cU1xR0JkNUtteVVFNVhQV0R0ZGNtZEt2bkFKVUZ6Wkpzcml1c2JZSVg0cHNLdFp6Q21HVFJSejlYTEZ1T0NWVk5jcVZ1bGVIbTJ5MVQyeHpDdTZra283UnZFaEdfemRVVHlkX1J4MzBjU1Bfbm5HeENsTDJRWS16SkVRallOY1QxMnZ2bzd5UEhZT0plVFBpaXVlR3doUGVFUHVpbVpBeg?oc=5",
+  "summary": "Nvidia, Micron 등 주요 칩 기업들이 상당한 수익 창출을 할 것으로 예상됨.\nAI 시장 성장에 따른 수요 증가가 주요 동인임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-13 19:46",
   "tag": "제품",
   "title": "AMD vs 엔비디아 vs 브로드컴(AVGO), AI 반도체주 3파전 승자는?",
