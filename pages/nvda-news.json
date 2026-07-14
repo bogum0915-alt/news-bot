@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-15 00:06",
+  "tag": "기타",
+  "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+  "source": "NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV040QzVSeG44U29NcGw5RzVyMGhRcWpMTnVBNDFNclNiR2lIdFNYUWY5dlp0cThkbldseGw3WW90YlNDdml4WVlIcENkNFRsNFZZc2VFRnhjcWtkbFZBZXNyRGdKWmdnQXVSRDVXaW9aSVhSd1pLUFhBMGZocnY5bFgwTEM2MnM?oc=5",
+  "summary": "AI 인프라 효율성의 궁극적 지표로 성능당 전력(Performance per Watt)을 제시함.\nAI 칩, 데이터센터, 네트워킹 전반의 효율성 개선이 중요하다고 강조함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 00:02",
+  "tag": "규제",
+  "title": "\"미국, 중국 ZTE에도 엔비디아 H200 칩 판매 허용\"",
+  "source": "news1.kr",
+  "url": "https://n.news.naver.com/mnews/article/421/0009059726?sid=104",
+  "summary": "미국, 중국 ZTE 자회사에 엔비디아 H200 칩 판매 허용했음.\n이는 AI 칩 수출 통제 완화를 시사함.\nAI 칩 공급망 및 시장 지형 변화에 영향 줄 수 있음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-07-14 20:12",
   "tag": "제품",
   "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 ...",
