@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-14 20:12",
+  "tag": "제품",
+  "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 ...",
+  "source": "sisajournal-e.com",
+  "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422435",
+  "summary": "퓨리오사AI, 국산 NPU가 쿠다(CUDA) 진입 장벽을 낮추는 기술을 선보였음.\n오픈AI API 호환 인터페이스 및 vLLM, 쿠버네티스 연동을 지원함.\n기존 AI 서비스를 수정 없이 NPU 환경으로 옮길 수 있는 '드롭인 인프라'를 구축했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 20:08",
+  "tag": "규제",
+  "title": "Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims — company sent field inspectors, called customers to check if business is genuine after pressure from Washington",
+  "source": "Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcFFMMWY5UEFCOXY4bDQ0VnQxOHVrMHgyZnNBN1k5dVpmaDhXWW9QXzduNmN1NFYteE4wbnhiLV8taGVjWVNpVEhScnNZM0NvYlpZSS1TY2p1ekxGMFh5S1Bpb2IxWVJHeURHdEt5cnZIR3A3SHZhOE1EbEVOUE1ubVU2aXZKMHhpSnF6emJkczY3UFhTeTNVMGxVT09qQUtsbHAzb19uMWhEcDZJdlhGNjk2U1k5dWlfUUxWOFo0QTk0RFItMHd4LWY3YTdJejRKeEdnOFZkdFh3RUlBVWVqeEdodWJleHhZUW8tWFRKelhLcFZMUFhKd1h6ZVJ0bUF0VFRyLXJMX3FYVDA5cnJZMWNiZ1dZT2s1NFZHalBpWGV2bFVrdHFIWURGUUN3THNZNFNYX1BuVWVRSll0R3REaGRYN1VxczZiaTFid1dib3VJcThmbXpKeUExeFNpcGhzYm5Vb1ZseU9hN3pVZ2k4MmY0UDJrTjFlcHZXaw?oc=5",
+  "summary": "Nvidia가 아시아 내 AI 칩 불법 수출 방지를 위해\n공식 고객 목록을 대폭 축소했다는 보도 나왔음.\n미국 정부 압박에 따라 현장 조사 및 고객 신뢰도 검증을 진행했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-14 19:51",
+  "tag": "규제",
+  "title": "Nvidia Tightens Asian Customer Approvals as US Chip Export Controls Intensify (NVDA)",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalJTTXZlM3VodmE2TFNwQ19fZVZPeGthZjFhTUNkMU9qLW9aVUI4bjVEWVJWWGVHRm01aUR4WkliQVR4ZnV5QTZ3Mi10SVY1b19pRnRveUxsOFFuX3ZlM1ZiOERUWEdYVjV6bDByS0tlZGJ2WjFnRXlBM0RqRGszNXY2Njh1SlF3UUFDb2NnUmFDT1B4U21nLXoyX2VOdEg0cml0SkZvUQ?oc=5",
+  "summary": "Nvidia가 미국 반도체 수출 통제 강화로 아시아 고객 승인 절차를 강화했음.\n이는 AI 칩 공급망에 직접적인 영향을 미칠 수 있는 중요한 변화임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-14 15:12",
   "tag": "규제",
   "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠...",
