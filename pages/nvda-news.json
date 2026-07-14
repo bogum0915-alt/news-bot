@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-14 15:12",
+  "tag": "규제",
+  "title": "엔비디아 AI반도체의 중국 '우회 수출'도 막는다, 미국 정부 압박에 젠...",
+  "source": "businesspost.co.kr",
+  "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442312",
+  "summary": "엔비디아가 미국 정부의 압박으로 중국 등 일부 국가로의 AI 반도체 수출 통제를 강화했음.\n아시아 지역 고객사의 데이터센터를 직접 방문하여 계약 내용과 사업 현황을 점검 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-14 07:44",
   "tag": "제품",
   "title": "Nvidia boosts token throughput 5x with software optimizations, reshaping AI inference economics",
