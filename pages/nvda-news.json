@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-15 04:40",
+  "tag": "제품",
+  "title": "[글로벌 비즈 브리핑] 엔비디아, H200 수출 개시 소식에 주가 '쑥' 外",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000521727?sid=104",
+  "summary": "엔비디아 H200 수출 개시 소식에 주가 상승했음.\n구글 AI 수장은 AGI 도래가 임박했으며, 미국 주도의 규제기관 설립을 제안했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 04:22",
+  "tag": "규제",
+  "title": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDItR0c4WHhNYk9SeEpucGtPSmk3ZnBnS1lPUll3QkNSLWx3LWpWTk92MldIc3RlWGJUVTQ5ZFQtT3pBSkhfN3B4ZDB4VFpvVEZTVThMMXFVS1hhTGZBSFI2OXRncjFTVndGTUwyRHpXb0I3UXFRZWhBOUpFRm15MURsUnRXMFJfak5sOWNDZlJFWDdJT3Y3NVRleW5iZFZzM2hwUQ?oc=5",
+  "summary": "엔비디아가 중국으로 고성능 H200 AI 칩 선적을 시작했다는 미국 관료의 발언이 있었음.\n이는 수출 통제 규제 하에서 엔비디아의 중국 시장 접근에 대한 중요한 업데이트임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 04:18",
+  "tag": "수주",
+  "title": "엔비디아, 中 수출길 트였나...H200 수출 개시 소식에 주가 '쑥'",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000521721?sid=104",
+  "summary": "엔비디아 H200 칩, 중국 수출 개시 보도 나왔음.\n현지 시간 14일, 중국 기업 대상 H200 구매 허용 방침.\n까다로운 조건에도 불구하고 수출길 트였다는 소식임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 04:06",
+  "tag": "규제",
+  "title": "Nvidia H200 approvals expand to three Chinese firms",
+  "source": "grafa.com",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVwZ2ZzRHlxWmJUYjhrajNoM1hZd1BhbHNVeEMxR0thN19NS0Jjd1I5UG5uM0Z4Ylg0NURKTGcwbk1RQWdnaFpGWEhMUHBZNlNJX01pZWd2dUd5RjloMzNZNTA0dzlFUG5CeXBrZVYwUzdTR0Ezdm5nNGdJQUkya09JSW9iZnVB?oc=5",
+  "summary": "Nvidia H200 칩의 중국 기업 3곳으로 판매 승인이 확대됐음.\n이는 중국 내 AI 시장 접근성을 높이는 중요한 변화임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-15 00:06",
   "tag": "기타",
   "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
