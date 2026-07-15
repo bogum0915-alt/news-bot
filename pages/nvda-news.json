@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-15 15:50",
+  "tag": "규제",
+  "title": "엔비디아 'H200' 중국 수출 공식 시작…미 상무부 \"물량은 극히 미미\"",
+  "source": "aitimes.com",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=212792",
+  "summary": "엔비디아 H200, AMD MI300 중국 수출 시작됐음.\n미 상무부, 수출 물량은 극히 미미하다고 언급했음.\n이는 미국 정부가 해당 AI 반도체 중국 수출 사실을 처음 밝힌 사례임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 15:34",
+  "tag": "기타",
+  "title": "AI chip selloff erases over $1 trillion as custom silicon threatens Nvidia’s dominance",
+  "source": "Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcURoU2hNTm9nbmw1ZEQ0dS1CVEc1Undjb1NxUFlWY1VFYjdUcFd0X1d2M2pMX01rT0NkX1RIbTNVT2gwd0RuYjhNWllMNkF2REQ0SktNZ2x6TE42UG9GVGM0UDFvTEI4dlhjOXZ6NlJyZnlOQkdzdjI0VWZGN1k?oc=5",
+  "summary": "AI 칩 시장에서 엔비디아의 지배력이 흔들릴 수 있다는 분석이 나왔음.\n맞춤형 실리콘 칩이 경쟁력을 높이며 시장 판도 변화 가능성을 시사했음.\n이로 인해 AI 칩 시장에서 1조 달러 이상의 가치가 증발했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 14:59",
+  "tag": "규제",
+  "title": "젠슨 황 분투에 엔비디아 H200칩 중국 수출, “수량 미미”",
+  "source": "seoul.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/081/0003661449?sid=104",
+  "summary": "엔비디아 H200칩의 중국 수출 승인이 있었음.\n하지만 로이터통신은 구매 수량이 미미하다고 보도했음.\nZTE 등 중국 기업 3곳이 추가로 승인받았음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-15 04:40",
   "tag": "제품",
   "title": "[글로벌 비즈 브리핑] 엔비디아, H200 수출 개시 소식에 주가 '쑥' 外",
