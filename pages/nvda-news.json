@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-16 04:30",
+  "tag": "제품",
+  "title": "Why Nvidia’s Next AI Battle Is About Tokens Per Watt (NASDAQ:NVDA)",
+  "source": "Seeking Alpha",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFRCZVVubWNrSkxnT0JkeWs1VHhrSmZtczNhQVpuM09iVnpzRy1CeGxBVkRfWF90SmZLQm12ZVhIX2NmS3JZTmNhNjVwV212TFdlR3d1bWJxYlJOUFhHSUM4NjMyNmU2enYzYU9IbzIzOEthaUdRRVNPTmlxQ1dMVXRhRXJmdUI5eVNWbmVPRmtMVnYwbkE?oc=5",
+  "summary": "엔비디아의 다음 AI 경쟁은 와트당 토큰(Tokens Per Watt)에 달렸다는 분석임.\n이는 AI 칩의 전력 효율성 중요성을 강조하는 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-16 04:25",
+  "tag": "기타",
+  "title": "애플, 반도체기업 인수 타진...'탈엔비디아' 가속",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000521987?sid=104",
+  "summary": "애플이 반도체 기업 인수를 타진 중임.\n이는 엔비디아 의존도를 낮추려는 움직임으로 보임.\nWWDC에서 구글 제미나이 통합 발표와 연관됐음.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-16 04:07",
+  "tag": "제품",
+  "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'",
+  "source": "Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVW1pMVhzYWxMYXhGTmhSY2xCVTVURWw2eXJJVlJidmZvZkJRVGVFZHNYazJQcGNrUjhIY1VSd0NMNGIyclJKeE52aTZvbkVOY0doWGtzTTlDa2E1MVhjT0R2OFRIQk1HRlpzTGFzMXN0eTcyVHE4SmJ0bjYxeFkwZDQ3V29BMGFCYnU5R1Q3bE9PemEzenZWaHczbGZlREFHUFBfejkza19Iak5Lbk1WUlA5NjZKUDB5cTFQR01CUng4V0Y4cDNXNldFVFA1TWJFdEFOWUhIbHhtMlVlM1FVSWk2ZktXa1o0UThjamJ2aTN3YjJocXd3?oc=5",
+  "summary": "Nvidia CEO, Vera Rubin 칩 대량 공급 약속했음.\n회사의 AI 칩 로드맵에 차질 없다고 밝혔음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-16 00:15",
   "tag": "제품",
   "title": "Nvidia CEO Huang denies Vera Rubin delays, says AI accelerator is in production",
