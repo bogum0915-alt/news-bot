@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-07-15 19:58",
+  "tag": "기타",
+  "title": "AI chip spending to hit $1.6T by 2030, boosting Nvidia, AMD, TSMC",
+  "source": "Crypto Briefing",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDAtdmo3Z0JXODE4Nk4zdF9EMkRoT2dRcHgydlVBeEk2MmpZYmNXdEQxMzR1SUtpYXhfUV81czhSYmxIQWtFRV9RUDNVM1NQSHdiVm05LVJfRGRGekNTUXZ6c3p3Yk9fVnh5aEs2a2tYUG9YYlRQM3NxZU9wVUJxdWVEOExNY0ZYNW9xTGJRUUJmdw?oc=5",
+  "summary": "2030년까지 AI 칩 시장 규모 1.6조 달러 예상.\n이는 엔비디아, AMD, TSMC 등 관련 기업에 긍정적.\nAI 칩 시장의 큰 성장이 전망됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 19:58",
+  "tag": "실적",
+  "title": "NVIDIA Roadshow Preview: Nearly $100 Billion in Quarterly Revenue, Yet Still Confident in 'Growth Acceleration'?",
+  "source": "odaily.news",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wdEV1T1IzMF85LTR4a0YzNEF0d1VUOUxSRXBwTWxHSFQzYlhuQXEzRUJsdGg1YU9JQTBOR1ZuYjI5WDdHYnFaVExET0ZELUpw?oc=5",
+  "summary": "NVIDIA, 분기 매출 1000억 달러 육박 전망.\n매출 성장 가속화에 대한 자신감 표출.\n향후 실적 및 전망 관련 주요 정보 포함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 19:57",
+  "tag": "기타",
+  "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+  "source": "NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5",
+  "summary": "NVIDIA가 일본과 협력하여\n모든 산업에 AI 및 로보틱스 솔루션 제공.\n이를 통해 AI 기술 보급 확대 목표.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 19:55",
+  "tag": "기타",
+  "title": "젠슨 황 “SK하이닉스 ADR, 믿을 수 없을 정도로 성공적”",
+  "source": "khan.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/032/0003458372?sid=104",
+  "summary": "젠슨 황 엔비디아 CEO가 SK하이닉스 ADR의 나스닥 상장을\n“믿을 수 없을 정도로 성공적”이라고 호평했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 19:51",
+  "tag": "수주",
+  "title": "젠슨 황 \"SK하닉 ADR, 믿을 수 없을 정도로 성공적\"",
+  "source": "wowtv.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/215/0001258873?sid=101",
+  "summary": "젠슨 황이 SK하이닉스 ADR 상장의 성공을 높이 평가했음.\nAI 반도체 핵심 부품인 HBM 공급 파트너십을 강조했음.\nADR 투자금이 엔비디아 AI 생태계 확장에 긍정적일 전망임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-15 19:11",
+  "tag": "규제",
+  "title": "Nvidia Cuts Over Half of Asian AI Chip Buyers as BIS Compliance Net Widens",
+  "source": "Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTy1kNFVNaDZhUFVPMElVTVdja2VvVUxrczF6N3MyYW5PeUJaOUhpVHhfYkluQnRCdWFnZGhiTUNvNzdxUzQtYldzcWZXSHYyUmNpeUg4N1FSQXZmTE4xNjMzOW5VZzV3dHg4MlhyTUJ6NFg0eElSQVg2MUx0NGxKTG54WTlrSGVxbldUWGFST0xod3FKc1pSOTA4eHZJamQ1ZmEweUY3SnpXTXlkUVhBOGlDdDFMZmlERG9jeE04WFA?oc=5",
+  "summary": "Nvidia가 아시아 AI 칩 구매자의 절반 이상을 대상으로 공급을 축소했음.\n미국 상무부 산업안보국(BIS)의 규제 범위가 확대된 데 따른 조치임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-15 15:50",
   "tag": "규제",
   "title": "엔비디아 'H200' 중국 수출 공식 시작…미 상무부 \"물량은 극히 미미\"",
