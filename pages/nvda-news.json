@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-16 15:06",
+  "tag": "제품",
+  "title": "케이던스(CDNS), ‘AI 에이전트 EDA’로 판 흔든다…엔비디아·TSMC와 설계...",
+  "source": "tokenpost.kr",
+  "url": "https://www.tokenpost.kr/news/tech/378420",
+  "summary": "케이던스가 AI 에이전트 EDA 솔루션을 출시했음.\n엔비디아, TSMC, 인텔과 협력하여 차세대 AI 칩 설계 지원 중임.\nTSMC와는 N3, N2, A16, A14 공정에 최적화된 설계 인프라 공동 개발 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-16 08:05",
   "tag": "제품",
   "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
