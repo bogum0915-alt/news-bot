@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-16 08:05",
+  "tag": "제품",
+  "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+  "source": "NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NRjVKNXJiNnAwN25VRXlZaGF4OEVRREJsWEhiU2RNRlNITGhHTko5WEJvZ2JaN0VHVl9sOVdnSHo0aTNnNWk4dVlxeEo1MkdIS1pEaXpGbkU4QXFISzU1LS1vT2NxMEtwQnRPcWRNTUVSeVU?oc=5",
+  "summary": "NVIDIA가 신형 Jetson Thor 컴퓨터 출시했음.\n로보틱스 및 엣지 AI 시장 공략 강화 목적임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-16 08:01",
+  "tag": "제품",
+  "title": "Nvidia Releases New Robotics AI Model",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODZxVWRWVmFsalVUQVR6WjhDd3VRQXpJQTYzWjY4eGR5czVvWHdCaERrWmJTZk9icERCNGkwc2JKRXBoelRRMGxnY2d2LTMtOUxhdzZyLUdjRTMzaHpsb1Ixbm9TdzFRMGNfa3hBV1plSU1OcDlrdXRFRC0tRUNtTnFic3U?oc=5",
+  "summary": "Nvidia가 새로운 로보틱스 AI 모델을 출시했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-16 07:50",
+  "tag": "규제",
+  "title": "US Commerce Department Says Nvidia's H200 Shipments to China Have Begun",
+  "source": "thelec.net",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4Yzdmd01GZE5SYWk1dzVvSnpWaEF5czBPVHNoSHd0RkFxUFlBcmFEdUdCRVpXTHBVMmZRU3h0dTFGZGZjb1U2dmNnNkwtbHpZTTBSLU56SFRKUXVjYzhhUUZhUTJCdU0?oc=5",
+  "summary": "엔비디아 H200 칩이 중국 수출 시작됐음.\n미 상무부 발표에 따른 것임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-16 07:12",
+  "tag": "수주",
+  "title": "젠슨 황 도쿄 선술집서 \"주가 올리자\"… 한국 중심 'AI 동맹' 균열 조짐...",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=202607160708179818fbbec65dfb_1",
+  "summary": "젠슨 황 엔비디아 CEO가 도쿄에서 한국 중심 AI 동맹의 일본 다변화 가능성을 시사했음.\n이는 TSMC의 첨단 패키징 점유율에 따라 중장기 HBM 수요 지속성과 한국 업계에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-16 04:30",
   "tag": "제품",
   "title": "Why Nvidia’s Next AI Battle Is About Tokens Per Watt (NASDAQ:NVDA)",
