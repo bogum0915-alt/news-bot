@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-18 00:21",
+  "tag": "기타",
+  "title": "RAW: FILE: APPLE TOPS NVIDIA AS MOST VALUABLE COMPANY",
+  "source": "Local 3 News",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalRmZjgycFEyM2R4VDVZb2hDems5TzEyTTZMR3VnQkdOWWxISUZ2dXRHY3BNNnFTNnpjYmFocDJYRXlGc2JLanlnSVRGUXBHT2dIeHdXdElWcjdoQXEtUXR0ZGt0UVZNSlBmTkFzSEFDeGJHWHRxd3pwRFRRUS1rSzFUZnlQVVVUM2lXbjRNMU5FOE15WElqcy11TE95YXltTWF4OWlUcDVqQXhiX0lpUG5oOEU1Q1UzNmtmd2RnRzhqOVdpampZQzlWbk5TbzBFY1BrcHhQa1VUTmNv?oc=5",
+  "summary": "애플이 엔비디아를 제치고\n세계에서 가장 가치 있는 기업이 됐음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-18 00:08",
+  "tag": "제품",
+  "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads - a Key Metric for Agentic AI",
+  "source": "NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFEyNHpxcHpSMmY2dDczalAtRUM2dHQ0QjB5d3J5YWtmRVhzazdMOHFzNmxma2Zkc0ItOHhDOGVUWjZVWnItWlhsSXRsR3JYSm91TlpudWgzSXhsejd5Z09GRDlJTkxVMzJzUHNzX1ZCYnlSZmtFbHVNeWhkNEU2a1hyZUw5SEZVbG80VXIwTQ?oc=5",
+  "summary": "NVIDIA, Vera Rubin 공개. AI 모델 학습 후 작업 효율성 극대화.\n초당 비용 효율성을 핵심 지표로 삼고 있음.\nAgentic AI 시대의 중요 요소로 부각될 것임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-17 23:41",
+  "tag": "기타",
+  "title": "Watch Apple Passes Nvidia to Become World's Largest Company",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUp1WGlBUUdNdGFmZG1qZFA5ZFFyZk5zeDBJRS1lLUNXTDUyOG1kcXRIRWFXcHVLck5PbEh3ZmV2ZFJGcWNqcEdUNEJLNGlaVElaNy0xWmNxczdUR0F6VVVjYVpyNDh1dmhVMWhnUmh0ZktGMWxUZ0FRTHBaNWFJbzlrQ1UxYUhaeVB0aFJGenFUZXVzZ3hQekhMTS1KVC1tZFZqX2szc0ttMmRK?oc=5",
+  "summary": "애플이 엔비디아를 제치고 세계 최대 기업으로 등극했음.\n이는 AI 칩 경쟁 구도 및 AI 밸류체인 투자에 중요한 시사점을 줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-17 19:04",
   "tag": "수주",
   "title": "Nvidia expands Japan AI infrastructure and robotics push",
