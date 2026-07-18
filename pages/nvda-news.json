@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-19 08:31",
+  "tag": "제품",
+  "title": "NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign",
+  "source": "Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclVoa0xxVHVMamNrNGFKdXhhQ1hlSnRyTk5uN1laekMzcUFJS2F2WWpyN09XRnFVcXMxV05aX01pRk5ucWdyNk5Eb0FxWVhHY3hXTWdudTV0SXJuRC1BWC1Jd2owRHdKTTItaVRraEVIMmRlTmQzaUp1b0I3Mzc1N3dkYjlXeW0xbFNlWDVGcV9MOW1aSDJETlZRNEtLdDdiZmM2bFhqcFpITkNPVlJ4b1NZTWdqeXlGNV9QdGZXbmI?oc=5",
+  "summary": "NVIDIA Vera Rubin이 7개의 칩 코드 디자인을 통해\nAI 모델 학습 후 토큰 비용을 절감했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-19 04:42",
   "tag": "기타",
   "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
