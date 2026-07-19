@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-19 16:36",
+  "tag": "제품",
+  "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"",
+  "source": "aitimes.com",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=212914",
+  "summary": "엔비디아 내부에서 GPU 확보 경쟁 심화.\nAI 열풍으로 데이터센터 칩 주문 폭주.\n자율주행 사업부도 GPU 확보에 어려움 겪고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-19 08:31",
   "tag": "제품",
   "title": "NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign",
