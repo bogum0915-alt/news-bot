@@ -1,5 +1,50 @@
 [
  {
+  "ts": "2026-07-20 05:30",
+  "tag": "기타",
+  "title": "알리바바, 오픈소스 카드로 엔비디아 ‘CUDA 독점’ 조준… AI 생태계 자...",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=2026071916141236820c8c1c064d_1",
+  "summary": "알리바바가 엔비디아 CUDA 독점에 맞서 오픈소스 기반 AI 연산 인프라 생태계 구축에 나섰음.\n이번 알리바바의 오픈소스 전략은 하반기 AI 연산 인프라 단가와 아시아 기술 종속도에 영향을 줄 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-20 05:02",
+  "tag": "실적",
+  "title": "엔비디아 매출 92%가 데이터센터…AMD와 갈라진 사업구조",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=202607192354092549a1f309431_1",
+  "summary": "엔비디아의 매출 92%가 데이터센터에서 발생했음.\nAMD는 CPU에 집중하며 엔비디아와 사업구조가 달라졌음.\nAI 가속기 시장 성장이 두 회사 주가 상승을 견인했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-20 04:46",
+  "tag": "규제",
+  "title": "알리바바, AI칩 SW 전면 개방… 엔비디아 ‘쿠다 독주’에 도전장",
+  "source": "kbmaeil.com",
+  "url": "https://www.kbmaeil.com/article/20260720500007",
+  "summary": "알리바바, AI 칩 SW 오픈소스로 공개.\n엔비디아 쿠다에 도전장 내밀었음.\n미국 규제 강화 속 기술 경쟁 심화 예상됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-20 04:38",
+  "tag": "기타",
+  "title": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZHdEZqeWNySTFONkN2VzRhS3NieVFrTW5zeThPVkp2M0xEbU1keUw4NWk5TkNJS1lpbXYyendkbEtIbU9TQ05OQU9aRTItNHNzSk05TW1ZcnlRdXBHUDAya25kVUtjbTY3NTNNdlhxVEt5RktBT040ZDV6enM0TURtOGFaWVAxU0NlMXlXc1k1T1dpV0dNNzFnS2dRdElfTmc?oc=5",
+  "summary": "Jensen Huang, Nvidia CEO, AI 시장 4조 달러 성장 전망 제시했음.\n이를 통해 Nvidia 시총 20조 달러까지 상승 가능성 언급했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-20 04:30",
+  "tag": "제품",
+  "title": "中 알리바바, '쿠다 대항마' 무료로 풀었다...엔비디아에 도전",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000522373?sid=104",
+  "summary": "알리바바, AI 칩 '전우 M890' 및 연산 성능 최적화 SW '티헤드' 공개했음.\n쿠다(CUDA)에 대항하는 오픈소스 소프트웨어를 개발자에게 무료 제공 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-20 01:13",
   "tag": "수주",
   "title": "Nvidia’s latest Rubin deal points to a bigger growth market",
