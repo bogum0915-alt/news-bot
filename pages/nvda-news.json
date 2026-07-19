@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-19 19:44",
+  "tag": "기타",
+  "title": "젠슨 황도 베팅한 로보틱스…천재·데이터 가진 곳에 투자하라[딥 머니...",
+  "source": "mk.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/009/0005709270?sid=105",
+  "summary": "엔비디아 CEO 젠슨 황이 베팅한 로보틱스 미래에 대한 카이스트 공경철 교수의 인터뷰임.\nAI를 현실 물리 세계로 확장하는 '피지컬 컴퓨팅'의 중요성을 강조함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-19 19:30",
+  "tag": "제품",
+  "title": "Alibaba Open-Sources SAIL, Challenging NVIDIA's CUDA",
+  "source": "조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTVYRUVnc0kyVGdENi15QWV6bF80MVhhYV84a0czRHV5b0lpMzY0cDNHOVZuRUo3RHVkXzZfNUExdWhsSlZYTmtlT3V5akdSUDJGZ3kwM1hXYU1wcEdnUmV3SXpKTnlCYVVOQ1BTRTY2NGZjeHdTeGVhRUUzX2Y4XzJvSHQ4VHRG?oc=5",
+  "summary": "알리바바가 NVIDIA CUDA에 도전하는 SAIL을 오픈소스로 공개했음.\n이는 AI 칩 개발 및 생태계에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-19 16:36",
   "tag": "제품",
   "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"",
