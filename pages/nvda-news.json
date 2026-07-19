@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-20 01:13",
+  "tag": "수주",
+  "title": "Nvidia’s latest Rubin deal points to a bigger growth market",
+  "source": "thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUt6UHlJXzk2RUVHWF9qLTZsRmI1aVpib1o2RHF2NU9LVUlpVVlNckxuSDFYM0JrN01uZWRJUTlaYTFfMVh5SEdsanRFTk4zeXJpS0lnaDJFbDAxNDQ4OHcwQlBfT1YxZ2JESmxhR0JKUTdLZklxdkthUE1BS2o1Y2tHbk1TMU9vUmNES01oX0VEVHdxYjNwOC1R?oc=5",
+  "summary": "Nvidia의 최신 Rubin 계약이\n더 큰 성장 시장을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-19 22:39",
   "tag": "제품",
   "title": "NVIDIA releases first CUDA Toolkit preview for Windows on Arm and RTX Spark",
