@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-19 22:39",
+  "tag": "제품",
+  "title": "NVIDIA releases first CUDA Toolkit preview for Windows on Arm and RTX Spark",
+  "source": "VideoCardz.com",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUFvUUplb3ZiUUE4dlVPTDVjTEtfbVFkSzhLMkpLTGtsNVV0RU5Nb2lwSmVDZEdibXVDM25fdWdxQ2pGdVp4SG1mb2JDMmNodjlBRkNJWEJiejV0TFNUM1dYVUp4bmRIbm1qdXR6SU44bEx0ZUJaX25YN21TX1Z0MEwxblpLSVR0czVFQW5NNW1KT0ctYkhXWW0yaFN3SkYwck9udW5R?oc=5",
+  "summary": "NVIDIA가 Arm 기반 Windows용\nCUDA Toolkit 프리뷰를 출시했음.\nRTX Spark 기술도 공개했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-19 22:34",
+  "tag": "제품",
+  "title": "알리바바, AI 칩 소프트웨어 오픈소스 공개…'엔비디아 쿠다' 도전",
+  "source": "sentv.co.kr",
+  "url": "https://www.sentv.co.kr/article/view/sentv202607190024",
+  "summary": "알리바바가 AI 칩 소프트웨어 오픈소스 공개했음.\n엔비디아 '쿠다'에 도전하며 개발자 생태계 확대.\n기술 자립 가속화 전략으로 풀이됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-19 22:32",
+  "tag": "제품",
+  "title": "중국 알리바바, AI칩 소프트웨어 무료 공개...엔비디아에 대항",
+  "source": "ytn.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/052/0002381577?sid=104",
+  "summary": "알리바바가 AI칩 소프트웨어 '티헤드'를 오픈소스로 공개했음.\n이는 엔비디아에 대항하기 위한 전략으로 보임.\n차세대 AI 칩 '전우 M890' 성능 극대화를 지원하는 소프트웨어임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-19 22:23",
+  "tag": "기타",
+  "title": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+  "source": "The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX2h0NFRVMUFPa0V0eVhyUHJwTHMwdUhGYWJXUU9QOWpETUMwT29MM040akwtNDJXZmJySWRCS2tac0pYQWVvY3dpcmphOG5zRkdCSEpRcGxIUWJKUnhIZlJYNmF3UjljY29OUElrY2ZMcnFUY09oRWlaZ3BDUjFIM3N3VkNIM2VIakV0Nmdla0JhRVoyR3VucGNUNnl6RFhSV3pUSHA4My04enkzX3hhbjEyeEZ5RFV5RUxrenlzR3JMOGUtTGR2bXFhX0hnc2Y4eHljUEtudkxfVjlJdkxwU1dDbjhJQ1I2S3U4TWxvaGdSLVRETHZKcEpCTW9wQkNv?oc=5",
+  "summary": "AMD가 엔비디아를 제치고 450억 달러 규모 반도체 ETF 최고 비중 종목이 됐음.\n마이크론도 순위 상승 중인 것으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-19 19:44",
   "tag": "기타",
   "title": "젠슨 황도 베팅한 로보틱스…천재·데이터 가진 곳에 투자하라[딥 머니...",
