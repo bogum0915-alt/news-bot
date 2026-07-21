@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-21 17:52",
+  "tag": "제품",
+  "title": "벤츠도, 젠슨 황도 선택했다…OLED가 ‘생존 기술’로 꼽힌 이유",
+  "source": "ekn.kr",
+  "url": "https://www.ekn.kr/web/view.php?key=20260721022484475",
+  "summary": "엔비디아 젠슨 황 CEO가 AI PC용 RTX 스파크 칩 신제품에\nOLED 채택을 강조했음. 고해상도, 넓은 색재현율, 밝기,\n가변 주사율 등 AI PC 성능 향상에 기여할 것으로 기대됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 17:36",
+  "tag": "수주",
+  "title": "\"타도 엔비디아\" AMD의 역습 … MS 손잡고 'AI랙 시장' 참전",
+  "source": "mk.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/009/0005710297?sid=105",
+  "summary": "AMD, MS와 협력해 AI 랙 시장 참전.\n엔비디아의 GPU 시장 독점 균열 예상.\nCES 2026 공개 제품, 주요 고객사 공급 계획 구체화.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 17:16",
+  "tag": "수주",
+  "title": "MS도 AMD의 ‘AI 랙’ 택했다… 엔비디아 독주 흔드는 ‘헬리오스’",
+  "source": "kmib.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/005/0001862265?sid=101",
+  "summary": "MS가 애저에 AMD AI 랙 도입 결정했음.\n엔비디아 독주 AI 반도체 시장 경쟁 심화 예상됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 16:49",
+  "tag": "기타",
+  "title": "中 20개 기업 뭉쳤다...엔비디아 맞선 '은하계획' 시동",
+  "source": "magazine.hankyung.com",
+  "url": "https://n.news.naver.com/mnews/article/050/0000108803?sid=101",
+  "summary": "중국 20개 기업이 엔비디아에 대항하는 '은하계획'을 시동했음.\n구글도 TPU 소프트웨어 생태계 구축에 수년 걸렸다고 함.\nAI 작업 환경 자체 소프트웨어 전환에 수년 소요될 전망임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-21 07:53",
   "tag": "제품",
   "title": "엔비디아 독주 견제…MS, 블랙웰 말고 AMD '헬리오스'",
@@ -681,42 +717,6 @@
   "source": "biz.sbs.co.kr",
   "url": "https://n.news.naver.com/mnews/article/374/0000521727?sid=104",
   "summary": "엔비디아 H200 수출 개시 소식에 주가 상승했음.\n구글 AI 수장은 AGI 도래가 임박했으며, 미국 주도의 규제기관 설립을 제안했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 04:22",
-  "tag": "규제",
-  "title": "US official says Nvidia has begun shipping powerful H200 AI chips to China",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDItR0c4WHhNYk9SeEpucGtPSmk3ZnBnS1lPUll3QkNSLWx3LWpWTk92MldIc3RlWGJUVTQ5ZFQtT3pBSkhfN3B4ZDB4VFpvVEZTVThMMXFVS1hhTGZBSFI2OXRncjFTVndGTUwyRHpXb0I3UXFRZWhBOUpFRm15MURsUnRXMFJfak5sOWNDZlJFWDdJT3Y3NVRleW5iZFZzM2hwUQ?oc=5",
-  "summary": "엔비디아가 중국으로 고성능 H200 AI 칩 선적을 시작했다는 미국 관료의 발언이 있었음.\n이는 수출 통제 규제 하에서 엔비디아의 중국 시장 접근에 대한 중요한 업데이트임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 04:18",
-  "tag": "수주",
-  "title": "엔비디아, 中 수출길 트였나...H200 수출 개시 소식에 주가 '쑥'",
-  "source": "biz.sbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/374/0000521721?sid=104",
-  "summary": "엔비디아 H200 칩, 중국 수출 개시 보도 나왔음.\n현지 시간 14일, 중국 기업 대상 H200 구매 허용 방침.\n까다로운 조건에도 불구하고 수출길 트였다는 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 04:06",
-  "tag": "규제",
-  "title": "Nvidia H200 approvals expand to three Chinese firms",
-  "source": "grafa.com",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVwZ2ZzRHlxWmJUYjhrajNoM1hZd1BhbHNVeEMxR0thN19NS0Jjd1I5UG5uM0Z4Ylg0NURKTGcwbk1RQWdnaFpGWEhMUHBZNlNJX01pZWd2dUd5RjloMzNZNTA0dzlFUG5CeXBrZVYwUzdTR0Ezdm5nNGdJQUkya09JSW9iZnVB?oc=5",
-  "summary": "Nvidia H200 칩의 중국 기업 3곳으로 판매 승인이 확대됐음.\n이는 중국 내 AI 시장 접근성을 높이는 중요한 변화임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 00:06",
-  "tag": "기타",
-  "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-  "source": "NVIDIA Blog",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV040QzVSeG44U29NcGw5RzVyMGhRcWpMTnVBNDFNclNiR2lIdFNYUWY5dlp0cThkbldseGw3WW90YlNDdml4WVlIcENkNFRsNFZZc2VFRnhjcWtkbFZBZXNyRGdKWmdnQXVSRDVXaW9aSVhSd1pLUFhBMGZocnY5bFgwTEM2MnM?oc=5",
-  "summary": "AI 인프라 효율성의 궁극적 지표로 성능당 전력(Performance per Watt)을 제시함.\nAI 칩, 데이터센터, 네트워킹 전반의 효율성 개선이 중요하다고 강조함.",
   "importance": 4
  }
 ]
