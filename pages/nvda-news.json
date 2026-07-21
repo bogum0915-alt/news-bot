@@ -1,5 +1,77 @@
 [
  {
+  "ts": "2026-07-22 07:40",
+  "tag": "수주",
+  "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+  "source": "NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16azBpd2hXNW9ITlJsbWJxTGRHVUVXVm1WU2IzUk1vaFp4VFVSeHp1NWxYUzB4UlRzQ19nMkVYaGFuc19uZU52TkFZT2RyUG5pc25hbVFOa1lsZm9DVWpnQWI3Mk9jV2xkeGc?oc=5",
+  "summary": "Wistron이 Fort Worth에\nAI 시스템 생산용\n첨단 제조 공장을 열었음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 07:37",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI플랫폼 ‘베라루빈’ 공급 시작…블랙웰 대비 성능...",
+  "source": "dt.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/029/0003038176?sid=104",
+  "summary": "엔비디아가 차세대 AI 플랫폼 '베라 루빈 NVL72' 공급을 시작했음.\n구글 클라우드, MS 애저, 오라클 클라우드 등 주요 CSP에 납품 중임.\n이는 기존 블랙웰 대비 성능 향상을 포함하는 제품 로드맵의 진전임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 07:36",
+  "tag": "수주",
+  "title": "Nvidia and Wistron to build Blackwell AI servers in Texas",
+  "source": "Nikkei Asia",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG5iRV96WE94THBqaFJDeUdhMXNmcHZ1NVE0dS1rSHZmbElvY05SWG5tZmJJeUJBWWZoVWpwX1dtcmVjbTBiZFZRaEZuVWMwdG4xX090Qm1oRHZUT3hPYkhGbmREN043OHJnWmFWRk1wTUtFa1pPTHMzWFkyZmg2SHVFQlhIaVJjczRNaGJqTFgzcDNpMDJMeUM0bTJoeUg4cGJnUllFaw?oc=5",
+  "summary": "Nvidia와 Wistron이 텍사스에서 Blackwell AI 서버를 공동 구축하기로 했음.\n이는 Nvidia의 AI 칩 공급망 강화 및 미국 내 생산 확대 움직임으로 볼 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 07:24",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI 플랫폼 '베라루빈' 본격 공급",
+  "source": "opinionnews.co.kr",
+  "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141854",
+  "summary": "엔비디아가 차세대 AI 플랫폼 '베라 루빈 NVL72'를 구글 클라우드, MS 애저 등 주요 CSP에 본격 공급 중이라고 밝혔음.\n이는 엔비디아의 GPU 기반 AI 랙으로, 현재 가동 중임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 07:05",
+  "tag": "수주",
+  "title": "NVIDIA, Wistron Kick Off Start of AI Supercomputer Factory in Fort Worth",
+  "source": "Dallas Innovates",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWVZdjRTWFhOSmNTTS1qVEQ1c3dJbjlDdGx4TjNBUjRxT3dvWmNIRFFnZTgydDJPYTR4d3lmRS0tbUE5U2dpcmZqcmd4OHQ4a1BjaUJzV2J1NXFtY1lsbTJMTlpVUWFsMXdOT3ZpaHpSbFhGNkh4RkRxZDN1RVhvaXloZS1iazRfRDNObWVIRmIwbUJ4LXk5d0E3cWdhRGc4eXc?oc=5",
+  "summary": "NVIDIA와 Wistron이 텍사스 포트워스에 AI 슈퍼컴퓨터 공장을 건설했음.\n새 공장은 AI 칩 생산 및 조립을 담당할 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 06:58",
+  "tag": "제품",
+  "title": "Nvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell",
+  "source": "Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYlhyMGFaeWVmMzZQdHdoNTZSc281QlJoQUV5dWFfUVZBa3NXaEFiZVRZNW1WYThoc1dUcThfalNQYWNyVG1YZVVWemFnZnpjMkU2UFNtSXd5bjVVTThqNVVNNXFHSHN1T1duR1FTVXJaVG9vem9EdE5GN2FuWTVrY214RHZ6aXkzeFZsRkpBRm5UOGpmRkJwM1Zzb1NUbmpQeUllOUxwRHJJS1paalFJWWlENlhZeTF5T2N3ZVpUOXROOTVHX3FadFhPdWxSMW5yRDlsMlF3?oc=5",
+  "summary": "Nvidia Vera Rubin, Blackwell 대비 메가와트당 처리량 10배 향상.\nAI 칩 성능 경쟁 심화 전망.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 06:52",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급…\"선두 수성\"",
+  "source": "tfmedia.co.kr",
+  "url": "https://www.tfmedia.co.kr/news/article.html?no=205925",
+  "summary": "엔비디아가 차세대 AI 플랫폼 '베라루빈 NVL72'를 출시했음.\n구글 클라우드, MS 애저 등에 이미 공급되어 가동 중임.\nAI 칩 시장 선두 수성에 나선 것임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 06:46",
+  "tag": "제품",
+  "title": "\"AI 패권 굳힌다\" 엔비디아, 차세대 '베라 루빈' 본격 양산…AMD·빅테크...",
+  "source": "ebn.co.kr",
+  "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717204",
+  "summary": "엔비디아, 차세대 AI 슈퍼컴퓨터 '베라 루빈 NVL72' 양산.\n구글 클라우드, MS 애저 등 주요 고객사에 이미 공급 및 가동 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-22 04:42",
   "tag": "제품",
   "title": "엔비디아 스펙트럼-6, 베라 루빈서 처리량 10배 늘렸다",
@@ -645,78 +717,6 @@
   "source": "Seeking Alpha",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFRCZVVubWNrSkxnT0JkeWs1VHhrSmZtczNhQVpuM09iVnpzRy1CeGxBVkRfWF90SmZLQm12ZVhIX2NmS3JZTmNhNjVwV212TFdlR3d1bWJxYlJOUFhHSUM4NjMyNmU2enYzYU9IbzIzOEthaUdRRVNPTmlxQ1dMVXRhRXJmdUI5eVNWbmVPRmtMVnYwbkE?oc=5",
   "summary": "엔비디아의 다음 AI 경쟁은 와트당 토큰(Tokens Per Watt)에 달렸다는 분석임.\n이는 AI 칩의 전력 효율성 중요성을 강조하는 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 04:25",
-  "tag": "기타",
-  "title": "애플, 반도체기업 인수 타진...'탈엔비디아' 가속",
-  "source": "biz.sbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/374/0000521987?sid=104",
-  "summary": "애플이 반도체 기업 인수를 타진 중임.\n이는 엔비디아 의존도를 낮추려는 움직임으로 보임.\nWWDC에서 구글 제미나이 통합 발표와 연관됐음.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-16 04:07",
-  "tag": "제품",
-  "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact'",
-  "source": "Tom's Hardware",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVW1pMVhzYWxMYXhGTmhSY2xCVTVURWw2eXJJVlJidmZvZkJRVGVFZHNYazJQcGNrUjhIY1VSd0NMNGIyclJKeE52aTZvbkVOY0doWGtzTTlDa2E1MVhjT0R2OFRIQk1HRlpzTGFzMXN0eTcyVHE4SmJ0bjYxeFkwZDQ3V29BMGFCYnU5R1Q3bE9PemEzenZWaHczbGZlREFHUFBfejkza19Iak5Lbk1WUlA5NjZKUDB5cTFQR01CUng4V0Y4cDNXNldFVFA1TWJFdEFOWUhIbHhtMlVlM1FVSWk2ZktXa1o0UThjamJ2aTN3YjJocXd3?oc=5",
-  "summary": "Nvidia CEO, Vera Rubin 칩 대량 공급 약속했음.\n회사의 AI 칩 로드맵에 차질 없다고 밝혔음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 00:15",
-  "tag": "제품",
-  "title": "Nvidia CEO Huang denies Vera Rubin delays, says AI accelerator is in production",
-  "source": "Yahoo! Finance Canada",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3NNbHNVTmFMSC1VV3JJbmpXMmFrS09ZY0FnTFA5WGUyS25pZmtPY3V3THpsc1NZM3NTRVFmUnY5S1NMMUloazZIbXAtMk9tN19GMnN3NC1pWHFrYVhya0IwQ1pHN1Zxa29QZzF5VnM4TXNBSjdEZnJKekFXNVVFT3Z6cw?oc=5",
-  "summary": "Nvidia CEO는 Vera Rubin 지연설을 부인했음.\nAI 가속기는 현재 생산 중이라고 밝혔음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:58",
-  "tag": "기타",
-  "title": "AI chip spending to hit $1.6T by 2030, boosting Nvidia, AMD, TSMC",
-  "source": "Crypto Briefing",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDAtdmo3Z0JXODE4Nk4zdF9EMkRoT2dRcHgydlVBeEk2MmpZYmNXdEQxMzR1SUtpYXhfUV81czhSYmxIQWtFRV9RUDNVM1NQSHdiVm05LVJfRGRGekNTUXZ6c3p3Yk9fVnh5aEs2a2tYUG9YYlRQM3NxZU9wVUJxdWVEOExNY0ZYNW9xTGJRUUJmdw?oc=5",
-  "summary": "2030년까지 AI 칩 시장 규모 1.6조 달러 예상.\n이는 엔비디아, AMD, TSMC 등 관련 기업에 긍정적.\nAI 칩 시장의 큰 성장이 전망됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:58",
-  "tag": "실적",
-  "title": "NVIDIA Roadshow Preview: Nearly $100 Billion in Quarterly Revenue, Yet Still Confident in 'Growth Acceleration'?",
-  "source": "odaily.news",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wdEV1T1IzMF85LTR4a0YzNEF0d1VUOUxSRXBwTWxHSFQzYlhuQXEzRUJsdGg1YU9JQTBOR1ZuYjI5WDdHYnFaVExET0ZELUpw?oc=5",
-  "summary": "NVIDIA, 분기 매출 1000억 달러 육박 전망.\n매출 성장 가속화에 대한 자신감 표출.\n향후 실적 및 전망 관련 주요 정보 포함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:57",
-  "tag": "기타",
-  "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-  "source": "NVIDIA Blog",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xNjhTZDM1ajhCSnliWTA4aXM4bkQ3dzhZMnFNUzkxS3NxU3dDdWpRQlh0N1BPUHRURVZFU1BtQU04T3QzQnVLR3lOaE9WZnhwMUUwcmVTRGtmUlFGQ1hoYw?oc=5",
-  "summary": "NVIDIA가 일본과 협력하여\n모든 산업에 AI 및 로보틱스 솔루션 제공.\n이를 통해 AI 기술 보급 확대 목표.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:55",
-  "tag": "기타",
-  "title": "젠슨 황 “SK하이닉스 ADR, 믿을 수 없을 정도로 성공적”",
-  "source": "khan.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/032/0003458372?sid=104",
-  "summary": "젠슨 황 엔비디아 CEO가 SK하이닉스 ADR의 나스닥 상장을\n“믿을 수 없을 정도로 성공적”이라고 호평했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:51",
-  "tag": "수주",
-  "title": "젠슨 황 \"SK하닉 ADR, 믿을 수 없을 정도로 성공적\"",
-  "source": "wowtv.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/215/0001258873?sid=101",
-  "summary": "젠슨 황이 SK하이닉스 ADR 상장의 성공을 높이 평가했음.\nAI 반도체 핵심 부품인 HBM 공급 파트너십을 강조했음.\nADR 투자금이 엔비디아 AI 생태계 확장에 긍정적일 전망임.",
   "importance": 4
  }
 ]
