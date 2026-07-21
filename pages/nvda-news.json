@@ -1,5 +1,50 @@
 [
  {
+  "ts": "2026-07-22 04:42",
+  "tag": "제품",
+  "title": "엔비디아 스펙트럼-6, 베라 루빈서 처리량 10배 늘렸다",
+  "source": "wikitree.co.kr",
+  "url": "https://www.wikitree.co.kr/articles/1147654",
+  "summary": "엔비디아의 신형 AI 칩 스펙트럼-6가\n베라 루빈 플랫폼에서 이전 대비 10배\n향상된 처리량을 보였음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 04:28",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI 플랫폼 '베라 루빈' 공급으로 시장 선도 강화",
+  "source": "tokenpost.kr",
+  "url": "https://www.tokenpost.kr/news/tech/379964",
+  "summary": "엔비디아, 차세대 AI 플랫폼 '베라 루빈 NVL72' 공개.\n구글 클라우드, 애저, 오라클 등에 공급 시작.\nAI 칩 '루빈' 탑재, 시장 선도 강화 기대됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 04:26",
+  "tag": "수주",
+  "title": "\"만들면 다 팔린다\"…HBM4 초격차, 최종 시험대는 엔비디아 '루빈'",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=20260721195937420fbbec65dfb_1",
+  "summary": "주요 빅테크 기업들의 2026년 설비투자 계획이 전년 대비 77% 증가한 약 1070조 원에 달했음.\n이 중 마이크로소프트는 36조 9200억 원을 메모리와 부품 투자에 사용 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 04:22",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI플랫폼 '베라 루빈' 본격 공급…\"선두 수성\"",
+  "source": "news.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/055/0001374307?sid=104",
+  "summary": "엔비디아가 차세대 AI 플랫폼 '베라 루빈 NVL72'를 구글 클라우드, MS 애저 등에 본격 공급 시작했음.\n이는 AI 칩 분야에서의 엔비디아의 선두 지위를 재확인하는 제품 출시임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 04:03",
+  "tag": "제품",
+  "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급…\"선두 수성\"",
+  "source": "yna.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/001/0016207071?sid=104",
+  "summary": "엔비디아가 차세대 AI 플랫폼 '베라루빈 NVL72' 공급 개시했음.\n구글 클라우드, MS 애저 등 주요 CSP에 이미 가동 중임.\nAI 칩 시장 선두 지위 강화에 대한 기대감 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-21 17:52",
   "tag": "제품",
   "title": "벤츠도, 젠슨 황도 선택했다…OLED가 ‘생존 기술’로 꼽힌 이유",
@@ -672,51 +717,6 @@
   "source": "wowtv.co.kr",
   "url": "https://n.news.naver.com/mnews/article/215/0001258873?sid=101",
   "summary": "젠슨 황이 SK하이닉스 ADR 상장의 성공을 높이 평가했음.\nAI 반도체 핵심 부품인 HBM 공급 파트너십을 강조했음.\nADR 투자금이 엔비디아 AI 생태계 확장에 긍정적일 전망임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 19:11",
-  "tag": "규제",
-  "title": "Nvidia Cuts Over Half of Asian AI Chip Buyers as BIS Compliance Net Widens",
-  "source": "Tech Times",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTy1kNFVNaDZhUFVPMElVTVdja2VvVUxrczF6N3MyYW5PeUJaOUhpVHhfYkluQnRCdWFnZGhiTUNvNzdxUzQtYldzcWZXSHYyUmNpeUg4N1FSQXZmTE4xNjMzOW5VZzV3dHg4MlhyTUJ6NFg0eElSQVg2MUx0NGxKTG54WTlrSGVxbldUWGFST0xod3FKc1pSOTA4eHZJamQ1ZmEweUY3SnpXTXlkUVhBOGlDdDFMZmlERG9jeE04WFA?oc=5",
-  "summary": "Nvidia가 아시아 AI 칩 구매자의 절반 이상을 대상으로 공급을 축소했음.\n미국 상무부 산업안보국(BIS)의 규제 범위가 확대된 데 따른 조치임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 15:50",
-  "tag": "규제",
-  "title": "엔비디아 'H200' 중국 수출 공식 시작…미 상무부 \"물량은 극히 미미\"",
-  "source": "aitimes.com",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=212792",
-  "summary": "엔비디아 H200, AMD MI300 중국 수출 시작됐음.\n미 상무부, 수출 물량은 극히 미미하다고 언급했음.\n이는 미국 정부가 해당 AI 반도체 중국 수출 사실을 처음 밝힌 사례임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 15:34",
-  "tag": "기타",
-  "title": "AI chip selloff erases over $1 trillion as custom silicon threatens Nvidia’s dominance",
-  "source": "Crypto Briefing",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcURoU2hNTm9nbmw1ZEQ0dS1CVEc1Undjb1NxUFlWY1VFYjdUcFd0X1d2M2pMX01rT0NkX1RIbTNVT2gwd0RuYjhNWllMNkF2REQ0SktNZ2x6TE42UG9GVGM0UDFvTEI4dlhjOXZ6NlJyZnlOQkdzdjI0VWZGN1k?oc=5",
-  "summary": "AI 칩 시장에서 엔비디아의 지배력이 흔들릴 수 있다는 분석이 나왔음.\n맞춤형 실리콘 칩이 경쟁력을 높이며 시장 판도 변화 가능성을 시사했음.\n이로 인해 AI 칩 시장에서 1조 달러 이상의 가치가 증발했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 14:59",
-  "tag": "규제",
-  "title": "젠슨 황 분투에 엔비디아 H200칩 중국 수출, “수량 미미”",
-  "source": "seoul.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/081/0003661449?sid=104",
-  "summary": "엔비디아 H200칩의 중국 수출 승인이 있었음.\n하지만 로이터통신은 구매 수량이 미미하다고 보도했음.\nZTE 등 중국 기업 3곳이 추가로 승인받았음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 04:40",
-  "tag": "제품",
-  "title": "[글로벌 비즈 브리핑] 엔비디아, H200 수출 개시 소식에 주가 '쑥' 外",
-  "source": "biz.sbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/374/0000521727?sid=104",
-  "summary": "엔비디아 H200 수출 개시 소식에 주가 상승했음.\n구글 AI 수장은 AGI 도래가 임박했으며, 미국 주도의 규제기관 설립을 제안했음.",
   "importance": 4
  }
 ]
