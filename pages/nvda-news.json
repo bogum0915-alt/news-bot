@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-21 07:53",
+  "tag": "제품",
+  "title": "엔비디아 독주 견제…MS, 블랙웰 말고 AMD '헬리오스'",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000522684?sid=104",
+  "summary": "MS가 엔비디아 독주를 견제하기 위해\nAMD의 헬리오스 GPU 도입을 검토하고 있음.\n이는 AMD의 주요 클라우드 기업 고객 확보에 기여할 것임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 07:50",
+  "tag": "수주",
+  "title": "74억짜리 AI 슈퍼컴퓨터 등장… AMD '헬리오스', 엔비디아 독주에 도전장",
+  "source": "pinpointnews.co.kr",
+  "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469928",
+  "summary": "AMD, MS 애저 공급 통해 클라우드 시장 영향력 확대 기대.\n메타, 오픈AI, 오라클 등 주요 기술기업과 협력 강화 중.\nAMD, 엔비디아 독주에 도전하는 AI 슈퍼컴퓨터 '헬리오스' 출시.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 07:44",
+  "tag": "수주",
+  "title": "MS, 클라우드 '애저'에 AMD AI랙 도입 확대... 엔비디아 독주 견제",
+  "source": "getnews.co.kr",
+  "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875576",
+  "summary": "MS가 클라우드 '애저'에 AMD AI 칩 도입 확대했음.\n주요 클라우드 기업 고객층 넓힘.\n엔비디아 독주 견제 가능성 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-21 07:38",
+  "tag": "수주",
+  "title": "“젠슨 황 언제까지 독식할거야”…AMD도 ‘AI 통짜공급’ 도전장",
+  "source": "mk.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/009/0005709867?sid=105",
+  "summary": "AMD, 엔비디아의 AI 칩 독식에 도전장 내밀었음.\n메타, 오픈AI, 오라클, MS 등 주요 고객사 확보하며 AI 인프라 시장 공략 강화 중임.\n오픈AI, 오라클은 올해 AMD 헬리오스 배치 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-21 05:02",
   "tag": "수주",
   "title": "MS, 클라우드 '애저'에 AMD AI랙 대거 도입…엔비디아 독주 견제",
@@ -681,42 +717,6 @@
   "source": "NVIDIA Blog",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV040QzVSeG44U29NcGw5RzVyMGhRcWpMTnVBNDFNclNiR2lIdFNYUWY5dlp0cThkbldseGw3WW90YlNDdml4WVlIcENkNFRsNFZZc2VFRnhjcWtkbFZBZXNyRGdKWmdnQXVSRDVXaW9aSVhSd1pLUFhBMGZocnY5bFgwTEM2MnM?oc=5",
   "summary": "AI 인프라 효율성의 궁극적 지표로 성능당 전력(Performance per Watt)을 제시함.\nAI 칩, 데이터센터, 네트워킹 전반의 효율성 개선이 중요하다고 강조함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-15 00:02",
-  "tag": "규제",
-  "title": "\"미국, 중국 ZTE에도 엔비디아 H200 칩 판매 허용\"",
-  "source": "news1.kr",
-  "url": "https://n.news.naver.com/mnews/article/421/0009059726?sid=104",
-  "summary": "미국, 중국 ZTE 자회사에 엔비디아 H200 칩 판매 허용했음.\n이는 AI 칩 수출 통제 완화를 시사함.\nAI 칩 공급망 및 시장 지형 변화에 영향 줄 수 있음.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-14 20:12",
-  "tag": "제품",
-  "title": "\"AI에이전트가 쿠다 진입장벽 낮춰\"···국산 NPU 퓨리오사, 엔비디아 ...",
-  "source": "sisajournal-e.com",
-  "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422435",
-  "summary": "퓨리오사AI, 국산 NPU가 쿠다(CUDA) 진입 장벽을 낮추는 기술을 선보였음.\n오픈AI API 호환 인터페이스 및 vLLM, 쿠버네티스 연동을 지원함.\n기존 AI 서비스를 수정 없이 NPU 환경으로 옮길 수 있는 '드롭인 인프라'를 구축했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-14 20:08",
-  "tag": "규제",
-  "title": "Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims — company sent field inspectors, called customers to check if business is genuine after pressure from Washington",
-  "source": "Tom's Hardware",
-  "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcFFMMWY5UEFCOXY4bDQ0VnQxOHVrMHgyZnNBN1k5dVpmaDhXWW9QXzduNmN1NFYteE4wbnhiLV8taGVjWVNpVEhScnNZM0NvYlpZSS1TY2p1ekxGMFh5S1Bpb2IxWVJHeURHdEt5cnZIR3A3SHZhOE1EbEVOUE1ubVU2aXZKMHhpSnF6emJkczY3UFhTeTNVMGxVT09qQUtsbHAzb19uMWhEcDZJdlhGNjk2U1k5dWlfUUxWOFo0QTk0RFItMHd4LWY3YTdJejRKeEdnOFZkdFh3RUlBVWVqeEdodWJleHhZUW8tWFRKelhLcFZMUFhKd1h6ZVJ0bUF0VFRyLXJMX3FYVDA5cnJZMWNiZ1dZT2s1NFZHalBpWGV2bFVrdHFIWURGUUN3THNZNFNYX1BuVWVRSll0R3REaGRYN1VxczZiaTFid1dib3VJcThmbXpKeUExeFNpcGhzYm5Vb1ZseU9hN3pVZ2k4MmY0UDJrTjFlcHZXaw?oc=5",
-  "summary": "Nvidia가 아시아 내 AI 칩 불법 수출 방지를 위해\n공식 고객 목록을 대폭 축소했다는 보도 나왔음.\n미국 정부 압박에 따라 현장 조사 및 고객 신뢰도 검증을 진행했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-14 19:51",
-  "tag": "규제",
-  "title": "Nvidia Tightens Asian Customer Approvals as US Chip Export Controls Intensify (NVDA)",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalJTTXZlM3VodmE2TFNwQ19fZVZPeGthZjFhTUNkMU9qLW9aVUI4bjVEWVJWWGVHRm01aUR4WkliQVR4ZnV5QTZ3Mi10SVY1b19pRnRveUxsOFFuX3ZlM1ZiOERUWEdYVjV6bDByS0tlZGJ2WjFnRXlBM0RqRGszNXY2Njh1SlF3UUFDb2NnUmFDT1B4U21nLXoyX2VOdEg0cml0SkZvUQ?oc=5",
-  "summary": "Nvidia가 미국 반도체 수출 통제 강화로 아시아 고객 승인 절차를 강화했음.\n이는 AI 칩 공급망에 직접적인 영향을 미칠 수 있는 중요한 변화임.",
   "importance": 4
  }
 ]
