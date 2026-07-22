@@ -1,5 +1,68 @@
 [
  {
+  "ts": "2026-07-22 15:50",
+  "tag": "수주",
+  "title": "이재용·최태원·정의선·이해진, 美서 젠슨 황 회동…글로벌 AI 협력 주...",
+  "source": "econonews.co.kr",
+  "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441610",
+  "summary": "이재용, 최태원, 정의선, 이해진 회장이 젠슨 황 엔비디아 CEO와 회동했음.\n삼성전자와 SK하이닉스는 엔비디아에 AI용 고성능 메모리를 공급 중임.\n차세대 AI 가속기 '베라 루빈'에도 양사 HBM4 탑재 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:47",
+  "tag": "제품",
+  "title": "[AI 고속도로] 엔비디아, 베라 루빈 양산에 \"AI 서버 경쟁판 바뀐다\"",
+  "source": "zdnet.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/092/0002431452?sid=105",
+  "summary": "엔비디아, 신규 AI 칩 '베라 루빈' 양산 시작했음.\n오픈AI, 구글 클라우드, MS 애저 등 주요 고객사에 공급 중임.\n3분기부터 오픈AI 중심으로 대규모 공급 계획도 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:29",
+  "tag": "제품",
+  "title": "NVIDIA Vera CPU performance shows impressive gains over its x86 rivals",
+  "source": "TweakTown",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUEzWmprWUtKcVFCWGNYbmxacFhGa0RGSVNZVTNiNTVEYkFZU1FQY0JzQ2lxUW4ya1FvWHl1MEw5cmdoS3FobU1sbE5IcWx5VTQ4V3hJc2ZFM1c0NzBkSGttSnFyY1Ffa1czakhTYnpIOUlRZjlUQzFwMW5POGNjOTNKaTl0QXFTcElxSEs5aVNiS2UxSVQxZk9oX21ReVhWdk5CdE1hbFRWOXZGdlBDbVhhenlia014dmM0?oc=5",
+  "summary": "NVIDIA의 Vera CPU가 x86 경쟁사 대비.\n인상적인 성능 향상을 보였음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:26",
+  "tag": "제품",
+  "title": "엔비디아, 에이전트 맞춤형 '베라 CPU' 세부 정보 공개...\"6월부터 출하...",
+  "source": "aitimes.com",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213044",
+  "summary": "엔비디아가 AI 에이전트 전용 '베라 CPU' 공개했음.\n6월부터 출하 예정이며, 구글 클라우드 등도 도입/테스트 중임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:24",
+  "tag": "수주",
+  "title": "글로벌 AI 리더 美서 총집결...이재용·최태원·이해진, 젠슨 황 또 만난...",
+  "source": "consumernews.co.kr",
+  "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=759766",
+  "summary": "삼성전자의 2나노 파운드리 AI 칩 생산 협력 논의.\nSK, 네이버는 엔비디아와 대규모 AI 연산 지원 위한 협력 중.\n이재용, 최태원, 이해진 등 국내 기업 총수 총집결.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:06",
+  "tag": "수주",
+  "title": "이재용·최태원·이해진이 美 젠슨 황과 만나면...수직통합형 AI 협력 구...",
+  "source": "seouleconews.com",
+  "url": "http://www.seouleconews.com/news/articleView.html?idxno=92558",
+  "summary": "이재용, 최태원, 이해진이 젠슨 황과 만나\nAI 협력을 논의했음.\nSK하이닉스·삼성전자, 엔비디아와\n차세대 메모리·AI 공장 협력 확대함.\n단순 공급 넘어 공동 설계 체제 강화함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-22 15:02",
+  "tag": "수주",
+  "title": "이재용·최태원·이해진, 美서 젠슨 황과 회동…HBM·AI 동맹 넓힌다",
+  "source": "newspim.com",
+  "url": "https://www.newspim.com/news/view/20260722001019",
+  "summary": "이재용, 최태원, 이해진 등 한국 기업 총수들이 젠슨 황 엔비디아 CEO와 회동했음.\nHBM과 AI 분야에서의 협력 확대 방안을 논의했으며,\n삼성전자와 SK하이닉스는 엔비디아에 HBM을 공급하고 있으며 HBM4 공급도 논의 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-22 07:40",
   "tag": "수주",
   "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
@@ -654,69 +717,6 @@
   "source": "news.kbs.co.kr",
   "url": "https://n.news.naver.com/mnews/article/056/0012219797?sid=104",
   "summary": "일본 정부가 엔비디아 최첨단 GPU 2만 7천 장을 확보했음.\n이는 자국 AI 산업 육성을 위한 결정으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 20:08",
-  "tag": "수주",
-  "title": "日, 엔비디아 ‘루빈’ 2만7500장 확보…피지컬 AI 주도권 노린다",
-  "source": "biz.chosun.com",
-  "url": "https://n.news.naver.com/mnews/article/366/0001179869?sid=104",
-  "summary": "일본 정부, 엔비디아 차세대 AI 반도체 '루빈' 2만7500장 확보했음.\n피지컬 AI 주도권 확보 목표로 함.\n젠슨 황 CEO와 일본 경제산업성 간 논의 결과임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 15:06",
-  "tag": "제품",
-  "title": "케이던스(CDNS), ‘AI 에이전트 EDA’로 판 흔든다…엔비디아·TSMC와 설계...",
-  "source": "tokenpost.kr",
-  "url": "https://www.tokenpost.kr/news/tech/378420",
-  "summary": "케이던스가 AI 에이전트 EDA 솔루션을 출시했음.\n엔비디아, TSMC, 인텔과 협력하여 차세대 AI 칩 설계 지원 중임.\nTSMC와는 N3, N2, A16, A14 공정에 최적화된 설계 인프라 공동 개발 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 08:05",
-  "tag": "제품",
-  "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-  "source": "NVIDIA Blog",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NRjVKNXJiNnAwN25VRXlZaGF4OEVRREJsWEhiU2RNRlNITGhHTko5WEJvZ2JaN0VHVl9sOVdnSHo0aTNnNWk4dVlxeEo1MkdIS1pEaXpGbkU4QXFISzU1LS1vT2NxMEtwQnRPcWRNTUVSeVU?oc=5",
-  "summary": "NVIDIA가 신형 Jetson Thor 컴퓨터 출시했음.\n로보틱스 및 엣지 AI 시장 공략 강화 목적임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 08:01",
-  "tag": "제품",
-  "title": "Nvidia Releases New Robotics AI Model",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODZxVWRWVmFsalVUQVR6WjhDd3VRQXpJQTYzWjY4eGR5czVvWHdCaERrWmJTZk9icERCNGkwc2JKRXBoelRRMGxnY2d2LTMtOUxhdzZyLUdjRTMzaHpsb1Ixbm9TdzFRMGNfa3hBV1plSU1OcDlrdXRFRC0tRUNtTnFic3U?oc=5",
-  "summary": "Nvidia가 새로운 로보틱스 AI 모델을 출시했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 07:50",
-  "tag": "규제",
-  "title": "US Commerce Department Says Nvidia's H200 Shipments to China Have Begun",
-  "source": "thelec.net",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4Yzdmd01GZE5SYWk1dzVvSnpWaEF5czBPVHNoSHd0RkFxUFlBcmFEdUdCRVpXTHBVMmZRU3h0dTFGZGZjb1U2dmNnNkwtbHpZTTBSLU56SFRKUXVjYzhhUUZhUTJCdU0?oc=5",
-  "summary": "엔비디아 H200 칩이 중국 수출 시작됐음.\n미 상무부 발표에 따른 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 07:12",
-  "tag": "수주",
-  "title": "젠슨 황 도쿄 선술집서 \"주가 올리자\"… 한국 중심 'AI 동맹' 균열 조짐...",
-  "source": "g-enews.com",
-  "url": "https://www.g-enews.com/view.php?ud=202607160708179818fbbec65dfb_1",
-  "summary": "젠슨 황 엔비디아 CEO가 도쿄에서 한국 중심 AI 동맹의 일본 다변화 가능성을 시사했음.\n이는 TSMC의 첨단 패키징 점유율에 따라 중장기 HBM 수요 지속성과 한국 업계에 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 04:30",
-  "tag": "제품",
-  "title": "Why Nvidia’s Next AI Battle Is About Tokens Per Watt (NASDAQ:NVDA)",
-  "source": "Seeking Alpha",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFRCZVVubWNrSkxnT0JkeWs1VHhrSmZtczNhQVpuM09iVnpzRy1CeGxBVkRfWF90SmZLQm12ZVhIX2NmS3JZTmNhNjVwV212TFdlR3d1bWJxYlJOUFhHSUM4NjMyNmU2enYzYU9IbzIzOEthaUdRRVNPTmlxQ1dMVXRhRXJmdUI5eVNWbmVPRmtMVnYwbkE?oc=5",
-  "summary": "엔비디아의 다음 AI 경쟁은 와트당 토큰(Tokens Per Watt)에 달렸다는 분석임.\n이는 AI 칩의 전력 효율성 중요성을 강조하는 것으로 보임.",
   "importance": 4
  }
 ]
