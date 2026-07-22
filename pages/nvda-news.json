@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-22 20:41",
+  "tag": "수주",
+  "title": "Nvidia Stock: Chip Maker Deepens Google Ties Ahead of Alphabet Earnings",
+  "source": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BUV2NoaUg3eVdvalViWFI2NElHQWNBRlZoWUpQWHNMS1FSWkxHbGJhaU9VaGs0ZzNLc015N0JkU09EWWxxMjVmMHVvaW12ZHpuTU9SaDYzaHNyMl9yREJXaXVrWG9jVkRFbTFrUGpRQVl3anBUQ3pYallkNkd3R2x6WnN4Zw?oc=5",
+  "summary": "Nvidia가 Alphabet 실적 발표 전\nGoogle과의 파트너십 강화 소식.\nAI 칩 공급 관련 중요 이슈임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-22 15:50",
   "tag": "수주",
   "title": "이재용·최태원·정의선·이해진, 美서 젠슨 황 회동…글로벌 AI 협력 주...",
@@ -708,15 +717,6 @@
   "source": "The Japan Times",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVh4SGtFbTVRQm9YbWZKbVMtbW5ac3JtNkV2MWVTQi1qajVZWjNDNXRRbWM4Ri1RNW9YVjUyOS16NTZjYXlOTzU3ZDR5R0gxcmpEZXVrNTdyRlhnaXVqYnNfVC1Ua1d5MzlGVWowenRqVXdCa1B2YTVxamloWTdIUTlwZ1VKTTFo?oc=5",
   "summary": "일본 정부가 로봇용 AI 개발을 위해\nNvidia의 Rubin 칩을 구매하기로 했음.\n이는 AI 칩 공급망에서의 새로운 수요를 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 20:10",
-  "tag": "수주",
-  "title": "일본 정부, 엔비디아 ‘루빈’ 2만 7천 장 확보…국산 AI 위해 기업 44곳...",
-  "source": "news.kbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/056/0012219797?sid=104",
-  "summary": "일본 정부가 엔비디아 최첨단 GPU 2만 7천 장을 확보했음.\n이는 자국 AI 산업 육성을 위한 결정으로 보임.",
   "importance": 4
  }
 ]
