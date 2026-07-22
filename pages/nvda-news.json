@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-23 01:35",
+  "tag": "수주",
+  "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
+  "source": "TradingView",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU0EzLXBTSTVUMDE2dXM4VXhPU1pMY2hKZERXOVlTRXA0eHRVSURKd0lIMzZBem5YQ28zTF9lWjdwRDlMc0tEaTlJTmJmM0gwUUh1S3hYV3ZCdFBrYzZOMHRVQzNiaXlQSGRpbU9XOWxqQ3dKOHozZ3pfejY1UTdxVF9UTGV6UXloZjdsVUJ1dmE1UXpQQ2JhRjBKUUk1ODVvQTZTXzU2OGtmX01wcjJIVGd0V2NaRDc2SW9qRFc5X0ZpUldxTXNGSm41UjBGUk1OSjQxZ2g0UVBOMjJCRE05X1hUNWNUdHpt?oc=5",
+  "summary": "AI 인프라 수요 폭증으로 OpenAI, Nvidia 등 주요 기업들이 수십억 달러 투자 중임.\nAI 칩, 데이터센터, 관련 기술 개발 및 확장에 집중하고 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 01:26",
+  "tag": "기타",
+  "title": "China's open-source AI models are 'excellent' and 'should be used': Nvidia CEO Jensen Huang",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTJ6VWFmcmJrTWJ2Vlp4Nnc4alVMZGhQNzU0NnVQN1VSTGZkOUdnVHktNVMxU1V0Y05uZWNSR2prbTc0R2lwSmI5VzY4QnE4OHltOGlTZFl4b1Y1eWYtZzdFdjVmcV9ReHVEbi1pbGRtRzlJTVJVQTZVYi1LVG1neG1rZzVRWTZGdF9uNFE3WnZMOEVRT0FqRWxwSFpFamJZeEx1ZWdua2ExX0tySk5tNEhueUdwN0F4VHBUZVV4YjlSUjByd1k1dUNweGQ?oc=5",
+  "summary": "엔비디아 CEO 젠슨 황이 중국 오픈소스 AI 모델의 우수성을 언급하며 사용을 권장했음.\n이는 AI 밸류체인 내 경쟁 구도 및 기술 개발 방향에 대한 중요한 시사점을 줌.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 01:00",
+  "tag": "제품",
+  "title": "AMD is quietly making Nvidia GPUs hard to recommend, and the reason has nothing to do with gaming",
+  "source": "XDA",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmMxSGJfYnAxV1R4akRwbm85TTFobUE2UlRONVFVN0FseGhHUUVKa3ExNnBESEI1QkdFS0xqMUJLOUJVeHgzcm9fb29Mb3lkeUoxTzFGYVBWZjM5Ukd2YzlaNG5HZ2VYcHA0NVgzRzZacGI1Z01DU0VsU25CVjlxSWVSOEJueVBLdEVXczdGM3YyMlRRLVFzbnMzS2FTRUdBWGZvdkJRMXEwWXExRTNsLW1rQXIxT3BPaERzWFRockdBNmUtNlVZ?oc=5",
+  "summary": "AMD가 엔비디아 GPU의 추천을 어렵게 만들고 있음.\n이유는 게임 성능과 무관한 것으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-22 20:41",
   "tag": "수주",
   "title": "Nvidia Stock: Chip Maker Deepens Google Ties Ahead of Alphabet Earnings",
@@ -690,33 +717,6 @@
   "source": "tokenpost.kr",
   "url": "https://www.tokenpost.kr/news/breaking/378581",
   "summary": "엔비디아 CEO 젠슨 황이 AI 붐이 아직 초기 단계라고 발언했음.\nAI 반도체 시장을 주도하는 엔비디아의 전략적 방향성을 엿볼 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 21:02",
-  "tag": "수주",
-  "title": "日, 엔비디아 차세대 GPU 확보… 피지컬AI 승부수",
-  "source": "it.chosun.com",
-  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166012",
-  "summary": "일본이 엔비디아 차세대 GPU 확보해.\n피지컬 AI 생태계 구축 승부수 던졌음.\n한국도 블랙웰 GPU 26만장 도입 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 20:36",
-  "tag": "수주",
-  "title": "일본, 엔비디아 GPU '루빈' 2만7500장 확보...피지컬 AI 승부수",
-  "source": "ajunews.com",
-  "url": "https://www.ajunews.com/view/20260716202907377",
-  "summary": "일본 정부가 엔비디아 GPU '루빈' 2만7500장을 확보했음.\n소프트뱅크, NEC, 혼다 등 44개사가 향후 5년간 1조엔을 투입해\n제조업 특화 소버린 AI 개발에 나섬.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-16 20:34",
-  "tag": "수주",
-  "title": "Japan to buy Nvidia Rubin chips to build an AI for robots",
-  "source": "The Japan Times",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVh4SGtFbTVRQm9YbWZKbVMtbW5ac3JtNkV2MWVTQi1qajVZWjNDNXRRbWM4Ri1RNW9YVjUyOS16NTZjYXlOTzU3ZDR5R0gxcmpEZXVrNTdyRlhnaXVqYnNfVC1Ua1d5MzlGVWowenRqVXdCa1B2YTVxamloWTdIUTlwZ1VKTTFo?oc=5",
-  "summary": "일본 정부가 로봇용 AI 개발을 위해\nNvidia의 Rubin 칩을 구매하기로 했음.\n이는 AI 칩 공급망에서의 새로운 수요를 보여줌.",
   "importance": 4
  }
 ]
