@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-24 04:26",
+  "tag": "제품",
+  "title": "AMD \"헬리오스 랙스케일 솔루션, 엔비디아 베라 루빈과 정면승부 [AMD AA...",
+  "source": "it.chosun.com",
+  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166441",
+  "summary": "AMD의 '헬리오스 랙스케일 솔루션'이 엔비디아와 경쟁 구도를 형성했음.\n마이크로소프트, 앤트로픽 등 빅테크 기업이 도입 예정이며,\n올 하반기부터 고객사에 공급 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 03:45",
+  "tag": "제품",
+  "title": "An Emboldened AMD Is Taking Direct Aim at Nvidia",
+  "source": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMGthMk9qejBjakx1YlZFQks0RndpMTVZNkdPS2F1QlFNNzN4Z29POVNnZ3czWkhoZzNXaGtNNl9QRnU0LXdLaWNFZGdFbk5KRFBBRm5GWmdoWS1TX3NxbWhORnBjUGxpUXBsU2NrVnllbXZmeXVzVWtMRGs2UQ?oc=5",
+  "summary": "AMD가 Nvidia를 직접적으로 겨냥하며\nAI 칩 시장 경쟁 심화 예고함.\n새로운 GPU 아키텍처 및 전략 발표 기대됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-24 00:33",
   "tag": "제품",
   "title": "엔비디아 GPU보다 58배 크고 15배 빠른 AI 칩 만들어",
@@ -699,24 +717,6 @@
   "source": "Barchart.com",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2w1MDN2OVhxYUc4UkhjLWtHWVhBQTBXTEhvRTZDaXQ1alU2U1lRZUo3ZkhPTU05VmZzanY0dTZzM01EQXZFYUpXY1M1OTRtVGtlZFlsQlpmdWNaOHRpbXljaDloYndJSVotWktsUzI4R1dVaURxQTVOWEdnWHFsZnNsaHp6dXYydnBaOXlWT1pkX0hjOU40UnlCUERpMDdld2Vpd0FoUGRNQQ?oc=5",
   "summary": "엔비디아 CEO 젠슨 황이\n루빈 칩 출시 일정에 차질 없음을\n강조했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 19:35",
-  "tag": "수주",
-  "title": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders.",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1M1T0NKZGJJeGhkR1lNVkRiWE8wRm9wTXNBTURVVGVpNzdfTFB6U2ZqdkJ6dVI2SFlxRFI3cTFoellnZjZ1U1owNmFFMWwwY0g4c1AwMW1KSHFtMlBtNFRNa21iRXJJWWw4ZS1ubks5R2hJZmtsanNfT0doR2pmdzM5M3F3SzBUb2wtLVFuZ3QzN2dGRWt2eHl3?oc=5",
-  "summary": "엔비디아 CEO 젠슨 황이 HBM4 초기 고객이 될 것이라고 밝힘.\nHBM 시장에서 SK하이닉스가 70% 물량을 확보했다는 보도가 나왔음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 18:24",
-  "tag": "수주",
-  "title": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
-  "source": "The Globe and Mail",
-  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcEV5ZF94QVh4Q2g3WGs2WjV3ZmRGX1BCcEpkaEl1WDQzc2xrTE13dkNublhzeU05WDBkNnBpZHBvMUs4bWpqZ2FRYUVEU3ljY0ZrbEpHOTVZMVM4WlZaNGlMcmNob1R5UVFwRERPTTR4VGhfTDlnZmRfZlk0dGt0bW1udFNQNC1FYmFyN01TaDIzOXhWaHQyd25URm1Nc1MySHRGSEZvNWxGNFEwYWExamMwWmNjcVV3UFZwS0hpVGc3eGpYcW1mdDB6Ry1nNk1JbHlvMDVzQmE4aC1wVGllQVZlQnRIdnNRNDV1LWZGUEprVXFGUFBycEVycXppSEoydmo1b2M2Q2ZlaE44V1dSaE4xT1hRdnhDa1c0R3U5S3daajF1MHR2TFZGb3hTR3pGNUowSw?oc=5",
-  "summary": "젠슨 황 엔비디아 CEO, 일본 AI 허브화 전략 성공.\n일본, 1240억 달러 규모 AI 시장으로 성장 전망.\n투자자, 엔비디아 CEO 행보 참고하여 투자 기회 모색 가능.",
   "importance": 4
  }
 ]
