@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-23 19:46",
+  "tag": "제품",
+  "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
+  "summary": "AMD가 엔비디아에 도전하는 차세대 AI 인프라 출시를 준비 중임.\n경쟁 심화 가능성 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 19:34",
+  "tag": "수주",
+  "title": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors",
+  "source": "The Globe and Mail",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHRWbklKek1oQWpQYmtpdkx2b1E0WVNUYk9DMTN3WUtiaDlCa0tONXVzYXo4OGJRclV4MHo0WmNWdnN6Qk5jOUltdHBSeDVQRlhBU0RQR2ZwRUlSSGZ1WEtVUHIzd29odzlQT3lCaU9qR3MxU3RNdWc3SGJLdzh0ZGpJcjFiU2Z1MGd4blBqZy1QNERCc2MwLUpibkV3MTNzMHE1WjAtQ0NucWVHWGxOUlpKVDdkNnVydTlhNUhjWXM3d2dGVmZQYm92SkpsMk52bDV3S2k5TExBeTAwM2ZHYUF3?oc=5",
+  "summary": "TSMC가 Nvidia 및 Broadcom 투자자에게\n매우 긍정적인 소식을 발표했음.\n구체적인 내용은 발췌에 없으나, 타이틀로 미루어\n중요한 공급 계약 또는 캐파 증설 관련 발표로 추정됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-23 14:57",
   "tag": "기타",
   "title": "이재용·정의선, AI 자문기구 합류…젠슨 황·리사수 머리 맞댄다",
@@ -699,24 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wRWdIa3paTXdpOVJMZFMteWMtRDNQelFyekstSzMtY0pZUWJ2b19fVXFzbEJ0NWJCM215SkhrQThzRXE2eXJnUkdmZkZZYlIyZWRhZkp3bExZNEIyQmEwUV9OU0J4Wnc?oc=5",
   "summary": "애플이 엔비디아 제치고 세계 최고 시가총액 기업 등극했음.\nAI 투자 방향 전환이 배경으로 작용했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 04:40",
-  "tag": "제품",
-  "title": "뉴욕증시 마감 58분 前...나스닥·메타·알파벳A·엔비디아 '뚝'",
-  "source": "choicenews.co.kr",
-  "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=168350",
-  "summary": "알파벳A(구글 모기업) 주가 2.64% 하락.\n차세대 AI모델 '제미나이 3.5% 프로' 출시 연기.\n이틀 연속 장중 하락세 이어갔음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 00:21",
-  "tag": "기타",
-  "title": "RAW: FILE: APPLE TOPS NVIDIA AS MOST VALUABLE COMPANY",
-  "source": "Local 3 News",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalRmZjgycFEyM2R4VDVZb2hDems5TzEyTTZMR3VnQkdOWWxISUZ2dXRHY3BNNnFTNnpjYmFocDJYRXlGc2JLanlnSVRGUXBHT2dIeHdXdElWcjdoQXEtUXR0ZGt0UVZNSlBmTkFzSEFDeGJHWHRxd3pwRFRRUS1rSzFUZnlQVVVUM2lXbjRNMU5FOE15WElqcy11TE95YXltTWF4OWlUcDVqQXhiX0lpUG5oOEU1Q1UzNmtmd2RnRzhqOVdpampZQzlWbk5TbzBFY1BrcHhQa1VUTmNv?oc=5",
-  "summary": "애플이 엔비디아를 제치고\n세계에서 가장 가치 있는 기업이 됐음.",
   "importance": 4
  }
 ]
