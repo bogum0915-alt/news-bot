@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-24 00:33",
+  "tag": "제품",
+  "title": "엔비디아 GPU보다 58배 크고 15배 빠른 AI 칩 만들어",
+  "source": "chosun.com",
+  "url": "https://n.news.naver.com/mnews/article/023/0003989302?sid=105",
+  "summary": "셀레브라스가 엔비디아 GPU보다 58배 크고 15배 빠른 AI 칩 개발. \n수백 개 GPU를 엮는 방식과 달리 역발상으로 주목받음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 00:31",
+  "tag": "기타",
+  "title": "‘脫엔비디아’ 속도낸다… AMD-앤스로픽 7.4조 빅딜",
+  "source": "donga.com",
+  "url": "https://n.news.naver.com/mnews/article/020/0003736139?sid=101",
+  "summary": "앤스로픽이 엔비디아 칩 외에 구글 TPU, 아마존 트레이니엄 등\n다양한 AI 칩을 병행 사용하기 시작했음. 엔비디아 종속 탈피를 위한\n멀티칩 전략 가속화 움직임임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-23 19:46",
   "tag": "제품",
   "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
@@ -699,24 +717,6 @@
   "source": "The Globe and Mail",
   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcEV5ZF94QVh4Q2g3WGs2WjV3ZmRGX1BCcEpkaEl1WDQzc2xrTE13dkNublhzeU05WDBkNnBpZHBvMUs4bWpqZ2FRYUVEU3ljY0ZrbEpHOTVZMVM4WlZaNGlMcmNob1R5UVFwRERPTTR4VGhfTDlnZmRfZlk0dGt0bW1udFNQNC1FYmFyN01TaDIzOXhWaHQyd25URm1Nc1MySHRGSEZvNWxGNFEwYWExamMwWmNjcVV3UFZwS0hpVGc3eGpYcW1mdDB6Ry1nNk1JbHlvMDVzQmE4aC1wVGllQVZlQnRIdnNRNDV1LWZGUEprVXFGUFBycEVycXppSEoydmo1b2M2Q2ZlaE44V1dSaE4xT1hRdnhDa1c0R3U5S3daajF1MHR2TFZGb3hTR3pGNUowSw?oc=5",
   "summary": "젠슨 황 엔비디아 CEO, 일본 AI 허브화 전략 성공.\n일본, 1240억 달러 규모 AI 시장으로 성장 전망.\n투자자, 엔비디아 CEO 행보 참고하여 투자 기회 모색 가능.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 18:00",
-  "tag": "수주",
-  "title": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnRkblZReVNNZXM5S2h1bXRkRFRvSUtoaVRRZThZMWtBVzZVbHhEQXA1TlJ5UlN0cHVsdjVxUjAyOVN0cXV4X2RQaFdRN0otd0dIalNQUmtRZW5jMnJBUHZ5RVZWM0NCNUY1UDVvMUR5U25KQ2dDU0tVa3JIWXFFMG1Eekp2dkR3bUwwM3dKS2Y5eXhSYlRmcg?oc=5",
-  "summary": "엔비디아 CEO 젠슨 황이 일본 AI 시장 공략에 성공했음.\n일본이 1240억 달러 규모의 AI 허브로 변모할 전망임.\n이를 통해 일본 AI 산업 성장에 따른 수혜를 예상함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 07:52",
-  "tag": "기타",
-  "title": "Apple tops Nvidia as world's most valuable company as AI bets shift",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wRWdIa3paTXdpOVJMZFMteWMtRDNQelFyekstSzMtY0pZUWJ2b19fVXFzbEJ0NWJCM215SkhrQThzRXE2eXJnUkdmZkZZYlIyZWRhZkp3bExZNEIyQmEwUV9OU0J4Wnc?oc=5",
-  "summary": "애플이 엔비디아 제치고 세계 최고 시가총액 기업 등극했음.\nAI 투자 방향 전환이 배경으로 작용했음.",
   "importance": 4
  }
 ]
