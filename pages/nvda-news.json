@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-07-23 14:57",
+  "tag": "기타",
+  "title": "이재용·정의선, AI 자문기구 합류…젠슨 황·리사수 머리 맞댄다",
+  "source": "joongang.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/025/0003539647?sid=101",
+  "summary": "AI 분야 세계 최고 기업 CEO들과 한국 주요 기업 총수들이\nAI 자문 기구에 합류했음.\n젠슨 황, 사티아 나델라, 리사 수 등이 공동 의장단임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 14:50",
+  "tag": "제품",
+  "title": "CPU까지 팔겠다는 엔비디아, 삼전닉스도 ‘함박웃음’",
+  "source": "asiatime.co.kr",
+  "url": "https://www.asiatime.co.kr/article/20260723500311",
+  "summary": "엔비디아, 신형 AI 랙 '베라 루빈 NVL72' 출시.\n구글 클라우드, MS 애저 등 주요 CSP에 공급 개시.\nCPU 사업 진출 가능성 시사, 관련 기업 주목.\n삼성전자, SK하이닉스 등 메모리 반도체 기업 수혜 기대.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 14:49",
+  "tag": "수주",
+  "title": "'AI 기업' 이통3사 CEO 만난 과기장관…\"오픈AI·엔비디아에 '韓 투자' 요...",
+  "source": "hankyung.com",
+  "url": "https://n.news.naver.com/mnews/article/015/0005313069?sid=105",
+  "summary": "과기장관, AI 빅테크와 협력 논의.\n한국 투자 강화 요청할 예정.\n엔비디아 등 주요 기업 CEO 미팅.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 14:46",
+  "tag": "제품",
+  "title": "[기업家] 엔비디아 ㅣ '베라 루빈' 본격화·AI 플랫폼 확장…글로벌 인...",
+  "source": "cbci.co.kr",
+  "url": "https://www.cbci.co.kr/news/articleView.html?idxno=591225",
+  "summary": "엔비디아, '베라 루빈 NVL72' AI 랙을 구글 클라우드, MS 애저 등 주요 CSP에 공급했음.\n이 시스템은 GPU '루빈'과 CPU '베라' 등으로 구성됐음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 14:24",
+  "tag": "제품",
+  "title": "엔비디아, '베라루빈' 공급 시작",
+  "source": "todayeconomic.com",
+  "url": "https://www.todayeconomic.com/news/article.html?no=31408",
+  "summary": "엔비디아, '베라루빈' NVL72 공급 시작했음.\n구글 클라우드, MS 애저, 오라클 클라우드 등에도 공급 중임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-23 14:16",
+  "tag": "수주",
+  "title": "AMD, 앤스로픽에 7조원 투자…‘멀티칩 동맹’으로 엔비디아 추격",
+  "source": "chosun.com",
+  "url": "https://n.news.naver.com/mnews/article/023/0003989218?sid=105",
+  "summary": "AMD가 앤스로픽에 7조원 투자함.\nAI 서버 수백억 달러 규모 공급 계약 체결했음.\n엔비디아 추격 위한 멀티칩 동맹 구축했음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-07-23 05:31",
   "tag": "규제",
   "title": "China’s Moonshot stole from Anthropic, used servers in Thailand, US says",
@@ -663,60 +717,6 @@
   "source": "Local 3 News",
   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalRmZjgycFEyM2R4VDVZb2hDems5TzEyTTZMR3VnQkdOWWxISUZ2dXRHY3BNNnFTNnpjYmFocDJYRXlGc2JLanlnSVRGUXBHT2dIeHdXdElWcjdoQXEtUXR0ZGt0UVZNSlBmTkFzSEFDeGJHWHRxd3pwRFRRUS1rSzFUZnlQVVVUM2lXbjRNMU5FOE15WElqcy11TE95YXltTWF4OWlUcDVqQXhiX0lpUG5oOEU1Q1UzNmtmd2RnRzhqOVdpampZQzlWbk5TbzBFY1BrcHhQa1VUTmNv?oc=5",
   "summary": "애플이 엔비디아를 제치고\n세계에서 가장 가치 있는 기업이 됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 00:08",
-  "tag": "제품",
-  "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads - a Key Metric for Agentic AI",
-  "source": "NVIDIA Blog",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFEyNHpxcHpSMmY2dDczalAtRUM2dHQ0QjB5d3J5YWtmRVhzazdMOHFzNmxma2Zkc0ItOHhDOGVUWjZVWnItWlhsSXRsR3JYSm91TlpudWgzSXhsejd5Z09GRDlJTkxVMzJzUHNzX1ZCYnlSZmtFbHVNeWhkNEU2a1hyZUw5SEZVbG80VXIwTQ?oc=5",
-  "summary": "NVIDIA, Vera Rubin 공개. AI 모델 학습 후 작업 효율성 극대화.\n초당 비용 효율성을 핵심 지표로 삼고 있음.\nAgentic AI 시대의 중요 요소로 부각될 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-17 23:41",
-  "tag": "기타",
-  "title": "Watch Apple Passes Nvidia to Become World's Largest Company",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUp1WGlBUUdNdGFmZG1qZFA5ZFFyZk5zeDBJRS1lLUNXTDUyOG1kcXRIRWFXcHVLck5PbEh3ZmV2ZFJGcWNqcEdUNEJLNGlaVElaNy0xWmNxczdUR0F6VVVjYVpyNDh1dmhVMWhnUmh0ZktGMWxUZ0FRTHBaNWFJbzlrQ1UxYUhaeVB0aFJGenFUZXVzZ3hQekhMTS1KVC1tZFZqX2szc0ttMmRK?oc=5",
-  "summary": "애플이 엔비디아를 제치고 세계 최대 기업으로 등극했음.\n이는 AI 칩 경쟁 구도 및 AI 밸류체인 투자에 중요한 시사점을 줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-17 19:04",
-  "tag": "수주",
-  "title": "Nvidia expands Japan AI infrastructure and robotics push",
-  "source": "Tech Wire Asia",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTVHVmVSQzkzNEg3dl9ZV0NSSEtWQTJ6UEZfcGtBUFZsUXdyenJELWhXMzE0UkJLTk5nYnd6UlBkU0xPbEFlUjR6ck1SZThnenZsWDg3OXBPOTBKcGZlbjVyRjJFOXZSUXh4X1ZvNWlSdjI2QnhrckhiREVLUW5xS3dTTDdSWlFvdXpsOQ?oc=5",
-  "summary": "Nvidia가 일본 내 AI 인프라 및 로보틱스 사업 확장 발표했음.\n이는 AI 칩 및 관련 생태계 확장에 긍정적 신호임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-17 15:55",
-  "tag": "수주",
-  "title": "‘피지컬 AI 협력’에 방점 찍은 젠슨 황의 일본 방문…한국과 어떻게 ...",
-  "source": "khan.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/032/0003458804?sid=101",
-  "summary": "젠슨 황 엔비디아 CEO, 일본 방문.\n피지컬 AI·로봇 분야 협력 강화 발표.\n한국과의 관계 변화 주목할 필요 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-17 15:16",
-  "tag": "실적",
-  "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
-  "source": "South China Morning Post",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0ZsZndqWFRiVDhnMXlycV8yVEYzRElPaFQ4bFRwRzI4aUQzaDFxcGl3bEJLbXE4dFhRVGlsTnhyM0V0cWozUU9QUkhxX081NGtRWlZTQmtzYjlLVmdkWDktSTQ5ekNTX2xISWJYTkZwZmVDbldiWmtqT3I5SlVITU13YlZOZ2J5N1g0S1J4Qmc5b1VIV1VnR1g4VjdNZUtRS28xbTlNX2JueElLb2FpemFqckJaT3Z3VTB0TzVPTUJhWUnSAcMBQVVfeXFMT2VfeklGWU5kNS00alAxb0t5Q3lvWnJxbWdYN0oySndQMTEwUm9TU0tEX2dTQUpJLXhLMEt0QThtZDkyb2dzSnVJWm9lWmVTa2pIcWxab0pXSGJtSHk3SXhfRjh5bXVfYU5zVUNhSFYxc2JnWFB5UzRjbThXYk9vYVFlYi00ZF9RMlZHMnRmY040MjlFN240SS1FXzBwTnBpNDNFT0NlaGs4enQxZS10TjNWR0hGMjBMRVVYdXFiUmdYNHhR?oc=5",
-  "summary": "중국 엔비디아 대체재 프로젝트, AI 칩 수요 급증으로\n막대한 매출 예상했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-17 07:34",
-  "tag": "수주",
-  "title": "The Bull Case For NVIDIA (NVDA) Could Change Following Japan’s Vera Rubin AI Factory Deal - Learn Why",
-  "source": "simplywall.st",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUs3ZGlvbGY1SHNaYk8ta3d6TlhsSVhoQ1FrRzdCTXBRVkt5eTNPVGVGcDRRM0xEeHRBX2F5VnRKU3c4eVRLTmUwSDUyemJGODByaHNvck9uelBkcjJZcVNFQ3NuS3RRWnN1Um1FM1h3RDJxbjdZbzhqOWVSVHQyd2VqeUlULTZGYzNoM0pCYmM3Z0Y1NklmZVYyUzhRWEt2aXVHdktZVmJwNEJjMDdzZWFHQ0VoczNnVDNpZDRFWVB5YXRQTTNzUkF30gHPAUFVX3lxTE5wV0pMUHR5NkpfaTdZWWlVOE1Lc05WeVgxU1ZMVHcxRF9LYVF3enRmLUVqYVVzM2V5QzFCaTd3XzY3ekdpckE4REVWTV9sRzhRWEo2Qmd1Wm15ZWJ4eWFxbWJvVWFwRW1RSXVQMGdlNFRSdnFjUk5JZTBJUHBRb3k3ZGhKcnFXRWhOMF9QWDBWRzYyU3VuekRPdTA4VkpGRHR3YU5FTkhKZjB1X29IZURkcmhQVHRNRjROOGVaYTVSeWN4ekJzWHBvUU5VZmpMOA?oc=5",
-  "summary": "일본 Vera Rubin AI 공장 딜이 엔비디아의 상승 근거를 바꿀 수 있음.\n이 딜의 중요성이 분석 기사에서 다뤄졌음.",
   "importance": 4
  }
 ]
