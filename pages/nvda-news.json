@@ -1,5 +1,50 @@
 [
  {
+  "ts": "2026-07-25 04:04",
+  "tag": "기타",
+  "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.",
+  "source": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vMXR2R0x3UWxLemxmbDd4MXh6cVQ4cXZacnBsWE1IMGE2VjBpY01sT09OcHdILUgtYmthLTZmeUlyZ3VJS0xqTkRIVDdVLWxYdmhkWmlhT2NKOHNQTENuRm1jVW5LdkNVVEhBR2g2Q3E4RjM2WFhEcDBXVENRdw?oc=5",
+  "summary": "Nvidia 주가 7월 칩 섹터 아웃퍼폼했지만, 랠리 위험에 직면했음.\n이유는 명시되지 않았으나, 투자자들의 경계심을 자극하는 기사임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 03:21",
+  "tag": "기타",
+  "title": "Nvidia’s Rivals Are Coming for Its Crown, But the Smartest AI Bet Sits Further Down the Tech Stack",
+  "source": "Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3hfVG91T1duLVd6Nm9KZEZGUmt2bkNUVEpKVl9Pd0JSUEoybzlpOEFPMjQ3NzlZdjNNanB0VXBGUmJjdDFWQlJERmZsbmRBcTc0TkYwUXhHU2lPV0dOWW1IQkd0MFJhM0lOT3ZtX0c1c2hrSjRRTkM5RlhjdGNjbnBtdGVabUY1bm8tYkJQZUFCTXhTVkM1dU1Ib3Q4Wld2REg4Qzd0OHVweGRJR0tmV2o0MHFHZlphZC1LWGFFS3FLa1o2SmFRVmlxRVNrbzAzV3BadXNUZw?oc=5",
+  "summary": "Nvidia 경쟁사들이 부상하고 있으나,\nAI 밸류체인의 스마트한 투자는\n더 아래 기술 스택에 있다고 분석함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 03:13",
+  "tag": "기타",
+  "title": "Nvidia CEO Backs Open AI Models",
+  "source": "Yahoo Finance Singapore",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sd0toTEhTNE44dUx5aWV4ODljT3pnYUYzSTNrczJKM3ZCQTQyM1c4R3Rjdm1xOVVIMl9CQWd5cVFKV3dOcGhkTkdJa2N3SGZiTmFidnBaRkFsbDdVSlVaS3Aya3JWUmFLYjFodmhLQndfRU9tZDQ2MXhtZXBlZw?oc=5",
+  "summary": "Nvidia CEO 젠슨 황이 오픈 AI 모델을 지지했음.\n이는 AI 모델 개발 및 채택 방향에 대한 Nvidia의 전략적 입장을 보여줌.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 03:06",
+  "tag": "기타",
+  "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
+  "source": "Barron's",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA2ck1JMW9sTV9SOU1jVHFzSko3NEtoZTNna3E1eTZGajN6eUhsY3dsNjYyVzdLNXJBeXFEejFfN0swS0h6MG9HbXdGWGZ2NWNtUkIxR2taOXZONDRndG4taDRnc1o1UUEzRUFjRVRvYW1tSnh0Q0J0SDhjT2gwb000dFphRXk3Y0Q2VVhLd0F0bzFJdFowMTJn?oc=5",
+  "summary": "엔비디아 CEO 젠슨 황은 중국 AI 모델을 옹호함.\n그는 중국 AI 모델의 잠재력을 인정하고, 이는 엔비디아에 새로운 기회를 제공할 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 03:05",
+  "tag": "실적",
+  "title": "NVIDIA Says Its CPU Revenue Sits Outside the $1 Trillion Forecast. Here’s Where the Stock Could Go",
+  "source": "TIKR.com",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSERmdWVWeVgxay1SQUp4dVJZUTd3NzdPam5vcDZoZDNRYVdoaU1yWkctN1V4WV82TENHTU02MXB1WnNfYmZLcE9HcVd1MldacFBDVFBfelBreGE1R05mZGU3QVR6eG04YnFVM092azYwV1ZFVlZmbDVpeTB4ZHBWUm40NjF3OFduY3pRdHN4ZmZMRnV6VFh1VWxORXRqcC1RdVNocGE3NWw2TE1kOVVXUHhfbURzaFM5dEFRN2R2UQ?oc=5",
+  "summary": "NVIDIA는 CPU 매출이 1조 달러 전망치에 포함되지 않는다고 밝혔음.\n이는 현재 예상보다 더 큰 성장을 시사할 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-24 23:04",
   "tag": "실적",
   "title": "What to Expect From NVIDIA's Q2 2027 Earnings Report",
@@ -672,51 +717,6 @@
   "source": "Wccftech",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1KbWJmSmlhejhxZUVVbHUzMW4xR1RUTHh3S1U0eUU3ZnZwSi14dUFoNVZXb1dUSnlhS1gyVVpwcFR0LXBBcExFMkJQSU5qb1VMOW1VUUtYclE3YkdwU3c4Nll2OUNJbW5ZM3hKWklUdU1ycGFGYmhqZ042eHdDMEZwX2lkaVM2dndSYVF1dU1RM3lNU2lGdzNqSWxOR0lhU3J4ZW1EYnhMaFHSAbABQVVfeXFMTnFGRTB0UmtyM2NFZkEzUjBtazc5Z1JLY0RfdzhqXzlQZGtqekF1NHJUb2ZRSWs2Qk1OOWViMUIxcWZrVEhieWpyVlhySk1CZWFRcEtVYUotNW5DV3dXQXkyaDh3MzdJOXVtbkhmZWFiSkVRMzVGdmNnQ3lVVVBjMXc2dVNiam5GMFNrVnRkUzJXMmdJNjR3V3JCSU1EcEVUanJqc1VQZG4wLUZIVHEyOXk?oc=5",
   "summary": "NVIDIA, SIGGRAPH서 시뮬레이션 및 물리 AI 가속하는\n21가지 혁신 기술 공개했음.\nAI 칩의 기술적 진전 관련 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 00:00",
-  "tag": "제품",
-  "title": "NVIDIA Brings Local AI Agents To Its Most Powerful Workstation PC, The DGX Station, With The NVIDIA Agent Toolkit & Omniverse",
-  "source": "Wccftech",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGxiYVA3RlNsNFJEYmVEN2REc0JNRkdEZDVOSFZpM3c5a2dTOUIwZS0yTGdOU2NQVkU4cjdUQVQ5MHN5T0dMMW54eWh2Y2E1U2hVNEp3ZVpFb1MzREtUNW1NN0hBWEZiUUFMaHJrdGdrOWItY0ExX29FTjhHa1JTN1ZtbjdHVG1rOWFtUllIeFFrZ9IBlwFBVV95cUxQeHB0X3U1dkFvb2xUWHg4MmtrTk5aMXFhbUpvX1M0ZXY0bjg4MHFadWhTVWtFU1hyQXViNUhLYkM5d2V2R3ZSNng2OVZud0xXUmVJTWlyMFJ6S1M3RE5jR1dvd3dvU0Q0MUF4Mm9mVElxOG5EdGxfTlB5bjhtMFZFcFAtVmc0QTR2UU9pUGVaN1BJWjhhUF80?oc=5",
-  "summary": "NVIDIA가 DGX Station에 로컬 AI 에이전트 기능을 탑재했음.\nNVIDIA Agent Toolkit과 Omniverse를 통해 이를 지원함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 23:44",
-  "tag": "수주",
-  "title": "AMD 헬리오스, 마이크로소프트 애저 데이터센터에 첫 탑재…엔비디아 독...",
-  "source": "wikitree.co.kr",
-  "url": "https://www.wikitree.co.kr/articles/1147448",
-  "summary": "AMD 헬리오스, 마이크로소프트 애저에 첫 탑재됨.\n마이크로소프트는 메타, 오픈AI, 오라클에 이은 대형 고객이 됨.\nAMD는 올해 안에 마이크로소프트 포함 고객사에 헬리오스 출하 시작 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 23:31",
-  "tag": "제품",
-  "title": "AMD launches Helios, its first rack AI system to rival Nvidia",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVm5NT05vbGhNLU5iMFZJSjVLazhRbUtDV09DQUROZ0ZWWnFzY1dZMXgtc2lFdVZaUE90WjlkSGFzdFFQcWVpeE9BY21VdGpXZ1o4T1lJb3RkcWZvOHp1c2M1SXNZNWxHOC1kMTRFRFQ4bHRMNlU5Z2pYSk11TFVUaVpwV19BVk53YXNoanJuZm1sSWZmaW1VY1BINVFIREQ2V1lVU3lR?oc=5",
-  "summary": "AMD가 엔비디아와 경쟁할 첫 랙 AI 시스템인 헬리오스를 출시했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 17:43",
-  "tag": "수주",
-  "title": "삼성·엔비디아 ‘낸드 동맹’ 확대…“V10 공급 시작”",
-  "source": "sedaily.com",
-  "url": "https://n.news.naver.com/mnews/article/011/0004643218?sid=101",
-  "summary": "삼성과 엔비디아가 낸드플래시 공급 관련 협력을 확대했음.\n엔비디아가 신제품(CMX) 출시를 위해 삼성에 낸드 생산 확대를 요청했음.\n이는 양사 간 메모리 및 파운드리 사업 전반에 걸친 협력 강화로 이어질 전망임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 08:07",
-  "tag": "규제",
-  "title": "AI 패권전, CIA가 움직인다…美, UAE ‘中 연결고리’ 끊고 엔비디아 칩...",
-  "source": "dt.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/029/0003037695?sid=104",
-  "summary": "미국, UAE의 중국 AI 반도체 공급 차단.\n조건 충족 시 엔비디아 칩 공급 허용.\nAI 밸류체인 내 지정학적 영향력 확대.",
   "importance": 4
  }
 ]
