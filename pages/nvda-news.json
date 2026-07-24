@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-07-24 23:04",
+  "tag": "실적",
+  "title": "What to Expect From NVIDIA's Q2 2027 Earnings Report",
+  "source": "Barchart.com",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3Nub1FYcDVIZ1dicEVyYVBfLVZCd2k0T01uV3JXR1RXQWlWcE95VklGekNzVzVyUk9iQnNJdDQ3emIyeElmVTR4M0hCV01seFR0U0E0cG1WVFYzQVJZTGlCVUpEdE5vVm9OSno5STc3bXRycjNxUjJ1blU1MHctb0FmNU1PSjJOLXhVWmNJSWwtNkh6V3ZNdWNfUzE?oc=5",
+  "summary": "NVIDIA의 2027년 2분기 실적 발표에 대한 전망임.\n투자자들은 실적 발표를 통해 향후 실적 및 가이던스를 파악할 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 22:58",
+  "tag": "기타",
+  "title": "Why Meta, Microsoft, and Nvidia are championing open-weight AI",
+  "source": "Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlVieEtIam5KZFpuMUtFWGgxdGxuSndVdDREVDBlY1VBV2tFQkpsQVE2MWxxVlR5YjFETE5uU2ZSWFB5MEY3eTBheDV5ZHJQU2RzT2pHbk1aMkdqZFJBYnJ1QUFjTGlTSVRtejhLTUNBTDhUVllpR0NReGM2SUVwY005NFR5eTc0S2E5VVFDYnJLY0E2QXA3bkU5QU5sa3dWQThyNFlrMDJ0dkM5UHNSUF9MZF9PZkE?oc=5",
+  "summary": "메타, 마이크로소프트, 엔비디아가 오픈 웨이트 AI를 지지하고 있음.\n이는 AI 개발의 투명성과 접근성을 높이는 데 기여할 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 22:45",
+  "tag": "규제",
+  "title": "AMD takes on Nvidia, US takes on Chinese AI models and AI spending still spooks investors",
+  "source": "SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0JnaVRjd2FlTWpKeV8waXZ1dDZCTkpaZEVtTlI4Z2lna3IwS3dLdlVxcUpJVlhRUUh0OFZIUkRBaENrNW9JU1M1Z1VfRFRXeGxxRmlQc0ZSbWlrY1dNVWdjejlrNXJ6UTJjQlVnWGhNRGZzakw3alZ1V2ljWE1GRlJoN2hLbXpKbFdGWUtPY09TOUEtajhrRmEwWmF1VmtlWVFlUlFacVRNSVlKV0FzTk45QldpZw?oc=5",
+  "summary": "AMD가 엔비디아에 도전장을 내밀었음.\n미국 정부는 중국 AI 모델을 규제할 예정임.\nAI 투자에 대한 투자자들의 불안은 여전함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 22:43",
+  "tag": "수주",
+  "title": "Wistron Opens U.S. Facility to Produce Nvidia Superchips",
+  "source": "Design and Development Today",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc083TElCSlowODM1cUNMWk9jR2hVRjNINHVPOXgxTEpycmJ5SHRUcHVEVHJCWll6U2pEUFdmYmxxdjN1NmJ2UDBYa3ZjaFFnemtxU0Ywak9MalRQeERjNHRuMjlQTWQwcUZWRlBnVUpMaFlLWW1EUzExUVllMlo5d3ZXSnhOajloOFJwWVhoTHk4dVNyWGtGSWlFVnYyTVZvUi1HM0VOTDlfS3ZHaU4yV19KR0ZsYkVBc0xuWlg4NA?oc=5",
+  "summary": "Wistron이 미국 시설을 개설했음.\nNvidia 슈퍼칩 생산을 담당할 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 22:32",
+  "tag": "기타",
+  "title": "젠슨 황, 첫 X 글서 개방형 AI 지지…미 주도권 논쟁 가세했다",
+  "source": "tokenpost.kr",
+  "url": "https://www.tokenpost.kr/news/breaking/381065",
+  "summary": "젠슨 황, 첫 X 글로\n개방형 AI 모델 지지 공개.\nAI 주도권 논쟁 합류했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 22:27",
+  "tag": "수주",
+  "title": "이 대통령, 미국으로 출국...내일 새벽 젠슨 황 등과 회동",
+  "source": "ytn.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/052/0002384206?sid=100",
+  "summary": "대통령, 젠슨 황 등 AI 업계 리더와 회동했음.\nAI 협력 강화 방안 모색 예정임.\n한국의 AI 투자 확대 의지 강조했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-24 17:24",
   "tag": "수주",
   "title": "최태원·젠슨 황, AI 서밋 앞두고 만찬…AI 동맹 재확인",
@@ -663,60 +717,6 @@
   "source": "dt.co.kr",
   "url": "https://n.news.naver.com/mnews/article/029/0003037695?sid=104",
   "summary": "미국, UAE의 중국 AI 반도체 공급 차단.\n조건 충족 시 엔비디아 칩 공급 허용.\nAI 밸류체인 내 지정학적 영향력 확대.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 05:30",
-  "tag": "기타",
-  "title": "알리바바, 오픈소스 카드로 엔비디아 ‘CUDA 독점’ 조준… AI 생태계 자...",
-  "source": "g-enews.com",
-  "url": "https://www.g-enews.com/view.php?ud=2026071916141236820c8c1c064d_1",
-  "summary": "알리바바가 엔비디아 CUDA 독점에 맞서 오픈소스 기반 AI 연산 인프라 생태계 구축에 나섰음.\n이번 알리바바의 오픈소스 전략은 하반기 AI 연산 인프라 단가와 아시아 기술 종속도에 영향을 줄 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 05:02",
-  "tag": "실적",
-  "title": "엔비디아 매출 92%가 데이터센터…AMD와 갈라진 사업구조",
-  "source": "g-enews.com",
-  "url": "https://www.g-enews.com/view.php?ud=202607192354092549a1f309431_1",
-  "summary": "엔비디아의 매출 92%가 데이터센터에서 발생했음.\nAMD는 CPU에 집중하며 엔비디아와 사업구조가 달라졌음.\nAI 가속기 시장 성장이 두 회사 주가 상승을 견인했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 04:46",
-  "tag": "규제",
-  "title": "알리바바, AI칩 SW 전면 개방… 엔비디아 ‘쿠다 독주’에 도전장",
-  "source": "kbmaeil.com",
-  "url": "https://www.kbmaeil.com/article/20260720500007",
-  "summary": "알리바바, AI 칩 SW 오픈소스로 공개.\n엔비디아 쿠다에 도전장 내밀었음.\n미국 규제 강화 속 기술 경쟁 심화 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 04:38",
-  "tag": "기타",
-  "title": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZHdEZqeWNySTFONkN2VzRhS3NieVFrTW5zeThPVkp2M0xEbU1keUw4NWk5TkNJS1lpbXYyendkbEtIbU9TQ05OQU9aRTItNHNzSk05TW1ZcnlRdXBHUDAya25kVUtjbTY3NTNNdlhxVEt5RktBT040ZDV6enM0TURtOGFaWVAxU0NlMXlXc1k1T1dpV0dNNzFnS2dRdElfTmc?oc=5",
-  "summary": "Jensen Huang, Nvidia CEO, AI 시장 4조 달러 성장 전망 제시했음.\n이를 통해 Nvidia 시총 20조 달러까지 상승 가능성 언급했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 04:30",
-  "tag": "제품",
-  "title": "中 알리바바, '쿠다 대항마' 무료로 풀었다...엔비디아에 도전",
-  "source": "biz.sbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/374/0000522373?sid=104",
-  "summary": "알리바바, AI 칩 '전우 M890' 및 연산 성능 최적화 SW '티헤드' 공개했음.\n쿠다(CUDA)에 대항하는 오픈소스 소프트웨어를 개발자에게 무료 제공 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-20 01:13",
-  "tag": "수주",
-  "title": "Nvidia’s latest Rubin deal points to a bigger growth market",
-  "source": "thestreet.com",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUt6UHlJXzk2RUVHWF9qLTZsRmI1aVpib1o2RHF2NU9LVUlpVVlNckxuSDFYM0JrN01uZWRJUTlaYTFfMVh5SEdsanRFTk4zeXJpS0lnaDJFbDAxNDQ4OHcwQlBfT1YxZ2JESmxhR0JKUTdLZklxdkthUE1BS2o1Y2tHbk1TMU9vUmNES01oX0VEVHdxYjNwOC1R?oc=5",
-  "summary": "Nvidia의 최신 Rubin 계약이\n더 큰 성장 시장을 시사함.",
   "importance": 4
  }
 ]
