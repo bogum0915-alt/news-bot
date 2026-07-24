@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-24 08:38",
+  "tag": "수주",
+  "title": "[AI 동향] AMD, 앤트로픽에 7.4조 원 투자…엔비디아 독주 흔드나",
+  "source": "businesskorea.co.kr",
+  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273513",
+  "summary": "AMD가 AI 챗봇 앤트로픽에 7.4조 원 투자함.\n엔비디아의 AI 칩 시장 독주에 제동 걸 가능성.\nAMD, 오픈AI, 메타 이어 앤트로픽까지 주요 고객 확보.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-24 08:36",
+  "tag": "수주",
+  "title": "엔비디아 4200억 투자…KAIST 글로벌 AI 연구거점 구축",
+  "source": "ccdailynews.com",
+  "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2429978",
+  "summary": "엔비디아가 KAIST와 5년간 4200억 규모 투자.\nAI 공동연구소 설립, 에이전틱 AI 모델 개발 착수.\nAI 인재 양성 및 기술 개발 가속화 기대됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 08:34",
+  "tag": "수주",
+  "title": "AMD, 헬리오스·MI450 앞세워 엔비디아 AI 데이터센터 아성 도전",
+  "source": "autodaily.co.kr",
+  "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546056",
+  "summary": "AMD가 2027년 상반기부터 앤스로픽에 MI450 AI 칩 대규모 공급 예정임.\n앤스로픽에 최대 50억 달러 투자도 병행함.\n엔비디아 AI 데이터센터 시장에 본격 도전함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-24 07:54",
+  "tag": "수주",
+  "title": "AMKR Stock Soars 12% After-Hours — NVIDIA And Amkor Partner In $1.5B Deal To Boost Semiconductor Packaging",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjNFOGd5OUZIdllDT2ltNVgwZWNMeXphSnpGaEU2NW5uQUxXRnZvZjltU2hpZnlvQWY1OGRtZjkwZ1ZvSGs0aTFCekNtdkpiUjZDRW5XWGtpbHZTVDRMemp0ZU1JbEx0RTZudFNURXNHUS0zQW9DeDNZbWFpWFNubExXanItT3lCdERHZEtVR0RJNTg?oc=5",
+  "summary": "Amkor Technology 주가가 NVIDIA와의 15억 달러 규모 파트너십 발표 후 시간 외 거래에서 12% 급등했음.\n이번 계약은 반도체 패키징 능력 증대에 초점을 맞출 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-24 04:26",
   "tag": "제품",
   "title": "AMD \"헬리오스 랙스케일 솔루션, 엔비디아 베라 루빈과 정면승부 [AMD AA...",
@@ -681,42 +717,6 @@
   "source": "aitimes.com",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=212914",
   "summary": "엔비디아 내부에서 GPU 확보 경쟁 심화.\nAI 열풍으로 데이터센터 칩 주문 폭주.\n자율주행 사업부도 GPU 확보에 어려움 겪고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-19 08:31",
-  "tag": "제품",
-  "title": "NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign",
-  "source": "Tech Times",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclVoa0xxVHVMamNrNGFKdXhhQ1hlSnRyTk5uN1laekMzcUFJS2F2WWpyN09XRnFVcXMxV05aX01pRk5ucWdyNk5Eb0FxWVhHY3hXTWdudTV0SXJuRC1BWC1Jd2owRHdKTTItaVRraEVIMmRlTmQzaUp1b0I3Mzc1N3dkYjlXeW0xbFNlWDVGcV9MOW1aSDJETlZRNEtLdDdiZmM2bFhqcFpITkNPVlJ4b1NZTWdqeXlGNV9QdGZXbmI?oc=5",
-  "summary": "NVIDIA Vera Rubin이 7개의 칩 코드 디자인을 통해\nAI 모델 학습 후 토큰 비용을 절감했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-19 04:42",
-  "tag": "기타",
-  "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVZfZFo2U3dBOW9HN09sSlZoaHhKWEJqd3k4aktvblJQaWYzTlo3TFdiZll6UmtOczZFUG94LXR3cEtPUkpMdms2b0xfXzduYkFDdmd6SDJmdXVlb2h3OEpWVmpZZDh5cHJBeUtQS1pRWUR4WFRzcHJsZFoyY1RwOGJqWjBzX3ZNUDZ1Um14elZzbElv?oc=5",
-  "summary": "Nvidia CEO Jensen Huang이 AI의 최대 병목이 메모리라고 발언했음.\n이후 Micron과 Sandisk 주식이 Nvidia 주가보다 더 좋은 성과를 냈음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-19 01:48",
-  "tag": "기타",
-  "title": "NVIDIA Has Recovered Off Its 2026 Lows as Washington Opens a New Demand Front. Here’s Where the Stock Could Go",
-  "source": "TIKR.com",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWkdoSWVDT3pqUU5DVzhKZTFFekx4dll0RHIyaGcxMnFDV1REYXFzWjdxQzE3LWk4TlZKWXhLc3N2VURlbkxoYU5CRXpfbzlnTXItbUx2NzhzZjBxZUpZRml5SWZZdnRySHFqZXBNdGJpWDMxY3NLZ0lJLVZWQWZJOTJJV1BVM1RQYWVYb19reXVTQnA3ZEUwdmJ5cks4YUpyNVJ0dkVVVWNILTlCOWg4bzhIZk1QUWdEY3FnSzZzbUdhdzNRTnpieVI4SkgwX0k?oc=5",
-  "summary": "NVIDIA 주가가 2026년 저점 회복했음.\n미국 정부가 새로운 수요처를 열어줬음.\n주가 추가 상승 가능성 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-18 22:00",
-  "tag": "제품",
-  "title": "No Delays for Nvidia: Jensen Huang Says Rubin Is Right on Track",
-  "source": "Barchart.com",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2w1MDN2OVhxYUc4UkhjLWtHWVhBQTBXTEhvRTZDaXQ1alU2U1lRZUo3ZkhPTU05VmZzanY0dTZzM01EQXZFYUpXY1M1OTRtVGtlZFlsQlpmdWNaOHRpbXljaDloYndJSVotWktsUzI4R1dVaURxQTVOWEdnWHFsZnNsaHp6dXYydnBaOXlWT1pkX0hjOU40UnlCUERpMDdld2Vpd0FoUGRNQQ?oc=5",
-  "summary": "엔비디아 CEO 젠슨 황이\n루빈 칩 출시 일정에 차질 없음을\n강조했음.",
   "importance": 4
  }
 ]
