@@ -1,5 +1,50 @@
 [
  {
+  "ts": "2026-07-25 08:31",
+  "tag": "수주",
+  "title": "李 대통령 만난 젠슨 황 “엔비디아 AI 연구원, 한국으로 이주”",
+  "source": "sedaily.com",
+  "url": "https://n.news.naver.com/mnews/article/011/0004645046?sid=100",
+  "summary": "젠슨 황 엔비디아 CEO, 이재용 회장 만나.\nSK하이닉스, 삼성전자와 칩·메모리 디자인 파트너십.\n네이버에 대규모 투자 단행 예정.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 08:24",
+  "tag": "수주",
+  "title": "이재용·정의선·이해진, 美 엔비디아 본사서 젠슨 황 면담…사업 협력...",
+  "source": "mt.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/008/0005390782?sid=101",
+  "summary": "이재용, 정의선, 이해진 등 국내 주요 총수들이 엔비디아 젠슨 황 CEO와 면담했음.\nHBM, 파운드리, 차세대 AI 반도체 공동 개발 등 중장기 사업 협력 논의.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 08:11",
+  "tag": "수주",
+  "title": "정의선, 美 엔비디아 본사 찾아 젠슨 황과 회동…AI 협력 후속 논의",
+  "source": "edaily.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/018/0006336681?sid=103",
+  "summary": "현대차그룹 정의선 회장이 엔비디아 젠슨 황 CEO와 회동했음.\n삼성, SK, 네이버 경영진도 참석해 AI 협력 후속 논의했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 08:06",
+  "tag": "제품",
+  "title": "[로드픽] AMD, GPU 한 장 대신 'AI 공장' 내놨다… 엔비디아와 랙 단위 승...",
+  "source": "newsroad.co.kr",
+  "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61996",
+  "summary": "AMD가 헬리오스라는 신형 AI 가속기 플랫폼을 출시했음.\n오픈AI, 메타, 마이크로소프트 등 대형 AI 기업들이 파트너로 참여했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-25 07:40",
+  "tag": "규제",
+  "title": "中 \"3년 내 AI 칩 자립\"…엔비디아 추격 총력전 내막",
+  "source": "zdnet.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/092/0002431846?sid=105",
+  "summary": "중국이 3년 내 AI 칩 자립 목표.\n화웨이, 미국 제재로 EUV 장비 접근 막혔으나\n구형 장비로 연산 능력 쥐어짜내는 기술 개발했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-25 04:04",
   "tag": "기타",
   "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.",
@@ -672,51 +717,6 @@
   "source": "yna.co.kr",
   "url": "https://n.news.naver.com/mnews/article/001/0016204707?sid=104",
   "summary": "MS가 클라우드 '애저'에 AMD AI 랙 대거 도입 결정했음.\n엔비디아 독주 견제 및 AMD 시장점유율 확대 기대감 있음.\nAMD 주가 장중 3.6% 상승하며 영향력 확인했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 04:06",
-  "tag": "실적",
-  "title": "AMD: The Bull Case Requires Nvidia To Fail (NASDAQ:AMD)",
-  "source": "Seeking Alpha",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVlOMk5LcC1Kc1pjWG00X0FiYWVxNE1BN3lyTUVpVjRNd3U0dTh5MGtJTkZpVWVaaGNYVllVTGJNSVdwTzA2aVV4d1ZJUWZQcUxlam5iYUJOWlpTeDQya2ZnUVc0R1VjN1N5YkhLcVFRTXVnOE1YRnlTTVdOYldSVURLa1p4eV9nQXc?oc=5",
-  "summary": "AMD의 성장 동력은 엔비디아의 실패에 달렸다는 분석임.\n이는 AMD가 엔비디아의 시장 점유율을 빼앗아야 한다는 의미임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 04:05",
-  "tag": "수주",
-  "title": "Nvidia is building the world's first 'national AI' — Japan's FRONTia Project could be the next big step forward in global progress, but is this a step too far?",
-  "source": "TechRadar",
-  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSm9ORzMwaG91bDN1R3ktXzBTUGotbGFZUGw4cFREVi1RcDZjT0VhSGJfazlCWG9Sakt3VHg4REhxc0NzNXhmaDk1T1JXeWJpN0h1YUhyTWpSNTF5Z3hsRWJPLTZVRXRGazh3NGEtQUZzU0Q0aXQ2aVRRU3RYU3QtenFjUXJHU0ZQZ0VzZDQ1UVlZcHNKaHREeHFfSlI2VUxfZzJ5X0s5eEEwcU5lYU5KNlRtOGlGSFJxcGNZcFZUNmlkTTZNNjdOYXBTN3ZsWHF1VFpQUzdhVko4MlR1VVp0c0ZOWnRPLWpTYlJaQUwxa2ZPVXp0VS04VWlTeVNiMmdQSUFsTFZMb21sQUJxbWc?oc=5",
-  "summary": "Nvidia가 일본 정부와 협력하여 세계 최초의 '국가 AI' 구축을 추진함.\nFRONTia 프로젝트를 통해 글로벌 AI 발전에 기여할 수 있으나, 일각에서는 과도한 시도라는 우려도 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 00:02",
-  "tag": "제품",
-  "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-  "source": "NVIDIA Blog",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5OFAwb0RQNlFtQ3RCY0Q1ZFlNQjhnZnNGUTVJU2lxdWtpY083SmQzM1E5eTE3YWVmRnNtMnlWN1ZkREx5b1U2T3BBYTRTVmVIVnpwaGxnWXlhOXJCMUE?oc=5",
-  "summary": "NVIDIA가 SIGGRAPH에서 최신 AI 기술 공개했음.\nAgentic AI와 물리 AI를 활용한.\n그래픽 및 시뮬레이션 분야 발전 전망.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 00:00",
-  "tag": "제품",
-  "title": "NVIDIA’s Synthetic Video Detector Spots Fake News & AI-Generated Content With 92% Accuracy, Analyzing 1080p Footage In Just 22ms",
-  "source": "Wccftech",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmNiUTU1M044OW84WWxzMDhQTDVJejBFeHVKTVJlaFVYbWVMb3JxbW4yUHFMSmpyV2t4Z25PNDRNV1NIWHI5bTJSMXc0dFhTZUJhNlc1dzJIUk1hN2prQmpJaHZYcl9tQlk5Z2dHeG9fWGs1XzZJdGs5SmpMOFR1OXI0ZkhudlN4b09VaXQ3SzBjYllRbVHSAZsBQVVfeXFMTjZ6Y3VNV3d6QW4ySWZ1TTU0b181SDBueVNJejNnNnBCSmZpUm1xN01xOUl2Y1lBOGxTQ2NGNUJMdFo0aThTZ1VUMjBiZGFsRVdXeTBmb2w1RE9pdXlFYUZTTEV4LWd5cHBZcEM3bjZ0THpkNkZQV21hMk1vWnlldkpKck11Q2FFVW8wbl9qM0ZGSUNiVnZGLXlwaWc?oc=5",
-  "summary": "NVIDIA가 AI 생성 콘텐츠를 92% 정확도로 탐지하는.\n합성 비디오 탐지기 공개했음.\n1080p 영상도 22ms만에 분석 가능함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-21 00:00",
-  "tag": "제품",
-  "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH",
-  "source": "Wccftech",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1KbWJmSmlhejhxZUVVbHUzMW4xR1RUTHh3S1U0eUU3ZnZwSi14dUFoNVZXb1dUSnlhS1gyVVpwcFR0LXBBcExFMkJQSU5qb1VMOW1VUUtYclE3YkdwU3c4Nll2OUNJbW5ZM3hKWklUdU1ycGFGYmhqZ042eHdDMEZwX2lkaVM2dndSYVF1dU1RM3lNU2lGdzNqSWxOR0lhU3J4ZW1EYnhMaFHSAbABQVVfeXFMTnFGRTB0UmtyM2NFZkEzUjBtazc5Z1JLY0RfdzhqXzlQZGtqekF1NHJUb2ZRSWs2Qk1OOWViMUIxcWZrVEhieWpyVlhySk1CZWFRcEtVYUotNW5DV3dXQXkyaDh3MzdJOXVtbkhmZWFiSkVRMzVGdmNnQ3lVVVBjMXc2dVNiam5GMFNrVnRkUzJXMmdJNjR3V3JCSU1EcEVUanJqc1VQZG4wLUZIVHEyOXk?oc=5",
-  "summary": "NVIDIA, SIGGRAPH서 시뮬레이션 및 물리 AI 가속하는\n21가지 혁신 기술 공개했음.\nAI 칩의 기술적 진전 관련 소식임.",
   "importance": 4
  }
 ]
