@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-07-26 08:28",
+  "tag": "기타",
+  "title": "젠슨 황 \"한국은 AI 황금기…세계 인프라 구축 역량\"",
+  "source": "yonhapnewstv.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/422/0000888909?sid=104",
+  "summary": "젠슨 황 엔비디아 CEO가 한국을 AI 산업의 '황금기'라고 칭함.\n한국이 전 세계 AI 인프라 구축에 크게 기여할 역량이 있다고 평가했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 08:12",
+  "tag": "수주",
+  "title": "SK, AI 생태계 구축..엔비디아·MS·앤트로픽과 인프라 합의",
+  "source": "kpenews.com",
+  "url": "https://kpenews.com/View.aspx?No=4162211",
+  "summary": "SK가 엔비디아, MS, 앤트로픽과 AI 인프라 협력 합의했음.\nAI 반도체 및 데이터센터 분야 협력 내용 포함됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 07:20",
+  "tag": "수주",
+  "title": "SK, 엔비디아와 5천억달러 AI 팩토리 동맹…\"한국을 글로벌 AI 허브로\"",
+  "source": "newsroad.co.kr",
+  "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62008",
+  "summary": "SK가 엔비디아와 5천억달러 규모의 AI 팩토리 구축 동맹을 맺었음.\nAWS와는 기존 협력 기반으로 국내 AI 인프라 협력 확대를 논의했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 07:14",
+  "tag": "규제",
+  "title": "In Face of US Crackdown, Microsoft, Nvidia CEOs Back Open-Weight AI Models",
+  "source": "PCMag",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjdDb09qeFpqdGdycndHVnZHRHU1ZUs2ZXZPM3lwZkF5TUN0cTV2Sno1NXRKeEJvS1l6Z3dWSk5qenBlZVNlT0hTN0R6eFVHbGlSejFDcHN6MUdoZVVJZzdkeGlkMGxIM3RRcVZUM0ZJRk1haXJZRnJiNVFoakVXZHV1Z2tZRU5xblIwWHF0OS1hZGE5VkI3U2RIQVUweW1I?oc=5",
+  "summary": "마이크로소프트와 엔비디아 CEO가 오픈 가중치 AI 모델 지원 입장을 밝혔음.\n이는 미국 규제 강화 속에서 AI 생태계 발전에 중요한 시사점을 줌.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 07:06",
+  "tag": "수주",
+  "title": "SK, 엔비디아와 5000억불 AI인프라 LOI...MS와 메모리 장기협력",
+  "source": "thetracker.co.kr",
+  "url": "https://thetracker.co.kr/View.aspx?No=4162194",
+  "summary": "SK가 엔비디아와 5000억 달러 규모 AI 인프라 투자 LOI 체결했음.\nMS와는 메모리 장기 협력, AWS와는 AI 데이터센터 구축 협력 확대함.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-26 07:04",
+  "tag": "수주",
+  "title": "SKT·하이닉스 묶은 5000억달러 AI 동맹...엔비디아와 2GW 구축",
+  "source": "insight.co.kr",
+  "url": "https://www.insight.co.kr/news/564688",
+  "summary": "SKT, 하이닉스, 엔비디아가 5000억달러 규모 AI 동맹을 맺었음.\n엔비디아 DSX 플랫폼을 적용, SK하이닉스 HBM4 탑재 차세대 AI 팩토리 구축.\nSKT는 팩토리 구축·운영, 하이닉스는 HBM 공급 담당함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-26 04:21",
   "tag": "수주",
   "title": "QumulusAI Signs A $32 Million Two-Year NVIDIA Blackwell B300 Agreement",
@@ -663,60 +717,6 @@
   "source": "seoul.co.kr",
   "url": "https://n.news.naver.com/mnews/article/081/0003663801?sid=101",
   "summary": "이재용, 최태원, 이해진이 젠슨 황을 만났음.\nAI 반도체 공급망 주요 인사들의 만남으로,\nHBM, GPU, AI 인프라 협력 논의 가능성이 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 04:55",
-  "tag": "기타",
-  "title": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
-  "source": "TradingView",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXllLXVqeTZiWVBWOWE0ZlFPVmZwSndHVXhXM1BadEJ2V2xaWG8xVWRpVnhreHA1WmZLQ2ZsbFJlczdaX1ZDLS13VHY4QnpxaGJjNkdLZzhYN0JEYVlrUXFMeW1kdFIwTmQ5eFVHRkFQZ2V1Y2NKTVpQRkhRdDZkZjdKME54NWxOWHdQaXplcHdSOG9HMklhR0llcXU1UzhSdThxTmpWZ0pYUVNURm1XZFIzUVY1Qjc3WjlSU2tNa3ZIQ1E?oc=5",
-  "summary": "BoFA는 2030년까지 AI CPU 시장이 1700억 달러에 이를 것으로 전망했음.\nNvidia 주가 상승 요인 중 하나로 분석되었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 01:35",
-  "tag": "수주",
-  "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
-  "source": "TradingView",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU0EzLXBTSTVUMDE2dXM4VXhPU1pMY2hKZERXOVlTRXA0eHRVSURKd0lIMzZBem5YQ28zTF9lWjdwRDlMc0tEaTlJTmJmM0gwUUh1S3hYV3ZCdFBrYzZOMHRVQzNiaXlQSGRpbU9XOWxqQ3dKOHozZ3pfejY1UTdxVF9UTGV6UXloZjdsVUJ1dmE1UXpQQ2JhRjBKUUk1ODVvQTZTXzU2OGtmX01wcjJIVGd0V2NaRDc2SW9qRFc5X0ZpUldxTXNGSm41UjBGUk1OSjQxZ2g0UVBOMjJCRE05X1hUNWNUdHpt?oc=5",
-  "summary": "AI 인프라 수요 폭증으로 OpenAI, Nvidia 등 주요 기업들이 수십억 달러 투자 중임.\nAI 칩, 데이터센터, 관련 기술 개발 및 확장에 집중하고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 01:26",
-  "tag": "기타",
-  "title": "China's open-source AI models are 'excellent' and 'should be used': Nvidia CEO Jensen Huang",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTJ6VWFmcmJrTWJ2Vlp4Nnc4alVMZGhQNzU0NnVQN1VSTGZkOUdnVHktNVMxU1V0Y05uZWNSR2prbTc0R2lwSmI5VzY4QnE4OHltOGlTZFl4b1Y1eWYtZzdFdjVmcV9ReHVEbi1pbGRtRzlJTVJVQTZVYi1LVG1neG1rZzVRWTZGdF9uNFE3WnZMOEVRT0FqRWxwSFpFamJZeEx1ZWdua2ExX0tySk5tNEhueUdwN0F4VHBUZVV4YjlSUjByd1k1dUNweGQ?oc=5",
-  "summary": "엔비디아 CEO 젠슨 황이 중국 오픈소스 AI 모델의 우수성을 언급하며 사용을 권장했음.\n이는 AI 밸류체인 내 경쟁 구도 및 기술 개발 방향에 대한 중요한 시사점을 줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 01:00",
-  "tag": "제품",
-  "title": "AMD is quietly making Nvidia GPUs hard to recommend, and the reason has nothing to do with gaming",
-  "source": "XDA",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmMxSGJfYnAxV1R4akRwbm85TTFobUE2UlRONVFVN0FseGhHUUVKa3ExNnBESEI1QkdFS0xqMUJLOUJVeHgzcm9fb29Mb3lkeUoxTzFGYVBWZjM5Ukd2YzlaNG5HZ2VYcHA0NVgzRzZacGI1Z01DU0VsU25CVjlxSWVSOEJueVBLdEVXczdGM3YyMlRRLVFzbnMzS2FTRUdBWGZvdkJRMXEwWXExRTNsLW1rQXIxT3BPaERzWFRockdBNmUtNlVZ?oc=5",
-  "summary": "AMD가 엔비디아 GPU의 추천을 어렵게 만들고 있음.\n이유는 게임 성능과 무관한 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-22 20:41",
-  "tag": "수주",
-  "title": "Nvidia Stock: Chip Maker Deepens Google Ties Ahead of Alphabet Earnings",
-  "source": "Barron's",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BUV2NoaUg3eVdvalViWFI2NElHQWNBRlZoWUpQWHNMS1FSWkxHbGJhaU9VaGs0ZzNLc015N0JkU09EWWxxMjVmMHVvaW12ZHpuTU9SaDYzaHNyMl9yREJXaXVrWG9jVkRFbTFrUGpRQVl3anBUQ3pYallkNkd3R2x6WnN4Zw?oc=5",
-  "summary": "Nvidia가 Alphabet 실적 발표 전\nGoogle과의 파트너십 강화 소식.\nAI 칩 공급 관련 중요 이슈임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-22 15:50",
-  "tag": "수주",
-  "title": "이재용·최태원·정의선·이해진, 美서 젠슨 황 회동…글로벌 AI 협력 주...",
-  "source": "econonews.co.kr",
-  "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441610",
-  "summary": "이재용, 최태원, 정의선, 이해진 회장이 젠슨 황 엔비디아 CEO와 회동했음.\n삼성전자와 SK하이닉스는 엔비디아에 AI용 고성능 메모리를 공급 중임.\n차세대 AI 가속기 '베라 루빈'에도 양사 HBM4 탑재 예정임.",
   "importance": 4
  }
 ]
