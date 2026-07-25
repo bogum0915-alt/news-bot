@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-26 04:21",
+  "tag": "수주",
+  "title": "QumulusAI Signs A $32 Million Two-Year NVIDIA Blackwell B300 Agreement",
+  "source": "Pulse 2.0",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXpRNEZ1cjl5ODV0WXlYWVAtSU4zMEQ2c04wbjRlMU5PaEVmZ0NveE9WYllqUmVzT0ptd3J6N3JzOGFfUWFDRkNLeTFtVnNEOFhvdHhsNm5laDRJSHlmNzBSLTZIaFl1ckhncDVlOHhTR1h3NTVaUXg5a1VXY3BNMkRzZlFlLU1MbG03Z3pwbTUwSXfSAZgBQVVfeXFMUFpRcnZtSUJJckZHaVNMaXN5ZjZ5NGxjR1NYTVYtbVRMWlllbE9oMzkzWmZHY1JITXk3b3ZKNUk3eUJVTFRHWWRpNHFfYmhCa1UwcTl4TENjQWFxbjBMQjNac2FQTEtTdk5NWk9DYmFXcnhiRWItbmNNdkZNVlpleHhOU19tUXk1QmFpcGI5MXhBOUZ1eUlibF8?oc=5",
+  "summary": "QumulusAI가 NVIDIA Blackwell B300 GPU를 2년간 3,200만 달러 규모로 수주했음.\n이는 AI 칩 수요 증가와 관련 있는 중요한 계약임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 04:00",
+  "tag": "기타",
+  "title": "Nvidia CEO announces expanded partnerships with South Korean tech companies",
+  "source": "GamesBeat",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXpDWmk3OWZvMEhKczFJMzVmMEtiQS1HcFlkVzVWbUlKVDlvWHp0TVlQNjU0ZWhSbUh6XzlyNzdtVFFLcTJhY2xUa0N0WFdKYUNRNURzOWVqS3VEcDdHU19VVnVQaFNGNlpHRmw5WUJWVWtNSlNQTWw1T0ZESUtTSnpRa2Z4Qk1mUUZiQUkyT1RzaDg4NjNLbTdITDBHekU?oc=5",
+  "summary": "Nvidia CEO가 한국 기업과의\n파트너십 확대를 발표했음.\nAI 밸류체인 내 협력 강화 예상됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 03:17",
+  "tag": "수주",
+  "title": "Samsung, SK and Nvidia join $700bn US-Korea AI push",
+  "source": "Nikkei Asia",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXlCbjAwQU9GTzVYS3hJaU5Xai1pYnE3XzZQU0N6Tkx5TXFXQ05wTkw3SDZ3RnNIV081RERZR2NYZHJzZG1mSXY3T2NWUXRVVDZwNG0zckdQSWVLUjMtdGNoblk0YTl6b0F3UF9VVE9IdmlQYWp2Y1VacUYzcGN4U0prNmowQkJfbmo0dHQwbEkySUEwQ0twN202SU9fUXJMdXlIMDRybVdnTkNVX19NOENjX3BJYVUw?oc=5",
+  "summary": "삼성, SK, 엔비디아가 7000억 달러 규모의 미국-한국 AI 투자에 참여했음.\n이는 AI 밸류체인 전반에 걸친 협력 강화 및 대규모 투자 계획을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-26 00:30",
   "tag": "수주",
   "title": "SK-엔비디아, '5천억 달러' AI 인프라 동맹…최태원 \"세계 최고 AI 팩토리...",
@@ -690,33 +717,6 @@
   "source": "econonews.co.kr",
   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441610",
   "summary": "이재용, 최태원, 정의선, 이해진 회장이 젠슨 황 엔비디아 CEO와 회동했음.\n삼성전자와 SK하이닉스는 엔비디아에 AI용 고성능 메모리를 공급 중임.\n차세대 AI 가속기 '베라 루빈'에도 양사 HBM4 탑재 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-22 15:47",
-  "tag": "제품",
-  "title": "[AI 고속도로] 엔비디아, 베라 루빈 양산에 \"AI 서버 경쟁판 바뀐다\"",
-  "source": "zdnet.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/092/0002431452?sid=105",
-  "summary": "엔비디아, 신규 AI 칩 '베라 루빈' 양산 시작했음.\n오픈AI, 구글 클라우드, MS 애저 등 주요 고객사에 공급 중임.\n3분기부터 오픈AI 중심으로 대규모 공급 계획도 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-22 15:29",
-  "tag": "제품",
-  "title": "NVIDIA Vera CPU performance shows impressive gains over its x86 rivals",
-  "source": "TweakTown",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUEzWmprWUtKcVFCWGNYbmxacFhGa0RGSVNZVTNiNTVEYkFZU1FQY0JzQ2lxUW4ya1FvWHl1MEw5cmdoS3FobU1sbE5IcWx5VTQ4V3hJc2ZFM1c0NzBkSGttSnFyY1Ffa1czakhTYnpIOUlRZjlUQzFwMW5POGNjOTNKaTl0QXFTcElxSEs5aVNiS2UxSVQxZk9oX21ReVhWdk5CdE1hbFRWOXZGdlBDbVhhenlia014dmM0?oc=5",
-  "summary": "NVIDIA의 Vera CPU가 x86 경쟁사 대비.\n인상적인 성능 향상을 보였음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-22 15:26",
-  "tag": "제품",
-  "title": "엔비디아, 에이전트 맞춤형 '베라 CPU' 세부 정보 공개...\"6월부터 출하...",
-  "source": "aitimes.com",
-  "url": "https://www.aitimes.com/news/articleView.html?idxno=213044",
-  "summary": "엔비디아가 AI 에이전트 전용 '베라 CPU' 공개했음.\n6월부터 출하 예정이며, 구글 클라우드 등도 도입/테스트 중임.",
   "importance": 4
  }
 ]
