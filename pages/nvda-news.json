@@ -1,5 +1,158 @@
 [
  {
+  "ts": "2026-07-27 08:33",
+  "tag": "수주",
+  "title": "[속보]네이버, 엔비디아에 1조4800억원 규모 3자배정 유상증자",
+  "source": "mt.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/008/0005391193?sid=105",
+  "summary": "네이버가 엔비디아 대상 3자배정 유상증자 실시.\n발행 규모는 1조 4800억원에 달함.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-27 08:32",
+  "tag": "수주",
+  "title": "네이버, 엔비디아·브룩필드와 ‘14조 동맹’…AI 팩토리 본격화",
+  "source": "sentv.co.kr",
+  "url": "https://www.sentv.co.kr/article/view/sentv202607270006",
+  "summary": "네이버, 엔비디아로부터 10억 달러 투자 유치했음.\n브룩필드와 14조원 규모 AI 팩토리 구축 협력함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:32",
+  "tag": "수주",
+  "title": "네이버, 엔비디아 10억 달러 투자 받아 AI 팩토리 구축",
+  "source": "koreareport.co.kr",
+  "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51699",
+  "summary": "네이버, 엔비디아와 10억 달러 규모 AI 팩토리 공동 구축 추진함.\n엔비디아 대상 주당 20만4천500원에 신주 발행함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:32",
+  "tag": "수주",
+  "title": "네이버, 엔비디아서 10억달러 투자 유치…1.48조 규모 유상증자",
+  "source": "ajunews.com",
+  "url": "https://www.ajunews.com/view/20260727081502454",
+  "summary": "네이버가 엔비디아로부터 10억달러(약 1.48조원) 규모 투자를 유치했음. 해당 자금은 AI 신사업에 투입될 예정임. 또한, 브룩필드와 90억달러 규모 PF 협의를 진행 중이며, 8월에는 1조원 규모 자사주 소각도 계획하고 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:32",
+  "tag": "수주",
+  "title": "네이버, 엔비디아와 2028년까지 200MW 규모 글로벌 AI 팩토리 구축",
+  "source": "cstimes.com",
+  "url": "https://www.cstimes.com/news/articleView.html?idxno=714673",
+  "summary": "네이버가 엔비디아와 협력하여\n2028년까지 200MW 규모\n글AI 팩토리 구축 계획 발표했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:31",
+  "tag": "수주",
+  "title": "네이버, 엔비디아에 1조 4809억원 유상증자…AI팩토리 200MW로 확대",
+  "source": "seoul.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/081/0003664833?sid=101",
+  "summary": "네이버가 엔비디아에 1.48조원 규모 유상증자를 진행함.\n엔비디아는 네이버 지분 4.5% 확보 예정임.\n네이버는 이를 통해 AI팩토리 200MW로 확대할 계획임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:30",
+  "tag": "수주",
+  "title": "엔비디아, 네이버 3대 주주 오른다…AI 팩토리 구축 본격화",
+  "source": "newsway.co.kr",
+  "url": "https://www.newsway.co.kr/news/view?ud=2026072708250635062",
+  "summary": "엔비디아가 네이버 지분 4.5% 취득을 통해 3대 주주가 될 예정임.\n이는 제3자 배정 유상증자를 통해 진행되며,\nAI 팩토리 구축을 본격화하려는 움직임으로 해석됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:30",
+  "tag": "수주",
+  "title": "엔비디아, 네이버 신주 10억달러어치 인수…글로벌 AI 팩토리 공동 구축",
+  "source": "slist.kr",
+  "url": "https://www.slist.kr/news/articleView.html?idxno=754398",
+  "summary": "엔비디아가 네이버 신주 10억달러 인수.\n글로벌 AI 팩토리 공동 구축 협력 강화.\n양사 파트너십으로 밸류체인 영향 전망.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-27 08:30",
+  "tag": "수주",
+  "title": "네이버, 프리마켓 20% 급등…엔비디아 1.48조 '3자유증 베팅'",
+  "source": "mt.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/008/0005391188?sid=101",
+  "summary": "엔비디아가 네이버에 1.48조원 투자 발표했음.\n제3자배정 유상증자 방식이며, AI 팩토리 신사업 추진 목적임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:28",
+  "tag": "수주",
+  "title": "\"GPU·자금 13조 쥐었다\"…네이버, 엔비디아·브룩필드와 초대형 AI팩토...",
+  "source": "thefairnews.co.kr",
+  "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83221",
+  "summary": "네이버가 엔비디아, 브룩필드와 13.8조 규모 AI 팩토리 구축을 위한 파트너십 체결했음.\n엔비디아로부터 전략적 투자 유치 및 브룩필드와 자금 조달 협의를 완료했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:28",
+  "tag": "수주",
+  "title": "SK, 엔비디아와 5000억달러 AI 동맹",
+  "source": "press9.kr",
+  "url": "http://www.press9.kr/news/articleView.html?idxno=80036",
+  "summary": "SK그룹이 엔비디아, MS, AWS 등 빅테크와\nAI 반도체, 데이터센터 협력을 확대함.\n미국에서 AI 관련 논의가 있었음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:27",
+  "tag": "기타",
+  "title": "NAVER, 엔비디아 지분 투자·자사주 소각에 18%↑",
+  "source": "newsis.com",
+  "url": "https://n.news.naver.com/mnews/article/003/0014089176?sid=101",
+  "summary": "네이버가 엔비디아에 1조 4809억원 규모 투자했음.\n대규모 자사주 소각도 함께 진행했음.\n이 영향으로 주가가 18% 이상 급등했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 08:27",
+  "tag": "수주",
+  "title": "네이버, AI 인프라에 미래 건다…엔비디아, 네이버 지분 4.5% 취득",
+  "source": "nocutnews.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/079/0004172153?sid=105",
+  "summary": "네이버, 엔비디아로부터 10억 달러 투자 유치했음.\n글로벌 AI 인프라 시장 주도권 확보 나선 것임.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-27 08:02",
+  "tag": "수주",
+  "title": "IREN, 마이크로소프트·엔비디아와 AI 클라우드 계약 체결 후 주가 변동",
+  "source": "tokenpost.kr",
+  "url": "https://www.tokenpost.kr/news/cryptocurrency/381477",
+  "summary": "IREN, MS/엔비디아와 28억 달러 AI 클라우드 계약 체결.\nAI 인프라 확장을 위한 파트너십으로 주가 급등했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 07:38",
+  "tag": "수주",
+  "title": "최태원 회장-젠슨 황, AI 팩토리·AI 메모리 등 총 5,000억 달러 이상 규...",
+  "source": "techholic.co.kr",
+  "url": "http://www.techholic.co.kr/news/articleView.html?idxno=222249",
+  "summary": "최태원 회장, 젠슨 황 엔비디아 CEO 만나 AI 팩토리, AI 메모리 등 5천억 달러 이상 투자 논의했음.\nSK텔레콤, 엔비디아 DSX 플랫폼 기반 HBM4 탑재 협력 강화했음.\nHBM 등 차세대 메모리 인프라 수요 확대 대응 협력할 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 07:33",
+  "tag": "수주",
+  "title": "Nvidia (NVDA) Is Taking Korea's AI Buildout To $10 Billion",
+  "source": "simplywall.st",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWhabDV6QVpsWXhoNmJlMlRRX3NaeTFwYWlVUHZtVWVZWWt1TkNTYW9ZeGZqMjVUMDRSam4wbXRWTGZWV2RjVEFmdXBEZEFaUExqdUZvZUpRbDVuM29JeWk3c1ptVG9abTY1ZmFjcGtKaFZheUxiR3psa3RJN0dLdTIzNldUNXhtUnhlbE92Uk5pZGdOa1ZwN0ZUaUR1LURyV0lvZmprX2ItUnhkWTduZmZpZ3Z1NG5sVW9ZMWhXbzJ4WjTSAcgBQVVfeXFMT3QtMkhsWWs1MmV1UmlZblk2c2ZfRHlpalhteWVtanFpX25VZkVmX1lkeEthYjJEaEt4WXVUTTlCM3NJVTFuT3hscWJHM0JHNW1fMTVYbWdvUldodXpjRDNfQnFpS2t1d1J1aEQ5TE45TC1VYjZ0cmtadEl4TEdDTU9wUDdhcEsyTHI3UW85X29UVElpbG5XbXpLei15VWxwRXdYNmp4dEh0SFh2WkU3U2dCTVVEeUNJb0JCQVN0NDcxQ1NFUlMxM0M?oc=5",
+  "summary": "Nvidia가 한국의 AI 인프라 구축에 100억 달러 투자 예정임.\n이는 한국 AI 시장 확대에 중대한 영향을 줄 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 07:14",
+  "tag": "수주",
+  "title": "SK, 엔비디아에 메모리 장기 공급",
+  "source": "thelec.kr",
+  "url": "https://www.thelec.kr/news/articleView.html?idxno=60040",
+  "summary": "SK텔레콤, 엔비디아에 HBM4 장기 공급 결정했음.\n최대 2GW 규모 AI 팩토리 구축에 사용될 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-27 04:34",
   "tag": "수주",
   "title": "젠슨 황 “엔비디아 AI 연구원들, 한국 이주 계획”",
@@ -564,159 +717,6 @@
   "source": "ytn.co.kr",
   "url": "https://n.news.naver.com/mnews/article/052/0002384206?sid=100",
   "summary": "대통령, 젠슨 황 등 AI 업계 리더와 회동했음.\nAI 협력 강화 방안 모색 예정임.\n한국의 AI 투자 확대 의지 강조했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 17:24",
-  "tag": "수주",
-  "title": "최태원·젠슨 황, AI 서밋 앞두고 만찬…AI 동맹 재확인",
-  "source": "kmib.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/005/0001862967?sid=101",
-  "summary": "최태원 SK그룹 회장과 젠슨 황 엔비디아 CEO가\nAI 서밋 앞두고 만찬하며 AI 동맹 재확인했음.\n양측은 AI 모델, 반도체, 데이터센터 협력 논의했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 17:18",
-  "tag": "수주",
-  "title": "최태원·젠슨 황 美서 만찬… SK·엔비디아 'AI·반도체' 혈맹 강화",
-  "source": "m-i.kr",
-  "url": "https://www.m-i.kr/news/articleView.html?idxno=1395174",
-  "summary": "최태원 SK그룹 회장과 젠슨 황 엔비디아 CEO가 만나\nAI 및 HBM 분야 협력을 강화하기로 했음.\n데이터센터 인프라, 로보틱스 연계 피지컬 AI 협력도 유지함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 17:00",
-  "tag": "수주",
-  "title": "최태원, 젠슨 황과 美서 만찬 회동…AI 인프라 협력 논의",
-  "source": "iminju.net",
-  "url": "http://www.iminju.net/news/articleView.html?idxno=167116",
-  "summary": "최태원 SK 회장이 젠슨 황 엔비디아 CEO와 만찬을 가졌음.\n샌프란시스코 AI 서밋에 참석 예정이며, 앤트로픽, 오픈AI, 브로드컴 CEO도 참석함.\nAI 인프라 협력 방안을 논의했을 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 16:55",
-  "tag": "수주",
-  "title": "최태원·젠슨 황, 미국서 만찬 회동…'AI 동맹' 재확인",
-  "source": "wowtv.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/215/0001259899?sid=101",
-  "summary": "최태원 SK그룹 회장과 젠슨 황 엔비디아 CEO가 미국서 AI 서밋서 만찬 회동 가졌음.\nAI 서밋에는 앤트로픽, 오픈AI, 브로드컴 CEO 등도 참석 예정임.\nAI 생태계 전반의 주요 인사들이 모여 AI 동맹을 재확인했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 16:48",
-  "tag": "제품",
-  "title": "리사 수 30년 영혼의 단짝 \"엔비디아 우위는 이제 사라졌다\"",
-  "source": "hankyung.com",
-  "url": "https://n.news.naver.com/mnews/article/015/0005313540?sid=105",
-  "summary": "앤스로픽이 AMD 가속기용 코드 최적화를 주말만에 완료했음.\nAMD는 소프트웨어 스택을 공개하며 AI 칩 시장에서의 경쟁력 강화 움직임을 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 16:46",
-  "tag": "수주",
-  "title": "최태원 회장, 美 AI서밋 앞두고 젠슨 황과 회동…메모리 협력 속도",
-  "source": "mt.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/008/0005390631?sid=101",
-  "summary": "최태원 회장이 美 AI 서밋서 젠슨 황 엔비디아 CEO와 회동했음.\n메모리 협력 강화 방안 논의 예상됨.\nAI 서밋에 샘 올트먼, 다리오 아모데이 등 빅테크 CEO들도 참석함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 16:22",
-  "tag": "기타",
-  "title": "李, 7박11일 美·남미 순방…젠슨 황 등 빅테크 CEO 연쇄 회동",
-  "source": "donga.com",
-  "url": "https://n.news.naver.com/mnews/article/020/0003736322?sid=100",
-  "summary": "이 대통령, 젠슨 황 엔비디아 CEO 등 빅테크 CEO들과 회동.\n삼성전자 이재용 회장도 함께 자리할 예정.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 08:38",
-  "tag": "수주",
-  "title": "[AI 동향] AMD, 앤트로픽에 7.4조 원 투자…엔비디아 독주 흔드나",
-  "source": "businesskorea.co.kr",
-  "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=273513",
-  "summary": "AMD가 AI 챗봇 앤트로픽에 7.4조 원 투자함.\n엔비디아의 AI 칩 시장 독주에 제동 걸 가능성.\nAMD, 오픈AI, 메타 이어 앤트로픽까지 주요 고객 확보.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-24 08:36",
-  "tag": "수주",
-  "title": "엔비디아 4200억 투자…KAIST 글로벌 AI 연구거점 구축",
-  "source": "ccdailynews.com",
-  "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2429978",
-  "summary": "엔비디아가 KAIST와 5년간 4200억 규모 투자.\nAI 공동연구소 설립, 에이전틱 AI 모델 개발 착수.\nAI 인재 양성 및 기술 개발 가속화 기대됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 08:34",
-  "tag": "수주",
-  "title": "AMD, 헬리오스·MI450 앞세워 엔비디아 AI 데이터센터 아성 도전",
-  "source": "autodaily.co.kr",
-  "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546056",
-  "summary": "AMD가 2027년 상반기부터 앤스로픽에 MI450 AI 칩 대규모 공급 예정임.\n앤스로픽에 최대 50억 달러 투자도 병행함.\n엔비디아 AI 데이터센터 시장에 본격 도전함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 07:54",
-  "tag": "수주",
-  "title": "AMKR Stock Soars 12% After-Hours — NVIDIA And Amkor Partner In $1.5B Deal To Boost Semiconductor Packaging",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjNFOGd5OUZIdllDT2ltNVgwZWNMeXphSnpGaEU2NW5uQUxXRnZvZjltU2hpZnlvQWY1OGRtZjkwZ1ZvSGs0aTFCekNtdkpiUjZDRW5XWGtpbHZTVDRMemp0ZU1JbEx0RTZudFNURXNHUS0zQW9DeDNZbWFpWFNubExXanItT3lCdERHZEtVR0RJNTg?oc=5",
-  "summary": "Amkor Technology 주가가 NVIDIA와의 15억 달러 규모 파트너십 발표 후 시간 외 거래에서 12% 급등했음.\n이번 계약은 반도체 패키징 능력 증대에 초점을 맞출 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 04:26",
-  "tag": "제품",
-  "title": "AMD \"헬리오스 랙스케일 솔루션, 엔비디아 베라 루빈과 정면승부 [AMD AA...",
-  "source": "it.chosun.com",
-  "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166441",
-  "summary": "AMD의 '헬리오스 랙스케일 솔루션'이 엔비디아와 경쟁 구도를 형성했음.\n마이크로소프트, 앤트로픽 등 빅테크 기업이 도입 예정이며,\n올 하반기부터 고객사에 공급 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 03:45",
-  "tag": "제품",
-  "title": "An Emboldened AMD Is Taking Direct Aim at Nvidia",
-  "source": "Barron's",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMGthMk9qejBjakx1YlZFQks0RndpMTVZNkdPS2F1QlFNNzN4Z29POVNnZ3czWkhoZzNXaGtNNl9QRnU0LXdLaWNFZGdFbk5KRFBBRm5GWmdoWS1TX3NxbWhORnBjUGxpUXBsU2NrVnllbXZmeXVzVWtMRGs2UQ?oc=5",
-  "summary": "AMD가 Nvidia를 직접적으로 겨냥하며\nAI 칩 시장 경쟁 심화 예고함.\n새로운 GPU 아키텍처 및 전략 발표 기대됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 00:33",
-  "tag": "제품",
-  "title": "엔비디아 GPU보다 58배 크고 15배 빠른 AI 칩 만들어",
-  "source": "chosun.com",
-  "url": "https://n.news.naver.com/mnews/article/023/0003989302?sid=105",
-  "summary": "셀레브라스가 엔비디아 GPU보다 58배 크고 15배 빠른 AI 칩 개발. \n수백 개 GPU를 엮는 방식과 달리 역발상으로 주목받음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 00:31",
-  "tag": "기타",
-  "title": "‘脫엔비디아’ 속도낸다… AMD-앤스로픽 7.4조 빅딜",
-  "source": "donga.com",
-  "url": "https://n.news.naver.com/mnews/article/020/0003736139?sid=101",
-  "summary": "앤스로픽이 엔비디아 칩 외에 구글 TPU, 아마존 트레이니엄 등\n다양한 AI 칩을 병행 사용하기 시작했음. 엔비디아 종속 탈피를 위한\n멀티칩 전략 가속화 움직임임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 19:46",
-  "tag": "제품",
-  "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
-  "summary": "AMD가 엔비디아에 도전하는 차세대 AI 인프라 출시를 준비 중임.\n경쟁 심화 가능성 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 19:34",
-  "tag": "수주",
-  "title": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors",
-  "source": "The Globe and Mail",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHRWbklKek1oQWpQYmtpdkx2b1E0WVNUYk9DMTN3WUtiaDlCa0tONXVzYXo4OGJRclV4MHo0WmNWdnN6Qk5jOUltdHBSeDVQRlhBU0RQR2ZwRUlSSGZ1WEtVUHIzd29odzlQT3lCaU9qR3MxU3RNdWc3SGJLdzh0ZGpJcjFiU2Z1MGd4blBqZy1QNERCc2MwLUpibkV3MTNzMHE1WjAtQ0NucWVHWGxOUlpKVDdkNnVydTlhNUhjWXM3d2dGVmZQYm92SkpsMk52bDV3S2k5TExBeTAwM2ZHYUF3?oc=5",
-  "summary": "TSMC가 Nvidia 및 Broadcom 투자자에게\n매우 긍정적인 소식을 발표했음.\n구체적인 내용은 발췌에 없으나, 타이틀로 미루어\n중요한 공급 계약 또는 캐파 증설 관련 발표로 추정됨.",
   "importance": 4
  }
 ]
