@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-27 04:34",
+  "tag": "수주",
+  "title": "젠슨 황 “엔비디아 AI 연구원들, 한국 이주 계획”",
+  "source": "donga.com",
+  "url": "https://n.news.naver.com/mnews/article/020/0003736647?sid=100",
+  "summary": "젠슨 황 엔비디아 CEO가 한국에 AI 프런티어랩을 시작한다고 밝혔음.\n선도적인 AI 연구원들이 한국 이주 계획임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 03:42",
+  "tag": "수주",
+  "title": "엔비디아, SK와 5000억달러 AI 동맹",
+  "source": "view.asiae.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/277/0005794706?sid=104",
+  "summary": "엔비디아가 SK하이닉스와 5000억 달러 규모의 AI 동맹을 맺었음.\n차세대 AI 메모리 공동 개발 및 장기 공급 계약 체결함.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-27 03:07",
+  "tag": "수주",
+  "title": "Nvidia just locked down deal that changes AI race",
+  "source": "thestreet.com",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWd4cnJvcUdlaEFzRVgzSGl4bFdpR0RCWGtCczJwRnVIUC12R1B4bHlNQ0dRdTl4TGFEVUxLSEk2NVFqSmtHOGNwOVpsNklCTGg3SDFzaVd4SkJ0QXpXVUluMDVFTzJKdFBESVp4MTVON3JuSnl6ZGktRzVrZlQzaXN3NVA0NFdvdzNfWlAtZTdEYlZzWHVfQ0E5WFd2RWZvel84?oc=5",
+  "summary": "Nvidia가 AI 경쟁 판도를 바꿀 계약을 체결했음.\n자세한 내용은 발췌에 없어 알 수 없음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-27 00:00",
   "tag": "수주",
   "title": "[김대호 진단] 반도체 열전 (21) AMD... 엔비디아 \"게 섰거라\" 실리콘밸...",
@@ -690,33 +717,6 @@
   "source": "The Globe and Mail",
   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHRWbklKek1oQWpQYmtpdkx2b1E0WVNUYk9DMTN3WUtiaDlCa0tONXVzYXo4OGJRclV4MHo0WmNWdnN6Qk5jOUltdHBSeDVQRlhBU0RQR2ZwRUlSSGZ1WEtVUHIzd29odzlQT3lCaU9qR3MxU3RNdWc3SGJLdzh0ZGpJcjFiU2Z1MGd4blBqZy1QNERCc2MwLUpibkV3MTNzMHE1WjAtQ0NucWVHWGxOUlpKVDdkNnVydTlhNUhjWXM3d2dGVmZQYm92SkpsMk52bDV3S2k5TExBeTAwM2ZHYUF3?oc=5",
   "summary": "TSMC가 Nvidia 및 Broadcom 투자자에게\n매우 긍정적인 소식을 발표했음.\n구체적인 내용은 발췌에 없으나, 타이틀로 미루어\n중요한 공급 계약 또는 캐파 증설 관련 발표로 추정됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 14:57",
-  "tag": "기타",
-  "title": "이재용·정의선, AI 자문기구 합류…젠슨 황·리사수 머리 맞댄다",
-  "source": "joongang.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/025/0003539647?sid=101",
-  "summary": "AI 분야 세계 최고 기업 CEO들과 한국 주요 기업 총수들이\nAI 자문 기구에 합류했음.\n젠슨 황, 사티아 나델라, 리사 수 등이 공동 의장단임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 14:50",
-  "tag": "제품",
-  "title": "CPU까지 팔겠다는 엔비디아, 삼전닉스도 ‘함박웃음’",
-  "source": "asiatime.co.kr",
-  "url": "https://www.asiatime.co.kr/article/20260723500311",
-  "summary": "엔비디아, 신형 AI 랙 '베라 루빈 NVL72' 출시.\n구글 클라우드, MS 애저 등 주요 CSP에 공급 개시.\nCPU 사업 진출 가능성 시사, 관련 기업 주목.\n삼성전자, SK하이닉스 등 메모리 반도체 기업 수혜 기대.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 14:49",
-  "tag": "수주",
-  "title": "'AI 기업' 이통3사 CEO 만난 과기장관…\"오픈AI·엔비디아에 '韓 투자' 요...",
-  "source": "hankyung.com",
-  "url": "https://n.news.naver.com/mnews/article/015/0005313069?sid=105",
-  "summary": "과기장관, AI 빅테크와 협력 논의.\n한국 투자 강화 요청할 예정.\n엔비디아 등 주요 기업 CEO 미팅.",
   "importance": 4
  }
 ]
