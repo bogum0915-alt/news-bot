@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-26 16:42",
+  "tag": "수주",
+  "title": "최태원·젠슨 황, 5000억달러 'AI 동맹'…한국에 2GW 팩토리",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=202607261631327813112616b072_1",
+  "summary": "SK하이닉스와 엔비디아가 5000억 달러 규모의 AI 동맹을 추진함.\nMS, 앤트로픽, AWS 등과 2500억 달러 규모 협력도 포함됨.\n총 7500억 달러는 즉시 집행되는 현금 투자나 확정 매출이 아님.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-26 15:14",
+  "tag": "수주",
+  "title": "정의선, 美서 젠슨 황과 '맞손'…AI 모빌리티 협력 '본궤도'",
+  "source": "asiatoday.co.kr",
+  "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009336",
+  "summary": "현대차그룹 정의선 회장이 엔비디아 젠슨 황 CEO와 만나\nAI 모빌리티 협력을 본격화했음.\n이는 피지컬 AI 시대를 그룹의 미래 비전으로 제시하고\n제조, 모빌리티, 로보틱스 AI 생태계 구축에 나서는 행보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-26 08:28",
   "tag": "기타",
   "title": "젠슨 황 \"한국은 AI 황금기…세계 인프라 구축 역량\"",
@@ -700,23 +718,5 @@
   "url": "https://n.news.naver.com/mnews/article/023/0003989218?sid=105",
   "summary": "AMD가 앤스로픽에 7조원 투자함.\nAI 서버 수백억 달러 규모 공급 계약 체결했음.\n엔비디아 추격 위한 멀티칩 동맹 구축했음.",
   "importance": 5
- },
- {
-  "ts": "2026-07-23 05:31",
-  "tag": "규제",
-  "title": "China’s Moonshot stole from Anthropic, used servers in Thailand, US says",
-  "source": "NewsNation",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1BXTjIxLUsydEJTRVNHOWpBVEg4eHd5dW5YeHByR1MzY3JpZ0tkTEswc1Vhd1ZCZHdCZkNCQXFGLUhGeHl1c2JqQkc5cExRSWs0S25tZ1ZJZ3dXRHppcW5iUFUyQkRzdHZFOFhySi10ckxtOFhLcUM2WXpDdjhMWlh3a3BYQVlGR2FFWjBFR1BKejdpTXFUbEFVOUtlM1VfZEphMdIBqgFBVV95cUxPQUQyZ1MyOG1WcmUzVXVBWUJodW5ULXZFd3JLYlJwM0NyVV9ZV21SRVliVDdSN0lYOFhjX2RraXIzQi1rZzNLVXNVN2s4ZHB5aENZMkstMDgxYmZtbkZITXhRc2wtX0s1WXdxclZmTHdPUlhlN21ibDJ4OVJsSGRkSXZFTEhGSGwzcGw5VWZuOXJsazRwZnkwTVJBejBteFlocnlPLVoyMFhxdw?oc=5",
-  "summary": "미국 정부가 중국의 AI 기업 'Moonshot'이\nAnthropic의 기술을 도용하고 태국 서버를 사용했다고\n주장했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 05:04",
-  "tag": "기타",
-  "title": "이재용·최태원·이해진, 미국서 젠슨 황 만난다",
-  "source": "seoul.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/081/0003663801?sid=101",
-  "summary": "이재용, 최태원, 이해진이 젠슨 황을 만났음.\nAI 반도체 공급망 주요 인사들의 만남으로,\nHBM, GPU, AI 인프라 협력 논의 가능성이 있음.",
-  "importance": 4
  }
 ]
