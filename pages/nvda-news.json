@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-27 00:00",
+  "tag": "수주",
+  "title": "[김대호 진단] 반도체 열전 (21) AMD... 엔비디아 \"게 섰거라\" 실리콘밸...",
+  "source": "g-enews.com",
+  "url": "https://www.g-enews.com/view.php?ud=202607231048325060906806b77b_1",
+  "summary": "AMD가 엔비디아의 고가 칩 및 물량 부족 문제 속에서\n현실적이고 강력한 대안으로 부상하고 있음.\n엔트로픽 등 빅테크와의 동맹으로 생태계 확장 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-26 19:55",
   "tag": "수주",
   "title": "NAVER and NVIDIA Triple Korea's AI Factory to 200 Megawatts in $10 Billion Deal With Brookfield",
@@ -708,15 +717,6 @@
   "source": "hankyung.com",
   "url": "https://n.news.naver.com/mnews/article/015/0005313069?sid=105",
   "summary": "과기장관, AI 빅테크와 협력 논의.\n한국 투자 강화 요청할 예정.\n엔비디아 등 주요 기업 CEO 미팅.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 14:46",
-  "tag": "제품",
-  "title": "[기업家] 엔비디아 ㅣ '베라 루빈' 본격화·AI 플랫폼 확장…글로벌 인...",
-  "source": "cbci.co.kr",
-  "url": "https://www.cbci.co.kr/news/articleView.html?idxno=591225",
-  "summary": "엔비디아, '베라 루빈 NVL72' AI 랙을 구글 클라우드, MS 애저 등 주요 CSP에 공급했음.\n이 시스템은 GPU '루빈'과 CPU '베라' 등으로 구성됐음.",
   "importance": 4
  }
 ]
