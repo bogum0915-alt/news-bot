@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-26 19:55",
+  "tag": "수주",
+  "title": "NAVER and NVIDIA Triple Korea's AI Factory to 200 Megawatts in $10 Billion Deal With Brookfield",
+  "source": "Tech Times",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZGx4bHdVUjhSOHRfNUhadlpSOFBRVThvZ3NpSENoZm9oYjlVN3lUUm5pMDBUSkpkN29Zc1ROQVdRb3FmNlVocjRwblNJWmx3ckxFS09zQmUxdEpaSWN4R1ZDUjkwZVUtbU5oamY2cnFuX202ZUhwUWJwMHN5UE8xeHBXVWxHeHVST0ZGSkp1UF9EOVExaGxmMXk3TGJJTHpnNW1zQ3ZXazl4M3pteWs1enVkdU94Q3FLMHNSS3JmZ3ZUZEhDY1ljZFJpNzJ3dw?oc=5",
+  "summary": "네이버와 엔비디아가 브룩필드와 100억 달러 규모 계약 체결했음.\n한국의 AI 공장 규모를 200메가와트 수준으로 3배 확장함.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-07-26 19:03",
+  "tag": "수주",
+  "title": "삼성·브로드컴, 2000억불 턴키 계약…SK·엔비디아 5000억불 인프라 동...",
+  "source": "edaily.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/018/0006337104?sid=101",
+  "summary": "삼성, 브로드컴과 2000억불 턴키 계약 체결했음.\nSK하이닉스, 엔비디아 외 MS와도 메모리 장기 공급 추진함.\nAI 칩과 컴퓨팅 파워 수요 급증에 따른 대규모 인프라 투자 예상됨.",
+  "importance": 5
+ },
+ {
   "ts": "2026-07-26 16:42",
   "tag": "수주",
   "title": "최태원·젠슨 황, 5000억달러 'AI 동맹'…한국에 2GW 팩토리",
@@ -700,23 +718,5 @@
   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=591225",
   "summary": "엔비디아, '베라 루빈 NVL72' AI 랙을 구글 클라우드, MS 애저 등 주요 CSP에 공급했음.\n이 시스템은 GPU '루빈'과 CPU '베라' 등으로 구성됐음.",
   "importance": 4
- },
- {
-  "ts": "2026-07-23 14:24",
-  "tag": "제품",
-  "title": "엔비디아, '베라루빈' 공급 시작",
-  "source": "todayeconomic.com",
-  "url": "https://www.todayeconomic.com/news/article.html?no=31408",
-  "summary": "엔비디아, '베라루빈' NVL72 공급 시작했음.\n구글 클라우드, MS 애저, 오라클 클라우드 등에도 공급 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-23 14:16",
-  "tag": "수주",
-  "title": "AMD, 앤스로픽에 7조원 투자…‘멀티칩 동맹’으로 엔비디아 추격",
-  "source": "chosun.com",
-  "url": "https://n.news.naver.com/mnews/article/023/0003989218?sid=105",
-  "summary": "AMD가 앤스로픽에 7조원 투자함.\nAI 서버 수백억 달러 규모 공급 계약 체결했음.\n엔비디아 추격 위한 멀티칩 동맹 구축했음.",
-  "importance": 5
  }
 ]
