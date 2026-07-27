@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-07-27 19:50",
+  "tag": "수주",
+  "title": "엔비디아, 오픈AI와 오하이오 데이터센터에 2500억 달러 지급보증 협상",
+  "source": "digitaltoday.co.kr",
+  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687436",
+  "summary": "엔비디아가 오픈AI의 대규모 데이터센터 프로젝트에\n2500억달러 규모 지급보증을 논의 중이라는 소식임.\n이는 AI 인프라 투자 및 공급망 확대에 영향이 있을 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 19:29",
+  "tag": "수주",
+  "title": "엔비디아, SKT·네이버 등과 오픈소스 기반 AI 보안 얼라이언스 결성",
+  "source": "etnews.com",
+  "url": "https://n.news.naver.com/mnews/article/030/0003451496?sid=105",
+  "summary": "엔비디아가 SKT, 네이버 등과 오픈소스 기반 AI 보안 얼라이언스를 결성했음.\n폐쇄형 시스템 의존 대신 개방형 모델과 에이전트 하네스 활용.\nAI 보안 생태계 확장을 위한 파트너십이므로 투자에 유의미함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 19:28",
+  "tag": "기타",
+  "title": "Naver gets first outside investor since 2004 as Nvidia takes 4.5 percent",
+  "source": "Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDV6ODBhbW13eHdsQm9QUHZFS3dOX3k5SV9kT2RyMVJpd1VLcGJlcHEySE1WVG1qZmpyM1hFUkdFejRMekhVV2toUzZCSVhmYzJHZjNySEVaVnNZZEhCYnhQd1hPZ3IxYlZKRHFacS1pdU1wcGUzNHRyY3kzc1NhMjlPa2ZQU013SUNHNHNmMTU1YVd3ZEhGTHlZYkZxaHY1N0xmMGphUUhKUUpiNG0xOHBvMWpsQUZ2eHNHd2FpaEYyUmtKOFE?oc=5",
+  "summary": "엔비디아가 네이버 지분 4.5% 인수했음.\n2004년 이후 첫 외부 투자 유치임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 19:24",
+  "tag": "실적",
+  "title": "Nvidia’s $500 billion week and what it means for AI",
+  "source": "Northeast Times",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzBDT0tHR25zTWdvUm9aRVFaUmg4RkktMDZndTZaUHZGQjlkR3R5SmRrM056QVFPS3lGOFJiU0xSMW8wV29BLUNnMTVCTy1YczAwUUxQLUFraTJFWFR3TUhVMFJyRFJfRDVHSy1mdDFhUWx2SUNjOFV6VThKU3dDeEw3WlctTUNPX0hVVXhXTkZaX0U?oc=5",
+  "summary": "Nvidia는 지난 주 시가총액 5000억 달러 증가라는 이례적인 성과를 기록했음.\n이는 AI 시장의 폭발적인 성장과 Nvidia의 지배력을 보여주는 지표임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 19:20",
+  "tag": "수주",
+  "title": "Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmNHeGYwc296TEc1bk9xLWZkYTY4R3NhaEpUbEEyUWFZZmtiaW8yeEVISGhKX0lWdzFlZjlHbjlVQ2FHVThnN0xLYUlFV0txS0M3YU52M1ZPR2xEX2pUZGR5Y0taTEd1WWVvaFhnbk0xMk9BTFJKQjgxWkJjQklNUElaRm54NU9NcWViSjJ6dzcwRlFzbXY4RTl2X0Z5NTBvWm9QTG5qNldwTGUwcFpRTm1zb3o?oc=5",
+  "summary": "Nvidia가 7500억 달러 규모 계약 추진 중.\n이는 AI 산업의 순환 금융(circular financing) 재부상 우려를 낳고 있음.\n자금 조달 방식 및 지속 가능성에 대한 의구심 제기됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-27 19:04",
+  "tag": "수주",
+  "title": "엔비디아가 네이버에 1.5조 꽂자··· '삼전닉스'까지 같이 뛰었다",
+  "source": "greenpostkorea.co.kr",
+  "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307174",
+  "summary": "엔비디아, 네이버에 1.5조 투자했음.\n삼성전자, 브로드컴과 5년간 2000억달러 규모\n메모리 공급 및 AI 칩 파운드리 협력 추진함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-27 08:33",
   "tag": "수주",
   "title": "[속보]네이버, 엔비디아에 1조4800억원 규모 3자배정 유상증자",
@@ -663,60 +717,6 @@
   "source": "TIKR.com",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSERmdWVWeVgxay1SQUp4dVJZUTd3NzdPam5vcDZoZDNRYVdoaU1yWkctN1V4WV82TENHTU02MXB1WnNfYmZLcE9HcVd1MldacFBDVFBfelBreGE1R05mZGU3QVR6eG04YnFVM092azYwV1ZFVlZmbDVpeTB4ZHBWUm40NjF3OFduY3pRdHN4ZmZMRnV6VFh1VWxORXRqcC1RdVNocGE3NWw2TE1kOVVXUHhfbURzaFM5dEFRN2R2UQ?oc=5",
   "summary": "NVIDIA는 CPU 매출이 1조 달러 전망치에 포함되지 않는다고 밝혔음.\n이는 현재 예상보다 더 큰 성장을 시사할 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 23:04",
-  "tag": "실적",
-  "title": "What to Expect From NVIDIA's Q2 2027 Earnings Report",
-  "source": "Barchart.com",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3Nub1FYcDVIZ1dicEVyYVBfLVZCd2k0T01uV3JXR1RXQWlWcE95VklGekNzVzVyUk9iQnNJdDQ3emIyeElmVTR4M0hCV01seFR0U0E0cG1WVFYzQVJZTGlCVUpEdE5vVm9OSno5STc3bXRycjNxUjJ1blU1MHctb0FmNU1PSjJOLXhVWmNJSWwtNkh6V3ZNdWNfUzE?oc=5",
-  "summary": "NVIDIA의 2027년 2분기 실적 발표에 대한 전망임.\n투자자들은 실적 발표를 통해 향후 실적 및 가이던스를 파악할 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 22:58",
-  "tag": "기타",
-  "title": "Why Meta, Microsoft, and Nvidia are championing open-weight AI",
-  "source": "Investing.com",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlVieEtIam5KZFpuMUtFWGgxdGxuSndVdDREVDBlY1VBV2tFQkpsQVE2MWxxVlR5YjFETE5uU2ZSWFB5MEY3eTBheDV5ZHJQU2RzT2pHbk1aMkdqZFJBYnJ1QUFjTGlTSVRtejhLTUNBTDhUVllpR0NReGM2SUVwY005NFR5eTc0S2E5VVFDYnJLY0E2QXA3bkU5QU5sa3dWQThyNFlrMDJ0dkM5UHNSUF9MZF9PZkE?oc=5",
-  "summary": "메타, 마이크로소프트, 엔비디아가 오픈 웨이트 AI를 지지하고 있음.\n이는 AI 개발의 투명성과 접근성을 높이는 데 기여할 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 22:45",
-  "tag": "규제",
-  "title": "AMD takes on Nvidia, US takes on Chinese AI models and AI spending still spooks investors",
-  "source": "SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0JnaVRjd2FlTWpKeV8waXZ1dDZCTkpaZEVtTlI4Z2lna3IwS3dLdlVxcUpJVlhRUUh0OFZIUkRBaENrNW9JU1M1Z1VfRFRXeGxxRmlQc0ZSbWlrY1dNVWdjejlrNXJ6UTJjQlVnWGhNRGZzakw3alZ1V2ljWE1GRlJoN2hLbXpKbFdGWUtPY09TOUEtajhrRmEwWmF1VmtlWVFlUlFacVRNSVlKV0FzTk45QldpZw?oc=5",
-  "summary": "AMD가 엔비디아에 도전장을 내밀었음.\n미국 정부는 중국 AI 모델을 규제할 예정임.\nAI 투자에 대한 투자자들의 불안은 여전함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 22:43",
-  "tag": "수주",
-  "title": "Wistron Opens U.S. Facility to Produce Nvidia Superchips",
-  "source": "Design and Development Today",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc083TElCSlowODM1cUNMWk9jR2hVRjNINHVPOXgxTEpycmJ5SHRUcHVEVHJCWll6U2pEUFdmYmxxdjN1NmJ2UDBYa3ZjaFFnemtxU0Ywak9MalRQeERjNHRuMjlQTWQwcUZWRlBnVUpMaFlLWW1EUzExUVllMlo5d3ZXSnhOajloOFJwWVhoTHk4dVNyWGtGSWlFVnYyTVZvUi1HM0VOTDlfS3ZHaU4yV19KR0ZsYkVBc0xuWlg4NA?oc=5",
-  "summary": "Wistron이 미국 시설을 개설했음.\nNvidia 슈퍼칩 생산을 담당할 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 22:32",
-  "tag": "기타",
-  "title": "젠슨 황, 첫 X 글서 개방형 AI 지지…미 주도권 논쟁 가세했다",
-  "source": "tokenpost.kr",
-  "url": "https://www.tokenpost.kr/news/breaking/381065",
-  "summary": "젠슨 황, 첫 X 글로\n개방형 AI 모델 지지 공개.\nAI 주도권 논쟁 합류했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-24 22:27",
-  "tag": "수주",
-  "title": "이 대통령, 미국으로 출국...내일 새벽 젠슨 황 등과 회동",
-  "source": "ytn.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/052/0002384206?sid=100",
-  "summary": "대통령, 젠슨 황 등 AI 업계 리더와 회동했음.\nAI 협력 강화 방안 모색 예정임.\n한국의 AI 투자 확대 의지 강조했음.",
   "importance": 4
  }
 ]
