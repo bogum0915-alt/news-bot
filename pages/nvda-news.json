@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-07-29 04:37",
+  "tag": "기타",
+  "title": "Nvidia CEO tries to quell concerns over open-source AI models and China in Congress visit",
+  "source": "Washington Examiner",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamtjRll0NEI2emR5blRfbXJHRkIxWk83VUF3S0ZlME5iQVd2R1U2OHpqX2RqS0tGM0JVS1BpOTRYZHVtcTZDb3A4QkJKOE15d0Q2eklhRnZEWWNuVWxNeWNmOTJVUDk1Qko5aDhwRGJCTTBkcGlXelNYMU5lS3h3dEZXWEJTWnAwSlZYT0pzRWViRkNkN01lTlV2WTJtUUozdkxzeHNEZlI?oc=5",
+  "summary": "Nvidia CEO 젠슨 황이 의회 방문 시 오픈소스 AI 모델과 중국 관련 우려를 해소하려 했음.\n오픈소스 AI의 확산이 Nvidia의 사업에 미칠 영향과 중국 시장에서의 입지에 대한 질문에 답했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-29 04:28",
+  "tag": "수주",
+  "title": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
+  "source": "TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTRFSHBWRlVFTUtwT3pzNV95ekh5dzMyQktSMF9ta1B3WG9LanZFZkZjdlNSbmZQZVFtd3laWDhPaVA2WUo2MHRzRlRBUno1eVNoUHNob2FJbElJRjU1QVVhLURlNkIzVFhpUkQ1NUtNeXM2TVNqVXE4NzdSZ2xTcDVSZU5LdWgwX1RNTFUta1FBY0hXYjNNRk0xVHJFekhEY2JsLThEaDlmempPemdPR0JBQVRlY0IzMnZtS1kwSnNBdw?oc=5",
+  "summary": "Nvidia가 500억 달러 규모의 텍사스 데이터 센터 임대 계약을 체결했음.\n이는 AI 칩 수요 증가와 데이터 센터 확장을 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-29 04:28",
+  "tag": "수주",
+  "title": "엔비디아, 73조 데이터센터계약...생태계 구축 vs. 순환금융",
+  "source": "biz.sbs.co.kr",
+  "url": "https://n.news.naver.com/mnews/article/374/0000524230?sid=104",
+  "summary": "엔비디아가 73조 규모의 데이터센터 계약을 체결했음.\n하지만 오픈AI 프로젝트 관련 지급 보증 추진으로 순환금융 논란도 있음.\n이번 계약 역시 동일한 우려를 키울 수 있다는 관측이 나옴.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-29 03:51",
+  "tag": "기타",
+  "title": "Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5",
+  "summary": "Nvidia CEO Jensen Huang가\n오픈 웨이트 AI 모델 지원을 촉구했음.\n이는 AI 모델 개발 생태계에 대한\n전략적 발언으로 볼 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-28 23:25",
   "tag": "실적",
   "title": "Nvidia's credit default spikes, raising AI debt concerns",
@@ -681,42 +717,6 @@
   "source": "newsway.co.kr",
   "url": "https://www.newsway.co.kr/news/view?ud=2026072519401927610",
   "summary": "젠슨 황 CEO, 한국 AI 인프라 투자 및 SK·네이버와 협력 강조했음.\n오픈모델과 소버린 AI가 AI 산업의 중요한 축이 될 것으로 전망함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 19:29",
-  "tag": "수주",
-  "title": "SK, 엔비디아·MS·AWS와 AI 인프라 연대 강화…메가 프로젝트 시동",
-  "source": "seoultimes.news",
-  "url": "https://www.seoultimes.news/news/article.html?no=2000098120",
-  "summary": "SK가 엔비디아, MS, AWS 등 빅테크와 AI 인프라 협력을 강화함.\n전국 단위 데이터센터 및 반도체 벨트 조성 계획 구체화.\nAI 시대에 발맞춰 주요 파트너십 및 인프라 구축에 나섰음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 19:14",
-  "tag": "기타",
-  "title": "엔비디아, AI 서밋서 한국 AI 전략 조명…글로벌 빅테크 \"한국 역할 중요...",
-  "source": "efnews.co.kr",
-  "url": "http://www.efnews.co.kr/news/articleView.html?idxno=131201",
-  "summary": "엔비디아 AI 서밋서 한국 AI 전략 조명했음.\n한국 HBM 기술은 AI 컴퓨팅 발전의 핵심 기반이라 강조했음.\n오픈AI CEO도 한국 반도체 역할 중요성 언급했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 19:00",
-  "tag": "수주",
-  "title": "엔비디아·브룩필드가 네이버 세종 AI 팩토리에 100억달러 실은 이유는...",
-  "source": "econovill.com",
-  "url": "https://www.econovill.com/news/articleView.html?idxno=746148",
-  "summary": "네이버 세종 AI 팩토리에 엔비디아·브룩필드가 100억달러 투자했음.\n기가와트급 캠퍼스 구축을 통해 오픈AI, 오라클, xAI와 같은 규모로 대응함.\n엔비디아 베라 루빈 등 최신 설비가 포함되었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 16:02",
-  "tag": "수주",
-  "title": "SK, 엔비디아와 5000억달러 AI 인프라 동맹…MS·앤트로픽까지 확장",
-  "source": "newspim.com",
-  "url": "https://www.newspim.com/news/view/20260725000078",
-  "summary": "SK가 엔비디아와 5000억달러 규모 AI 인프라 동맹을 맺음.\nMS, 앤트로픽, AWS 등 빅테크와 협력 확대 계획.\nGPU, HBM, 데이터센터 연결 생태계 구축 목표.",
   "importance": 4
  }
 ]
