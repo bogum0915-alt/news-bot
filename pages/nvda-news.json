@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-07-28 16:04",
+  "tag": "수주",
+  "title": "젠슨 황, 오픈AI 공동 창업자 수츠케버에 50억달러 쏘는 이유는",
+  "source": "chosun.com",
+  "url": "https://n.news.naver.com/mnews/article/023/0003990057?sid=105",
+  "summary": "오픈AI가 기존 구글 TPU 대신 엔비디아 최신 GPU 도입 계약 체결했음.\n이는 엔비디아의 AI 연산 인프라 대규모 공급 확대를 의미함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-28 15:08",
+  "tag": "수주",
+  "title": "칩 팔기 위해 데이터센터 빌리는 엔비디아…고개드는 '순환금융' 우려",
+  "source": "inews24.com",
+  "url": "https://n.news.naver.com/mnews/article/031/0001045398?sid=105",
+  "summary": "엔비디아가 AI 칩 판매 증대를 위해 데이터센터를 직접 구축하고\n일부를 AI 클라우드 기업에 재임대하는 방안을 검토 중임.\n이는 칩 공급을 넘어 데이터센터 및 전력 인프라까지 사업 영역 확대를 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-28 15:00",
+  "tag": "수주",
+  "title": "AMD, 앤트로픽과 '초대형 AI 동맹'…엔비디아 정조준",
+  "source": "digitalbizon.com",
+  "url": "http://www.digitalbizon.com/news/articleView.html?idxno=2343426",
+  "summary": "AMD가 앤트로픽과 AI 동맹 체결했음.\n엔비디아 독주 견제 위한 움직임으로 보임.\n앤트로픽은 공급망 다변화 추진 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-28 06:01",
   "tag": "기타",
   "title": "젠슨 황도 \"고맙다\"…'TSMC 추격은 착각'이라던 삼성의 반전 [테크로그]",
@@ -690,33 +717,6 @@
   "source": "e-science.co.kr",
   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=132438",
   "summary": "SK, 엔비디아·MS와 AI 인프라 협력 확대했음.\n한국을 AI 인프라 거점으로 키우는 전략 본격화함.\nAWS·앤트로픽 등 글로벌 빅테크와도 관계 강화했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 15:58",
-  "tag": "기타",
-  "title": "SK, 엔비디아·MS·AWS·앤트로픽 등과 AI 생태계 확대 나선다…'메가 프...",
-  "source": "lcnews.co.kr",
-  "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205495",
-  "summary": "SK그룹, 엔비디아·MS·AWS 등과 AI 생태계 확대 나섬.\nAWS와는 울산 AI 데이터센터 협력 강화 논의했음.\nAI 시대 경쟁력은 AI를 얼마나 잘 활용하는지에 달렸다고 강조했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 15:51",
-  "tag": "수주",
-  "title": "SK, 美빅테크 엔비디아·MS·앤트로픽과 7500억 달러 'AI 동맹'",
-  "source": "nocutnews.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/079/0004171975?sid=101",
-  "summary": "SK그룹이 엔비디아, MS, 앤트로픽, AWS 등 빅테크와 AI 인프라 협력을 확대했음.\n7500억 달러 규모의 'AI 동맹'을 통해 파트너십을 강화했음.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-25 15:48",
-  "tag": "수주",
-  "title": "SK, 엔비디아·MS·앤트로픽과 7500억달러 AI 동맹",
-  "source": "newscj.com",
-  "url": "https://www.newscj.com/news/articleView.html?idxno=3419836",
-  "summary": "SK가 엔비디아, MS, 앤트로픽과 7500억 달러 규모의 AI 동맹을 맺었음.\nAWS와는 울산 AI 데이터센터 협력을 논의했으며,\n오픈AI CEO와도 AI 인프라 협력 방향을 협의했음.",
   "importance": 4
  }
 ]
