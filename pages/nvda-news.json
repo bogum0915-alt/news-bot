@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-07-28 23:25",
+  "tag": "실적",
+  "title": "Nvidia's credit default spikes, raising AI debt concerns",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkdFNlY2Tm5LbUJIOU45RTRWdVVBQ0d0bFJPM0lrQTRwWGhLNUd5Wm5Ic1ZpRjRrdXl6ZEZSQzFHTWQ3dG1TLVhUQUJOamlrS0dJOEhYaFpPNmgzTUw4UDhRTnctZU9nMTc1QzVFWFM0OWZOUjJSM0hKTGQ1YTdVem11ZFJOdnVVUFY2dA?oc=5",
+  "summary": "엔비디아의 신용부도스와프(CDS) 프리미엄이 상승했음.\n이는 AI 관련 사업 부채에 대한 우려를 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-07-28 23:08",
+  "tag": "실적",
+  "title": "Corning (GLW) Stock Falls After Amazon And Nvidia Fiber Deals And Q2 Beat",
+  "source": "Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmNXUm45QldkRENCek5TUGJnWV9TbDhJU0dqZWlpZXFadlA1aGlTbVA5MjFsRkc4Y1ExY0lFT3NPNUhVNXhxdExweG10VmN6RFJCX0RmT1A2c204VVprRGhmbTFPMnZ3QXhWQnViVFhZX05ST0ZCRFB1Rmk2QmpYZXctNTd5azk5bm1FQlhsbFRDaW0tX0tjVG92Zw?oc=5",
+  "summary": "Corning (GLW) 주가, Amazon 및 Nvidia 관련 소식에 하락했음.\n2분기 실적은 예상치 상회했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-28 16:04",
   "tag": "수주",
   "title": "젠슨 황, 오픈AI 공동 창업자 수츠케버에 50억달러 쏘는 이유는",
@@ -699,24 +717,6 @@
   "source": "newspim.com",
   "url": "https://www.newspim.com/news/view/20260725000078",
   "summary": "SK가 엔비디아와 5000억달러 규모 AI 인프라 동맹을 맺음.\nMS, 앤트로픽, AWS 등 빅테크와 협력 확대 계획.\nGPU, HBM, 데이터센터 연결 생태계 구축 목표.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 15:59",
-  "tag": "수주",
-  "title": "현대차, 피지컬 AI 시대 혁신 생태계 조성…엔비디아와 플랫폼 구축",
-  "source": "yonhapnewstv.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/422/0000888818?sid=101",
-  "summary": "현대차가 엔비디아와 협력해 자율주행 플랫폼 구축에 나섰음.\n아이오닉5 기반 자율주행차를 웨이모에 공급할 예정임.\n보스턴 다이나믹스와의 협력도 언급됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 15:58",
-  "tag": "수주",
-  "title": "SK, 엔비디아·마이크로소프트와 AI 인프라 동맹…'AI 허브 한국' 승부수...",
-  "source": "e-science.co.kr",
-  "url": "https://www.e-science.co.kr/news/articleView.html?idxno=132438",
-  "summary": "SK, 엔비디아·MS와 AI 인프라 협력 확대했음.\n한국을 AI 인프라 거점으로 키우는 전략 본격화함.\nAWS·앤트로픽 등 글로벌 빅테크와도 관계 강화했음.",
   "importance": 4
  }
 ]
