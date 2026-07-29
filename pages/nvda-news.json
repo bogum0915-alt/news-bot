@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-30 00:10",
+  "tag": "기타",
+  "title": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
+  "summary": "엔비디아 직원이 슈퍼마이크로 밀수 사건에 연루되었음.\n해당 직원은 자택 및 책상이 압수수색 당했음.\n밀수망 근절을 위해 엔비디아는 구매자 목록을 정밀 조사 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-29 19:00",
   "tag": "규제",
   "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3 — company circumvented both U.S. export and Chinese import controls to acquire compute",
@@ -708,15 +717,6 @@
   "source": "aitimes.kr",
   "url": "https://www.aitimes.kr/news/articleView.html?idxno=41162",
   "summary": "엔비디아가 네이버에 1.4조원 투자했음.\n세종에 200MW 규모의 AI 팩토리 구축 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 20:03",
-  "tag": "수주",
-  "title": "네이버, 엔비디아·브룩필드와 100억달러 AI 팩토리 구축…글로벌 인프...",
-  "source": "venturesquare.net",
-  "url": "https://www.venturesquare.net/1101077/",
-  "summary": "네이버가 엔비디아, 브룩필드와 100억 달러 규모 AI 팩토리 구축 협력. 올해 하반기 엔비디아 AI 에이전트 플랫폼 국내 출시 예정.",
   "importance": 4
  }
 ]
