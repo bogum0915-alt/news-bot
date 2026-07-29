@@ -45,7 +45,7 @@ layers:
     emoji: "🧠"
     companies:
       - name: OpenAI
-        aliases: [오픈AI, 오픈에이아이, OpenAI, 챗GPT, ChatGPT, 샘 올트먼]
+        aliases: [오픈AI, 오픈에이아이, OpenAI, 챗GPT, ChatGPT, 샘 올트먼, Sam Altman]
         en_query: "OpenAI"
       - name: Anthropic
         aliases: [앤스로픽, Anthropic, 클로드, Claude]
@@ -66,7 +66,7 @@ layers:
     extra_keywords: [TPU, Trainium, MTIA]
     companies:
       - name: Nvidia
-        aliases: [엔비디아, Nvidia, NVIDIA, 젠슨 황]
+        aliases: [엔비디아, Nvidia, NVIDIA, 젠슨 황, Jensen Huang]
         en_query: "Nvidia"
         page: nvda   # 기업 페이지 뉴스 축적 (pages/nvda-news.json)
       - name: AMD
@@ -100,11 +100,11 @@ layers:
     extra_keywords: [HBM, HBM3E, HBM4]
     companies:
       - name: SK하이닉스
-        aliases: [SK하이닉스, 하이닉스]
+        aliases: [SK하이닉스, 하이닉스, SK Hynix, Hynix]
         en_query: "SK Hynix"
       - name: 삼성전자 메모리
         aliases: [삼성전자, Samsung]
-        require_any: [HBM, 메모리, D램, DRAM, 낸드, NAND, 반도체]
+        require_any: [HBM, 메모리, D램, DRAM, 낸드, NAND, 반도체, memory, semiconductor, chip]
         en_query: "Samsung HBM OR Samsung memory chip"
       - name: Micron
         aliases: [마이크론, Micron]

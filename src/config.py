@@ -8,13 +8,18 @@ load_dotenv(ROOT / ".env")
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-NAVER_CLIENT_ID = os.environ["NAVER_CLIENT_ID"]
-NAVER_CLIENT_SECRET = os.environ["NAVER_CLIENT_SECRET"]
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")  # 없으면 요약 없이 발송
 
+# 텔레그램 릴레이 (src/relay.py) — 유저 세션. 없으면 릴레이는 조용히 skip
+TELEGRAM_API_ID = os.environ.get("TELEGRAM_API_ID", "")
+TELEGRAM_API_HASH = os.environ.get("TELEGRAM_API_HASH", "")
+TELEGRAM_SESSION = os.environ.get("TELEGRAM_SESSION", "")  # StringSession 문자열
+
 WATCHLIST_PATH = ROOT / "watchlist.yaml"
+RELAY_PATH = ROOT / "relay.yaml"
 
 STATE_FILE = ROOT / "state" / "seen.json"
+RELAY_STATE_FILE = ROOT / "state" / "relay.json"
 
 # 이 시간(분)보다 오래된 기사는 푸시하지 않음 — 봇 재시작 시 과거 기사 폭탄 방지
 LOOKBACK_MIN = int(os.environ.get("LOOKBACK_MIN", "60"))
@@ -28,3 +33,9 @@ PAGE_IMPORTANCE_MIN = int(os.environ.get("PAGE_IMPORTANCE_MIN", "4"))
 # 한 사이클에 처리(판정+발송)할 기사 상한 — 기사 폭탄으로 실행이 늘어지는 것 방지.
 # 넘친 기사는 seen 처리 안 하므로 다음 사이클이 이어서 처리 (오래된 것부터).
 MAX_PER_CYCLE = int(os.environ.get("MAX_PER_CYCLE", "40"))
+
+# 릴레이: 이 시간(분)보다 오래된 채널 메시지는 재발송 안 함
+RELAY_LOOKBACK_MIN = int(os.environ.get("RELAY_LOOKBACK_MIN", "240"))
+
+# 릴레이: 채널당 한 사이클 최대 확인 메시지 수
+RELAY_MAX_PER_CHANNEL = int(os.environ.get("RELAY_MAX_PER_CHANNEL", "30"))

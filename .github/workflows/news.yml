@@ -32,8 +32,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
-          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LOOKBACK_MIN: "120"   # cron 지연 대비 여유 창 (중복은 seen.json 이 막음)
           IMPORTANCE_MIN: "3"   # Gemini 중요도 컷 (1~5) — 높일수록 조용해짐
@@ -41,12 +39,23 @@ jobs:
           MAX_PER_CYCLE: "40"   # 한 실행당 처리 상한 — 나머지는 다음 사이클에서 이어감
         run: python -m src.main
 
-      - name: persist seen state + company pages
-        if: always()          # 봇이 실패/타임아웃해도 진행분(seen/pages)은 커밋
+      - name: telegram relay   # 애널 뉴스모음 분할 + 국내 채널 포워딩 (세션 없으면 skip)
+        timeout-minutes: 5
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+        run: python -m src.relay
+
+      - name: persist state + company pages
+        if: always()          # 봇이 실패/타임아웃해도 진행분(state/pages)은 커밋
         run: |
           git config user.name "news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state/seen.json pages/
+          git add state/ pages/
           if ! git diff --cached --quiet; then
             git commit -m "state: update seen articles + company pages"
             git pull --rebase

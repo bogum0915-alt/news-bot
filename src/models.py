@@ -13,6 +13,6 @@ class Article:
     url: str
     source: str          # 언론사명
     published: datetime  # tz-aware
-    origin: str          # 'naver' | 'gnews'
+    origin: str          # 'gnews' | 'feed'
     summary: str = ""
     companies: list[Company] = field(default_factory=list)

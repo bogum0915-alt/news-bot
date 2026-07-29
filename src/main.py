@@ -13,7 +13,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-from . import gnews, naver, noise, pages, store, summarizer, telegram, watchlist
+from . import feeds, gnews, noise, pages, sources, store, summarizer, telegram, watchlist
 from .config import IMPORTANCE_MIN, LOOKBACK_MIN, MAX_PER_CYCLE
 from .models import Article
 
@@ -22,27 +22,23 @@ KST = ZoneInfo("Asia/Seoul")
 
 
 def collect(wl: watchlist.Watchlist) -> list[Article]:
-    """네이버(전 엔트리) + Google News(en_query 있는 기업)에서 수집하고 태깅."""
+    """Google News(지정 언론사만) + 언론사 직접 RSS 에서 수집하고 태깅."""
     by_url: dict[str, Article] = {}
 
     for c in wl.companies:
-        for a in naver.search(c.aliases[0]):
-            by_url.setdefault(a.url, a)
-        if c.en_query:
-            for a in gnews.search(c.en_query):
-                if a.url not in by_url and not noise.is_noise(a):
-                    a.companies = [c]  # 피드 자체가 기업 검색 결과 → 직접 태깅
-                    by_url[a.url] = a
+        if not c.en_query:
+            continue
+        for a in gnews.search(c.en_query):
+            if (a.url not in by_url and sources.allowed(a.source)
+                    and not noise.is_noise(a)):
+                a.companies = [c]  # 피드 자체가 기업 검색 결과 → 직접 태깅
+                by_url[a.url] = a
         time.sleep(0.1)  # API 예의
 
-    # 네이버 기사는 제목+요약으로 전 엔트리 재매칭 (한 기사가 여러 기업에 걸릴 수 있음)
-    articles = []
-    for a in by_url.values():
-        if a.origin == "naver":
-            a.companies = wl.match(a.title, f"{a.title} {a.summary}")
-        if a.companies:
-            articles.append(a)
-    return articles
+    for a in feeds.collect(wl):  # TrendForce/TechCrunch/Tom's/Wccftech/HF
+        by_url.setdefault(a.url, a)
+
+    return list(by_url.values())
 
 
 def fmt(a: Article, gist: str = "") -> str:

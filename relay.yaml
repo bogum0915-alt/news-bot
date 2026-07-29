@@ -1,0 +1,19 @@
+# 텔레그램 채널 릴레이 설정 (src/relay.py) — 채널 추가/삭제는 이 파일만 수정
+#
+# digest_channels:  애널리스트 아침 뉴스 모음 채널.
+#                   URL 3개 이상 담긴 메시지를 뉴스 항목 단위로 끊어서 발송.
+#                   (단건 코멘트/리포트 공유는 무시)
+# forward_channels: 국내 뉴스 채널. 워치리스트 기업이 걸리고 뉴스 링크가
+#                   있는 메시지만 재발송.
+
+digest_channels:
+  - username: merITz_tech
+    label: 메리츠 테크
+  - username: skitteam
+    label: SK증권 IT
+  - username: KISemicon
+    label: 한투 반도체
+
+forward_channels:
+  - username: GoUpstock
+    label: 오를주식
