@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-30 07:35",
+  "tag": "수주",
+  "title": "AMD’s Helios Rack Reportedly Costs 40% More Than NVIDIA’s Vera Rubin, Yet Microsoft Hedges Its Bets By Committing To Deploy Both",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/amds-helios-rack-reportedly-costs-40-more-than-nvidias-vera-rubin-yet-microsoft-hedges-its-bets-by-committing-to-deploy-both/",
+  "summary": "마이크로소프트, AMD Helios와 NVIDIA Vera Rubin 랙 스케일 AI 인프라 동시 도입 결정했음.\nAI 모델에 구애받지 않는 애저/코파일럿 전략과 맥락 같이함.\nAMD 헬리오스 랙, 엔비디아 베라 루빈보다 40% 비싸지만 동시 투자 결정했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-30 00:10",
   "tag": "기타",
   "title": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
@@ -708,15 +717,6 @@
   "source": "nocutnews.co.kr",
   "url": "https://n.news.naver.com/mnews/article/079/0004171995?sid=101",
   "summary": "네이버가 엔비디아, 브룩필드와 AI 팩토리 규모를 2028년까지 200MW로 확대하기로 했음.\n미국 샌프란시스코에서 열린 AI 서밋에서 발표됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 20:04",
-  "tag": "수주",
-  "title": "엔비디아, 네이버에 1.4조원 투자… 세종에 200MW 소버린 AI 팩토리 구축",
-  "source": "aitimes.kr",
-  "url": "https://www.aitimes.kr/news/articleView.html?idxno=41162",
-  "summary": "엔비디아가 네이버에 1.4조원 투자했음.\n세종에 200MW 규모의 AI 팩토리 구축 예정임.",
   "importance": 4
  }
 ]
