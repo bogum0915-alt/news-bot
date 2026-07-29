@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-07-29 08:14",
+  "tag": "제품",
+  "title": "엔비디아도 안 쓰는 패키징 기술에..구글, AI칩 승부수 던졌다",
+  "source": "dailycar.co.kr",
+  "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62134",
+  "summary": "구글이 엔비디아 의존도 낮추기 위해\n차세대 AI 칩 TPU 프로즌 V2 개발 중.\n아마존도 자체 AI 칩 개발 중.",
+  "importance": 4
+ },
+ {
   "ts": "2026-07-29 04:37",
   "tag": "기타",
   "title": "Nvidia CEO tries to quell concerns over open-source AI models and China in Congress visit",
@@ -708,15 +717,6 @@
   "source": "imnews.imbc.com",
   "url": "https://n.news.naver.com/mnews/article/214/0001513892?sid=100",
   "summary": "이 대통령, 젠슨 황 등과 AI 공급 거점 논의.\n한국의 AI 황금 시기 강조.\n브로드컴 대표도 한국 AI 혁신 기대.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 19:42",
-  "tag": "수주",
-  "title": "\"지금 한국은 AI 황금기\"…젠슨 황, SK·네이버와 AI 인프라 함께 키운다",
-  "source": "newsway.co.kr",
-  "url": "https://www.newsway.co.kr/news/view?ud=2026072519401927610",
-  "summary": "젠슨 황 CEO, 한국 AI 인프라 투자 및 SK·네이버와 협력 강조했음.\n오픈모델과 소버린 AI가 AI 산업의 중요한 축이 될 것으로 전망함.",
   "importance": 4
  }
 ]
