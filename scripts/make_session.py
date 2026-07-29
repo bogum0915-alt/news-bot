@@ -11,28 +11,37 @@
   → 전화번호(+82...) / 텔레그램 앱으로 온 코드 입력
   → session_string.txt 생성 (.gitignore 됨)
 
-Secrets 등록 (--body - 는 리터럴 '-' 가 들어가므로 stdin 리다이렉트 사용):
-  gh secret set TELEGRAM_SESSION --repo bogum0915-alt/news-bot < session_string.txt
+Secrets 등록 (PowerShell):
+  Get-Content session_string.txt | gh secret set TELEGRAM_SESSION --repo bogum0915-alt/news-bot
 등록 후 session_string.txt 는 삭제할 것.
 """
+import asyncio
 import os
 from pathlib import Path
 
 from dotenv import load_dotenv
+from telethon import TelegramClient
 from telethon.sessions import StringSession
-from telethon.sync import TelegramClient
 
 ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
 
-api_id = int(os.environ["TELEGRAM_API_ID"])
-api_hash = os.environ["TELEGRAM_API_HASH"]
 
-with TelegramClient(StringSession(), api_id, api_hash) as client:
+async def main() -> None:
+    api_id = int(os.environ["TELEGRAM_API_ID"])
+    api_hash = os.environ["TELEGRAM_API_HASH"]
+
+    client = TelegramClient(StringSession(), api_id, api_hash)
+    await client.start()  # 전화번호 / 코드 / (2단계 비밀번호) 프롬프트
     s = client.session.save()
+    await client.disconnect()
 
-out = ROOT / "session_string.txt"
-out.write_text(s, encoding="utf-8")
-print(f"\n세션 문자열 저장 완료: {out}")
-print("등록: gh secret set TELEGRAM_SESSION --repo bogum0915-alt/news-bot < session_string.txt")
-print("등록 후 session_string.txt 는 삭제하세요.")
+    out = ROOT / "session_string.txt"
+    out.write_text(s, encoding="utf-8")
+    print(f"\n세션 문자열 저장 완료: {out}")
+    print("등록: Get-Content session_string.txt | gh secret set TELEGRAM_SESSION --repo bogum0915-alt/news-bot")
+    print("등록 후 session_string.txt 는 삭제하세요.")
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
