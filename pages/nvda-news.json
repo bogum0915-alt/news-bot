@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-04 02:52",
+  "tag": "실적",
+  "title": "What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/what-gpu-depreciation-nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards-as-b200s-hover-at-just-shy-of-6-hour/",
+  "summary": "NVIDIA GPU의 감가상각 논쟁 속에서,\nA100, H100, H200 GPU 대여료가 계속 상승하고 있음.\n이는 GPU의 긴 수명 주기 주장에 힘을 실어주며 AI 클라우드 기업에 긍정적 영향을 줄 것으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-03 20:57",
   "tag": "제품",
   "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration",
@@ -708,15 +717,6 @@
   "source": "enewstoday.co.kr",
   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452469",
   "summary": "이재용 삼성전자 회장이 샌프란시스코에서 젠슨 황 엔비디아 CEO, 마이크로소프트 하드웨어 사장 등과 AI 동맹 만찬에 참석했음.\n브로드컴, SK, 현대차, 네이버 등 주요 인사들도 함께 자리했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 23:03",
-  "tag": "제품",
-  "title": "NVIDIA NVLink Delivers 260 TB/s Rack Bandwidth For AI Factories",
-  "source": "Quantum Zeitgeist",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX1MwcVY3Tk1mYk50TTJscmFiUkdjN29MZkRvS0tnYW90TVVkdTBDNkFZcjhrajdyQUNyVXRCRVliUnE0dl9DdTlKUVQtQ045Wm45WWJRSVZCaWlZWlRYVm9lRVM2LWF3anpwRDVoRQ?oc=5",
-  "summary": "NVIDIA, AI 팩토리 위한 NVLink 기술 발표했음.\n랙당 260TB/s 대역폭 제공 예정임.",
   "importance": 4
  }
 ]
