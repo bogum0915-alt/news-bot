@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-03 20:57",
+  "tag": "제품",
+  "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/tsmc-2nm-production-milestone-100k-wafers-2026/",
+  "summary": "TSMC가 2026년 말까지 월 10만 웨이퍼 생산 달성을 목표함.\nNVIDIA, AMD 등 AI 고객사의 2nm 공정 수요 증가가 원인임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-01 01:10",
   "tag": "제품",
   "title": "DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs",
@@ -708,15 +717,6 @@
   "source": "Quantum Zeitgeist",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX1MwcVY3Tk1mYk50TTJscmFiUkdjN29MZkRvS0tnYW90TVVkdTBDNkFZcjhrajdyQUNyVXRCRVliUnE0dl9DdTlKUVQtQ045Wm45WWJRSVZCaWlZWlRYVm9lRVM2LWF3anpwRDVoRQ?oc=5",
   "summary": "NVIDIA, AI 팩토리 위한 NVLink 기술 발표했음.\n랙당 260TB/s 대역폭 제공 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 23:02",
-  "tag": "수주",
-  "title": "한미 AI 동맹, 1400조 투자 시동…엔비디아·브로드컴·오픈AI '한국 베팅...",
-  "source": "koreareport.co.kr",
-  "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51686",
-  "summary": "미국 빅테크 기업들이 한국 AI 반도체 공급망 및 인프라 구축에\n1400조 규모 투자를 시작했음.\n엔비디아, 브로드컴, 오픈AI 등이 참여함.",
   "importance": 4
  }
 ]
