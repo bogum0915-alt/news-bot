@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-05 04:28",
+  "tag": "기타",
+  "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+  "summary": "Nvidia 주도 산업 그룹이\nAI 에이전트 방어 제안 내놓음.\n120개 이상 기업 참여 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-04 02:52",
   "tag": "실적",
   "title": "What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour",
@@ -708,15 +717,6 @@
   "source": "digitimes",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
   "summary": "SK하이닉스와 엔비디아가 차세대 HBM 공동 개발을 위한 장기 계약을 체결했음.\n이는 AI 반도체 공급망에서 중요한 파트너십 강화로 평가됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 23:05",
-  "tag": "수주",
-  "title": "李, 샌프란시스코서 'AI 동맹 만찬'...젠슨 황·알트만·이재용 한자리에",
-  "source": "enewstoday.co.kr",
-  "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452469",
-  "summary": "이재용 삼성전자 회장이 샌프란시스코에서 젠슨 황 엔비디아 CEO, 마이크로소프트 하드웨어 사장 등과 AI 동맹 만찬에 참석했음.\n브로드컴, SK, 현대차, 네이버 등 주요 인사들도 함께 자리했음.",
   "importance": 4
  }
 ]
