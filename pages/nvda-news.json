@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-06 06:17",
+  "tag": "기타",
+  "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWM5YkxYUGR1NzdVNVJ2OGVndEtqeTN4OHdkTFBMX2Y1YjRaNFFhTTRzNDVoT2R4NjZJclYyNkUxaUJieUg2RjNYeTl1d0ZPeExVaHRTVFhtMHhPR0JneHR5NENEamM?oc=5",
+  "summary": "Nvidia가 AI '총아'는 아니지만,\n여전히 '필수적'이라는 투자자 발언이 나왔음.\nAI 칩 시장에서의 중요성은 여전함을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-05 20:50",
   "tag": "수주",
   "title": "Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year",
@@ -708,15 +717,6 @@
   "source": "ddaily.co.kr",
   "url": "https://n.news.naver.com/mnews/article/138/0002235427?sid=105",
   "summary": "이해진 의장이 엔비디아와 브룩필드로부터\n100억 달러 규모 투자를 유치했다고 발표했음.\nAI 및 데이터센터 관련 대규모 투자 유치 건임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 23:54",
-  "tag": "수주",
-  "title": "SK-엔비디아 5000억 달러 동맹…HBM 공급까지 확보한다",
-  "source": "wikitree.co.kr",
-  "url": "https://www.wikitree.co.kr/articles/1148456",
-  "summary": "SK그룹과 엔비디아가 AI 데이터센터 및 차세대 메모리 분야 파트너십을 확대함.\nSK하이닉스는 엔비디아 시스템을 활용한 클라우드 사업을 전개할 예정임.\n이는 HBM 공급망 확보에 긍정적 영향을 줄 수 있음.",
   "importance": 4
  }
 ]
