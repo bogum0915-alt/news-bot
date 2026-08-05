@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-05 20:50",
+  "tag": "수주",
+  "title": "Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year",
+  "summary": "일론 머스크는 SpaceX와 xAI가\nNvidia GPU만 전용 사용할 것이라 함.\nVera Rubin NVL72는 내년에 우주로 발사될 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-05 04:28",
   "tag": "기타",
   "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
@@ -708,15 +717,6 @@
   "source": "wikitree.co.kr",
   "url": "https://www.wikitree.co.kr/articles/1148456",
   "summary": "SK그룹과 엔비디아가 AI 데이터센터 및 차세대 메모리 분야 파트너십을 확대함.\nSK하이닉스는 엔비디아 시스템을 활용한 클라우드 사업을 전개할 예정임.\n이는 HBM 공급망 확보에 긍정적 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-25 23:11",
-  "tag": "수주",
-  "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
-  "source": "digitimes",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
-  "summary": "SK하이닉스와 엔비디아가 차세대 HBM 공동 개발을 위한 장기 계약을 체결했음.\n이는 AI 반도체 공급망에서 중요한 파트너십 강화로 평가됨.",
   "importance": 4
  }
 ]
