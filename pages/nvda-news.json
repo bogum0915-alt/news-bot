@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-07 14:00",
+  "tag": "제품",
+  "title": "NVIDIA Says It “Continually Optimizes Compute, Networking, Memory” To Deliver Best Performance & Efficiency To Its Customers Amidst Vera and Rubin Ultra “Downgrade” Rumors",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors/",
+  "summary": "NVIDIA가 Rubin Ultra 및 Vera 칩의\n메모리 구성 최적화 전략을 강조했음.\n다운그레이드 루머에 대한 해명임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-07 13:22",
+  "tag": "수주",
+  "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJwWmV5RmdYVWY2LW5FNFJBMW0xeHF6MmJrMHJfUjdLX1BpSURJTWVBbFNFa0JmWFc2TjJ0RXRwMDlyVWZvb1NBXzJIN0RZQlJCVG9QQ1Q5R00xR1NSTk5nQ2pIV09jeUtUd1NCUjQ0UzJ5Q0p2MEx1aGJOczB0ZlhacUN4cnRMU1gxR25sUjd4eEFCUGt2NG9UVzF4LVBoTXBQdEM0UmpMZGVYTXJqeGYxZw?oc=5",
+  "summary": "AI 데이터센터 기업 Firmus가 Nvidia 등으로부터 20억 달러 투자 유치했음.\n이는 AI 인프라 투자 확대를 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-06 06:17",
   "tag": "기타",
   "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says",
@@ -699,24 +717,6 @@
   "source": "Nikkei Asia",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXlCbjAwQU9GTzVYS3hJaU5Xai1pYnE3XzZQU0N6Tkx5TXFXQ05wTkw3SDZ3RnNIV081RERZR2NYZHJzZG1mSXY3T2NWUXRVVDZwNG0zckdQSWVLUjMtdGNoblk0YTl6b0F3UF9VVE9IdmlQYWp2Y1VacUYzcGN4U0prNmowQkJfbmo0dHQwbEkySUEwQ0twN202SU9fUXJMdXlIMDRybVdnTkNVX19NOENjX3BJYVUw?oc=5",
   "summary": "삼성, SK, 엔비디아가 7000억 달러 규모의 미국-한국 AI 투자에 참여했음.\n이는 AI 밸류체인 전반에 걸친 협력 강화 및 대규모 투자 계획을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 00:30",
-  "tag": "수주",
-  "title": "SK-엔비디아, '5천억 달러' AI 인프라 동맹…최태원 \"세계 최고 AI 팩토리...",
-  "source": "financialpost.co.kr",
-  "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
-  "summary": "SK그룹, 엔비디아 등 빅테크와 5천억 달러 규모 AI 인프라 구축 협력 합의했음.\n글로벌 AI 팩토리 구축 가속화 기대됨.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-26 00:00",
-  "tag": "수주",
-  "title": "이해진 \"엔비디아·브룩필드, 네이버에 100억달러 투자…AI·데이터센터...",
-  "source": "ddaily.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/138/0002235427?sid=105",
-  "summary": "이해진 의장이 엔비디아와 브룩필드로부터\n100억 달러 규모 투자를 유치했다고 발표했음.\nAI 및 데이터센터 관련 대규모 투자 유치 건임.",
   "importance": 4
  }
 ]
