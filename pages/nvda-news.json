@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-07 19:30",
+  "tag": "수주",
+  "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+  "summary": "Anthropic이 AI 추론용 맞춤형 ASIC 칩 개발팀을 구성했음.\n이를 통해 Nvidia GPU 의존도를 낮추고 모델 효율성을 높일 계획임.\n삼성전자가 제조 파트너로 거론되고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-07 14:00",
   "tag": "제품",
   "title": "NVIDIA Says It “Continually Optimizes Compute, Networking, Memory” To Deliver Best Performance & Efficiency To Its Customers Amidst Vera and Rubin Ultra “Downgrade” Rumors",
@@ -708,15 +717,6 @@
   "source": "GamesBeat",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXpDWmk3OWZvMEhKczFJMzVmMEtiQS1HcFlkVzVWbUlKVDlvWHp0TVlQNjU0ZWhSbUh6XzlyNzdtVFFLcTJhY2xUa0N0WFdKYUNRNURzOWVqS3VEcDdHU19VVnVQaFNGNlpHRmw5WUJWVWtNSlNQTWw1T0ZESUtTSnpRa2Z4Qk1mUUZiQUkyT1RzaDg4NjNLbTdITDBHekU?oc=5",
   "summary": "Nvidia CEO가 한국 기업과의\n파트너십 확대를 발표했음.\nAI 밸류체인 내 협력 강화 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 03:17",
-  "tag": "수주",
-  "title": "Samsung, SK and Nvidia join $700bn US-Korea AI push",
-  "source": "Nikkei Asia",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXlCbjAwQU9GTzVYS3hJaU5Xai1pYnE3XzZQU0N6Tkx5TXFXQ05wTkw3SDZ3RnNIV081RERZR2NYZHJzZG1mSXY3T2NWUXRVVDZwNG0zckdQSWVLUjMtdGNoblk0YTl6b0F3UF9VVE9IdmlQYWp2Y1VacUYzcGN4U0prNmowQkJfbmo0dHQwbEkySUEwQ0twN202SU9fUXJMdXlIMDRybVdnTkNVX19NOENjX3BJYVUw?oc=5",
-  "summary": "삼성, SK, 엔비디아가 7000억 달러 규모의 미국-한국 AI 투자에 참여했음.\n이는 AI 밸류체인 전반에 걸친 협력 강화 및 대규모 투자 계획을 시사함.",
   "importance": 4
  }
 ]
