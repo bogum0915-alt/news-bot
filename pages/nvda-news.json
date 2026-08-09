@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-10 04:40",
+  "tag": "수주",
+  "title": "Nvidia Agrees to Invest Up to $3 Billion in Power Firm Behind Stargate",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVA1aXFndVJZVnlKcjE1cThjVU0zLVVmdHBCS3BBWEV0TTRqenZqNnFsZlFRM2hMeEU3M3RGa0llZG1aa25BWHN1QTlpTVdPZk55enV1YTAtNUpiQ1BfQWpvcDNESlJEcnA3Q1Q3eGFabjNVdzlMUktoMmM5VUtaV2dyWi1hWXV3UzZYZGZvVFlUNmp1cTZjTFNRcWI5cEU?oc=5",
+  "summary": "Nvidia가 Stargate의 전력 공급업체에 최대 30억 달러 투자 합의했음.\n이는 AI 인프라 구축을 위한 전략적 파트너십으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-07 19:30",
   "tag": "수주",
   "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
@@ -708,15 +717,6 @@
   "source": "Pulse 2.0",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXpRNEZ1cjl5ODV0WXlYWVAtSU4zMEQ2c04wbjRlMU5PaEVmZ0NveE9WYllqUmVzT0ptd3J6N3JzOGFfUWFDRkNLeTFtVnNEOFhvdHhsNm5laDRJSHlmNzBSLTZIaFl1ckhncDVlOHhTR1h3NTVaUXg5a1VXY3BNMkRzZlFlLU1MbG03Z3pwbTUwSXfSAZgBQVVfeXFMUFpRcnZtSUJJckZHaVNMaXN5ZjZ5NGxjR1NYTVYtbVRMWlllbE9oMzkzWmZHY1JITXk3b3ZKNUk3eUJVTFRHWWRpNHFfYmhCa1UwcTl4TENjQWFxbjBMQjNac2FQTEtTdk5NWk9DYmFXcnhiRWItbmNNdkZNVlpleHhOU19tUXk1QmFpcGI5MXhBOUZ1eUlibF8?oc=5",
   "summary": "QumulusAI가 NVIDIA Blackwell B300 GPU를 2년간 3,200만 달러 규모로 수주했음.\n이는 AI 칩 수요 증가와 관련 있는 중요한 계약임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 04:00",
-  "tag": "기타",
-  "title": "Nvidia CEO announces expanded partnerships with South Korean tech companies",
-  "source": "GamesBeat",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXpDWmk3OWZvMEhKczFJMzVmMEtiQS1HcFlkVzVWbUlKVDlvWHp0TVlQNjU0ZWhSbUh6XzlyNzdtVFFLcTJhY2xUa0N0WFdKYUNRNURzOWVqS3VEcDdHU19VVnVQaFNGNlpHRmw5WUJWVWtNSlNQTWw1T0ZESUtTSnpRa2Z4Qk1mUUZiQUkyT1RzaDg4NjNLbTdITDBHekU?oc=5",
-  "summary": "Nvidia CEO가 한국 기업과의\n파트너십 확대를 발표했음.\nAI 밸류체인 내 협력 강화 예상됨.",
   "importance": 4
  }
 ]
