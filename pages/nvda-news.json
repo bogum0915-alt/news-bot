@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-11 03:58",
+  "tag": "수주",
+  "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
+  "summary": "Nvidia가 월스트리트 자산운용사들과 협력하여\n5천억 달러 규모의 AI 인프라 구축 추진에 나섰음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 03:18",
+  "tag": "수주",
+  "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkFmbVVoX2c3Q2N5RElCSTdSUzR5OERxUDJjaUNmTFhORUl3WXFhcWotWDVNZnVCcTFiV2x0THdEbXhHNWVxMVNIQnlJdFllTzRFcFJ1ZDFGOG9LbDhxTWhYRURxbHhFOTdFdGpHcnNBRjhNdFVsRWNKVTZZM0MxcDR2UV9YeXNrbWp3enp4SzJMaGJUQ0hld0YzSlNqQ1hnLXRYcnVWSWZRMVZMV1o5UW1iUU5EUQ?oc=5",
+  "summary": "Nvidia가 월스트리트 투자 은행과 AI 금융 지원 계약을 맺었음.\n이 계약은 총 5,000억 달러 규모를 목표로 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-11 01:47",
   "tag": "제품",
   "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back — designs tested include as little as 192 GB and step back to HBM4",
@@ -699,24 +717,6 @@
   "source": "asiatoday.co.kr",
   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009336",
   "summary": "현대차그룹 정의선 회장이 엔비디아 젠슨 황 CEO와 만나\nAI 모빌리티 협력을 본격화했음.\n이는 피지컬 AI 시대를 그룹의 미래 비전으로 제시하고\n제조, 모빌리티, 로보틱스 AI 생태계 구축에 나서는 행보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 08:28",
-  "tag": "기타",
-  "title": "젠슨 황 \"한국은 AI 황금기…세계 인프라 구축 역량\"",
-  "source": "yonhapnewstv.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/422/0000888909?sid=104",
-  "summary": "젠슨 황 엔비디아 CEO가 한국을 AI 산업의 '황금기'라고 칭함.\n한국이 전 세계 AI 인프라 구축에 크게 기여할 역량이 있다고 평가했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 08:12",
-  "tag": "수주",
-  "title": "SK, AI 생태계 구축..엔비디아·MS·앤트로픽과 인프라 합의",
-  "source": "kpenews.com",
-  "url": "https://kpenews.com/View.aspx?No=4162211",
-  "summary": "SK가 엔비디아, MS, 앤트로픽과 AI 인프라 협력 합의했음.\nAI 반도체 및 데이터센터 분야 협력 내용 포함됨.",
   "importance": 4
  }
 ]
