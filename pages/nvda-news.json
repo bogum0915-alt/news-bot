@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-10 15:00",
+  "tag": "제품",
+  "title": "NVIDIA’s Vera Rubin Memory Bill Doubles Grace Blackwell’s, As DRAM Cost Swells 2.5x In A Single Generation, With One Rack Holding 4,500 Smartphones’ Worth Of Memory",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-vera-rubin-memory-bill-doubles-grace-blackwells-as-dram-cost-swells-2-5x/",
+  "summary": "NVIDIA Vera Rubin 서버의 메모리 비용이 2.5배 상승했음.\n메모리가 전체 비용의 62%를 차지하며, 이전 Grace Blackwell 대비 두 배로 증가했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-10 04:40",
   "tag": "수주",
   "title": "Nvidia Agrees to Invest Up to $3 Billion in Power Firm Behind Stargate",
@@ -708,15 +717,6 @@
   "source": "insight.co.kr",
   "url": "https://www.insight.co.kr/news/564688",
   "summary": "SKT, 하이닉스, 엔비디아가 5000억달러 규모 AI 동맹을 맺었음.\n엔비디아 DSX 플랫폼을 적용, SK하이닉스 HBM4 탑재 차세대 AI 팩토리 구축.\nSKT는 팩토리 구축·운영, 하이닉스는 HBM 공급 담당함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 04:21",
-  "tag": "수주",
-  "title": "QumulusAI Signs A $32 Million Two-Year NVIDIA Blackwell B300 Agreement",
-  "source": "Pulse 2.0",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXpRNEZ1cjl5ODV0WXlYWVAtSU4zMEQ2c04wbjRlMU5PaEVmZ0NveE9WYllqUmVzT0ptd3J6N3JzOGFfUWFDRkNLeTFtVnNEOFhvdHhsNm5laDRJSHlmNzBSLTZIaFl1ckhncDVlOHhTR1h3NTVaUXg5a1VXY3BNMkRzZlFlLU1MbG03Z3pwbTUwSXfSAZgBQVVfeXFMUFpRcnZtSUJJckZHaVNMaXN5ZjZ5NGxjR1NYTVYtbVRMWlllbE9oMzkzWmZHY1JITXk3b3ZKNUk3eUJVTFRHWWRpNHFfYmhCa1UwcTl4TENjQWFxbjBMQjNac2FQTEtTdk5NWk9DYmFXcnhiRWItbmNNdkZNVlpleHhOU19tUXk1QmFpcGI5MXhBOUZ1eUlibF8?oc=5",
-  "summary": "QumulusAI가 NVIDIA Blackwell B300 GPU를 2년간 3,200만 달러 규모로 수주했음.\n이는 AI 칩 수요 증가와 관련 있는 중요한 계약임.",
   "importance": 4
  }
 ]
