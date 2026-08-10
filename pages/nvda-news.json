@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-08-11 06:25",
+  "tag": "수주",
+  "title": "'Fast Money' traders talk Nvidia partnering with six Wall Street firms to fund AI infrastructure",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzFZcFVvM1lLZTZPM0lwOU42aXJRc3Y0TWlqMFc1QjRBbW5RaF9GanlNMGhXZWZJbzMyNU1yaHR1T1Frelo5MjZLOW5XM1h5QWZrWXA4S21xZDNjSURKOTdsY19xNmtLbTd2VzE1ZHlkWEtXQ1hYVGhHbjQzTzFlZ3U4NUtUQ2RkUGpnNjBteElnd0EwVGNKdmpDTGVJNEhjanBtVHBUeFViZlVTWktqNjY1ZmdwYnJLX3N2Ym40QVZoSUdscF82ekhVSlBWM0kxU293?oc=5",
+  "summary": "CNBC 보도에 따르면, Nvidia가 AI 인프라 구축을 위해 6개의 월스트리트 기업과 파트너십을 맺었음.\n이번 협력을 통해 AI 인프라 투자 자금을 조달할 계획임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 06:05",
+  "tag": "수주",
+  "title": "Nvidia Partners With Private Equity Giants On $500 Billion in AI Compute Financing",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzcteUdCbFptZG91S1RnbC12RkJTZ2RSMl9wYnFKR2plMm5uQ0hTc045Z0tjYklQckNpOW5tVHNmZzFoUmU2UkROVVFYQTM1WlNfRVA4VllzeHR3eGVDXzRpZmV4QTBON3gweGlJakYtTU5yMHpWdzEtQkZ2UGZJOWlBb2lNb1NCMDFoM1hnX1VxY3g4R215UVBBQjUyd0wwNXRsbVo4ekpaNTNPeGR1Sw?oc=5",
+  "summary": "Nvidia가 사모펀드 회사들과 협력하여\nAI 컴퓨팅 인프라에 5000억 달러 규모의\n자금 조달을 추진 중임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 05:21",
+  "tag": "수주",
+  "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1REN2lzYWhpVmNzZENwUS00b3Ewa0wySXdRSUNkNm8zQ1hXM3JpSjUxNHgxUE5wNTBNN0NGbDVFa1pJZm5yY1daX0tQeHVmcS1oTmIweGxSanBYeVAzVURCSnNvMVQzWVdrSm5qbURLZ2I2dVRsSHNoNmttX2ItOXphTFc4S011bTRfdlNLR2V0ck1Pb1JvcDNCOGRHNE5QOW9rS3g2QTlJNTJ4ZnZFTWVYV0RjSlVmSG9aM0NsSEZpWDQ4eWpz?oc=5",
+  "summary": "Nvidia가 자산 운용사들과 협력하여 5천억 달러 규모의 AI 인프라 투자를 추진함.\n이는 AI 칩, 파운드리, 메모리 등 AI 밸류체인 전반에 걸쳐 대규모 투자를 유도할 수 있는 중요한 파트너십임.",
+  "importance": 5
+ },
+ {
   "ts": "2026-08-11 05:28",
   "tag": "기타",
   "title": "Goldman Sachs' CEO Solomon: We've got a deep belief and a lot of confidence in Nvidia",
@@ -691,32 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWd4cnJvcUdlaEFzRVgzSGl4bFdpR0RCWGtCczJwRnVIUC12R1B4bHlNQ0dRdTl4TGFEVUxLSEk2NVFqSmtHOGNwOVpsNklCTGg3SDFzaVd4SkJ0QXpXVUluMDVFTzJKdFBESVp4MTVON3JuSnl6ZGktRzVrZlQzaXN3NVA0NFdvdzNfWlAtZTdEYlZzWHVfQ0E5WFd2RWZvel84?oc=5",
   "summary": "Nvidia가 AI 경쟁 판도를 바꿀 계약을 체결했음.\n자세한 내용은 발췌에 없어 알 수 없음.",
   "importance": 4
- },
- {
-  "ts": "2026-07-27 00:00",
-  "tag": "수주",
-  "title": "[김대호 진단] 반도체 열전 (21) AMD... 엔비디아 \"게 섰거라\" 실리콘밸...",
-  "source": "g-enews.com",
-  "url": "https://www.g-enews.com/view.php?ud=202607231048325060906806b77b_1",
-  "summary": "AMD가 엔비디아의 고가 칩 및 물량 부족 문제 속에서\n현실적이고 강력한 대안으로 부상하고 있음.\n엔트로픽 등 빅테크와의 동맹으로 생태계 확장 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 19:55",
-  "tag": "수주",
-  "title": "NAVER and NVIDIA Triple Korea's AI Factory to 200 Megawatts in $10 Billion Deal With Brookfield",
-  "source": "Tech Times",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZGx4bHdVUjhSOHRfNUhadlpSOFBRVThvZ3NpSENoZm9oYjlVN3lUUm5pMDBUSkpkN29Zc1ROQVdRb3FmNlVocjRwblNJWmx3ckxFS09zQmUxdEpaSWN4R1ZDUjkwZVUtbU5oamY2cnFuX202ZUhwUWJwMHN5UE8xeHBXVWxHeHVST0ZGSkp1UF9EOVExaGxmMXk3TGJJTHpnNW1zQ3ZXazl4M3pteWs1enVkdU94Q3FLMHNSS3JmZ3ZUZEhDY1ljZFJpNzJ3dw?oc=5",
-  "summary": "네이버와 엔비디아가 브룩필드와 100억 달러 규모 계약 체결했음.\n한국의 AI 공장 규모를 200메가와트 수준으로 3배 확장함.",
-  "importance": 5
- },
- {
-  "ts": "2026-07-26 19:03",
-  "tag": "수주",
-  "title": "삼성·브로드컴, 2000억불 턴키 계약…SK·엔비디아 5000억불 인프라 동...",
-  "source": "edaily.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/018/0006337104?sid=101",
-  "summary": "삼성, 브로드컴과 2000억불 턴키 계약 체결했음.\nSK하이닉스, 엔비디아 외 MS와도 메모리 장기 공급 추진함.\nAI 칩과 컴퓨팅 파워 수요 급증에 따른 대규모 인프라 투자 예상됨.",
-  "importance": 5
  }
 ]
