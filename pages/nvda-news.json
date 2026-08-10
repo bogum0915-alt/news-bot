@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-10 18:08",
+  "tag": "규제",
+  "title": "NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-and-amds-china-market-share-to-drop-to-10-by-2026-as-domestic-chips-seize-90-says-report/",
+  "summary": "미국 AI 칩 규제와 중국의 내수 육성 정책으로\n2026년까지 엔비디아·AMD의 중국 시장 점유율이 10%로 하락할 전망임.\n중국 국내 칩 제조사들이 90%를 장악할 것으로 예상됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-10 15:00",
   "tag": "제품",
   "title": "NVIDIA’s Vera Rubin Memory Bill Doubles Grace Blackwell’s, As DRAM Cost Swells 2.5x In A Single Generation, With One Rack Holding 4,500 Smartphones’ Worth Of Memory",
@@ -709,14 +718,5 @@
   "url": "https://thetracker.co.kr/View.aspx?No=4162194",
   "summary": "SK가 엔비디아와 5000억 달러 규모 AI 인프라 투자 LOI 체결했음.\nMS와는 메모리 장기 협력, AWS와는 AI 데이터센터 구축 협력 확대함.",
   "importance": 5
- },
- {
-  "ts": "2026-07-26 07:04",
-  "tag": "수주",
-  "title": "SKT·하이닉스 묶은 5000억달러 AI 동맹...엔비디아와 2GW 구축",
-  "source": "insight.co.kr",
-  "url": "https://www.insight.co.kr/news/564688",
-  "summary": "SKT, 하이닉스, 엔비디아가 5000억달러 규모 AI 동맹을 맺었음.\n엔비디아 DSX 플랫폼을 적용, SK하이닉스 HBM4 탑재 차세대 AI 팩토리 구축.\nSKT는 팩토리 구축·운영, 하이닉스는 HBM 공급 담당함.",
-  "importance": 4
  }
 ]
