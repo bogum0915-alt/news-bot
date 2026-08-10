@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-08-11 01:47",
+  "tag": "제품",
+  "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back — designs tested include as little as 192 GB and step back to HBM4",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4",
+  "summary": "Nvidia가 Rubin Ultra 제품에 탑재될 메모리 용량을 줄이는 테스트를 진행 중이라는 소식임.\n기존 발표된 1TB HBM4E 대신 192GB 수준의 메모리 구성도 고려 중인 것으로 파악됨.\n이는 메모리 공급 부족 문제에 대응하기 위한 조치로 분석됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 01:46",
+  "tag": "수주",
+  "title": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
+  "summary": "월스트리트 대형 금융사들이 엔비디아와 협력하여\n5000억 달러 규모의 AI 투자 펀드를 조성할 예정이라는\n로이터 보도가 나왔음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 01:22",
+  "tag": "수주",
+  "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVJZMmlELWxzcDMxTlZtNEw2YmdRbE5GaS1kQkc3YmQ0cXBGU2lJRXNadzVrU1JGdVdValhxc1ZXMmdHbm5iVjJDQ2JQMzE0SkxyM3luR3pnaW9kQm0wNVlSMExSa3VZYzlmMVd0Z3ZMS2p0ZDBLNWlqYTFTYUJDc3p3Y1M?oc=5",
+  "summary": "주요 금융 기관들이 엔비디아와 손잡고\nAI 분야에 5천억 달러 규모의 자금 지원 계약을 맺었음.\n이는 AI 산업의 대규모 자금 조달 및 투자를 시사함.",
+  "importance": 5
+ },
+ {
   "ts": "2026-08-10 18:08",
   "tag": "규제",
   "title": "NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report",
@@ -691,32 +718,5 @@
   "url": "https://kpenews.com/View.aspx?No=4162211",
   "summary": "SK가 엔비디아, MS, 앤트로픽과 AI 인프라 협력 합의했음.\nAI 반도체 및 데이터센터 분야 협력 내용 포함됨.",
   "importance": 4
- },
- {
-  "ts": "2026-07-26 07:20",
-  "tag": "수주",
-  "title": "SK, 엔비디아와 5천억달러 AI 팩토리 동맹…\"한국을 글로벌 AI 허브로\"",
-  "source": "newsroad.co.kr",
-  "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62008",
-  "summary": "SK가 엔비디아와 5천억달러 규모의 AI 팩토리 구축 동맹을 맺었음.\nAWS와는 기존 협력 기반으로 국내 AI 인프라 협력 확대를 논의했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 07:14",
-  "tag": "규제",
-  "title": "In Face of US Crackdown, Microsoft, Nvidia CEOs Back Open-Weight AI Models",
-  "source": "PCMag",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjdDb09qeFpqdGdycndHVnZHRHU1ZUs2ZXZPM3lwZkF5TUN0cTV2Sno1NXRKeEJvS1l6Z3dWSk5qenBlZVNlT0hTN0R6eFVHbGlSejFDcHN6MUdoZVVJZzdkeGlkMGxIM3RRcVZUM0ZJRk1haXJZRnJiNVFoakVXZHV1Z2tZRU5xblIwWHF0OS1hZGE5VkI3U2RIQVUweW1I?oc=5",
-  "summary": "마이크로소프트와 엔비디아 CEO가 오픈 가중치 AI 모델 지원 입장을 밝혔음.\n이는 미국 규제 강화 속에서 AI 생태계 발전에 중요한 시사점을 줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-26 07:06",
-  "tag": "수주",
-  "title": "SK, 엔비디아와 5000억불 AI인프라 LOI...MS와 메모리 장기협력",
-  "source": "thetracker.co.kr",
-  "url": "https://thetracker.co.kr/View.aspx?No=4162194",
-  "summary": "SK가 엔비디아와 5000억 달러 규모 AI 인프라 투자 LOI 체결했음.\nMS와는 메모리 장기 협력, AWS와는 AI 데이터센터 구축 협력 확대함.",
-  "importance": 5
  }
 ]
