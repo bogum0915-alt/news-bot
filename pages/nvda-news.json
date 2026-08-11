@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-11 20:04",
+  "tag": "수주",
+  "title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
+  "summary": "Nvidia가 금융 기관들과 협력하여\nAI 데이터센터 구축 고객을 위한\n5천억 달러 규모의 AI 인프라 펀드 조성에 나섰음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-11 07:12",
   "tag": "규제",
   "title": "China Bars Its Top AI Engineers From Overseas Travel And Starts A Massive Data Center Build Out In Mongolia, While NVIDIA Parries By Mobilizing $500 Billion In AI Financing",
@@ -709,14 +718,5 @@
   "url": "https://n.news.naver.com/mnews/article/020/0003736647?sid=100",
   "summary": "젠슨 황 엔비디아 CEO가 한국에 AI 프런티어랩을 시작한다고 밝혔음.\n선도적인 AI 연구원들이 한국 이주 계획임.",
   "importance": 4
- },
- {
-  "ts": "2026-07-27 03:42",
-  "tag": "수주",
-  "title": "엔비디아, SK와 5000억달러 AI 동맹",
-  "source": "view.asiae.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/277/0005794706?sid=104",
-  "summary": "엔비디아가 SK하이닉스와 5000억 달러 규모의 AI 동맹을 맺었음.\n차세대 AI 메모리 공동 개발 및 장기 공급 계약 체결함.",
-  "importance": 5
  }
 ]
