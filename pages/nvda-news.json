@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-11 21:02",
+  "tag": "수주",
+  "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5",
+  "summary": "IBM이 Nvidia 기반 AI 추론 클러스터 구축 위해\n2억 4천만 달러 규모 계약 체결했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-11 20:04",
   "tag": "수주",
   "title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
@@ -708,15 +717,6 @@
   "source": "thelec.kr",
   "url": "https://www.thelec.kr/news/articleView.html?idxno=60040",
   "summary": "SK텔레콤, 엔비디아에 HBM4 장기 공급 결정했음.\n최대 2GW 규모 AI 팩토리 구축에 사용될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 04:34",
-  "tag": "수주",
-  "title": "젠슨 황 “엔비디아 AI 연구원들, 한국 이주 계획”",
-  "source": "donga.com",
-  "url": "https://n.news.naver.com/mnews/article/020/0003736647?sid=100",
-  "summary": "젠슨 황 엔비디아 CEO가 한국에 AI 프런티어랩을 시작한다고 밝혔음.\n선도적인 AI 연구원들이 한국 이주 계획임.",
   "importance": 4
  }
 ]
