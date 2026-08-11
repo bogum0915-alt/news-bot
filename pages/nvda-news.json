@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-08-11 22:04",
+  "tag": "제품",
+  "title": "Nvidia Releases New Open Model",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5",
+  "summary": "Nvidia가 새로운 오픈 모델을 출시했음.\n이는 AI 모델 경쟁에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 22:00",
+  "tag": "제품",
+  "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUxCN2ozelhOLWlNMTRrN2ozd0VFaG5ITEowei04ZmIyN3JNQWtsWnhDZDEwb2pGOUZkSEpqaEY5UHJ4MjhJTWdjUnZqNFR2VzB2aHJJZDI0Y21JcDlXc1NndnVhWVVYZ1hnMGs2Wk5LVkRnU2pvc3E5dDJxT2Y5V0hjSzNXZ2NGanI1V3BTQm4tbWpxcUtuRXhYcmZ1TngtU2ZZ0gGoAUFVX3lxTFB1SFY2eVJxS0twek9TQ0hoeTVoZjdSM0NLRThfYVV0NHJBbTc3emI4OFZUVHo4UTIybmFtZUdYeDM0UDB1ZURCNWl5Y0xVUkdScHRPRDh1UDBEU3FBY3JCMWwwZllDU01zRDdCVUZXVGxUbG9GWjhDd3VnMmF0dFlWaUh3MXBaeGNHQ0l6WFV6UlprNVV5VmFmc01QaUNFanVvejI0bnM4MQ?oc=5",
+  "summary": "Nvidia가 CEO Jensen Huang 등장 이후 첫 오픈소스 AI 모델 공개했음.\nAI 모델 생태계 확장에 기여할 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-11 22:00",
+  "tag": "제품",
+  "title": "Why Nvidia Is Trying To Develop The World’s Best Open-Source AI Models",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3gxaVJ2STFPQkRHa3daMDk4bkRfLU1EMml1VnRWdi1ZbUdDVVUya3hQNXlHbXV0N3dQTjd6cXJFRTk4bEQ0UUR0OVJoUjhzcnk2NTZMNHd2bExzMFRmYS1zc1VuSjJHRTQ0SEFoS1RtWTFkc0dXS1JQb3Z3LVQ1d3AyZVNXWGp3YUJqNWVxQVJOWVFDTEJGYWdjdw?oc=5",
+  "summary": "엔비디아가 세계 최고 오픈소스 AI 모델 개발에 집중하고 있음.\n이는 AI 밸류체인에서 엔비디아의 영향력을 강화하고,\n새로운 AI 칩 경쟁에 대비하려는 전략으로 해석됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-11 21:02",
   "tag": "수주",
   "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
@@ -690,33 +717,6 @@
   "source": "tokenpost.kr",
   "url": "https://www.tokenpost.kr/news/cryptocurrency/381477",
   "summary": "IREN, MS/엔비디아와 28억 달러 AI 클라우드 계약 체결.\nAI 인프라 확장을 위한 파트너십으로 주가 급등했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 07:38",
-  "tag": "수주",
-  "title": "최태원 회장-젠슨 황, AI 팩토리·AI 메모리 등 총 5,000억 달러 이상 규...",
-  "source": "techholic.co.kr",
-  "url": "http://www.techholic.co.kr/news/articleView.html?idxno=222249",
-  "summary": "최태원 회장, 젠슨 황 엔비디아 CEO 만나 AI 팩토리, AI 메모리 등 5천억 달러 이상 투자 논의했음.\nSK텔레콤, 엔비디아 DSX 플랫폼 기반 HBM4 탑재 협력 강화했음.\nHBM 등 차세대 메모리 인프라 수요 확대 대응 협력할 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 07:33",
-  "tag": "수주",
-  "title": "Nvidia (NVDA) Is Taking Korea's AI Buildout To $10 Billion",
-  "source": "simplywall.st",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWhabDV6QVpsWXhoNmJlMlRRX3NaeTFwYWlVUHZtVWVZWWt1TkNTYW9ZeGZqMjVUMDRSam4wbXRWTGZWV2RjVEFmdXBEZEFaUExqdUZvZUpRbDVuM29JeWk3c1ptVG9abTY1ZmFjcGtKaFZheUxiR3psa3RJN0dLdTIzNldUNXhtUnhlbE92Uk5pZGdOa1ZwN0ZUaUR1LURyV0lvZmprX2ItUnhkWTduZmZpZ3Z1NG5sVW9ZMWhXbzJ4WjTSAcgBQVVfeXFMT3QtMkhsWWs1MmV1UmlZblk2c2ZfRHlpalhteWVtanFpX25VZkVmX1lkeEthYjJEaEt4WXVUTTlCM3NJVTFuT3hscWJHM0JHNW1fMTVYbWdvUldodXpjRDNfQnFpS2t1d1J1aEQ5TE45TC1VYjZ0cmtadEl4TEdDTU9wUDdhcEsyTHI3UW85X29UVElpbG5XbXpLei15VWxwRXdYNmp4dEh0SFh2WkU3U2dCTVVEeUNJb0JCQVN0NDcxQ1NFUlMxM0M?oc=5",
-  "summary": "Nvidia가 한국의 AI 인프라 구축에 100억 달러 투자 예정임.\n이는 한국 AI 시장 확대에 중대한 영향을 줄 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 07:14",
-  "tag": "수주",
-  "title": "SK, 엔비디아에 메모리 장기 공급",
-  "source": "thelec.kr",
-  "url": "https://www.thelec.kr/news/articleView.html?idxno=60040",
-  "summary": "SK텔레콤, 엔비디아에 HBM4 장기 공급 결정했음.\n최대 2GW 규모 AI 팩토리 구축에 사용될 예정임.",
   "importance": 4
  }
 ]
