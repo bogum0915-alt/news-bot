@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-12 02:56",
+  "tag": "기타",
+  "title": "RBC Capital’s Srini Pajjuri on Nvidia lining up $500 billion in financing: ‘Very sensible’",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWYxZGtFZ1lDSF83NmJzcEt2YWotR3UzVXZyVzF5bHlITEpMNXg4YlBjZHV5OVhrTGw1eGxKR3Q5ZkFpYjI3UU5iOG9rY2NVS3hEMkl2dC13RjZfMk50WkRNVlJCNHUxQWU1SmJwWUFGMTJBXzlkZlJ6cDBlY0t5Y1AybXZ2ZVVQQXhjMVpEYjRGTGliRW4tTmpOUzRRYTVPVmt5b2I5a1Qwa1NT?oc=5",
+  "summary": "Nvidia가 5000억 달러 규모 자금 조달 준비 중.\nRBC Capital 분석가는 매우 합리적인 결정이라 평가함.\n이는 AI 칩 수요 증가에 대한 적극적 대응으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-12 01:21",
   "tag": "기타",
   "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
@@ -708,15 +717,6 @@
   "source": "thefairnews.co.kr",
   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83221",
   "summary": "네이버가 엔비디아, 브룩필드와 13.8조 규모 AI 팩토리 구축을 위한 파트너십 체결했음.\n엔비디아로부터 전략적 투자 유치 및 브룩필드와 자금 조달 협의를 완료했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:28",
-  "tag": "수주",
-  "title": "SK, 엔비디아와 5000억달러 AI 동맹",
-  "source": "press9.kr",
-  "url": "http://www.press9.kr/news/articleView.html?idxno=80036",
-  "summary": "SK그룹이 엔비디아, MS, AWS 등 빅테크와\nAI 반도체, 데이터센터 협력을 확대함.\n미국에서 AI 관련 논의가 있었음.",
   "importance": 4
  }
 ]
