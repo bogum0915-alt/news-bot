@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-12 01:21",
+  "tag": "기타",
+  "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2t2NHJObWJ0OURsYWxqSG9vRUNRd3pmZ0toaXpSZllkOE5JOTBJY3dwNUw4OV95NFRBYVVRRmg5bUZaZjc1MzlhU3BCZW9nQVc5RWNaZC1IV0ozOWNnb0U5UFkxSXhsd1ZfSWprNVNuS2huVi1YYW83ZUdZX3k5dl9TX2k1NlBFRlRISHNfRUt5TUtXbmtBaUtZZHBuNF9EMTNuNXhUWVNwUGZrUTVVTDVwOUsxNVA2?oc=5",
+  "summary": "인텔이 신기술 개발 가능성을 시사했음.\n엔비디아의 재무 강화 노력은 매우 긍정적이라고 평가함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-11 23:35",
   "tag": "기타",
   "title": "Bessemer’s Deeter on Nvidia's $500 billion Wall Street deal: ‘A great maturation of the ecosystem’",
@@ -708,15 +717,6 @@
   "source": "press9.kr",
   "url": "http://www.press9.kr/news/articleView.html?idxno=80036",
   "summary": "SK그룹이 엔비디아, MS, AWS 등 빅테크와\nAI 반도체, 데이터센터 협력을 확대함.\n미국에서 AI 관련 논의가 있었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:27",
-  "tag": "기타",
-  "title": "NAVER, 엔비디아 지분 투자·자사주 소각에 18%↑",
-  "source": "newsis.com",
-  "url": "https://n.news.naver.com/mnews/article/003/0014089176?sid=101",
-  "summary": "네이버가 엔비디아에 1조 4809억원 규모 투자했음.\n대규모 자사주 소각도 함께 진행했음.\n이 영향으로 주가가 18% 이상 급등했음.",
   "importance": 4
  }
 ]
