@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-13 00:53",
+  "tag": "제품",
+  "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
+  "summary": "Nvidia RTX 6000 Pro Blackwell MSRP가 1년 만에 2배로 인상됐음.\nAI 붐으로 인한 데이터센터 GPU 수요 증가가 원인임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-13 00:41",
+  "tag": "실적",
+  "title": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
+  "summary": "CoreWeave, 2020년 출시된 구형 AI GPU로도 9년간 수익 창출 가능성 입증했음.\n2029년까지 A100 계약 연장하고 있으며, 이는 전력 제약과 기존 인프라 덕분임.\n분기 매출 25.8억 달러 기록, 전년 대비 112% 증가했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-12 21:00",
   "tag": "제품",
   "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
@@ -699,24 +717,6 @@
   "source": "ajunews.com",
   "url": "https://www.ajunews.com/view/20260727081502454",
   "summary": "네이버가 엔비디아로부터 10억달러(약 1.48조원) 규모 투자를 유치했음. 해당 자금은 AI 신사업에 투입될 예정임. 또한, 브룩필드와 90억달러 규모 PF 협의를 진행 중이며, 8월에는 1조원 규모 자사주 소각도 계획하고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:32",
-  "tag": "수주",
-  "title": "네이버, 엔비디아와 2028년까지 200MW 규모 글로벌 AI 팩토리 구축",
-  "source": "cstimes.com",
-  "url": "https://www.cstimes.com/news/articleView.html?idxno=714673",
-  "summary": "네이버가 엔비디아와 협력하여\n2028년까지 200MW 규모\n글AI 팩토리 구축 계획 발표했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:31",
-  "tag": "수주",
-  "title": "네이버, 엔비디아에 1조 4809억원 유상증자…AI팩토리 200MW로 확대",
-  "source": "seoul.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/081/0003664833?sid=101",
-  "summary": "네이버가 엔비디아에 1.48조원 규모 유상증자를 진행함.\n엔비디아는 네이버 지분 4.5% 확보 예정임.\n네이버는 이를 통해 AI팩토리 200MW로 확대할 계획임.",
   "importance": 4
  }
 ]
