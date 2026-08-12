@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-12 19:55",
+  "tag": "제품",
+  "title": "NVIDIA’s Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-96-gb-rtx-pro-6000-blackwell-now-costs-16000-usd-double-its-original-price/",
+  "summary": "NVIDIA의 Blackwell GPU인 RTX PRO 6000 가격이\n메모리 부족으로 13,000달러에서 16,000달러로\n거의 두 배 상승했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-12 04:25",
   "tag": "제품",
   "title": "NVIDIA Accelerates AI on DGX & RTX Systems With New Open Models, LTX 2.5 Video Gen Support: 2x Performance Boost, Big Memory Savings, 5090 With 200 Tokens/s In Meta’s Muse",
@@ -709,14 +718,5 @@
   "url": "https://www.newsway.co.kr/news/view?ud=2026072708250635062",
   "summary": "엔비디아가 네이버 지분 4.5% 취득을 통해 3대 주주가 될 예정임.\n이는 제3자 배정 유상증자를 통해 진행되며,\nAI 팩토리 구축을 본격화하려는 움직임으로 해석됨.",
   "importance": 4
- },
- {
-  "ts": "2026-07-27 08:30",
-  "tag": "수주",
-  "title": "엔비디아, 네이버 신주 10억달러어치 인수…글로벌 AI 팩토리 공동 구축",
-  "source": "slist.kr",
-  "url": "https://www.slist.kr/news/articleView.html?idxno=754398",
-  "summary": "엔비디아가 네이버 신주 10억달러 인수.\n글로벌 AI 팩토리 공동 구축 협력 강화.\n양사 파트너십으로 밸류체인 영향 전망.",
-  "importance": 5
  }
 ]
