@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-12 21:00",
+  "tag": "제품",
+  "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
+  "summary": "메타와 엔비디아가 중국 업체들이 주도하는 오픈 웨이트 AI 경쟁에 참여했음.\n이는 AI 밸류체인 내 경쟁 구도에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-12 19:55",
   "tag": "제품",
   "title": "NVIDIA’s Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
@@ -708,15 +717,6 @@
   "source": "seoul.co.kr",
   "url": "https://n.news.naver.com/mnews/article/081/0003664833?sid=101",
   "summary": "네이버가 엔비디아에 1.48조원 규모 유상증자를 진행함.\n엔비디아는 네이버 지분 4.5% 확보 예정임.\n네이버는 이를 통해 AI팩토리 200MW로 확대할 계획임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:30",
-  "tag": "수주",
-  "title": "엔비디아, 네이버 3대 주주 오른다…AI 팩토리 구축 본격화",
-  "source": "newsway.co.kr",
-  "url": "https://www.newsway.co.kr/news/view?ud=2026072708250635062",
-  "summary": "엔비디아가 네이버 지분 4.5% 취득을 통해 3대 주주가 될 예정임.\n이는 제3자 배정 유상증자를 통해 진행되며,\nAI 팩토리 구축을 본격화하려는 움직임으로 해석됨.",
   "importance": 4
  }
 ]
