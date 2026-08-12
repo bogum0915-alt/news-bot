@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-13 04:06",
+  "tag": "기타",
+  "title": "Investors question data center loan valuations after latest Nvidia financing move",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0VaVXpxd2tKVXBjcUQzUUh4enN3SndBNHVxSVZoNmtBT193NjBDR0c5a3dqV1hZRC10aFJlS04zOXNtY3R6OXZIekZEYm1rY1l0ZTVfU19UX0lyS3E4OGNCZTl2dG5IemRFRlJxa1BwYS1YRmNnRnlKcVMxbVdlb2EySERoMUpESmgwTTdQa21jemctaWtoN2M0clJyZGo5NjNFT2pJUWM2SzNpbHRZdkFVdjFfYUJQRXllSTJwaw?oc=5",
+  "summary": "투자자들이 Nvidia의 최신 자금 조달 움직임 후\n데이터 센터 대출 가치에 의문을 제기하고 있음.\n이는 AI 칩 수요 증가와 관련된 자금 조달 방식을\n주목하고 있음을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-13 00:53",
   "tag": "제품",
   "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
@@ -708,15 +717,6 @@
   "source": "koreareport.co.kr",
   "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51699",
   "summary": "네이버, 엔비디아와 10억 달러 규모 AI 팩토리 공동 구축 추진함.\n엔비디아 대상 주당 20만4천500원에 신주 발행함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:32",
-  "tag": "수주",
-  "title": "네이버, 엔비디아서 10억달러 투자 유치…1.48조 규모 유상증자",
-  "source": "ajunews.com",
-  "url": "https://www.ajunews.com/view/20260727081502454",
-  "summary": "네이버가 엔비디아로부터 10억달러(약 1.48조원) 규모 투자를 유치했음. 해당 자금은 AI 신사업에 투입될 예정임. 또한, 브룩필드와 90억달러 규모 PF 협의를 진행 중이며, 8월에는 1조원 규모 자사주 소각도 계획하고 있음.",
   "importance": 4
  }
 ]
