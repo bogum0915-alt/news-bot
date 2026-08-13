@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-14 05:49",
+  "tag": "기타",
+  "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
+  "summary": "AI 붐을 위한 새로운 자금 조달 방식이 등장했음.\n월스트리트와 엔비디아가 협력 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-14 00:08",
   "tag": "기타",
   "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -708,15 +717,6 @@
   "source": "Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmNHeGYwc296TEc1bk9xLWZkYTY4R3NhaEpUbEEyUWFZZmtiaW8yeEVISGhKX0lWdzFlZjlHbjlVQ2FHVThnN0xLYUlFV0txS0M3YU52M1ZPR2xEX2pUZGR5Y0taTEd1WWVvaFhnbk0xMk9BTFJKQjgxWkJjQklNUElaRm54NU9NcWViSjJ6dzcwRlFzbXY4RTl2X0Z5NTBvWm9QTG5qNldwTGUwcFpRTm1zb3o?oc=5",
   "summary": "Nvidia가 7500억 달러 규모 계약 추진 중.\n이는 AI 산업의 순환 금융(circular financing) 재부상 우려를 낳고 있음.\n자금 조달 방식 및 지속 가능성에 대한 의구심 제기됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:04",
-  "tag": "수주",
-  "title": "엔비디아가 네이버에 1.5조 꽂자··· '삼전닉스'까지 같이 뛰었다",
-  "source": "greenpostkorea.co.kr",
-  "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307174",
-  "summary": "엔비디아, 네이버에 1.5조 투자했음.\n삼성전자, 브로드컴과 5년간 2000억달러 규모\n메모리 공급 및 AI 칩 파운드리 협력 추진함.",
   "importance": 4
  }
 ]
