@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-14 00:08",
+  "tag": "기타",
+  "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+  "summary": "Nvidia가 AI 투자 확대를 위한 신규 자금 조달 방안을 모색하고 있음.\n이를 통해 기존 GPU의 가치 하락을 방지하려는 계획임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-13 15:25",
   "tag": "제품",
   "title": "NVIDIA Ditches AC Power For 800 VDC AI Factories To Scale Up Compute, Backed By Microsoft, Google and 80 Ecosystem Firms For 2H 2026",
@@ -709,14 +718,5 @@
   "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307174",
   "summary": "엔비디아, 네이버에 1.5조 투자했음.\n삼성전자, 브로드컴과 5년간 2000억달러 규모\n메모리 공급 및 AI 칩 파운드리 협력 추진함.",
   "importance": 4
- },
- {
-  "ts": "2026-07-27 08:33",
-  "tag": "수주",
-  "title": "[속보]네이버, 엔비디아에 1조4800억원 규모 3자배정 유상증자",
-  "source": "mt.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/008/0005391193?sid=105",
-  "summary": "네이버가 엔비디아 대상 3자배정 유상증자 실시.\n발행 규모는 1조 4800억원에 달함.",
-  "importance": 5
  }
 ]
