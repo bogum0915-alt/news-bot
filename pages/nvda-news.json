@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-13 15:25",
+  "tag": "제품",
+  "title": "NVIDIA Ditches AC Power For 800 VDC AI Factories To Scale Up Compute, Backed By Microsoft, Google and 80 Ecosystem Firms For 2H 2026",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-800-vdc-platforms-break-past-traditional-power-distros-to-scale-up-performance/",
+  "summary": "NVIDIA가 800V DC AI 공장 도입을 발표했음.\nMicrosoft, Google 등 80개 기업의 지지를 받았음.\n2026년 하반기부터 적용될 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-13 15:15",
+  "tag": "수주",
+  "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+  "summary": "인도의 Larsen and Toubro가 Nvidia를 위한 AI 공장 건설 수주했음.\n이는 Nvidia의 AI 인프라 확장 및 공급망 다변화 노력의 일환으로 볼 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-13 04:06",
   "tag": "기타",
   "title": "Investors question data center loan valuations after latest Nvidia financing move",
@@ -700,23 +718,5 @@
   "url": "https://n.news.naver.com/mnews/article/008/0005391193?sid=105",
   "summary": "네이버가 엔비디아 대상 3자배정 유상증자 실시.\n발행 규모는 1조 4800억원에 달함.",
   "importance": 5
- },
- {
-  "ts": "2026-07-27 08:32",
-  "tag": "수주",
-  "title": "네이버, 엔비디아·브룩필드와 ‘14조 동맹’…AI 팩토리 본격화",
-  "source": "sentv.co.kr",
-  "url": "https://www.sentv.co.kr/article/view/sentv202607270006",
-  "summary": "네이버, 엔비디아로부터 10억 달러 투자 유치했음.\n브룩필드와 14조원 규모 AI 팩토리 구축 협력함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 08:32",
-  "tag": "수주",
-  "title": "네이버, 엔비디아 10억 달러 투자 받아 AI 팩토리 구축",
-  "source": "koreareport.co.kr",
-  "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51699",
-  "summary": "네이버, 엔비디아와 10억 달러 규모 AI 팩토리 공동 구축 추진함.\n엔비디아 대상 주당 20만4천500원에 신주 발행함.",
-  "importance": 4
  }
 ]
