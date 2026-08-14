@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-14 19:30",
+  "tag": "기타",
+  "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
+  "summary": "우크라이나 정보기관이 러시아의 최신 S-71 'Monochrome' 순항미사일에서\nNvidia의 AI 칩인 Jetson Orin NX 모듈을 발견했다고 주장했음.\n해당 칩이 미사일의 종말 유도에 사용되었을 가능성이 제기됐음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-14 05:49",
   "tag": "기타",
   "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
@@ -708,15 +717,6 @@
   "source": "Northeast Times",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzBDT0tHR25zTWdvUm9aRVFaUmg4RkktMDZndTZaUHZGQjlkR3R5SmRrM056QVFPS3lGOFJiU0xSMW8wV29BLUNnMTVCTy1YczAwUUxQLUFraTJFWFR3TUhVMFJyRFJfRDVHSy1mdDFhUWx2SUNjOFV6VThKU3dDeEw3WlctTUNPX0hVVXhXTkZaX0U?oc=5",
   "summary": "Nvidia는 지난 주 시가총액 5000억 달러 증가라는 이례적인 성과를 기록했음.\n이는 AI 시장의 폭발적인 성장과 Nvidia의 지배력을 보여주는 지표임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:20",
-  "tag": "수주",
-  "title": "Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmNHeGYwc296TEc1bk9xLWZkYTY4R3NhaEpUbEEyUWFZZmtiaW8yeEVISGhKX0lWdzFlZjlHbjlVQ2FHVThnN0xLYUlFV0txS0M3YU52M1ZPR2xEX2pUZGR5Y0taTEd1WWVvaFhnbk0xMk9BTFJKQjgxWkJjQklNUElaRm54NU9NcWViSjJ6dzcwRlFzbXY4RTl2X0Z5NTBvWm9QTG5qNldwTGUwcFpRTm1zb3o?oc=5",
-  "summary": "Nvidia가 7500억 달러 규모 계약 추진 중.\n이는 AI 산업의 순환 금융(circular financing) 재부상 우려를 낳고 있음.\n자금 조달 방식 및 지속 가능성에 대한 의구심 제기됨.",
   "importance": 4
  }
 ]
