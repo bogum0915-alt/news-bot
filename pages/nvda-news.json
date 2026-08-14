@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-14 22:54",
+  "tag": "수주",
+  "title": "Private credit roundup: Nvidia's half trillion for chips financing, plus others",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtyVEpfcVNDRlNMYkRlOFNBOFRSVnBMazVkeVc3b2FRZWNYVVpvcjJsbFJxODVvVEFNMmFiaTdvaEpxLWc0N2lYZnRCRXBhM2Y1djB3RlJMMFJWVlgtR19wdGF5WW16aFFia2lSZ3hXUTVrUTF0dFdWQVBGWkxsbEZ5UXJlU2dzYW43OXlxQkFaRS00V2VKNWtzb0FvdGliQ3JzQ3NnMDNPZU5tSEdLUlluQ0E4dlc3bUxfeVptb2ttUndhVU9Z?oc=5",
+  "summary": "Nvidia가 AI 칩 생산을 위해 5천억 달러 규모의 자금 조달을 모색하고 있음.\n이는 AI 칩 제조 및 공급망에 대한 대규모 투자 의지를 보여줌.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-14 22:40",
+  "tag": "수주",
+  "title": "NVIDIA & LG Bring Next-Gen Humanoids To Life To Advance The Physical AI Realm While Also Building Vera Rubin Factories",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-lg-bring-next-gen-humanoids-to-life-to-advance-the-physical-ai-realm/",
+  "summary": "NVIDIA와 LG가 차세대 휴머노이드 개발을 가속화하기 위해 협력함.\n로보틱스 및 자동차 솔루션 배포를 위한 파트너십 강화의 일환임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-14 19:30",
   "tag": "기타",
   "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
@@ -699,24 +717,6 @@
   "source": "etnews.com",
   "url": "https://n.news.naver.com/mnews/article/030/0003451496?sid=105",
   "summary": "엔비디아가 SKT, 네이버 등과 오픈소스 기반 AI 보안 얼라이언스를 결성했음.\n폐쇄형 시스템 의존 대신 개방형 모델과 에이전트 하네스 활용.\nAI 보안 생태계 확장을 위한 파트너십이므로 투자에 유의미함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:28",
-  "tag": "기타",
-  "title": "Naver gets first outside investor since 2004 as Nvidia takes 4.5 percent",
-  "source": "Korea JoongAng Daily",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDV6ODBhbW13eHdsQm9QUHZFS3dOX3k5SV9kT2RyMVJpd1VLcGJlcHEySE1WVG1qZmpyM1hFUkdFejRMekhVV2toUzZCSVhmYzJHZjNySEVaVnNZZEhCYnhQd1hPZ3IxYlZKRHFacS1pdU1wcGUzNHRyY3kzc1NhMjlPa2ZQU013SUNHNHNmMTU1YVd3ZEhGTHlZYkZxaHY1N0xmMGphUUhKUUpiNG0xOHBvMWpsQUZ2eHNHd2FpaEYyUmtKOFE?oc=5",
-  "summary": "엔비디아가 네이버 지분 4.5% 인수했음.\n2004년 이후 첫 외부 투자 유치임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:24",
-  "tag": "실적",
-  "title": "Nvidia’s $500 billion week and what it means for AI",
-  "source": "Northeast Times",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzBDT0tHR25zTWdvUm9aRVFaUmg4RkktMDZndTZaUHZGQjlkR3R5SmRrM056QVFPS3lGOFJiU0xSMW8wV29BLUNnMTVCTy1YczAwUUxQLUFraTJFWFR3TUhVMFJyRFJfRDVHSy1mdDFhUWx2SUNjOFV6VThKU3dDeEw3WlctTUNPX0hVVXhXTkZaX0U?oc=5",
-  "summary": "Nvidia는 지난 주 시가총액 5000억 달러 증가라는 이례적인 성과를 기록했음.\n이는 AI 시장의 폭발적인 성장과 Nvidia의 지배력을 보여주는 지표임.",
   "importance": 4
  }
 ]
