@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-15 11:03",
+  "tag": "기타",
+  "title": "Nvidia’s $500 Billion Plan Swallows Wall Street",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmFHY0lCTWFRelBzOExZdk5MVGZmaDNHM1hUZEMydkI3elRiRFJzRFd6cVJxR3dpY3pCWGpxRjZYT3kwUElxcHRaRFdvaXB1c2ZqeG1nY0ZiX3BCNm5ucVlPWEI2TTNGRGE3TWtZc1pRb0Vrc2l0YlR5Q1NWVjhESVlVdWtIdHpCUmNmYVhuZFdVcmFiazhtUlI4TlVIY01OM3pyckJEZ3pBOUxla3hVYXlBcU13MEE?oc=5",
+  "summary": "Nvidia의 5000억 달러 규모 투자 계획이 월가에 큰 영향을 주고 있음.\n이는 AI 밸류체인 전반에 걸쳐 상당한 파장을 일으킬 것으로 예상됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-15 09:01",
   "tag": "수주",
   "title": "Nvidia Nears Deal To Guarantee About $100 Billion In Financing For Massive Data Center",
@@ -708,15 +717,6 @@
   "source": "hankyung.com",
   "url": "https://n.news.naver.com/mnews/article/015/0005314464?sid=101",
   "summary": "엔비디아의 오픈AI 지급보증으로 AI 순환금융 우려가 커지고 있음.\n코어위브, 네비우스, 오라클 등도 레버리지를 활용한 투자를 하고 있음.\n구글, 아마존, 메타 등 대형사들도 채권 발행 규모가 늘고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:50",
-  "tag": "수주",
-  "title": "엔비디아, 오픈AI와 오하이오 데이터센터에 2500억 달러 지급보증 협상",
-  "source": "digitaltoday.co.kr",
-  "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687436",
-  "summary": "엔비디아가 오픈AI의 대규모 데이터센터 프로젝트에\n2500억달러 규모 지급보증을 논의 중이라는 소식임.\n이는 AI 인프라 투자 및 공급망 확대에 영향이 있을 수 있음.",
   "importance": 4
  }
 ]
