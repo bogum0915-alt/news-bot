@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-15 09:01",
+  "tag": "수주",
+  "title": "Nvidia Nears Deal To Guarantee About $100 Billion In Financing For Massive Data Center",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdEZDIteGxJU2tFTHZYbDNfRU9TaUhTMjFhQmtlR0c5RmstWlVKVDZUVWs5UXhMTEtONzNGQ2xlUmdub0lxOGZWUDBkU1owOHR4UEV4Q1NEWG11NV9RY1lZV2xmQVRjMnhYZnB2akNvNFkyUDZXUlhWaEM1UVFWNFFBdHUxQ3FpWG04SEN3Vmt2M0wwbU84NTQ2ektiaDZRUDk5Rk9CdEFJaF9zQkE?oc=5",
+  "summary": "Nvidia가 대규모 데이터센터에 대한 1000억 달러 규모 자금 조달 계약을 곧 체결할 것으로 알려졌음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-14 22:54",
   "tag": "수주",
   "title": "Private credit roundup: Nvidia's half trillion for chips financing, plus others",
@@ -708,15 +717,6 @@
   "source": "digitaltoday.co.kr",
   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687436",
   "summary": "엔비디아가 오픈AI의 대규모 데이터센터 프로젝트에\n2500억달러 규모 지급보증을 논의 중이라는 소식임.\n이는 AI 인프라 투자 및 공급망 확대에 영향이 있을 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-27 19:29",
-  "tag": "수주",
-  "title": "엔비디아, SKT·네이버 등과 오픈소스 기반 AI 보안 얼라이언스 결성",
-  "source": "etnews.com",
-  "url": "https://n.news.naver.com/mnews/article/030/0003451496?sid=105",
-  "summary": "엔비디아가 SKT, 네이버 등과 오픈소스 기반 AI 보안 얼라이언스를 결성했음.\n폐쇄형 시스템 의존 대신 개방형 모델과 에이전트 하네스 활용.\nAI 보안 생태계 확장을 위한 파트너십이므로 투자에 유의미함.",
   "importance": 4
  }
 ]
