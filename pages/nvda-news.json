@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-16 18:25",
+  "tag": "기타",
+  "title": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/",
+  "summary": "AI 투자 최대 위험은 GPU 과잉 공급임.\nNVIDIA GPU를 자산화하는 계획에 대한.\n트럼프 고문 데이비드 삭스의 분석임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-15 11:03",
   "tag": "기타",
   "title": "Nvidia’s $500 Billion Plan Swallows Wall Street",
@@ -708,15 +717,6 @@
   "source": "Yahoo Finance",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXJRblMxczdxUHcwTXdmZTR0dDNURjFSVm41N2MxdHNJMU1uR2dYSHpCcEtUblZtVENFVnIzMHZic1VLQ0ZGRXRodTFfdmpxUG50VElVTVpxbUN6OV81aHpUdUpfZEhPNXlBb05IZlRjLWxOUkdGbFhqLTVMajR2NjRlR2FWMnU0alFDR0hoTDA1djBEWEprblAyTUZqdw?oc=5",
   "summary": "NVIDIA가 7500억 달러 규모의 대규모 투자를 계획하고 있음.\n이는 닷컴 버블의 재현 또는 AI 붐의 시작을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:08",
-  "tag": "기타",
-  "title": "엔비디아의 오픈AI 지급보증에 다시 불거진 'AI순환금융'",
-  "source": "hankyung.com",
-  "url": "https://n.news.naver.com/mnews/article/015/0005314464?sid=101",
-  "summary": "엔비디아의 오픈AI 지급보증으로 AI 순환금융 우려가 커지고 있음.\n코어위브, 네비우스, 오라클 등도 레버리지를 활용한 투자를 하고 있음.\n구글, 아마존, 메타 등 대형사들도 채권 발행 규모가 늘고 있음.",
   "importance": 4
  }
 ]
