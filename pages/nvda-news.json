@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-18 00:16",
+  "tag": "수주",
+  "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+  "summary": "Nvidia가 SoftBank 데이터센터 개발사에 15억 달러 투자했음.\n이 투자로 Nvidia 칩이 OpenAI 데이터센터에 공급될 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-16 18:25",
   "tag": "기타",
   "title": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut",
@@ -708,15 +717,6 @@
   "source": "Financial Times",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U?oc=5",
   "summary": "Nvidia가 Ilya Sutskever의 AI 혁신에 50억 달러 투자하기로 함.\n이는 AI 기술 선도 및 미래 시장 선점을 위한 전략적 움직임으로 해석됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:09",
-  "tag": "수주",
-  "title": "NVIDIA Plans a $750 Billion Spending Spree. Is This the Dot-Com All Over or the Beginning of a Massive AI Boom?",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXJRblMxczdxUHcwTXdmZTR0dDNURjFSVm41N2MxdHNJMU1uR2dYSHpCcEtUblZtVENFVnIzMHZic1VLQ0ZGRXRodTFfdmpxUG50VElVTVpxbUN6OV81aHpUdUpfZEhPNXlBb05IZlRjLWxOUkdGbFhqLTVMajR2NjRlR2FWMnU0alFDR0hoTDA1djBEWEprblAyTUZqdw?oc=5",
-  "summary": "NVIDIA가 7500억 달러 규모의 대규모 투자를 계획하고 있음.\n이는 닷컴 버블의 재현 또는 AI 붐의 시작을 시사함.",
   "importance": 4
  }
 ]
