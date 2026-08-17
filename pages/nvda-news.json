@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-18 05:07",
+  "tag": "실적",
+  "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjJCajA4aDNSSU9MaExrYy1EbERVZG53RVlOYXh3RmlqTzJBNjdzZ2gxMGU2UGxLMnI0RkllNHNXbHlkUThmamwxSmlmcmJGdXN5WDBpbF9QQUhkcDBfZmZrRWRGUFhYTnRKSzlDRzdQM2NZX3diSG9EdXYyTzd0aHk4Y1MxWlFOdFZPZTY0a09YSWloWlZNQV82SF9MLU5hMVhKYk9COHRuV3F3ZFdtUWxTZw?oc=5",
+  "summary": "Nvidia 주가 반등세 지속 가능성에 대한 3가지 이유 분석.\nAI 칩 수요 강세와 경쟁사 대비 우위 점하고 있음.\n데이터센터 투자 확대 추세가 긍정적 요인임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-18 00:16",
   "tag": "수주",
   "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -708,15 +717,6 @@
   "source": "StorageReview.com",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOV9HVEp6OVVvcHJacHdfeE9RUWNqNGJUdkFGSXFoU0Vmb1JKXzBYZ1pOc09VMlhBRGduOUlsN0V5SXRXTzZEVkhJUzUzYWZpN2RKLXdKODNSS0JDYm5veHRvWU9URlducGFSU1U0c3BRS1U4ejZGWnp5c3JaUzBIQkYwd3VUZV9ac0V3ekVSZzhDYmp0ekVDZlczS3ZmcTE3cGdLNXdOVnNNYnlnUFFZM1phZWJGNlUxLXI4Qjln0gHDAUFVX3lxTE5TaE50Ym9aNkQtVXIxZmlXeEcxQWpNZ2V2YTIwY3JtaWRBRzFYQ1JPbXY1LUdBel9FcEdrQTZXYmhHWGd1enhORE91a1JWX09uQXI1dWVLWWRvbE5zbTY4UzZ4X19kWWllbmswLURXUGsxWmsxLUZWbTZ1ZldZMUNCc3NVMWdsVl91OG9JTEN3Q1RrOFVjbVd2VHNoakRhVnZNbEZDM1NGa3gzTGxjdWE0ZTdGTTVYdXVNWXowMjhsWUhzYw?oc=5",
   "summary": "SK와 엔비디아, 5000억 달러 파트너십 논의.\n네이버, AI 공장 3배 확대 계획 발표.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:11",
-  "tag": "수주",
-  "title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U?oc=5",
-  "summary": "Nvidia가 Ilya Sutskever의 AI 혁신에 50억 달러 투자하기로 함.\n이는 AI 기술 선도 및 미래 시장 선점을 위한 전략적 움직임으로 해석됨.",
   "importance": 4
  }
 ]
