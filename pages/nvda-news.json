@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-18 09:51",
+  "tag": "제품",
+  "title": "Nvidia Juggles Mixed Messages on Chip Longevity",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU1aLXVBNEZRY21KU1FlVlkxVW1fY0VhZ0xKWnVHTmg5RHFhY3JOeDNnd2ZkeTlwbnZIb3NLQUJSdkdLcXFmMHVEeDh4NXZ4aFc1WGlhZENOTUJfcVkxTjJFcXNha0ZLakFaLXdISmZuYmViTmNhUG9BSVh0Ul9SVTBuR0pFMHN4R1FVZ1dHYVNJeXlGRWFxQ3V4Rlp3bHZRTEE?oc=5",
+  "summary": "Nvidia가 칩 수명에 대해 상반된 메시지를 내놓고 있음.\n고성능 AI 칩의 수명을 다르게 설명하며 혼란을 주고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-18 05:07",
   "tag": "실적",
   "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
@@ -708,15 +717,6 @@
   "source": "Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDV4a0xGcU1UQTdQTmI0dHNMOGI5WXl6VVNqOWdEOUFNUmhWM2ZpNTh0bDJ3ZXZZYXk1eDdoX0pPQ211YzNQWnBoTDNUTFQ1aVBnNE5laW8wR19NRUh3SmxwUHh4UURCc2VzTnQxNUEwNlo0Y0M0d0pGQ1hxZkU5eDVXdXdfVU91WWM0WF9ZSWV4TzFraGl3RzlFa3JGaDd1ZVNwdk5qYnlXYUp1YnpuU3Vn?oc=5",
   "summary": "Nvidia가 OpenAI 공동 창업자인 Ilya Sutskever의 AI 연구소에\n50억 달러를 투자하기로 결정했음.\n이는 AI 칩 및 연구 생태계 전반에 영향을 줄 수 있는 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:18",
-  "tag": "수주",
-  "title": "Korea AI Summit: SK and NVIDIA Float a $500B Partnership as NAVER Triples Its AI Factory",
-  "source": "StorageReview.com",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOV9HVEp6OVVvcHJacHdfeE9RUWNqNGJUdkFGSXFoU0Vmb1JKXzBYZ1pOc09VMlhBRGduOUlsN0V5SXRXTzZEVkhJUzUzYWZpN2RKLXdKODNSS0JDYm5veHRvWU9URlducGFSU1U0c3BRS1U4ejZGWnp5c3JaUzBIQkYwd3VUZV9ac0V3ekVSZzhDYmp0ekVDZlczS3ZmcTE3cGdLNXdOVnNNYnlnUFFZM1phZWJGNlUxLXI4Qjln0gHDAUFVX3lxTE5TaE50Ym9aNkQtVXIxZmlXeEcxQWpNZ2V2YTIwY3JtaWRBRzFYQ1JPbXY1LUdBel9FcEdrQTZXYmhHWGd1enhORE91a1JWX09uQXI1dWVLWWRvbE5zbTY4UzZ4X19kWWllbmswLURXUGsxWmsxLUZWbTZ1ZldZMUNCc3NVMWdsVl91OG9JTEN3Q1RrOFVjbVd2VHNoakRhVnZNbEZDM1NGa3gzTGxjdWE0ZTdGTTVYdXVNWXowMjhsWUhzYw?oc=5",
-  "summary": "SK와 엔비디아, 5000억 달러 파트너십 논의.\n네이버, AI 공장 3배 확대 계획 발표.",
   "importance": 4
  }
 ]
