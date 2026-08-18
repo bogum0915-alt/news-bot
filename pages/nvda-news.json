@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-18 20:20",
+  "tag": "제품",
+  "title": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd",
+  "summary": "중국은 2026년부터 자체 AI 액셀러레이터 시장의 90%를 국산으로 공급 가능해질 전망임.\n화웨이를 선두로 중국 IHV들이 엔비디아, AMD로부터의 전환을 주도할 것으로 예상됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-18 20:00",
+  "tag": "기타",
+  "title": "Nvidia's AI moat is shifting from chips to capital",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5",
+  "summary": "Nvidia의 AI 경쟁 우위가 칩에서 자본으로 이동하고 있음.\nAI 산업의 빠른 성장에 따라 자본 투자의 중요성이 커지고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-18 09:51",
   "tag": "제품",
   "title": "Nvidia Juggles Mixed Messages on Chip Longevity",
@@ -699,24 +717,6 @@
   "source": "tokenpost.kr",
   "url": "https://www.tokenpost.kr/news/breaking/381864",
   "summary": "엔비디아가 오픈AI 공동창립자\n일리아 수츠케버의 AI 스타트업 SSI에\n수십억 달러 투자 및 협력 발표했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:33",
-  "tag": "수주",
-  "title": "Nvidia to back OpenAI data center buildout: Source",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0JJVG1fWEZCckNfNEVRM3RjRkxlQUZQWC1WSW9taHFLaHRkTWZKMFJITDZNbl9xTS1DUDhzZkFHVWFYUTNyNktHbzNHQzBxVnpTTkNiUE9wVV95SW1YVGNuUHdLLVRPbmsxYUZyZEl3UExyTk5hX2gzNWJaM1BXdmcxNEgySlFIS3VnNEZ3?oc=5",
-  "summary": "Nvidia가 OpenAI의 데이터센터 구축을 지원할 것이라고 소식통이 전했음.\n이는 AI 인프라 투자 확대 움직임으로 볼 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:31",
-  "tag": "수주",
-  "title": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDV4a0xGcU1UQTdQTmI0dHNMOGI5WXl6VVNqOWdEOUFNUmhWM2ZpNTh0bDJ3ZXZZYXk1eDdoX0pPQ211YzNQWnBoTDNUTFQ1aVBnNE5laW8wR19NRUh3SmxwUHh4UURCc2VzTnQxNUEwNlo0Y0M0d0pGQ1hxZkU5eDVXdXdfVU91WWM0WF9ZSWV4TzFraGl3RzlFa3JGaDd1ZVNwdk5qYnlXYUp1YnpuU3Vn?oc=5",
-  "summary": "Nvidia가 OpenAI 공동 창업자인 Ilya Sutskever의 AI 연구소에\n50억 달러를 투자하기로 결정했음.\n이는 AI 칩 및 연구 생태계 전반에 영향을 줄 수 있는 소식임.",
   "importance": 4
  }
 ]
