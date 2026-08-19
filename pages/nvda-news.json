@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-19 19:37",
+  "tag": "규제",
+  "title": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block — most licensed chips must stay in Hong Kong, which can't power them",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block",
+  "summary": "엔비디아 H200 칩이 중국에 첫 선적됐음.\n바이트댄스, 텐센트 등이 납품받음.\n하지만 대부분의 라이선스 칩은 홍콩에 보관해야 함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-19 19:32",
+  "tag": "규제",
+  "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
+  "summary": "미국 정부가 중국 수출 금지된 엔비디아 고성능 칩 우회 경로 차단 시도 중임.\n이는 AI 칩 시장의 지정학적 리스크 및 공급망 재편에 영향 줄 수 있음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-08-19 11:17",
   "tag": "규제",
   "title": "Nvidia H200 chips reach China in small shipments, FT reports",
@@ -699,24 +717,6 @@
   "source": "Morningstar",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1IyeXRYc2tUMWllLS1HVUZyR1NUNlVVLTJRSjJuNFpqX0tjQWhNSVNMMDlKWVhvdkFuWlkzNWw3bGdtS0VIVS1FY0RwTTMydWZnZklJY3JfQnA0SU03ZkJpMzg5Zmo0ZFAtMExyMlF0czlqUkllYVZYWXNPSFczaEpvWElZV0V2SWx1Y0JqRlM1VnFQc0pLSEoxTXV6NEVIU1ByU3M3bzh2NUhJbUQtMHprQkUzSl9mc3l0ZWdiU2FrcmQ4aVhr?oc=5",
   "summary": "Nvidia가 OpenAI와 공급 계약을 체결했다는 보도가 나왔음.\n이는 순환 거래에 대한 우려를 제기하지만, Morningstar는 Nvidia 주식이 저평가되었다고 판단함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 05:16",
-  "tag": "기타",
-  "title": "젠슨 황 \"AI 호황 지속\", 버블 우려에 반론 제기",
-  "source": "g-enews.com",
-  "url": "https://www.g-enews.com/view.php?ud=2026072720280664022bd56fbc3c_1",
-  "summary": "젠슨 황 엔비디아 CEO는 AI 호황이 지속될 것이라며 버블 우려에 반론했음.\n첨단 파운드리와 패키징 생태계는 자본 지출 지속성과 수율 안정화에 따라 수급이 엇갈릴 전망임.\n글로벌 기반 시설 투자는 일시적인 정체기를 겪을 수 있다는 업계 관계자들의 시각도 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 05:04",
-  "tag": "기타",
-  "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmd0M05vNUFOZG84MEpPeF80RmdtQXZKRHVnaVdfU0h1SUUweEtZZ21Da2JBczFsdEFmU1VQMGVBc0N3VUxjUm4tNkpHQ1U4aklWZVctVnNFZElmbnhSMi1jaXBNc0xQckJKM3E1ZDRXejkyd2JjMmh1a09Mb2FfWXJTYkNwNmpJeFZXeWE2YjlFVUhwSmVwQ01kbFNhMnpXY2x0Zko2eXZ1SURZd0FhSmFmWExJQ2ppWERwWHlvN0JqUzhGNmZoNEdIdmZtSWlNMnJ6V0p6eEMydw?oc=5",
-  "summary": "애플이 엔비디아 제치고 시총 1위 기업 됐음.\n애플은 설비 투자 부담 적었음.",
   "importance": 4
  }
 ]
