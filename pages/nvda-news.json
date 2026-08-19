@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-20 02:48",
+  "tag": "수주",
+  "title": "Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTR6TERvWTROSG5wazkwQWZTMTJGTnp2UTRmQW1oRUpRRFZUaGlvSjRVRGx5dW1ieU1Qd3hkWnAwYk94Uzh5TC1id0NPU3R3Mm9GZnFhUDEyUFBXNkNmV1JQd3lUWFBSUmQ2MzYtdm9UOVNIWkJ4SlV1dF9YMGo2VjRBVXBvamZHOWE3RXRWYVN0MVN0bnpGNUNpNDRaODh0TEdYbVhWcUVlWXN0dUE?oc=5",
+  "summary": "Nvidia가 AI 데이터 공급업체 Mercor에 200억 달러 기업 가치로 자금 조달 논의 중임.\n이는 Nvidia의 AI 생태계 확장 및 투자 전략을 보여줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-19 19:37",
   "tag": "규제",
   "title": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block — most licensed chips must stay in Hong Kong, which can't power them",
@@ -708,15 +717,6 @@
   "source": "Business Insider",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxxY1poVlY3SGZRV0lBTGZIQ3BhYkVibnFMVG9TLTBERkJ5NFd0RnpqY1RpTExNMmZBS2I0RUgxMmxUVVNHRXZ1aXpfRzZIbGZCcWpicmV6cjVQX0FOc1o5a2FEZ0RMV3hEMFhxNFI5UUVyU2hleEdyVFhBY1M3R0E1anc3OC1kQVBpSlV2NElTNGJ6eVA0a2JuUmVvUHE1QVBocEt3?oc=5",
   "summary": "Apple이 시가총액 1위 기업 자리를 Nvidia로부터 탈환했음.\n이는 AI 칩 시장에서의 Nvidia 영향력과 더불어, Apple의 강력한 시장 지위를 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 05:21",
-  "tag": "수주",
-  "title": "Nvidia: Reported OpenAI Deal Raises Circular Deal Fears, but We Think the Stock Is Undervalued",
-  "source": "Morningstar",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1IyeXRYc2tUMWllLS1HVUZyR1NUNlVVLTJRSjJuNFpqX0tjQWhNSVNMMDlKWVhvdkFuWlkzNWw3bGdtS0VIVS1FY0RwTTMydWZnZklJY3JfQnA0SU03ZkJpMzg5Zmo0ZFAtMExyMlF0czlqUkllYVZYWXNPSFczaEpvWElZV0V2SWx1Y0JqRlM1VnFQc0pLSEoxTXV6NEVIU1ByU3M3bzh2NUhJbUQtMHprQkUzSl9mc3l0ZWdiU2FrcmQ4aVhr?oc=5",
-  "summary": "Nvidia가 OpenAI와 공급 계약을 체결했다는 보도가 나왔음.\n이는 순환 거래에 대한 우려를 제기하지만, Morningstar는 Nvidia 주식이 저평가되었다고 판단함.",
   "importance": 4
  }
 ]
