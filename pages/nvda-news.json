@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-19 11:17",
+  "tag": "규제",
+  "title": "Nvidia H200 chips reach China in small shipments, FT reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzRG92OW9mSEo0NU9vSm5IOVlJUGVVSXNNQkdONXhWVUROR3AtLVJyako0NElNa1dQQVUzdmlMMDd0S1lNYjNsXzQ1ZzdhZkFTRmZxSlV3c2Y?oc=5",
+  "summary": "Nvidia H200 칩, 소량 선적되어 중국에 도착했다는 FT 보고가 있었음.\n이는 대중국 수출 통제 속에서 고급 AI 칩 공급에 대한 관심이 높음을 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-19 11:10",
+  "tag": "규제",
+  "title": "China eases limits on Nvidia H200 chips as AI race escalates",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?oc=5",
+  "summary": "중국이 AI 경쟁 심화에 따라 엔비디아 H200 칩 제한 완화했음.\n이는 중국 내 AI 칩 수요 증가와 공급망 변화 가능성을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-18 20:20",
   "tag": "제품",
   "title": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD",
@@ -699,24 +717,6 @@
   "source": "Yahoo Finance",
   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmd0M05vNUFOZG84MEpPeF80RmdtQXZKRHVnaVdfU0h1SUUweEtZZ21Da2JBczFsdEFmU1VQMGVBc0N3VUxjUm4tNkpHQ1U4aklWZVctVnNFZElmbnhSMi1jaXBNc0xQckJKM3E1ZDRXejkyd2JjMmh1a09Mb2FfWXJTYkNwNmpJeFZXeWE2YjlFVUhwSmVwQ01kbFNhMnpXY2x0Zko2eXZ1SURZd0FhSmFmWExJQ2ppWERwWHlvN0JqUzhGNmZoNEdIdmZtSWlNMnJ6V0p6eEMydw?oc=5",
   "summary": "애플이 엔비디아 제치고 시총 1위 기업 됐음.\n애플은 설비 투자 부담 적었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:38",
-  "tag": "수주",
-  "title": "엔비디아, SSI에 수십억 달러 투자…AI 인프라 10배 키운다",
-  "source": "tokenpost.kr",
-  "url": "https://www.tokenpost.kr/news/breaking/381866",
-  "summary": "엔비디아가 오픈AI 공동 창업자 일리야 수츠케버가 세운 SSI에 수조원대 투자.\nAI 인프라 10배 확대를 목표로 장기 협력에 나섬.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 01:36",
-  "tag": "수주",
-  "title": "엔비디아, SSI에 수십억 달러 투자…AI 인프라 협력",
-  "source": "tokenpost.kr",
-  "url": "https://www.tokenpost.kr/news/breaking/381864",
-  "summary": "엔비디아가 오픈AI 공동창립자\n일리아 수츠케버의 AI 스타트업 SSI에\n수십억 달러 투자 및 협력 발표했음.",
   "importance": 4
  }
 ]
