@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-21 01:58",
+  "tag": "제품",
+  "title": "Nvidia Plots China Comeback With New AI Chip",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
+  "summary": "Nvidia가 중국 시장 복귀를 위해 신규 AI 칩을 출시할 계획을 세우고 있음.\n이는 중국 수출 규제 완화를 염두에 둔 전략으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-20 03:33",
   "tag": "기타",
   "title": "Nvidia Tries to Spur the AI Boom Into the Future",
@@ -708,15 +717,6 @@
   "source": "mt.co.kr",
   "url": "https://n.news.naver.com/mnews/article/008/0005391772?sid=105",
   "summary": "엔비디아가 코어위브에 20억 달러 추가 투자했음.\n아이렌과 5GW 인프라 계약 및 주식 인수 권리 확보했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 05:38",
-  "tag": "수주",
-  "title": "Nvidia’s $750 Billion in Deals Reignite Circular AI Fears (4)",
-  "source": "news.bloombergtax.com",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWJhU2w3OUFvMzNEdTZRZDFZamNWbnBWMUdJWHpMRjdQdlY2Wm1oMV9SUDVPQW5nWVRtczI0eXVndjJiY25WVXRLZ0FYUG0zMU1YQ0U0RXc3cUdkMFo3emVvRjJRaHhfeWNSUHkzUlVzc3lCUEYxbUN4Tll3WnBYREFtVHRDUC05NFR2cUtqVTU2WG42M2lnYjJuYVVSYndBQklIdTI4TnJwRXRs?oc=5",
-  "summary": "Nvidia가 7500억 달러 규모의 거래를 성사시켜.\nAI 시장의 순환적 위험에 대한 우려가 다시 불거졌음.",
   "importance": 4
  }
 ]
