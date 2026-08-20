@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-21 02:34",
+  "tag": "제품",
+  "title": "Nvidia to ship AI chip for China by year-end, The Information reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+  "summary": "Nvidia가 연말까지 중국향 AI 칩 선적 예정.\nThe Information 보도.\n이는 중국 시장 수요 충족 및 미국 수출 통제 우회 시도 가능성 시사.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-21 02:17",
+  "tag": "실적",
+  "title": "Nvidia looks well placed to benefit from the next stage of the AI boom",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY?oc=5",
+  "summary": "Nvidia는 AI 붐의 다음 단계를 주도할 것으로 예상됨.\nAI 칩 시장에서의 강력한 입지를 바탕으로 혜택을 볼 것으로 전망됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 01:58",
   "tag": "제품",
   "title": "Nvidia Plots China Comeback With New AI Chip",
@@ -699,24 +717,6 @@
   "source": "biz.chosun.com",
   "url": "https://n.news.naver.com/mnews/article/366/0001182302?sid=105",
   "summary": "네이버, AI 데이터센터 구축 위해 엔비디아·브룩필드와 동맹 맺었음.\n코어위브와도 2030년까지 5GW 이상 AI 팩토리 구축 협력 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 06:00",
-  "tag": "수주",
-  "title": "\"엔비디아 3대 주주 등극…90억 달러 규모 AI 팩토리 이끌 네이버의 강력...",
-  "source": "newsquest.co.kr",
-  "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=270452",
-  "summary": "네이버가 엔비디아 3대 주주로 등극했음.\n90억 달러 규모 AI 팩토리를 이끌 예정임.\n엔비디아의 네오클라우드 기업 투자 전례가 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 06:00",
-  "tag": "수주",
-  "title": "\"유럽·중동 함께 뚫자\" 깐부 넘어 혈맹…엔비디아, 네이버 3대 주주 됐...",
-  "source": "mt.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/008/0005391772?sid=105",
-  "summary": "엔비디아가 코어위브에 20억 달러 추가 투자했음.\n아이렌과 5GW 인프라 계약 및 주식 인수 권리 확보했음.",
   "importance": 4
  }
 ]
