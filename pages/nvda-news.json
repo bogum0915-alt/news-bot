@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-21 03:59",
+  "tag": "제품",
+  "title": "NVIDIA Is Plotting Its China Comeback Via A New LPU-Based Inference Chip, As SMIC Rides US Export Controls To A Virtual China Monopoly",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-is-plotting-its-china-comeback-via-a-new-lpu-based-inference-chip-as-smic-rides-us-export-controls-to-a-virtual-china-monopoly/",
+  "summary": "NVIDIA, 중국 시장 복귀 위해 LPU 기반 신규 칩 준비 중임.\n미국 수출 통제 속 중국 고객 위한 전략임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 02:34",
   "tag": "제품",
   "title": "Nvidia to ship AI chip for China by year-end, The Information reports",
@@ -708,15 +717,6 @@
   "source": "hankyung.com",
   "url": "https://n.news.naver.com/mnews/article/015/0005314477?sid=101",
   "summary": "삼성전자가 브로드컴과 2030년까지 2000억달러 규모의\n전략적 협력을 추진함. 차세대 AI 가속기용 HBM과\n브로드컴 고속 데이터통신용 반도체 공급이 핵심임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 06:01",
-  "tag": "수주",
-  "title": "이해진의 승부수 ‘AI 데이터센터’… 엔비디아·브룩필드와 동맹 성공...",
-  "source": "biz.chosun.com",
-  "url": "https://n.news.naver.com/mnews/article/366/0001182302?sid=105",
-  "summary": "네이버, AI 데이터센터 구축 위해 엔비디아·브룩필드와 동맹 맺었음.\n코어위브와도 2030년까지 5GW 이상 AI 팩토리 구축 협력 중임.",
   "importance": 4
  }
 ]
