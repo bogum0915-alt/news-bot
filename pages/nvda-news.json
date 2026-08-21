@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-22 03:55",
+  "tag": "실적",
+  "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEFXQnpkUUNyMHptbUJnODZjcmJ1emU5RVNXWmlkZjF1cWROSjhGeWQ1OXd3UkpIZF93blNrV0RGQWRKWVI4R1RzbnhiWktaTXZMNjZUYWE1T19fV25McXhhN3FQZjkwSUdMTUlhSldvSzd0N29oMFFqZ1Q3djU0c05qSTQ5Rkk4TS1uU0dObndRRkFyMXlYSlYyVFlIdw?oc=5",
+  "summary": "AI 수혜주로 꼽히는 특정 기업이 신임 CFO를 임명했음.\nNvidia의 핵심 실적 발표가 임박했음을 알리는 소식임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-22 01:42",
   "tag": "제품",
   "title": "NVIDIA Built Its AVO Coding Agent To Optimize CUDA GPU Kernels, And It Just Achieved A 100% Score On A Public Test Without Receiving Any Prior Instruction",
@@ -708,15 +717,6 @@
   "source": "TradingView",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTRFSHBWRlVFTUtwT3pzNV95ekh5dzMyQktSMF9ta1B3WG9LanZFZkZjdlNSbmZQZVFtd3laWDhPaVA2WUo2MHRzRlRBUno1eVNoUHNob2FJbElJRjU1QVVhLURlNkIzVFhpUkQ1NUtNeXM2TVNqVXE4NzdSZ2xTcDVSZU5LdWgwX1RNTFUta1FBY0hXYjNNRk0xVHJFekhEY2JsLThEaDlmempPemdPR0JBQVRlY0IzMnZtS1kwSnNBdw?oc=5",
   "summary": "Nvidia가 500억 달러 규모의 텍사스 데이터 센터 임대 계약을 체결했음.\n이는 AI 칩 수요 증가와 데이터 센터 확장을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-29 04:28",
-  "tag": "수주",
-  "title": "엔비디아, 73조 데이터센터계약...생태계 구축 vs. 순환금융",
-  "source": "biz.sbs.co.kr",
-  "url": "https://n.news.naver.com/mnews/article/374/0000524230?sid=104",
-  "summary": "엔비디아가 73조 규모의 데이터센터 계약을 체결했음.\n하지만 오픈AI 프로젝트 관련 지급 보증 추진으로 순환금융 논란도 있음.\n이번 계약 역시 동일한 우려를 키울 수 있다는 관측이 나옴.",
   "importance": 4
  }
 ]
