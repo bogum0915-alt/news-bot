@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-21 21:30",
+  "tag": "수주",
+  "title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDFTbmlITF9SbTZJcXNLUFhXbEJxVHZBSFlFSnJZbXJSczNUZ25COHQ4ejMzdGlycWJlX3M4UFVra2JQdlFhSm1FQmU4dy1BM1hNc3BfbmdNLTI1cG81RkxJX3RJMkhsbTBfVVlXODBCQTFQWG1mUXkyY0FZejBvY3ZwVFNibVFfLVBmUjVRTGp4NjMwaU9RdXpiVTBBZm1paWVVTFg4SmFuTkk5Yl9Rb1ZXQ3FVQ1dLY3hEN2hsbjBqNjhs?oc=5",
+  "summary": "Nvidia, 데이터센터 전력 개발 업체 Cloverleaf Infrastructure에 투자 논의 중임.\nCloverleaf는 Nvidia GPU 냉각 등에 필요한 전력 인프라 구축 협력 가능성 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-21 20:40",
+  "tag": "규제",
+  "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
+  "summary": "Nvidia H200 AI GPU가 중국에 일부 반입 허가됐음.\n하지만 미국 라이선스 물량의 대부분은 중국 본토 밖으로.\n중국 자체 칩이 시장을 장악하며 Nvidia에 늦었음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 20:45",
   "tag": "수주",
   "title": "NVIDIA Reportedly Locks Multi-Year DRAM Deals With SK hynix and Micron as Memory Shortage Stretches to 2028",
@@ -699,24 +717,6 @@
   "source": "Yahoo Finance",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmNXUm45QldkRENCek5TUGJnWV9TbDhJU0dqZWlpZXFadlA1aGlTbVA5MjFsRkc4Y1ExY0lFT3NPNUhVNXhxdExweG10VmN6RFJCX0RmT1A2c204VVprRGhmbTFPMnZ3QXhWQnViVFhZX05ST0ZCRFB1Rmk2QmpYZXctNTd5azk5bm1FQlhsbFRDaW0tX0tjVG92Zw?oc=5",
   "summary": "Corning (GLW) 주가, Amazon 및 Nvidia 관련 소식에 하락했음.\n2분기 실적은 예상치 상회했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 16:04",
-  "tag": "수주",
-  "title": "젠슨 황, 오픈AI 공동 창업자 수츠케버에 50억달러 쏘는 이유는",
-  "source": "chosun.com",
-  "url": "https://n.news.naver.com/mnews/article/023/0003990057?sid=105",
-  "summary": "오픈AI가 기존 구글 TPU 대신 엔비디아 최신 GPU 도입 계약 체결했음.\n이는 엔비디아의 AI 연산 인프라 대규모 공급 확대를 의미함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 15:08",
-  "tag": "수주",
-  "title": "칩 팔기 위해 데이터센터 빌리는 엔비디아…고개드는 '순환금융' 우려",
-  "source": "inews24.com",
-  "url": "https://n.news.naver.com/mnews/article/031/0001045398?sid=105",
-  "summary": "엔비디아가 AI 칩 판매 증대를 위해 데이터센터를 직접 구축하고\n일부를 AI 클라우드 기업에 재임대하는 방안을 검토 중임.\n이는 칩 공급을 넘어 데이터센터 및 전력 인프라까지 사업 영역 확대를 시사함.",
   "importance": 4
  }
 ]
