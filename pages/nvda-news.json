@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-22 01:42",
+  "tag": "제품",
+  "title": "NVIDIA Built Its AVO Coding Agent To Optimize CUDA GPU Kernels, And It Just Achieved A 100% Score On A Public Test Without Receiving Any Prior Instruction",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-built-its-avo-coding-agent-to-optimize-cuda-gpu-kernels-and-it-just-achieved-a-100-score-on-a-public-test-without-receiving-any-prior-instruction/",
+  "summary": "NVIDIA의 AVO 코딩 에이전트가\nARC-AGI-3 공개 테스트에서 100% 달성했음.\nClaude Opus 5 모델 기반이나, 자체 개발 래퍼로 성능 향상됐음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 23:58",
   "tag": "실적",
   "title": "Options Action: Nvidia reports earnings next week",
@@ -708,15 +717,6 @@
   "source": "biz.sbs.co.kr",
   "url": "https://n.news.naver.com/mnews/article/374/0000524230?sid=104",
   "summary": "엔비디아가 73조 규모의 데이터센터 계약을 체결했음.\n하지만 오픈AI 프로젝트 관련 지급 보증 추진으로 순환금융 논란도 있음.\n이번 계약 역시 동일한 우려를 키울 수 있다는 관측이 나옴.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-29 03:51",
-  "tag": "기타",
-  "title": "Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5",
-  "summary": "Nvidia CEO Jensen Huang가\n오픈 웨이트 AI 모델 지원을 촉구했음.\n이는 AI 모델 개발 생태계에 대한\n전략적 발언으로 볼 수 있음.",
   "importance": 4
  }
 ]
