@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-21 23:58",
+  "tag": "실적",
+  "title": "Options Action: Nvidia reports earnings next week",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1I1VkUyWFVXNkxVZnBhUXNBTnIxc3JhSmZhSDEtMEgwOGJzbmxsSzdIU1hQbU5hc19Gc1E4SGRFSkhXdkxWN3dENDBqSGwtdFBEWVNuc0daeUZrUTVZckp1N2k4Zk5pUEl2VXB0N2RQZ0NLanhLcGpsNjBUUzJfTC00T0RQTjNIb3FXUXlQbnBZY2pmT3c?oc=5",
+  "summary": "Nvidia가 다음 주 실적 발표 예정임.\nAI 밸류체인 투자자는 이 발표에 주목해야 함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-21 23:35",
+  "tag": "수주",
+  "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE?oc=5",
+  "summary": "Nvidia가 데이터센터 개발업체 Cloverleaf Infrastructure에 투자했음.\n이는 Nvidia의 데이터센터 사업 확장에 긍정적인 영향을 줄 것으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 21:30",
   "tag": "수주",
   "title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
@@ -699,24 +717,6 @@
   "source": "Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkNwY3QtTDJERXN5MUpRTGN4aVc4eXdrUVJrZFFyRmt6dDBpR293YUxua2U2S2FhM0Rpc3g4bmU3MkQ2dUlHRzVDTXdNOXFmeHVQYVVwc1YtYlB1bW9HR3VHYzZIYWs3b1J0REVPWUdBRmp5aHF0dmFiZnhzd3l4UWY4M0xBYW5pQ2hWWU16M2NTM29ZeFVTQ192a3ZaUE15bWNfZDRxakpkNU13a3VPTnUxeDU?oc=5",
   "summary": "Nvidia CEO Jensen Huang가\n오픈 웨이트 AI 모델 지원을 촉구했음.\n이는 AI 모델 개발 생태계에 대한\n전략적 발언으로 볼 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 23:25",
-  "tag": "실적",
-  "title": "Nvidia's credit default spikes, raising AI debt concerns",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkdFNlY2Tm5LbUJIOU45RTRWdVVBQ0d0bFJPM0lrQTRwWGhLNUd5Wm5Ic1ZpRjRrdXl6ZEZSQzFHTWQ3dG1TLVhUQUJOamlrS0dJOEhYaFpPNmgzTUw4UDhRTnctZU9nMTc1QzVFWFM0OWZOUjJSM0hKTGQ1YTdVem11ZFJOdnVVUFY2dA?oc=5",
-  "summary": "엔비디아의 신용부도스와프(CDS) 프리미엄이 상승했음.\n이는 AI 관련 사업 부채에 대한 우려를 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 23:08",
-  "tag": "실적",
-  "title": "Corning (GLW) Stock Falls After Amazon And Nvidia Fiber Deals And Q2 Beat",
-  "source": "Yahoo Finance",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmNXUm45QldkRENCek5TUGJnWV9TbDhJU0dqZWlpZXFadlA1aGlTbVA5MjFsRkc4Y1ExY0lFT3NPNUhVNXhxdExweG10VmN6RFJCX0RmT1A2c204VVprRGhmbTFPMnZ3QXhWQnViVFhZX05ST0ZCRFB1Rmk2QmpYZXctNTd5azk5bm1FQlhsbFRDaW0tX0tjVG92Zw?oc=5",
-  "summary": "Corning (GLW) 주가, Amazon 및 Nvidia 관련 소식에 하락했음.\n2분기 실적은 예상치 상회했음.",
   "importance": 4
  }
 ]
