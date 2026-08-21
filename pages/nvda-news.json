@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-21 19:15",
+  "tag": "실적",
+  "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5",
+  "summary": "엔비디아 실적 발표와 잭슨홀 미팅이.\n주식 랠리의 주요 동력을 시험할 것임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-21 03:59",
   "tag": "제품",
   "title": "NVIDIA Is Plotting Its China Comeback Via A New LPU-Based Inference Chip, As SMIC Rides US Export Controls To A Virtual China Monopoly",
@@ -708,15 +717,6 @@
   "source": "digitalbizon.com",
   "url": "http://www.digitalbizon.com/news/articleView.html?idxno=2343426",
   "summary": "AMD가 앤트로픽과 AI 동맹 체결했음.\n엔비디아 독주 견제 위한 움직임으로 보임.\n앤트로픽은 공급망 다변화 추진 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-28 06:01",
-  "tag": "기타",
-  "title": "젠슨 황도 \"고맙다\"…'TSMC 추격은 착각'이라던 삼성의 반전 [테크로그]",
-  "source": "hankyung.com",
-  "url": "https://n.news.naver.com/mnews/article/015/0005314477?sid=101",
-  "summary": "삼성전자가 브로드컴과 2030년까지 2000억달러 규모의\n전략적 협력을 추진함. 차세대 AI 가속기용 HBM과\n브로드컴 고속 데이터통신용 반도체 공급이 핵심임.",
   "importance": 4
  }
 ]
