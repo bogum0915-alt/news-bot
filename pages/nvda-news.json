@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-23 04:21",
+  "tag": "실적",
+  "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+  "summary": "Nvidia가 AI 관련 제품 가격을 15% 이상 인상할 예정.\n고객들에게 사전 통지했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-22 06:59",
   "tag": "실적",
   "title": "Bernstein's Rasgon: Nvidia's numbers should be good, looking for commentary on Rubin ramp",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a",
   "summary": "인텔 파운드리가 18A 공정 기반의 미국 내 첨단 칩 생산 생태계 구축을 위한\nRAMP-C 프로그램을 완료했음. 이 프로그램은 작년에 미 국방부로부터 수주받았음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-29 08:14",
-  "tag": "제품",
-  "title": "엔비디아도 안 쓰는 패키징 기술에..구글, AI칩 승부수 던졌다",
-  "source": "dailycar.co.kr",
-  "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62134",
-  "summary": "구글이 엔비디아 의존도 낮추기 위해\n차세대 AI 칩 TPU 프로즌 V2 개발 중.\n아마존도 자체 AI 칩 개발 중.",
   "importance": 4
  }
 ]
