@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-23 05:26",
+  "tag": "실적",
+  "title": "Nvidia customers reportedly warned about AI-related price hikes",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5",
+  "summary": "Nvidia가 AI 관련 제품 가격 인상을\n고객들에게 통보했다는 보도 나왔음.\n이는 AI 칩 수요 강세를 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-23 04:21",
   "tag": "실적",
   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
   "summary": "중국 AI 기업 문샷 AI가 엔비디아 블랙웰 칩을 훈련에 사용했음.\n미국 수출 통제와 중국 수입 통제를 우회했을 가능성이 제기됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-29 18:30",
-  "tag": "수주",
-  "title": "Intel closes out RAMP-C production pilot that paid Nvidia and others to run test chips on 18A — program helped lay a path for secure domestic chip production on advanced processes",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/intel-closes-out-the-defense-program-that-paid-nvidia-and-others-to-run-test-chips-on-18a",
-  "summary": "인텔 파운드리가 18A 공정 기반의 미국 내 첨단 칩 생산 생태계 구축을 위한\nRAMP-C 프로그램을 완료했음. 이 프로그램은 작년에 미 국방부로부터 수주받았음.",
   "importance": 4
  }
 ]
