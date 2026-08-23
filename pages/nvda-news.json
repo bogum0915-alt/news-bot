@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-23 22:15",
+  "tag": "제품",
+  "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
+  "summary": "Nvidia, 주요 고객사에 AI 서버 가격 15% 인상 통보했음.\nGrace Blackwell, Vera Rubin 시스템에 적용됨.\n내년 초 출하분부터 반영될 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-23 22:00",
+  "tag": "제품",
+  "title": "Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
+  "summary": "Nvidia, GB300 기반 DGX Station 출시.\n748GB 통합 메모리, 72코어 Grace CPU, Blackwell Ultra GPU 탑재.\n약 9만 5천 달러부터 시작하며, 최대 10만 8천 달러까지 구성 가능함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-23 09:00",
   "tag": "수주",
   "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
@@ -699,24 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
   "summary": "2028년 구글, 엔비디아보다 더 많은 AI 가속기 생산 전망.\nFubon Research 보고서 기반 주장임.\n구글, 목표 달성을 위해 인텔 파운드리 활용 가능성 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-30 07:35",
-  "tag": "수주",
-  "title": "AMD’s Helios Rack Reportedly Costs 40% More Than NVIDIA’s Vera Rubin, Yet Microsoft Hedges Its Bets By Committing To Deploy Both",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/amds-helios-rack-reportedly-costs-40-more-than-nvidias-vera-rubin-yet-microsoft-hedges-its-bets-by-committing-to-deploy-both/",
-  "summary": "마이크로소프트, AMD Helios와 NVIDIA Vera Rubin 랙 스케일 AI 인프라 동시 도입 결정했음.\nAI 모델에 구애받지 않는 애저/코파일럿 전략과 맥락 같이함.\nAMD 헬리오스 랙, 엔비디아 베라 루빈보다 40% 비싸지만 동시 투자 결정했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-30 00:10",
-  "tag": "기타",
-  "title": "Nvidia employee implicated in escalating Supermicro smuggling scandal, but demand only intensifies for Nvidia hardware",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/nvidia-employee-implicated-in-escalating-supermicro-smuggling-scandal-but-demand-only-intensifies-for-nvidia-hardware",
-  "summary": "엔비디아 직원이 슈퍼마이크로 밀수 사건에 연루되었음.\n해당 직원은 자택 및 책상이 압수수색 당했음.\n밀수망 근절을 위해 엔비디아는 구매자 목록을 정밀 조사 중임.",
   "importance": 4
  }
 ]
