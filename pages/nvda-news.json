@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-24 02:55",
+  "tag": "수주",
+  "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-becomes-a-buyer-of-last-resort-for-its-own-gpus-by-earmarking-7-billion-for-poolside-just-as-sam-altman-admits-he-was-wrong-on-the-ai-timeline/",
+  "summary": "NVIDIA가 AI 스타트업 Poolside에 70억 달러를 투자하여 자체 GPU 구매자가 되었음.\n이는 AI 시장의 '버블' 시기에 NVIDIA가 리스크를 분산하려는 움직임을 보여줌.\nNemotron급 AI 모델 포트폴리오 구축을 지원하여 GPU 공급업체에서 자체 모델 개발 투자로 영역 확장함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-23 22:15",
   "tag": "제품",
   "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/deepseeks-v4-flash-guts-openais-price-war-within-hours-matching-opus-grade-output-at-0-14-per-million-tokens-as-moonshot-scales-with-20000-new-nvidia-gpus/",
   "summary": "DeepSeek V4 Flash 모델이 OpenAI 대비 압도적인 가격 경쟁력으로 시장에 등장했음.\nOpus급 성능을 $0.28/백만 토큰으로 제공하며, Moonshot도 NVIDIA GPU 2만 개 확보했음.\n중국 AI 랩들의 가격 전쟁 공세가 거세지고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-07-30 23:35",
-  "tag": "제품",
-  "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
-  "summary": "2028년 구글, 엔비디아보다 더 많은 AI 가속기 생산 전망.\nFubon Research 보고서 기반 주장임.\n구글, 목표 달성을 위해 인텔 파운드리 활용 가능성 시사함.",
   "importance": 4
  }
 ]
