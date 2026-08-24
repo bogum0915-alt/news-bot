@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-25 05:40",
+  "tag": "실적",
+  "title": "Nvidia results 'so important' for gauging AI funding fears, expert says",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14eHNMbG1lSU9FQ3NyM1c1eVZyWUFMWnJBZVNpcFhEZC1nLWxMWGg1Vm1FT3BYZnZaM3FFTmJLcFExN3NHbmlacDZIdzl3QmdrTklaT0k3VUExM3R5eXpkb1YyM2tlREk?oc=5",
+  "summary": "Nvidia 실적이 AI 투자 자금 조달에 대한 우려를 가늠하는 중요한 지표가 될 것이라는 전문가 의견 나왔음.\nAI 칩 선두주자의 실적 발표는 밸류체인 전반의 투자 심리에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 02:55",
   "tag": "제품",
   "title": "SK hynix pushes hybrid bonding HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkFmbVVoX2c3Q2N5RElCSTdSUzR5OERxUDJjaUNmTFhORUl3WXFhcWotWDVNZnVCcTFiV2x0THdEbXhHNWVxMVNIQnlJdFllTzRFcFJ1ZDFGOG9LbDhxTWhYRURxbHhFOTdFdGpHcnNBRjhNdFVsRWNKVTZZM0MxcDR2UV9YeXNrbWp3enp4SzJMaGJUQ0hld0YzSlNqQ1hnLXRYcnVWSWZRMVZMV1o5UW1iUU5EUQ?oc=5",
   "summary": "Nvidia가 월스트리트 투자 은행과 AI 금융 지원 계약을 맺었음.\n이 계약은 총 5,000억 달러 규모를 목표로 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 01:47",
-  "tag": "제품",
-  "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back — designs tested include as little as 192 GB and step back to HBM4",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4",
-  "summary": "Nvidia가 Rubin Ultra 제품에 탑재될 메모리 용량을 줄이는 테스트를 진행 중이라는 소식임.\n기존 발표된 1TB HBM4E 대신 192GB 수준의 메모리 구성도 고려 중인 것으로 파악됨.\n이는 메모리 공급 부족 문제에 대응하기 위한 조치로 분석됨.",
   "importance": 4
  }
 ]
