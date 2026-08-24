@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-25 02:10",
+  "tag": "제품",
+  "title": "NVIDIA Vera Rubin Records A Massive 30x Increase In Throughput Per Watt Than Blackwell While Offering a 35x Token Cost Reduction Across Agentic AI Workloads",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-vera-rubin-30x-increase-in-throughput-per-watt-vs-blackwell-35x-token-cost-reduction-agentic-ai/",
+  "summary": "NVIDIA의 Vera Rubin 플랫폼은 Blackwell 대비\n와트당 처리량 30배, 토큰 비용 35배 절감.\nAgentic AI 워크로드에 특화된 성능을 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 00:09",
   "tag": "규제",
   "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
@@ -709,14 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
   "summary": "월스트리트 대형 금융사들이 엔비디아와 협력하여\n5000억 달러 규모의 AI 투자 펀드를 조성할 예정이라는\n로이터 보도가 나왔음.",
   "importance": 4
- },
- {
-  "ts": "2026-08-11 01:22",
-  "tag": "수주",
-  "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVJZMmlELWxzcDMxTlZtNEw2YmdRbE5GaS1kQkc3YmQ0cXBGU2lJRXNadzVrU1JGdVdValhxc1ZXMmdHbm5iVjJDQ2JQMzE0SkxyM3luR3pnaW9kQm0wNVlSMExSa3VZYzlmMVd0Z3ZMS2p0ZDBLNWlqYTFTYUJDc3p3Y1M?oc=5",
-  "summary": "주요 금융 기관들이 엔비디아와 손잡고\nAI 분야에 5천억 달러 규모의 자금 지원 계약을 맺었음.\n이는 AI 산업의 대규모 자금 조달 및 투자를 시사함.",
-  "importance": 5
  }
 ]
