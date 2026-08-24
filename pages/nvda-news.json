@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-24 21:00",
+  "tag": "기타",
+  "title": "Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUV9iR0ZlOXNzYm5zYmxqdHZQYU9KZmdoWWtnclZ0QXdyd1E3dnFNMDhyVEVLQ19kUlNCME5nWmtCMnVWaGJoSXM0azQwdWgyS0ZOTjIzQWR1RVhLZlFEUV9VMXFLaFdLNTRBVFBCbE93VDJYQlVpbWdJWFF5S2xPUEk3Y2pIS3luMkkyc05hMkdzaFgtT1l5ZG1xVDUzb091TGF6a3ZSZWNmcVNvUXNKZVNiZ2RtdHBhQTlV?oc=5",
+  "summary": "Nvidia의 AI 칩 시장 지배력에 경쟁사들이 도전하고 있음.\nAMD, Intel 등 기존 경쟁사와 새로운 AI 칩 개발 스타트업들이 Nvidia를 추격 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 19:53",
   "tag": "제품",
   "title": "NVIDIA’s Vera Rubin & Blackwell GPU Server Prices Could Soar By As Much As 17% As Memory Prices Bite, Say Reports",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors/",
   "summary": "NVIDIA가 Rubin Ultra 및 Vera 칩의\n메모리 구성 최적화 전략을 강조했음.\n다운그레이드 루머에 대한 해명임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-07 13:22",
-  "tag": "수주",
-  "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJwWmV5RmdYVWY2LW5FNFJBMW0xeHF6MmJrMHJfUjdLX1BpSURJTWVBbFNFa0JmWFc2TjJ0RXRwMDlyVWZvb1NBXzJIN0RZQlJCVG9QQ1Q5R00xR1NSTk5nQ2pIV09jeUtUd1NCUjQ0UzJ5Q0p2MEx1aGJOczB0ZlhacUN4cnRMU1gxR25sUjd4eEFCUGt2NG9UVzF4LVBoTXBQdEM0UmpMZGVYTXJqeGYxZw?oc=5",
-  "summary": "AI 데이터센터 기업 Firmus가 Nvidia 등으로부터 20억 달러 투자 유치했음.\n이는 AI 인프라 투자 확대를 시사함.",
   "importance": 4
  }
 ]
