@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-24 15:06",
+  "tag": "실적",
+  "title": "Nvidia to Raise Flagship AI Chip Prices 17%, Server Makers Say",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxlN1FxWUZDcDVaclVEdkhXdmcyYmg0ZXRaTWNmQ20xRWNwaU9fNk1JaEZJWnhDZHdPNVA3emR6VGdrLXllaXp3Z0NzQ3JTQjdONm5sbjg3WE9JbHNVNmdWRThIcC1BWTZlMTM3cDljWXNQS3B0MzdJRmdKUTJsbXkwRk5la19JU1hDS1VMSW9rbXJHdmNOeXcyeENSWUU?oc=5",
+  "summary": "Nvidia가 주력 AI 칩 가격을 17% 인상할 것으로 보임.\n이는 서버 제조사들의 언급을 통해 알려졌음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 15:03",
   "tag": "수주",
   "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal",
@@ -708,15 +717,6 @@
   "source": "TechCrunch",
   "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
   "summary": "Nvidia 주도 산업 그룹이\nAI 에이전트 방어 제안 내놓음.\n120개 이상 기업 참여 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-04 02:52",
-  "tag": "실적",
-  "title": "What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/what-gpu-depreciation-nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards-as-b200s-hover-at-just-shy-of-6-hour/",
-  "summary": "NVIDIA GPU의 감가상각 논쟁 속에서,\nA100, H100, H200 GPU 대여료가 계속 상승하고 있음.\n이는 GPU의 긴 수명 주기 주장에 힘을 실어주며 AI 클라우드 기업에 긍정적 영향을 줄 것으로 보임.",
   "importance": 4
  }
 ]
