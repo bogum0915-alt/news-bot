@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-24 10:00",
+  "tag": "실적",
+  "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5",
+  "summary": "WSJ는 월스트리트가 엔비디아의 AI 칩 수요에 크게 의존하고 있다고 보도했음.\n엔비디아 실적이 AI 시장 성장을 견인할 것이라는 기대감이 큼.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 02:55",
   "tag": "수주",
   "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/tsmc-2nm-production-milestone-100k-wafers-2026/",
   "summary": "TSMC가 2026년 말까지 월 10만 웨이퍼 생산 달성을 목표함.\nNVIDIA, AMD 등 AI 고객사의 2nm 공정 수요 증가가 원인임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-01 01:10",
-  "tag": "제품",
-  "title": "DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/deepseeks-v4-flash-guts-openais-price-war-within-hours-matching-opus-grade-output-at-0-14-per-million-tokens-as-moonshot-scales-with-20000-new-nvidia-gpus/",
-  "summary": "DeepSeek V4 Flash 모델이 OpenAI 대비 압도적인 가격 경쟁력으로 시장에 등장했음.\nOpus급 성능을 $0.28/백만 토큰으로 제공하며, Moonshot도 NVIDIA GPU 2만 개 확보했음.\n중국 AI 랩들의 가격 전쟁 공세가 거세지고 있음.",
   "importance": 4
  }
 ]
