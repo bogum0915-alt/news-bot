@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-24 19:53",
+  "tag": "제품",
+  "title": "NVIDIA’s Vera Rubin & Blackwell GPU Server Prices Could Soar By As Much As 17% As Memory Prices Bite, Say Reports",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidias-vera-rubin-blackwell-gpu-server-prices-could-soar-by-as-much-as-17-as-memory-prices-bite-say-reports/",
+  "summary": "NVIDIA, 메모리 가격 상승으로\nBlackwell 및 Rubin GPU 서버\n가격 15% 이상 인상 전망.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-24 19:36",
+  "tag": "실적",
+  "title": "Seema Shah: Nvidia earnings will be key to how the market moves this week",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3psWEdpcFVHOEIySlZnTml2c0tvelMzOE50Vm9BZVFBQldUUXlGZlNWTzZQb1VtWnBEQWladTdDRGxBM01uQ2NBckhqc1BNUUtnSFRGMzF3WUZ6M2R5RHZ1Q1pVMkpfMkxXTzR6LWQ1QmQzcXpEYWczQXdTeHpxOFdLRmI1cndmTHU2NURib2d2YWJWWFc3VFpiZzFEd0h1bkgyZnJlMmVSZ3lJNmNFN19ZR25ldw?oc=5",
+  "summary": "Nvidia의 실적이 이번 주 시장 움직임에 핵심이 될 것이라는 전망임.\n투자자들은 Nvidia의 실적 발표를 주시할 것임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 19:00",
   "tag": "실적",
   "title": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
@@ -699,24 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnJwWmV5RmdYVWY2LW5FNFJBMW0xeHF6MmJrMHJfUjdLX1BpSURJTWVBbFNFa0JmWFc2TjJ0RXRwMDlyVWZvb1NBXzJIN0RZQlJCVG9QQ1Q5R00xR1NSTk5nQ2pIV09jeUtUd1NCUjQ0UzJ5Q0p2MEx1aGJOczB0ZlhacUN4cnRMU1gxR25sUjd4eEFCUGt2NG9UVzF4LVBoTXBQdEM0UmpMZGVYTXJqeGYxZw?oc=5",
   "summary": "AI 데이터센터 기업 Firmus가 Nvidia 등으로부터 20억 달러 투자 유치했음.\n이는 AI 인프라 투자 확대를 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-06 06:17",
-  "tag": "기타",
-  "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWM5YkxYUGR1NzdVNVJ2OGVndEtqeTN4OHdkTFBMX2Y1YjRaNFFhTTRzNDVoT2R4NjZJclYyNkUxaUJieUg2RjNYeTl1d0ZPeExVaHRTVFhtMHhPR0JneHR5NENEamM?oc=5",
-  "summary": "Nvidia가 AI '총아'는 아니지만,\n여전히 '필수적'이라는 투자자 발언이 나왔음.\nAI 칩 시장에서의 중요성은 여전함을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-05 20:50",
-  "tag": "수주",
-  "title": "Elon Musk says SpaceX will exclusively use Nvidia GPUs 'because they are the best' — says optimized Vera Rubin NVL72 will be launched into space next year",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year",
-  "summary": "일론 머스크는 SpaceX와 xAI가\nNvidia GPU만 전용 사용할 것이라 함.\nVera Rubin NVL72는 내년에 우주로 발사될 예정임.",
   "importance": 4
  }
 ]
