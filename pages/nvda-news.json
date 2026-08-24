@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-25 00:09",
+  "tag": "규제",
+  "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
+  "summary": "대만에서 엔비디아 B300 GPU 중국 불법 수출 관련 9명 기소됐음.\n세관 통제 회피 위한 5가지 전략도 공개됐음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-25 00:06",
+  "tag": "수주",
+  "title": "Filling In the Gaps in Nvidia’s $500 Billion Financing Pitch",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTJMOFBfQmZ0ZDFKWDFHREtObG1heGpqUDRYb013Z1puVC1CS3kzcERZN0RSUXprOGtOR05XWG5wSzZsc3M5Y1czYVBjalBleGpySFR2VHk5NTl0d3RHQkJGdlpjSmhIbXl3Tll6Rk1kS095NklrZFVLcE1RN0s5VDNhQUZhVGItRE9HUHZkU1R4aU5iNW1JdW9RdlEta2d4OC1HN1JwUFJCbHBUbmlfQnowU1lLcDhvS3lSSEt2Yw?oc=5",
+  "summary": "Nvidia가 5000억 달러 투자 계획을 발표했음.\n이 계획은 AI 칩 생산을 위한 다양한 분야에 걸친 투자를 포함함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 00:05",
   "tag": "수주",
   "title": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite",
@@ -700,23 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVJZMmlELWxzcDMxTlZtNEw2YmdRbE5GaS1kQkc3YmQ0cXBGU2lJRXNadzVrU1JGdVdValhxc1ZXMmdHbm5iVjJDQ2JQMzE0SkxyM3luR3pnaW9kQm0wNVlSMExSa3VZYzlmMVd0Z3ZMS2p0ZDBLNWlqYTFTYUJDc3p3Y1M?oc=5",
   "summary": "주요 금융 기관들이 엔비디아와 손잡고\nAI 분야에 5천억 달러 규모의 자금 지원 계약을 맺었음.\n이는 AI 산업의 대규모 자금 조달 및 투자를 시사함.",
   "importance": 5
- },
- {
-  "ts": "2026-08-10 18:08",
-  "tag": "규제",
-  "title": "NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-and-amds-china-market-share-to-drop-to-10-by-2026-as-domestic-chips-seize-90-says-report/",
-  "summary": "미국 AI 칩 규제와 중국의 내수 육성 정책으로\n2026년까지 엔비디아·AMD의 중국 시장 점유율이 10%로 하락할 전망임.\n중국 국내 칩 제조사들이 90%를 장악할 것으로 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-10 15:00",
-  "tag": "제품",
-  "title": "NVIDIA’s Vera Rubin Memory Bill Doubles Grace Blackwell’s, As DRAM Cost Swells 2.5x In A Single Generation, With One Rack Holding 4,500 Smartphones’ Worth Of Memory",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-vera-rubin-memory-bill-doubles-grace-blackwells-as-dram-cost-swells-2-5x/",
-  "summary": "NVIDIA Vera Rubin 서버의 메모리 비용이 2.5배 상승했음.\n메모리가 전체 비용의 62%를 차지하며, 이전 Grace Blackwell 대비 두 배로 증가했음.",
-  "importance": 4
  }
 ]
