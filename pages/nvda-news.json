@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-08-25 00:05",
+  "tag": "수주",
+  "title": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/spacexai-to-use-nvidia-vera-cpu-vera-rubin-servers-agentic-ai-grok-starmind-ai-sattelite/",
+  "summary": "SpaceXAI가 차세대 에이전트 AI 워크로드 가속을 위해\nNVIDIA의 Vera CPU와 Vera Rubin 서버를 사용하기로 했음.\nGrok AI 및 Starmind AI 위성에도 적용될 예정임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-25 00:00",
+  "tag": "제품",
+  "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/",
+  "summary": "NVIDIA가 Groq 3 LPX AI 추론 가속기 칩을 양산 개시했음.\nVera Rubin 플랫폼에서 역대 최고 토큰 생성 속도를 기록했음.\n3,400 TPS를 달성하며 Agentic AI 분야 성능 향상을 기대케 함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-24 23:23",
+  "tag": "실적",
+  "title": "Nvidia exploring price hikes for some of its largest customers: Report",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWF4NERUZ1dIaXVpeWV1Z29Nb0hiVEF3UEhNRXFkVEwxcFlfZ2hKSEhOVzU1Z2dsZ2c1ejhUMURBWlpSc1V0YmNHSnN3TmtPWk1FVllZbzBhdkRpS2RxaUh0dUg1RDFYX2t0VzEteXozWFNlT2tKZERfUTFIQ01nZGRIVlZ4MHM4d3BGaGVWVm51NEVDY1pVQWZBdFV1dkVFdl9iaWJyMWtHczRMWXM1a2N3?oc=5",
+  "summary": "Nvidia가 대형 고객 대상 일부 AI 칩 가격 인상 검토 중임.\n이는 AI 칩 수요 강세 및 생산 비용 증가 반영 가능성 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 21:00",
   "tag": "기타",
   "title": "Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In",
@@ -690,33 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-vera-rubin-memory-bill-doubles-grace-blackwells-as-dram-cost-swells-2-5x/",
   "summary": "NVIDIA Vera Rubin 서버의 메모리 비용이 2.5배 상승했음.\n메모리가 전체 비용의 62%를 차지하며, 이전 Grace Blackwell 대비 두 배로 증가했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-10 04:40",
-  "tag": "수주",
-  "title": "Nvidia Agrees to Invest Up to $3 Billion in Power Firm Behind Stargate",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVA1aXFndVJZVnlKcjE1cThjVU0zLVVmdHBCS3BBWEV0TTRqenZqNnFsZlFRM2hMeEU3M3RGa0llZG1aa25BWHN1QTlpTVdPZk55enV1YTAtNUpiQ1BfQWpvcDNESlJEcnA3Q1Q3eGFabjNVdzlMUktoMmM5VUtaV2dyWi1hWXV3UzZYZGZvVFlUNmp1cTZjTFNRcWI5cEU?oc=5",
-  "summary": "Nvidia가 Stargate의 전력 공급업체에 최대 30억 달러 투자 합의했음.\n이는 AI 인프라 구축을 위한 전략적 파트너십으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-07 19:30",
-  "tag": "수주",
-  "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
-  "summary": "Anthropic이 AI 추론용 맞춤형 ASIC 칩 개발팀을 구성했음.\n이를 통해 Nvidia GPU 의존도를 낮추고 모델 효율성을 높일 계획임.\n삼성전자가 제조 파트너로 거론되고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-07 14:00",
-  "tag": "제품",
-  "title": "NVIDIA Says It “Continually Optimizes Compute, Networking, Memory” To Deliver Best Performance & Efficiency To Its Customers Amidst Vera and Rubin Ultra “Downgrade” Rumors",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors/",
-  "summary": "NVIDIA가 Rubin Ultra 및 Vera 칩의\n메모리 구성 최적화 전략을 강조했음.\n다운그레이드 루머에 대한 해명임.",
   "importance": 4
  }
 ]
