@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-24 19:00",
+  "tag": "실적",
+  "title": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3NzQktBcS1welhOOTlMaFhpbGJnSm9Tbm12VnhOSnExSTNoX3B4YWdBeFg3NG1Ld25TUjRsOEV0cUpRRkNJa0lXVm51bng4WU9LeEYzT0tucDlEdVJOUDdlV1ZmMWVoSWNKcDFiNEswdTFJdTFaLVB5QktOczVlVENoSUFSRmk5bVFCdzRnalpndzZqX01wNTBMUzJ0ZTA?oc=5",
+  "summary": "Nvidia 실적이 AI 붐에 대한 월스트리트의 믿음을 시험할 것임.\nAI 칩 시장의 선두 주자인 Nvidia의 실적 발표는 투자자들에게 매우 중요한 지표가 될 것임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-24 15:06",
   "tag": "실적",
   "title": "Nvidia to Raise Flagship AI Chip Prices 17%, Server Makers Say",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year",
   "summary": "일론 머스크는 SpaceX와 xAI가\nNvidia GPU만 전용 사용할 것이라 함.\nVera Rubin NVL72는 내년에 우주로 발사될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-05 04:28",
-  "tag": "기타",
-  "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-  "summary": "Nvidia 주도 산업 그룹이\nAI 에이전트 방어 제안 내놓음.\n120개 이상 기업 참여 중임.",
   "importance": 4
  }
 ]
