@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 02:04",
+  "tag": "제품",
+  "title": "OpenAI’s First-Gen Jalapeno ASIC Blows Competition Out Of The Park, Performs 1.5x to 1.9x More Work Per Kilowatt Than NVIDIA’s Blackwell Chips, While Threatening The CUDA Moat",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/openais-first-gen-jalapeno-asic-blows-competition-out-of-the-park-performs-1-5x-to-1-9x-more-work-per-kilowatt-than-nvidias-blackwell-chips-while-threatening-the-cuda-moat/",
+  "summary": "OpenAI가 자체 개발한 Jalapeno ASIC 칩은\nNVIDIA Blackwell 칩 대비 전력 효율이 1.5~1.9배 높음.\n자체 개발한 Gluon 커널 언어로 NVIDIA CUDA 생태계를 위협할 가능성 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 00:49",
   "tag": "실적",
   "title": "BMO's Kristin Milchanowski on Nvidia earnings and the AI trade",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGRfc0Z1UU12b1o2VE1LX3g4aHpuZ2xCeVhhd1E5eEo3YmJCQTNiUDBKeE5XaHFsRlFpTUl5Yl8yd1VfMXNWeERRM2RtaDlTUUszdDBSMDZzai0yVVQ4eHVqT3I4TlRTWXh0NHY1Y0ZINU45RjJIenBMdi1XOWE1N29pSmZKcTJiR2liN2gtTUoxd3E0UzV0Smc0V3dJMEk0YUFiWHlxRXcyd2dOckpiUHdjR3EtV2p4TUIwOHZJRWx4YThUNVcwVDlPYjZWenM?oc=5",
   "summary": "Bessemer VC의 Deeter가 엔비디아의 5000억 달러 규모의 월스트리트 거래를 언급했음.\n이는 AI 생태계의 중대한 성숙을 의미한다고 평가했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 23:32",
-  "tag": "제품",
-  "title": "Nvidia is developing Nemotron 4 open-source models, The Information reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
-  "summary": "Nvidia가 오픈소스 모델인 Nemotron 4 개발 중이라고 함.\nThe Information이 보도했음.",
   "importance": 4
  }
 ]
