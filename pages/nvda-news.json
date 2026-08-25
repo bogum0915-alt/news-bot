@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 00:49",
+  "tag": "실적",
+  "title": "BMO's Kristin Milchanowski on Nvidia earnings and the AI trade",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejN4VGdaUkRQcjFVZ3BMVXRqb1p6OEg4NnlPUDcxS29jNS1GZjZ6ZC1jUUNzSGlFMlVKRVRrcVpWclZnX1hoMlR2WmhmQ0NxQXA3M2RBWHJVZjZ2NkhscldmUjZfSE16M041UGVPM2ROR0NOeEgtal9fWnhMbzVLWXFMam9OVlFJaVlQZlYzdm9BdlJWczBZSFpZXzFQOExNS3JwOFJ0TQ?oc=5",
+  "summary": "BMO의 Kristin Milchanowski가 엔비디아 실적과 AI 투자 동향을 분석했음.\nAI 투자 흐름이 엔비디아 실적에 미치는 영향을 설명했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 00:30",
   "tag": "제품",
   "title": "NVIDIA Launches DLSS 4.5 Ray Reconstruction: Coming To 007 First Light, Control Resonant, & Now Supported In RTX Remix",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
   "summary": "Nvidia가 오픈소스 모델인 Nemotron 4 개발 중이라고 함.\nThe Information이 보도했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 22:04",
-  "tag": "제품",
-  "title": "Nvidia Releases New Open Model",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5",
-  "summary": "Nvidia가 새로운 오픈 모델을 출시했음.\n이는 AI 모델 경쟁에 영향을 줄 수 있음.",
   "importance": 4
  }
 ]
