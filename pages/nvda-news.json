@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-25 21:40",
+  "tag": "기타",
+  "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+  "summary": "러시아 AI 드론이 엔비디아 Jetson Orin 모듈을 사용해,\n우크라이나 민간인 3명 사망시켰다고 함.\n완전 자율 표적 기능을 사용한 첫 사례임.",
+  "importance": 5
+ },
+ {
   "ts": "2026-08-25 20:53",
   "tag": "제품",
   "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5",
   "summary": "IBM이 Nvidia 기반 AI 추론 클러스터 구축 위해\n2억 4천만 달러 규모 계약 체결했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 20:04",
-  "tag": "수주",
-  "title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
-  "summary": "Nvidia가 금융 기관들과 협력하여\nAI 데이터센터 구축 고객을 위한\n5천억 달러 규모의 AI 인프라 펀드 조성에 나섰음.",
   "importance": 4
  }
 ]
