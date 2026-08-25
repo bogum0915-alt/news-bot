@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-08-25 19:35",
+  "tag": "수주",
+  "title": "NVIDIA’s CoWoS AI Chip Packaging Demand To Be Foreshadowed In 2027 By AMD Due To Agentic AI CPU Ramp, Says Morgan Stanley",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidias-cowos-ai-chip-packaging-demand-to-be-foreshadowed-in-2027-by-amd-due-to-agentic-ai-cpu-ramp-says-morgan-stanley/",
+  "summary": "TSMC의 CoWoS 패키징 캐파 배분이 2027년에 AMD 쪽으로 늘고 NVIDIA는 줄어들 전망임.\nAMD의 CoWoS 수요는 2026년 53만 웨이퍼까지 급증할 것으로 예상됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-25 18:42",
+  "tag": "수주",
+  "title": "India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dGaTZHRWtJTFZDTU16bXdIajItMUxnbXZMeGd2MnluZVEzM1VtOTdGaUV4TG1BSDV1RlNySVl2WmVWNWtHbTZiR2hzWC1vVnRpQmoza1JYeEp3ZV80WkE2V0Y0aWxGNnl3UEpEV1lIcVNqd3V1bzkzOGlVRzdwOHA0UHRXa3Nvb01pb2k1S0JJcGZWdGhNWWdFanRkNHNrUkdLQW01SlZtalE4ejNyWDF0SnBaQQ?oc=5",
+  "summary": "인도 데이터센터 기업이 엔비디아의\n9,000개 시스템(Vera Rubin)을 주문했음.\nAI 인프라 투자가 확대되는 모습임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-25 18:41",
+  "tag": "실적",
+  "title": "Watch Why Investors Are Worried About Nvidia Earnings",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczd3YVJrTWZ2bDVINFJVdGtXLTBrWjRXUmdpbnE2d2NEVXpDaTlkN3NLUl9nM1dSUUloTGZKVV9tX2NQbUxKbHRrX2lNRWxhQzd2R2Q0dzNVTG8yajJfYzhUSi0zeVdCQVc0a0FTVFRjVk9oaUZEZUZEX0lRNHRqQUlpNDNRNmZPamlSTlpfU1FGYUFObmxnQmRZY0pldTNnZ05tOQ?oc=5",
+  "summary": "투자자들이 엔비디아 실적 발표를 우려하고 있음.\n엔비디아 실적 발표에 대한 투자자들의 우려가 커지고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 18:30",
   "tag": "기타",
   "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
@@ -690,33 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzcteUdCbFptZG91S1RnbC12RkJTZ2RSMl9wYnFKR2plMm5uQ0hTc045Z0tjYklQckNpOW5tVHNmZzFoUmU2UkROVVFYQTM1WlNfRVA4VllzeHR3eGVDXzRpZmV4QTBON3gweGlJakYtTU5yMHpWdzEtQkZ2UGZJOWlBb2lNb1NCMDFoM1hnX1VxY3g4R215UVBBQjUyd0wwNXRsbVo4ekpaNTNPeGR1Sw?oc=5",
   "summary": "Nvidia가 사모펀드 회사들과 협력하여\nAI 컴퓨팅 인프라에 5000억 달러 규모의\n자금 조달을 추진 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 05:21",
-  "tag": "수주",
-  "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1REN2lzYWhpVmNzZENwUS00b3Ewa0wySXdRSUNkNm8zQ1hXM3JpSjUxNHgxUE5wNTBNN0NGbDVFa1pJZm5yY1daX0tQeHVmcS1oTmIweGxSanBYeVAzVURCSnNvMVQzWVdrSm5qbURLZ2I2dVRsSHNoNmttX2ItOXphTFc4S011bTRfdlNLR2V0ck1Pb1JvcDNCOGRHNE5QOW9rS3g2QTlJNTJ4ZnZFTWVYV0RjSlVmSG9aM0NsSEZpWDQ4eWpz?oc=5",
-  "summary": "Nvidia가 자산 운용사들과 협력하여 5천억 달러 규모의 AI 인프라 투자를 추진함.\n이는 AI 칩, 파운드리, 메모리 등 AI 밸류체인 전반에 걸쳐 대규모 투자를 유도할 수 있는 중요한 파트너십임.",
-  "importance": 5
- },
- {
-  "ts": "2026-08-11 05:28",
-  "tag": "기타",
-  "title": "Goldman Sachs' CEO Solomon: We've got a deep belief and a lot of confidence in Nvidia",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkh0bThTZlg4RENUeWFzLWlJTVowaWNDb0RPR2pzeUV0dlZ2UVpaNU92WDFxRnRiNnF4OGJwcXAyUXpyS0g0NVZfeGYtX0o2NnIxejIyUDlYRTE1U2lnWnNxZDczbjNic0c2Z1BjMnNwZDJUb0NpaUZqZTQwXzFJU01iM1lCZ0RkeUxTMHNQRWlBMGdFendQV1NBOExLbXJjYzV5Mll2V2RHWHBrSUNXbHh5R3B2NThVampFQ29sYWotRmc?oc=5",
-  "summary": "Goldman Sachs CEO가 Nvidia에 대한 깊은 믿음과 자신감을 표명했음.\n이는 AI 칩 시장에서의 Nvidia의 위상과 성장 가능성에 대한 긍정적인 신호임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 05:26",
-  "tag": "기타",
-  "title": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGxJdlZkMkthbEFZQk5TcnZxYVNjcjk4UE9XREVXcnFpMWU0VGVFX1k5NlNZS3Z3NjVfREo0cl9FckVQQm9fY1F5Z3gzWFVBUWE5X2x2Mk1CSW9FbzFQQldwaWJWZHRicmdyOG4zdnJKTmV2RkJVa0hNczRxaU1qX08xNjR6UjAxanRySUc5eUpzdFpFczRGaFY3Uy1mUElkOGtjYi15NzNOMG1mS1J6OWQxTjR0d1RSY2hHbktYNUl0TWpOeWwzRnk3UQ?oc=5",
-  "summary": "Nvidia CEO Jensen Huang이 컴퓨팅 산업의 근본적인 플랫폼 변화를 언급했음.\nAI 시대 도래로 인한 산업 패러다임 전환을 시사했음.",
   "importance": 4
  }
 ]
