@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-25 18:30",
+  "tag": "기타",
+  "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5",
+  "summary": "Nvidia가 AI 붐의 '은행가' 역할을 수행하며 위험한 상황에 놓였음.\nAI 칩 공급을 통해 막대한 이익을 얻는 동시에, 고객사에 대한 금융 지원 역할까지 확대되었음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 14:09",
   "tag": "실적",
   "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGxJdlZkMkthbEFZQk5TcnZxYVNjcjk4UE9XREVXcnFpMWU0VGVFX1k5NlNZS3Z3NjVfREo0cl9FckVQQm9fY1F5Z3gzWFVBUWE5X2x2Mk1CSW9FbzFQQldwaWJWZHRicmdyOG4zdnJKTmV2RkJVa0hNczRxaU1qX08xNjR6UjAxanRySUc5eUpzdFpFczRGaFY3Uy1mUElkOGtjYi15NzNOMG1mS1J6OWQxTjR0d1RSY2hHbktYNUl0TWpOeWwzRnk3UQ?oc=5",
   "summary": "Nvidia CEO Jensen Huang이 컴퓨팅 산업의 근본적인 플랫폼 변화를 언급했음.\nAI 시대 도래로 인한 산업 패러다임 전환을 시사했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 03:58",
-  "tag": "수주",
-  "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
-  "summary": "Nvidia가 월스트리트 자산운용사들과 협력하여\n5천억 달러 규모의 AI 인프라 구축 추진에 나섰음.",
   "importance": 4
  }
 ]
