@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 03:05",
+  "tag": "제품",
+  "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
+  "summary": "OpenAI가 자체 개발한 'Jalapeño' ASIC 칩 공개.\nNvidia 플래그십 GPU 대비 전력 효율성과 지연 시간 측면에서 우수하다고 주장함.\nBroadcom과 협력하여 개발했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 02:04",
   "tag": "제품",
   "title": "OpenAI’s First-Gen Jalapeno ASIC Blows Competition Out Of The Park, Performs 1.5x to 1.9x More Work Per Kilowatt Than NVIDIA’s Blackwell Chips, While Threatening The CUDA Moat",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2t2NHJObWJ0OURsYWxqSG9vRUNRd3pmZ0toaXpSZllkOE5JOTBJY3dwNUw4OV95NFRBYVVRRmg5bUZaZjc1MzlhU3BCZW9nQVc5RWNaZC1IV0ozOWNnb0U5UFkxSXhsd1ZfSWprNVNuS2huVi1YYW83ZUdZX3k5dl9TX2k1NlBFRlRISHNfRUt5TUtXbmtBaUtZZHBuNF9EMTNuNXhUWVNwUGZrUTVVTDVwOUsxNVA2?oc=5",
   "summary": "인텔이 신기술 개발 가능성을 시사했음.\n엔비디아의 재무 강화 노력은 매우 긍정적이라고 평가함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 23:35",
-  "tag": "기타",
-  "title": "Bessemer’s Deeter on Nvidia's $500 billion Wall Street deal: ‘A great maturation of the ecosystem’",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGRfc0Z1UU12b1o2VE1LX3g4aHpuZ2xCeVhhd1E5eEo3YmJCQTNiUDBKeE5XaHFsRlFpTUl5Yl8yd1VfMXNWeERRM2RtaDlTUUszdDBSMDZzai0yVVQ4eHVqT3I4TlRTWXh0NHY1Y0ZINU45RjJIenBMdi1XOWE1N29pSmZKcTJiR2liN2gtTUoxd3E0UzV0Smc0V3dJMEk0YUFiWHlxRXcyd2dOckpiUHdjR3EtV2p4TUIwOHZJRWx4YThUNVcwVDlPYjZWenM?oc=5",
-  "summary": "Bessemer VC의 Deeter가 엔비디아의 5000억 달러 규모의 월스트리트 거래를 언급했음.\n이는 AI 생태계의 중대한 성숙을 의미한다고 평가했음.",
   "importance": 4
  }
 ]
