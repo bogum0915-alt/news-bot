@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 00:30",
+  "tag": "제품",
+  "title": "NVIDIA Launches DLSS 4.5 Ray Reconstruction: Coming To 007 First Light, Control Resonant, & Now Supported In RTX Remix",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-dlss-4-5-ray-reconstruction-launch-coming-to-007-first-light-control-resonant-rtx-remix/",
+  "summary": "NVIDIA가 DLSS 4.5 레이 리컨스트럭션 기술을 공식 출시했음.\n2세대 트랜스포머 모델 기반으로 시각 품질을 개선했음.\n007 퍼스트 라이트, 컨트롤 레조넌트 등 게임과 RTX Remix에서 지원될 예정임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 22:27",
   "tag": "제품",
   "title": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5",
   "summary": "Nvidia가 새로운 오픈 모델을 출시했음.\n이는 AI 모델 경쟁에 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 22:00",
-  "tag": "제품",
-  "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUxCN2ozelhOLWlNMTRrN2ozd0VFaG5ITEowei04ZmIyN3JNQWtsWnhDZDEwb2pGOUZkSEpqaEY5UHJ4MjhJTWdjUnZqNFR2VzB2aHJJZDI0Y21JcDlXc1NndnVhWVVYZ1hnMGs2Wk5LVkRnU2pvc3E5dDJxT2Y5V0hjSzNXZ2NGanI1V3BTQm4tbWpxcUtuRXhYcmZ1TngtU2ZZ0gGoAUFVX3lxTFB1SFY2eVJxS0twek9TQ0hoeTVoZjdSM0NLRThfYVV0NHJBbTc3emI4OFZUVHo4UTIybmFtZUdYeDM0UDB1ZURCNWl5Y0xVUkdScHRPRDh1UDBEU3FBY3JCMWwwZllDU01zRDdCVUZXVGxUbG9GWjhDd3VnMmF0dFlWaUh3MXBaeGNHQ0l6WFV6UlprNVV5VmFmc01QaUNFanVvejI0bnM4MQ?oc=5",
-  "summary": "Nvidia가 CEO Jensen Huang 등장 이후 첫 오픈소스 AI 모델 공개했음.\nAI 모델 생태계 확장에 기여할 것으로 보임.",
   "importance": 4
  }
 ]
