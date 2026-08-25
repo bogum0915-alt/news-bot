@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-25 22:27",
+  "tag": "제품",
+  "title": "Nvidia’s Groq Chip Will Shape AI Agent Usability",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFZ5Vm9DUWpmc0YzbE0xaDhUVE1na3hGdGlObWdGS3pNbU1BRVlBTjRDVXExWFJZcDJMSGFudU5Na3V4bWhXclhDMk1lNnhTeWJpNXpHUG9CcDI4R1hRMG9xVmxUQUhzc3NLNmFDcjNHV2tnVzNYZ1RsMV9oQ2hYa0ZEbUtWSnktbGpSNjB1WlRqdw?oc=5",
+  "summary": "Nvidia의 Groq 칩이 AI 에이전트 사용성을 혁신할 것이라는 전망임.\n이는 AI 칩 기술의 진전을 보여줌.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-25 22:17",
+  "tag": "제품",
+  "title": "Elon Musk Says He Has Memorized The Design Of His AI Chip That Is Three Times Better Than NVIDIA’s AI Products",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/elon-musk-says-he-has-memorized-the-design-of-his-ai-chip-that-is-three-times-better-than-nvidias-ai-products/",
+  "summary": "일론 머스크가 AI 칩 'AI5' 개발 진행 상황을 공개했음.\nNVIDIA, AMD와 경쟁 목표이며 자체 칩 제조 프로젝트 'Stargate'도 추진 중임.\n자체 개발 칩이 NVIDIA 제품보다 3배 성능이라고 주장했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 21:40",
   "tag": "기타",
   "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
@@ -699,24 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUxCN2ozelhOLWlNMTRrN2ozd0VFaG5ITEowei04ZmIyN3JNQWtsWnhDZDEwb2pGOUZkSEpqaEY5UHJ4MjhJTWdjUnZqNFR2VzB2aHJJZDI0Y21JcDlXc1NndnVhWVVYZ1hnMGs2Wk5LVkRnU2pvc3E5dDJxT2Y5V0hjSzNXZ2NGanI1V3BTQm4tbWpxcUtuRXhYcmZ1TngtU2ZZ0gGoAUFVX3lxTFB1SFY2eVJxS0twek9TQ0hoeTVoZjdSM0NLRThfYVV0NHJBbTc3emI4OFZUVHo4UTIybmFtZUdYeDM0UDB1ZURCNWl5Y0xVUkdScHRPRDh1UDBEU3FBY3JCMWwwZllDU01zRDdCVUZXVGxUbG9GWjhDd3VnMmF0dFlWaUh3MXBaeGNHQ0l6WFV6UlprNVV5VmFmc01QaUNFanVvejI0bnM4MQ?oc=5",
   "summary": "Nvidia가 CEO Jensen Huang 등장 이후 첫 오픈소스 AI 모델 공개했음.\nAI 모델 생태계 확장에 기여할 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 22:00",
-  "tag": "제품",
-  "title": "Why Nvidia Is Trying To Develop The World’s Best Open-Source AI Models",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3gxaVJ2STFPQkRHa3daMDk4bkRfLU1EMml1VnRWdi1ZbUdDVVUya3hQNXlHbXV0N3dQTjd6cXJFRTk4bEQ0UUR0OVJoUjhzcnk2NTZMNHd2bExzMFRmYS1zc1VuSjJHRTQ0SEFoS1RtWTFkc0dXS1JQb3Z3LVQ1d3AyZVNXWGp3YUJqNWVxQVJOWVFDTEJGYWdjdw?oc=5",
-  "summary": "엔비디아가 세계 최고 오픈소스 AI 모델 개발에 집중하고 있음.\n이는 AI 밸류체인에서 엔비디아의 영향력을 강화하고,\n새로운 AI 칩 경쟁에 대비하려는 전략으로 해석됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 21:02",
-  "tag": "수주",
-  "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5",
-  "summary": "IBM이 Nvidia 기반 AI 추론 클러스터 구축 위해\n2억 4천만 달러 규모 계약 체결했음.",
   "importance": 4
  }
 ]
