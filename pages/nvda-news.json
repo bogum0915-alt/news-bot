@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-25 20:53",
+  "tag": "제품",
+  "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
+  "summary": "Nvidia가 Hot Chips 2026에서 Vera CPU 정보를 공개했음.\n공간 멀티스레딩과 LPDDR5X 메모리 시스템의 장점을 강조했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-25 19:41",
   "tag": "제품",
   "title": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads — will use optimized Vera Rubin NVL72 in space with Starmind satellite",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
   "summary": "Nvidia가 금융 기관들과 협력하여\nAI 데이터센터 구축 고객을 위한\n5천억 달러 규모의 AI 인프라 펀드 조성에 나섰음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-11 07:12",
-  "tag": "규제",
-  "title": "China Bars Its Top AI Engineers From Overseas Travel And Starts A Massive Data Center Build Out In Mongolia, While NVIDIA Parries By Mobilizing $500 Billion In AI Financing",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/china-bars-its-top-ai-engineers-from-overseas-travel-and-starts-a-massive-data-center-build-out-in-mongolia-while-nvidia-parries-by-mobilizing-500-billion-in-ai-financing/",
-  "summary": "미중 AI 기술 패권 경쟁 심화.\n중국, AI 엔지니어 해외 출국 제한.\n몽골에 대규모 데이터센터 구축 시작.\nNVIDIA, 5000억 달러 AI 투자 유치.\nAI 밸류체인 내 지정학적 리스크 확대.",
   "importance": 4
  }
 ]
