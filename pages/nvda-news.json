@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-26 04:00",
+  "tag": "제품",
+  "title": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjBLWkdFMzJKR2ZpdDRBSzBHT3FmS3N1OVlkTno4OVBKbnVLQm9kRk1ZZXNSZlVkVXkxQ0ZVSEdQOWZuRnVySFNpdXFqb3FqTGN4aW1HNi10SFdqTENBMFNieTQtbG9URzZ2cUVSS3JiLUp0WHU5UjJVMFNMVW45aFVrUm4xOENUS2FTSzJFMTFFWTEzNmZ6S0tWSG5XcHJUX05J?oc=5",
+  "summary": "OpenAI가 Broadcom 맞춤형 칩이 성공적이라 발표했음.\n이는 Nvidia에 대한 잠재적 경쟁 심화를 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-26 03:05",
+  "tag": "제품",
+  "title": "Franklin’s Araghi Says Nvidia Holders Want Map, Not Just a Beat",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVlfM3VCeGZpSzZLLUdLS1VhQ3JpQ1RfME9SSzV1NEYzSFQ1dzVaSEJDTEdneGRIVDhHQ1NMeFc2OUlkY20tSHVvVUpwd3E3UHlsWndXelZIQ1lXQ00zLWVlMWFfZUhaSDRBejdmODBnTWZoNTdqM3U0SHBvWmhWUEVUa1BrTWY0YXBvT0tmYnYyd0hYdkpOMy1mcmxyYXIyeWk0QVJfZ3AwWUhzSXBEZjZjNA?oc=5",
+  "summary": "Nvidia 투자자들은 실적 발표뿐만 아니라\n향후 로드맵에 대한 정보도 기대하고 있음.\nAI 칩 시장의 미래 성장성을 확인하길 원함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 03:05",
   "tag": "제품",
   "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidias-kyber-racks-to-sport-340-4tb-of-dram-with-hbm4e-priced-at-19-76-gb-and-each-rack-reportedly-priced-at-41-6-million/",
   "summary": "NVIDIA Kyber 랙, HBM4E 대신 LPDDR5X 채택 가능성 제기됨.\nKyber 랙의 HBM4E 탑재량 감소 시, LPDDR5X 모듈 비용 더 높아질 수 있음.\n1개 랙당 약 4,160만 달러 예상, HBM4E GB당 19.76달러.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-12 02:56",
-  "tag": "기타",
-  "title": "RBC Capital’s Srini Pajjuri on Nvidia lining up $500 billion in financing: ‘Very sensible’",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWYxZGtFZ1lDSF83NmJzcEt2YWotR3UzVXZyVzF5bHlITEpMNXg4YlBjZHV5OVhrTGw1eGxKR3Q5ZkFpYjI3UU5iOG9rY2NVS3hEMkl2dC13RjZfMk50WkRNVlJCNHUxQWU1SmJwWUFGMTJBXzlkZlJ6cDBlY0t5Y1AybXZ2ZVVQQXhjMVpEYjRGTGliRW4tTmpOUzRRYTVPVmt5b2I5a1Qwa1NT?oc=5",
-  "summary": "Nvidia가 5000억 달러 규모 자금 조달 준비 중.\nRBC Capital 분석가는 매우 합리적인 결정이라 평가함.\n이는 AI 칩 수요 증가에 대한 적극적 대응으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-12 01:21",
-  "tag": "기타",
-  "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2t2NHJObWJ0OURsYWxqSG9vRUNRd3pmZ0toaXpSZllkOE5JOTBJY3dwNUw4OV95NFRBYVVRRmg5bUZaZjc1MzlhU3BCZW9nQVc5RWNaZC1IV0ozOWNnb0U5UFkxSXhsd1ZfSWprNVNuS2huVi1YYW83ZUdZX3k5dl9TX2k1NlBFRlRISHNfRUt5TUtXbmtBaUtZZHBuNF9EMTNuNXhUWVNwUGZrUTVVTDVwOUsxNVA2?oc=5",
-  "summary": "인텔이 신기술 개발 가능성을 시사했음.\n엔비디아의 재무 강화 노력은 매우 긍정적이라고 평가함.",
   "importance": 4
  }
 ]
