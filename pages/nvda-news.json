@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 23:42",
+  "tag": "제품",
+  "title": "Hot Chips 2026: Nvidia touts benefits of its DSX MaxLPS site power management approach — tech allows for more compute from fixed data center power budgets",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/hot-chips-2026-nvidia-touts-benefits-of-its-dsx-maxlps-site-power-management-approach-tech-allows-for-more-compute-from-fixed-data-center-power-budgets",
+  "summary": "Nvidia, Rubin GPU 발표에서 데이터센터 전력 예산 내.\n더 많은 컴퓨팅 성능 제공하는 DSX MaxLPS 기술 강조함.\n100MW 전력 예산으로 Vera Rubin NVL72 시스템.\n더 많은 연산 능력 제공 가능성 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 22:12",
   "tag": "실적",
   "title": "Nvidia reports Q2 results today: Here's what to expect",
@@ -708,15 +717,6 @@
   "source": "TechCrunch",
   "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
   "summary": "Nvidia가 AI 투자 확대를 위한 신규 자금 조달 방안을 모색하고 있음.\n이를 통해 기존 GPU의 가치 하락을 방지하려는 계획임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-13 15:25",
-  "tag": "제품",
-  "title": "NVIDIA Ditches AC Power For 800 VDC AI Factories To Scale Up Compute, Backed By Microsoft, Google and 80 Ecosystem Firms For 2H 2026",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-800-vdc-platforms-break-past-traditional-power-distros-to-scale-up-performance/",
-  "summary": "NVIDIA가 800V DC AI 공장 도입을 발표했음.\nMicrosoft, Google 등 80개 기업의 지지를 받았음.\n2026년 하반기부터 적용될 예정임.",
   "importance": 4
  }
 ]
