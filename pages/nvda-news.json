@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 19:11",
+  "tag": "실적",
+  "title": "The $1.5 Trillion Question Nvidia’s Earnings Can’t Answer",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWNncXNZWG9FUXNNN2VJWmVNeno1eG5tYmZCQ3VmZElBZWFKU2JPRTlCVWRBUUtZaGFxeUZYX1QtUndBalAyWFdMeEhLU19oLVVkVTMtRW1XM0xhV3BESDVFeWxGM3RreEJVMzVmWmlJZllUalpzWmJ5MFlQMW1GNTF3cjhJLWhDMm5oMXhBTEFxd2dLeEE?oc=5",
+  "summary": "엔비디아 실적이 1.5조 달러 질문에 답할 수 없음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 15:20",
   "tag": "기타",
   "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year",
   "summary": "Nvidia RTX 6000 Pro Blackwell MSRP가 1년 만에 2배로 인상됐음.\nAI 붐으로 인한 데이터센터 GPU 수요 증가가 원인임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-13 00:41",
-  "tag": "실적",
-  "title": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
-  "summary": "CoreWeave, 2020년 출시된 구형 AI GPU로도 9년간 수익 창출 가능성 입증했음.\n2029년까지 A100 계약 연장하고 있으며, 이는 전력 제약과 기존 인프라 덕분임.\n분기 매출 25.8억 달러 기록, 전년 대비 112% 증가했음.",
   "importance": 4
  }
 ]
