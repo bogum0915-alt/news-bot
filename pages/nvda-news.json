@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-27 01:41",
+  "tag": "실적",
+  "title": "Looking ahead to Nvidia earnings tonight: Investor's investment strategy",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcllwQ0dhYmFFLWNzZGZLQzBZVEZndC1iWDR6bUl4ZTVrc3NHZFVkN2JPckN6MFU4R25lYjZUdmZMV054UTdaVXpiRnRvNm1mcmNCeDBUUTZTWWpxYTdEal9vTy1odnhzZGhzMHlPNU00bUhJc2dxaEh6MFozeHRlX2xsYmJrWnJOVW1vWlZhc3VyWFlkYzVBMnVCR2JLRjdSc2VvUU5lMnVpc0c2ZWdFajhYWQ?oc=5",
+  "summary": "엔비디아 실적 발표를 앞두고 투자 전략을 제시하는 기사임.\n실적 발표가 투자 판단에 중요함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 01:23",
+  "tag": "제품",
+  "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
+  "summary": "Nvidia는 Hot Chips 2026에서\nGroq 3 LPX 아키텍처를 발표했음.\n최초의 제3자 추론 벤치마크도 공개됐음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 23:41",
   "tag": "실적",
   "title": "Cantor Fitzgerald’s CJ Muse on Nvidia earnings: I think we'll get another monster beat",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-lg-bring-next-gen-humanoids-to-life-to-advance-the-physical-ai-realm/",
   "summary": "NVIDIA와 LG가 차세대 휴머노이드 개발을 가속화하기 위해 협력함.\n로보틱스 및 자동차 솔루션 배포를 위한 파트너십 강화의 일환임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-14 19:30",
-  "tag": "기타",
-  "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
-  "summary": "우크라이나 정보기관이 러시아의 최신 S-71 'Monochrome' 순항미사일에서\nNvidia의 AI 칩인 Jetson Orin NX 모듈을 발견했다고 주장했음.\n해당 칩이 미사일의 종말 유도에 사용되었을 가능성이 제기됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-14 05:49",
-  "tag": "기타",
-  "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
-  "summary": "AI 붐을 위한 새로운 자금 조달 방식이 등장했음.\n월스트리트와 엔비디아가 협력 중임.",
   "importance": 4
  }
 ]
