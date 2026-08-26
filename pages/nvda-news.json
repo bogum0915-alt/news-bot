@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 14:03",
+  "tag": "기타",
+  "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMnY5MmlpU1NuQkRfenlXQkRCZVJpbWlUTFFFSWRmeFdRRVBYSk1kNmlxV2pUUzBELXFBNW41RUxMMmUzTUY2Q3Z2SmJGNWtKM3U4VUZfMEhWM0JGa1VYbG5HUFZlUnJXanpzWFdfWVI?oc=5",
+  "summary": "Nvidia가 '밸런스시트-서비스' 모델을 통해.\nAI 인프라 구축 위한 금융 솔루션 제공. \n거대 자본 조달 및 유동성 지원 가능성 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 08:11",
   "tag": "기타",
   "title": "Before Nvidia, there's never been a company with as much involvement in our economy, says Jim Cramer",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
   "summary": "메타와 엔비디아가 중국 업체들이 주도하는 오픈 웨이트 AI 경쟁에 참여했음.\n이는 AI 밸류체인 내 경쟁 구도에 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-12 19:55",
-  "tag": "제품",
-  "title": "NVIDIA’s Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-96-gb-rtx-pro-6000-blackwell-now-costs-16000-usd-double-its-original-price/",
-  "summary": "NVIDIA의 Blackwell GPU인 RTX PRO 6000 가격이\n메모리 부족으로 13,000달러에서 16,000달러로\n거의 두 배 상승했음.",
   "importance": 4
  }
 ]
