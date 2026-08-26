@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 23:41",
+  "tag": "실적",
+  "title": "Cantor Fitzgerald’s CJ Muse on Nvidia earnings: I think we'll get another monster beat",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkRwLUxEVlVKeEpZMHR5RkVuYlhtTTNfUkFIS0V6WG1NeWk0R2FLQ3d0WGFSRjRidkZ0bTM1Q0RsUWU3NUlaZjFQSmc5dWtLSGZSTE44U3FnME1CSVp3b1ZPdzRFNWlvbFZFLUl5VTIyYXBTdS1BSVFhdl9LY21Xb3V6aEgxRkVIaU96T2tzT3gySTduRmFNMVoydFg2dTlzQzZjQzBEZ1dqRkZHaEhfM0lta1I5LTAwY2FxanhuYjY4ZEtxUnc?oc=5",
+  "summary": "Cantor Fitzgerald의 CJ Muse가 엔비디아 실적에 대해 긍정적인 전망을 내놨음.\n또 한 번의 '괴물 같은' 실적 초과 달성을 예상했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 23:42",
   "tag": "제품",
   "title": "Hot Chips 2026: Nvidia touts benefits of its DSX MaxLPS site power management approach — tech allows for more compute from fixed data center power budgets",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
   "summary": "AI 붐을 위한 새로운 자금 조달 방식이 등장했음.\n월스트리트와 엔비디아가 협력 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-14 00:08",
-  "tag": "기타",
-  "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-  "summary": "Nvidia가 AI 투자 확대를 위한 신규 자금 조달 방안을 모색하고 있음.\n이를 통해 기존 GPU의 가치 하락을 방지하려는 계획임.",
   "importance": 4
  }
 ]
