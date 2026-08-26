@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 15:20",
+  "tag": "기타",
+  "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcjdaVENYV0p6T1RiWFZsMVYzUHNGdmhJN19PMmhZdFRxVWtJQjJCUGh3SWVVZWRlQnBYSXdtNV83dVR6RjJoQlRSY3FmWms4dmNuR1YyQ1dWZ0llT1pJaHFYa1FKUXFxZ1pZ0gFwQVVfeXFMTmc4dkpMekV6eXBnNUw4N2FyVzRrakd5aTZ6bjlybnBtZXJMQkJDLTdsemJ1a25PMGJOSWdrMlpUekwxQzQyMUlBMWtseDVSMEUwTDNCQUI1X1lJUEx2M2ZxalU3XzlhRmVzOHRhSnE2TQ?oc=5",
+  "summary": "Nvidia가 AI 산업 전반을 주도하고 있음을 강조함.\nAI 밸류체인의 핵심 역할을 하며 시장 영향력이 큼.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 14:03",
   "tag": "기타",
   "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029",
   "summary": "CoreWeave, 2020년 출시된 구형 AI GPU로도 9년간 수익 창출 가능성 입증했음.\n2029년까지 A100 계약 연장하고 있으며, 이는 전력 제약과 기존 인프라 덕분임.\n분기 매출 25.8억 달러 기록, 전년 대비 112% 증가했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-12 21:00",
-  "tag": "제품",
-  "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
-  "summary": "메타와 엔비디아가 중국 업체들이 주도하는 오픈 웨이트 AI 경쟁에 참여했음.\n이는 AI 밸류체인 내 경쟁 구도에 영향을 줄 수 있음.",
   "importance": 4
  }
 ]
