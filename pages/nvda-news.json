@@ -1,5 +1,68 @@
 [
  {
+  "ts": "2026-08-27 07:47",
+  "tag": "수주",
+  "title": "Amazon Commits to 3 Million NVIDIA GPUs in AWS, Tripling a Deal That Started at Just One Million",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/amazon-commits-to-3-million-nvidia-gpus-in-aws-tripling-a-deal-that-started-at-just-one-million/",
+  "summary": "Amazon이 AWS에 NVIDIA AI GPU 300만 개 도입을 발표했음.\n이는 기존 100만 개 계약의 3배 규모임.\nAgentic AI, 자동화 등 다양한 워크로드에 사용될 예정임.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-08-27 07:45",
+  "tag": "제품",
+  "title": "Nvidia custom 'NVHBM' promises 30% higher bandwidth, 15% lower power than commodity HBM4e — custom base die and PHY will be available to NVLink Fusion partners",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
+  "summary": "Nvidia가 NVLink Fusion 파트너 대상\nNVHBM이라는 커스텀 HBM 공개했음.\n기존 HBM4e 대비 대역폭 30%↑, 전력 15%↓.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 07:07",
+  "tag": "실적",
+  "title": "Breakingviews - Nvidia leans into the danger of a bad-news spiral",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZERTckZlOG0ySXJTcWltQUFqeUhUS1MyVHpOWVNqckE4dl9pb3NudG9hLU1KZHdvVnpvTnRIWFFsMXdrUG9FTGl6enUwM2xFRDhmbGFhOUpPbXowSmdHYTlkVDQwWDA5Zml0QzRGbDJqNDNlTW9wVTRNdGNpV255Sy13cGhBR3p3T19Nc2xrT0hBUW5wYktfY2Y1Q01mb190VzVF?oc=5",
+  "summary": "Nvidia가 악재 연쇄 반응의 위험을 인지하고 있음.\n경쟁 심화 및 시장 포화 가능성 우려.\nAI 칩 시장 지배력 유지 위한 전략 모색 중.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 07:06",
+  "tag": "실적",
+  "title": "Nvidia stock jumps after early dip following results; AI fever is unabated",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtIdlFrOWRSZkItb0NtNVd0ZjFxcFZERm9aLTBCRnFyMU9kVEotOC1mWld3amlVczc4N3EyOE42Ui1VY3U5VXlkU2RkTU51ODd4RnVyYy04cXFOSWp3bVdQQWlLYkJIbUxTcUNZUXE5MkVKY0g5NHBBeGItNjlvd1VQdGV0NHBJSlFCVURkcko5M01xblFRS2lkdG1PZGV3cWdhTg?oc=5",
+  "summary": "엔비디아 주가가 실적 발표 후 초기 하락을 딛고 상승했음.\nAI 시장에 대한 열기가 여전히 뜨겁다는 신호임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 06:45",
+  "tag": "제품",
+  "title": "NVIDIA Develops Custom “NVHBM” Memory For AI, Claiming 30% More Bandwidth and 15% Lower Power Than HBM4E",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-develops-custom-nvhbm-memory-for-ai-more-bandwidth-lower-power-than-hbm4e/",
+  "summary": "NVIDIA가 AI용 커스텀 메모리 'NVHBM' 공개했음.\nHBM4E 대비 30% 대역폭 향상, 15% 전력 효율 개선.\n향후 NVIDIA GPU에 탑재되어 AI 워크로드 성능 강화 기대됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 06:45",
+  "tag": "실적",
+  "title": "Nvidia Reports Record Sales (Again)",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCeTNqY3kwR1F2T2tCa1V2RlZ1VF9hMWdtcnc1aW44T3l1bTlmWlMwQ2hYMTdqMkJkOVRHZmI0WEJTNXdsaHJrQzlrZTRTQk1tTjNfQUZkbmN6RG8yMFNObzB0RGhYd1o5T0hhVHFjQ3RMWWx4QkFFUDZ3?oc=5",
+  "summary": "Nvidia가 다시 한번 기록적인 매출을 보고했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 06:43",
+  "tag": "실적",
+  "title": "Nvidia forecasts quarterly revenue above estimates, shares rise",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
+  "summary": "Nvidia가 예상치를 상회하는 분기 매출 전망치를 발표했음.\n이 소식에 따라 Nvidia 주가가 상승했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-27 03:13",
   "tag": "실적",
   "title": "Here's how much traders think Nvidia will move off earnings — and in which direction",
@@ -654,69 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5",
   "summary": "Nvidia의 AI 경쟁 우위가 칩에서 자본으로 이동하고 있음.\nAI 산업의 빠른 성장에 따라 자본 투자의 중요성이 커지고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-18 09:51",
-  "tag": "제품",
-  "title": "Nvidia Juggles Mixed Messages on Chip Longevity",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU1aLXVBNEZRY21KU1FlVlkxVW1fY0VhZ0xKWnVHTmg5RHFhY3JOeDNnd2ZkeTlwbnZIb3NLQUJSdkdLcXFmMHVEeDh4NXZ4aFc1WGlhZENOTUJfcVkxTjJFcXNha0ZLakFaLXdISmZuYmViTmNhUG9BSVh0Ul9SVTBuR0pFMHN4R1FVZ1dHYVNJeXlGRWFxQ3V4Rlp3bHZRTEE?oc=5",
-  "summary": "Nvidia가 칩 수명에 대해 상반된 메시지를 내놓고 있음.\n고성능 AI 칩의 수명을 다르게 설명하며 혼란을 주고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-18 05:07",
-  "tag": "실적",
-  "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjJCajA4aDNSSU9MaExrYy1EbERVZG53RVlOYXh3RmlqTzJBNjdzZ2gxMGU2UGxLMnI0RkllNHNXbHlkUThmamwxSmlmcmJGdXN5WDBpbF9QQUhkcDBfZmZrRWRGUFhYTnRKSzlDRzdQM2NZX3diSG9EdXYyTzd0aHk4Y1MxWlFOdFZPZTY0a09YSWloWlZNQV82SF9MLU5hMVhKYk9COHRuV3F3ZFdtUWxTZw?oc=5",
-  "summary": "Nvidia 주가 반등세 지속 가능성에 대한 3가지 이유 분석.\nAI 칩 수요 강세와 경쟁사 대비 우위 점하고 있음.\n데이터센터 투자 확대 추세가 긍정적 요인임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-18 00:16",
-  "tag": "수주",
-  "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-  "summary": "Nvidia가 SoftBank 데이터센터 개발사에 15억 달러 투자했음.\n이 투자로 Nvidia 칩이 OpenAI 데이터센터에 공급될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-16 18:25",
-  "tag": "기타",
-  "title": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/",
-  "summary": "AI 투자 최대 위험은 GPU 과잉 공급임.\nNVIDIA GPU를 자산화하는 계획에 대한.\n트럼프 고문 데이비드 삭스의 분석임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-15 11:03",
-  "tag": "기타",
-  "title": "Nvidia’s $500 Billion Plan Swallows Wall Street",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmFHY0lCTWFRelBzOExZdk5MVGZmaDNHM1hUZEMydkI3elRiRFJzRFd6cVJxR3dpY3pCWGpxRjZYT3kwUElxcHRaRFdvaXB1c2ZqeG1nY0ZiX3BCNm5ucVlPWEI2TTNGRGE3TWtZc1pRb0Vrc2l0YlR5Q1NWVjhESVlVdWtIdHpCUmNmYVhuZFdVcmFiazhtUlI4TlVIY01OM3pyckJEZ3pBOUxla3hVYXlBcU13MEE?oc=5",
-  "summary": "Nvidia의 5000억 달러 규모 투자 계획이 월가에 큰 영향을 주고 있음.\n이는 AI 밸류체인 전반에 걸쳐 상당한 파장을 일으킬 것으로 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-15 09:01",
-  "tag": "수주",
-  "title": "Nvidia Nears Deal To Guarantee About $100 Billion In Financing For Massive Data Center",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdEZDIteGxJU2tFTHZYbDNfRU9TaUhTMjFhQmtlR0c5RmstWlVKVDZUVWs5UXhMTEtONzNGQ2xlUmdub0lxOGZWUDBkU1owOHR4UEV4Q1NEWG11NV9RY1lZV2xmQVRjMnhYZnB2akNvNFkyUDZXUlhWaEM1UVFWNFFBdHUxQ3FpWG04SEN3Vmt2M0wwbU84NTQ2ektiaDZRUDk5Rk9CdEFJaF9zQkE?oc=5",
-  "summary": "Nvidia가 대규모 데이터센터에 대한 1000억 달러 규모 자금 조달 계약을 곧 체결할 것으로 알려졌음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-14 22:54",
-  "tag": "수주",
-  "title": "Private credit roundup: Nvidia's half trillion for chips financing, plus others",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtyVEpfcVNDRlNMYkRlOFNBOFRSVnBMazVkeVc3b2FRZWNYVVpvcjJsbFJxODVvVEFNMmFiaTdvaEpxLWc0N2lYZnRCRXBhM2Y1djB3RlJMMFJWVlgtR19wdGF5WW16aFFia2lSZ3hXUTVrUTF0dFdWQVBGWkxsbEZ5UXJlU2dzYW43OXlxQkFaRS00V2VKNWtzb0FvdGliQ3JzQ3NnMDNPZU5tSEdLUlluQ0E4dlc3bUxfeVptb2ttUndhVU9Z?oc=5",
-  "summary": "Nvidia가 AI 칩 생산을 위해 5천억 달러 규모의 자금 조달을 모색하고 있음.\n이는 AI 칩 제조 및 공급망에 대한 대규모 투자 의지를 보여줌.",
   "importance": 4
  }
 ]
