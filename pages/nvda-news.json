@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 20:10",
+  "tag": "실적",
+  "title": "Nvidia set to report Q2 earnings: BofA's Vivek Arya on what to expect",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkMwWmhrLWl2dVFNemV2V0ZqMl90NzdIaTB1VU9xZXhIaU9qZXpIOTVGd3cwVVRrWVgxZVBxTmRUekIzaGhTTmhKVUVJVGYxOXpWRmwtRFNvSm1TQ2FiRFlJajVTcXRjc3J3c0lsQ09GdXFIOFR6SjNqNEtfY0VWRGdnZ09PdUl2Wnc2X3F0dUxQN3J1eGd2a3J4ZDB1NnZvdFVuQjdraW5GeFJLRmk0?oc=5",
+  "summary": "Nvidia 2분기 실적 발표 예정.\nBofA 애널리스트 Vivek Arya가 전망.\n주요 예상치 및 투자 포인트 제시할 것으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 19:20",
   "tag": "기타",
   "title": "Bluebox: Nvidia's current market position will not last forever",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
   "summary": "인도의 Larsen and Toubro가 Nvidia를 위한 AI 공장 건설 수주했음.\n이는 Nvidia의 AI 인프라 확장 및 공급망 다변화 노력의 일환으로 볼 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-13 04:06",
-  "tag": "기타",
-  "title": "Investors question data center loan valuations after latest Nvidia financing move",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0VaVXpxd2tKVXBjcUQzUUh4enN3SndBNHVxSVZoNmtBT193NjBDR0c5a3dqV1hZRC10aFJlS04zOXNtY3R6OXZIekZEYm1rY1l0ZTVfU19UX0lyS3E4OGNCZTl2dG5IemRFRlJxa1BwYS1YRmNnRnlKcVMxbVdlb2EySERoMUpESmgwTTdQa21jemctaWtoN2M0clJyZGo5NjNFT2pJUWM2SzNpbHRZdkFVdjFfYUJQRXllSTJwaw?oc=5",
-  "summary": "투자자들이 Nvidia의 최신 자금 조달 움직임 후\n데이터 센터 대출 가치에 의문을 제기하고 있음.\n이는 AI 칩 수요 증가와 관련된 자금 조달 방식을\n주목하고 있음을 시사함.",
   "importance": 4
  }
 ]
