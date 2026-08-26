@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-26 22:12",
+  "tag": "실적",
+  "title": "Nvidia reports Q2 results today: Here's what to expect",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3YzanBTQVFLZGhLRThKbDhBNHdaZGtiTjI3dkU5VS1pNVlrbXpXM1NIZDMyTFN1Vm9BdzhlR2xFd09FS0pxSzhRdzV5VEN0V3JxMkZUS3JtQzdJNnA4cV8tWkVTOWRRYVhSLVZtTnl2WS1GUjN1eXNvZDlqbWVwVFBHTG1wMUV1bWtycENiRjVDcHgyR1E5aHJ5bw?oc=5",
+  "summary": "Nvidia의 2분기 실적 발표가 오늘 예정됨.\n투자자들은 이에 대한 전망을 주시하고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-26 20:10",
   "tag": "실적",
   "title": "Nvidia set to report Q2 earnings: BofA's Vivek Arya on what to expect",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-800-vdc-platforms-break-past-traditional-power-distros-to-scale-up-performance/",
   "summary": "NVIDIA가 800V DC AI 공장 도입을 발표했음.\nMicrosoft, Google 등 80개 기업의 지지를 받았음.\n2026년 하반기부터 적용될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-13 15:15",
-  "tag": "수주",
-  "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-  "summary": "인도의 Larsen and Toubro가 Nvidia를 위한 AI 공장 건설 수주했음.\n이는 Nvidia의 AI 인프라 확장 및 공급망 다변화 노력의 일환으로 볼 수 있음.",
   "importance": 4
  }
 ]
