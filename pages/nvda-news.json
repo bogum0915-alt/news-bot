@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-08-28 00:33",
+  "tag": "실적",
+  "title": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-expects-to-sell-usd20-billion-worth-of-vera-rubin-hardware-this-quarter-would-account-for-20-percent-of-data-center-revenue-its-fastest-ramp-in-company-history",
+  "summary": "Nvidia가 3분기에 Vera Rubin 시스템 200억 달러 판매를 예상함.\n이는 데이터센터 매출의 20%를 차지하며, 역사상 가장 빠른 성장세를 보일 전망임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-08-27 23:31",
+  "tag": "규제",
+  "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
+  "summary": "Nvidia가 백악관의 제재 가능성 경고 속에서,\n중국 오픈 AI 모델 지원 강화에 나섰음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-27 12:15",
   "tag": "기타",
   "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
@@ -699,24 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzRG92OW9mSEo0NU9vSm5IOVlJUGVVSXNNQkdONXhWVUROR3AtLVJyako0NElNa1dQQVUzdmlMMDd0S1lNYjNsXzQ1ZzdhZkFTRmZxSlV3c2Y?oc=5",
   "summary": "Nvidia H200 칩, 소량 선적되어 중국에 도착했다는 FT 보고가 있었음.\n이는 대중국 수출 통제 속에서 고급 AI 칩 공급에 대한 관심이 높음을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-19 11:10",
-  "tag": "규제",
-  "title": "China eases limits on Nvidia H200 chips as AI race escalates",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?oc=5",
-  "summary": "중국이 AI 경쟁 심화에 따라 엔비디아 H200 칩 제한 완화했음.\n이는 중국 내 AI 칩 수요 증가와 공급망 변화 가능성을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-18 20:20",
-  "tag": "제품",
-  "title": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd",
-  "summary": "중국은 2026년부터 자체 AI 액셀러레이터 시장의 90%를 국산으로 공급 가능해질 전망임.\n화웨이를 선두로 중국 IHV들이 엔비디아, AMD로부터의 전환을 주도할 것으로 예상됨.",
   "importance": 4
  }
 ]
