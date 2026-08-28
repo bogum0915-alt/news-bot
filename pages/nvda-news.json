@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-28 08:55",
+  "tag": "규제",
+  "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-quietly-freezes-its-cloud-credit-support-deals-after-internal-talks-warn-of-antitrust-exposure/",
+  "summary": "NVIDIA가 AI 성장 지원을 위한 수수료 공유 및 크레딧 지원 프로그램을 중단했음.\n내부 논의에서 반독점 규제 노출 우려가 제기된 것이 원인으로 보임.\n이는 OpenAI 등과의 수백억 달러 규모 데이터센터 인프라 지원 계약 발표 하루 만에 나온 소식임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-28 00:33",
   "tag": "실적",
   "title": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history",
@@ -709,14 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
   "summary": "미국 정부가 중국 수출 금지된 엔비디아 고성능 칩 우회 경로 차단 시도 중임.\n이는 AI 칩 시장의 지정학적 리스크 및 공급망 재편에 영향 줄 수 있음.",
   "importance": 5
- },
- {
-  "ts": "2026-08-19 11:17",
-  "tag": "규제",
-  "title": "Nvidia H200 chips reach China in small shipments, FT reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzRG92OW9mSEo0NU9vSm5IOVlJUGVVSXNNQkdONXhWVUROR3AtLVJyako0NElNa1dQQVUzdmlMMDd0S1lNYjNsXzQ1ZzdhZkFTRmZxSlV3c2Y?oc=5",
-  "summary": "Nvidia H200 칩, 소량 선적되어 중국에 도착했다는 FT 보고가 있었음.\n이는 대중국 수출 통제 속에서 고급 AI 칩 공급에 대한 관심이 높음을 시사함.",
-  "importance": 4
  }
 ]
