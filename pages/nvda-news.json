@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-29 12:31",
+  "tag": "수주",
+  "title": "Nvidia’s $279 Billion Supply-Chain Gamble",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl9XV0ZOa3VDelZVWV9yY0RwXzNFZmRBc0FYSDk3d0pWbmFJMG5JTDZEUE1UY05WanRSdWUwV0FfdW0yb2N4dGV2cUR1NUtFaEhoY2dmR3NzNTVIcWYzN0k0Y2FsT2xWaW52MzlnVGQydEh3RzZZRHRUNkNsQkptV2ln?oc=5",
+  "summary": "Nvidia가 2790억 달러 규모의 공급망 투자 계획을 세웠음.\nAI 칩 수요 폭증에 대비한 선제적 움직임으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-28 08:55",
   "tag": "규제",
   "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure",
@@ -709,14 +718,5 @@
   "url": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block",
   "summary": "엔비디아 H200 칩이 중국에 첫 선적됐음.\n바이트댄스, 텐센트 등이 납품받음.\n하지만 대부분의 라이선스 칩은 홍콩에 보관해야 함.",
   "importance": 4
- },
- {
-  "ts": "2026-08-19 19:32",
-  "tag": "규제",
-  "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
-  "summary": "미국 정부가 중국 수출 금지된 엔비디아 고성능 칩 우회 경로 차단 시도 중임.\n이는 AI 칩 시장의 지정학적 리스크 및 공급망 재편에 영향 줄 수 있음.",
-  "importance": 5
  }
 ]
