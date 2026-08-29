@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-30 07:23",
+  "tag": "제품",
+  "title": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/",
+  "summary": "NVIDIA DLSS 5, 신경망 렌더링 기술로 실시간 그래픽 향상.\n조명, 재질, 피부, 머리카락 등 시각적 요소 개선.\n정식 출시 전 비공식적으로 게임 적용 시도 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-30 00:00",
   "tag": "기타",
   "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.",
@@ -708,15 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5",
   "summary": "Nvidia가 AI 붐을 미래로 이끌려 함.\nAI 칩 선도 기업으로서 향후 전략을 모색하는 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-20 02:48",
-  "tag": "수주",
-  "title": "Nvidia Discusses Funding Its AI Data Supplier Mercor at a $20 Billion Valuation",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTR6TERvWTROSG5wazkwQWZTMTJGTnp2UTRmQW1oRUpRRFZUaGlvSjRVRGx5dW1ieU1Qd3hkWnAwYk94Uzh5TC1id0NPU3R3Mm9GZnFhUDEyUFBXNkNmV1JQd3lUWFBSUmQ2MzYtdm9UOVNIWkJ4SlV1dF9YMGo2VjRBVXBvamZHOWE3RXRWYVN0MVN0bnpGNUNpNDRaODh0TEdYbVhWcUVlWXN0dUE?oc=5",
-  "summary": "Nvidia가 AI 데이터 공급업체 Mercor에 200억 달러 기업 가치로 자금 조달 논의 중임.\n이는 Nvidia의 AI 생태계 확장 및 투자 전략을 보여줌.",
   "importance": 4
  }
 ]
