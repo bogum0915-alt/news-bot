@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-30 00:00",
+  "tag": "기타",
+  "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
+  "summary": "Nvidia가 로봇 시장 공략 의지를 보이며,\n중국 시장에서 이에 대한 높은 관심을 보이고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-29 12:31",
   "tag": "수주",
   "title": "Nvidia’s $279 Billion Supply-Chain Gamble",
@@ -708,15 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTR6TERvWTROSG5wazkwQWZTMTJGTnp2UTRmQW1oRUpRRFZUaGlvSjRVRGx5dW1ieU1Qd3hkWnAwYk94Uzh5TC1id0NPU3R3Mm9GZnFhUDEyUFBXNkNmV1JQd3lUWFBSUmQ2MzYtdm9UOVNIWkJ4SlV1dF9YMGo2VjRBVXBvamZHOWE3RXRWYVN0MVN0bnpGNUNpNDRaODh0TEdYbVhWcUVlWXN0dUE?oc=5",
   "summary": "Nvidia가 AI 데이터 공급업체 Mercor에 200억 달러 기업 가치로 자금 조달 논의 중임.\n이는 Nvidia의 AI 생태계 확장 및 투자 전략을 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-19 19:37",
-  "tag": "규제",
-  "title": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block — most licensed chips must stay in Hong Kong, which can't power them",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block",
-  "summary": "엔비디아 H200 칩이 중국에 첫 선적됐음.\n바이트댄스, 텐센트 등이 납품받음.\n하지만 대부분의 라이선스 칩은 홍콩에 보관해야 함.",
   "importance": 4
  }
 ]
