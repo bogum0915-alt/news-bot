@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-31 08:32",
+  "tag": "수주",
+  "title": "OpenAI Hoarding Tens Of Thousands Of Apple Mac mini And Mac Studio Devices, As ASUS And MSI Burn Through Their Entire First Batch Of NVIDIA RTX Spark Chip And Beg For More",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/openai-hoarding-tens-of-thousands-of-apple-mac-mini-and-mac-studio-devices-as-asus-and-msi-burn-through-their-entire-first-batch-of-nvidia-rtx-spark-chip-and-beg-for-more/",
+  "summary": "OpenAI가 수천 대의 Apple Mac mini 및 Mac Studio 장치를 대량 구매하고 있음.\nNVIDIA RTX Spark 칩은 출시 전부터 공급 부족 조짐을 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-30 07:23",
   "tag": "제품",
   "title": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far",
@@ -708,15 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
   "summary": "Nvidia가 중국 시장 복귀를 위해 신규 AI 칩을 출시할 계획을 세우고 있음.\n이는 중국 수출 규제 완화를 염두에 둔 전략으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-20 03:33",
-  "tag": "기타",
-  "title": "Nvidia Tries to Spur the AI Boom Into the Future",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5",
-  "summary": "Nvidia가 AI 붐을 미래로 이끌려 함.\nAI 칩 선도 기업으로서 향후 전략을 모색하는 중임.",
   "importance": 4
  }
 ]

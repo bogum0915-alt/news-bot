@@ -1,19 +1,4 @@
 {
-"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5": "2026-08-23T01:50:42.523012+00:00",
-"https://wccftech.com/amd-ryzen-7-5800x3d-am4-motherboard-performance-dram-crisis/": "2026-08-23T01:50:43.864153+00:00",
-"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5": "2026-08-23T08:40:58.462221+00:00",
-"https://wccftech.com/mvolt-pushes-rtx-5090-to-700w-without-shunt-modding-nearly-50-above-nvidias-rated-450w-tdp/": "2026-08-23T09:59:39.328317+00:00",
-"https://wccftech.com/mvolt-pushes-rtx-5090-to-700w-without-shunt-modding-nearly-21-above-nvidias-rated-575w-tdp/": "2026-08-23T10:33:16.614652+00:00",
-"https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash": "2026-08-23T13:36:07.292504+00:00",
-"https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers": "2026-08-23T13:36:09.582907+00:00",
-"https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5": "2026-08-23T16:36:47.855104+00:00",
-"https://wccftech.com/micron-says-ai-memory-wall-worsening-compute-outruns-hbm-bandwidth-by-3x-every-two-years/": "2026-08-23T17:49:09.868616+00:00",
-"https://wccftech.com/nvidia-becomes-a-buyer-of-last-resort-for-its-own-gpus-by-earmarking-7-billion-for-poolside-just-as-sam-altman-admits-he-was-wrong-on-the-ai-timeline/": "2026-08-23T18:09:11.113091+00:00",
-"https://wccftech.com/samsung-leverages-advanced-logic-processes-to-advance-hbm-works-on-3d-stacked-zhbm/": "2026-08-23T18:47:53.983686+00:00",
-"https://wccftech.com/sk-hynix-advanced-packaging-technologies-intel-emib-next-gen-hbm-memory/": "2026-08-23T20:43:58.077230+00:00",
-"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYktYR2NJZF95NWYwb0lWaDhiMHBVMGlkazE3dzZ1SHVjWXZWSTVXNzhmNXRXa1pmM1pFOXRUWTNmYjFzWmw4S2ZVdEZUd21nVU83QngwWUZBdzNXVmstSllXeURDcXdweDZFRXB4TWpEYzk5c3hBVzgwclVuM0prZWFQVTN6Y1NXY2dWSzMwOGtmdw?oc=5": "2026-08-23T22:12:11.615677+00:00",
-"https://wccftech.com/d-matrix-raptor-3d-dram-achieves-sram-class-bandwidth-at-1-10th-the-hbm-power/": "2026-08-23T22:12:12.619576+00:00",
-"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1FoeGxWWi1vYWUxU1dKa1lpYmZYQlFXRm53UjMzcWYyY1h1U3NSdG5ZcFlaWkNxb3JZdWx4bEUtS0loT2tqajd3X21HaUxMQTEwYnhKY3R1ZVdYNTFrVENwcWJhNExoMmkyUjQ3NU9lZG9NQmpiMkJoeG91YmZfR216MnlINEpwTE5vVGxtNGtCdlNDX1JPTURLRXQ1cU9iLXZjeE9Jd0ZiSjlCT1JJb3VJWlRPbHhSTHFmdE9HR2s2Zw?oc=5": "2026-08-24T00:26:53.943629+00:00",
 "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5": "2026-08-24T02:08:51.795724+00:00",
 "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5": "2026-08-24T03:15:46.799826+00:00",
 "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFhTZEFZTUhYaHB6bUtnVVg0Q2hMT19aV3MxMkJEX3IySC04dWlZaFlWYjJqdDJ0Y2s5RmZtTk9HNDluQ2tGT2cwRkpkYm5xQ2pmbDJBV1hRSkwtTE5zeDcxdEx3VThSV3cxcXM1RTAyUl9pcEw2OExWNm9oZkpwUWdvRXVCWUtNMkRDd2s2eXU3a3VMeDZua1UwYi1wbzljV2Zqd0tESlRjMzVjUUJVQnVfb2I1VUNHWWFWRTJtZWg?oc=5": "2026-08-24T04:10:34.346837+00:00",
@@ -210,5 +195,7 @@
 "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl9XV0ZOa3VDelZVWV9yY0RwXzNFZmRBc0FYSDk3d0pWbmFJMG5JTDZEUE1UY05WanRSdWUwV0FfdW0yb2N4dGV2cUR1NUtFaEhoY2dmR3NzNTVIcWYzN0k0Y2FsT2xWaW52MzlnVGQydEh3RzZZRHRUNkNsQkptV2ln?oc=5": "2026-08-29T03:54:05.795235+00:00",
 "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5": "2026-08-29T15:20:59.849286+00:00",
 "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/": "2026-08-29T18:42:21.427126+00:00",
-"https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/": "2026-08-29T23:26:13.474513+00:00"
+"https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/": "2026-08-29T23:26:13.474513+00:00",
+"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVFsaUhJX2RITjlRbkpILUlPdzJKQUV0LWFtaUFLSEU3R1pWcFdYMDBMZy1qc1lwamtuMDJ3V0FVUDNURmRDWE5SZUtwSWtKUHdLQkYxTGxDZTRxdkxtT09zOUVKM210Tnp4OU0wd2YxLTVuYnA4eThickJCbHF2MmNRN3ZVbHJtV2lvT1RVMnZ3MFVtNlE4cy1aSkNDNl9pdVM0QTdwSQ?oc=5": "2026-08-31T00:47:23.527988+00:00",
+"https://wccftech.com/openai-hoarding-tens-of-thousands-of-apple-mac-mini-and-mac-studio-devices-as-asus-and-msi-burn-through-their-entire-first-batch-of-nvidia-rtx-spark-chip-and-beg-for-more/": "2026-08-31T00:47:24.876514+00:00"
 }
