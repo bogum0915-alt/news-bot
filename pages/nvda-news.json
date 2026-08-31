@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-08-31 21:54",
+  "tag": "수주",
+  "title": "Nvidia invests $3.5 billion in MediaTek convertible bonds",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
+  "summary": "Nvidia가 MediaTek에 35억 달러 규모의 전환사채 투자했음.\n이는 AI 칩 시장에서의 경쟁 및 협력 구도에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-31 08:32",
   "tag": "수주",
   "title": "OpenAI Hoarding Tens Of Thousands Of Apple Mac mini And Mac Studio Devices, As ASUS And MSI Burn Through Their Entire First Batch Of NVIDIA RTX Spark Chip And Beg For More",
@@ -708,15 +717,6 @@
   "source": "Financial Times",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY?oc=5",
   "summary": "Nvidia는 AI 붐의 다음 단계를 주도할 것으로 예상됨.\nAI 칩 시장에서의 강력한 입지를 바탕으로 혜택을 볼 것으로 전망됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 01:58",
-  "tag": "제품",
-  "title": "Nvidia Plots China Comeback With New AI Chip",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
-  "summary": "Nvidia가 중국 시장 복귀를 위해 신규 AI 칩을 출시할 계획을 세우고 있음.\n이는 중국 수출 규제 완화를 염두에 둔 전략으로 보임.",
   "importance": 4
  }
 ]
