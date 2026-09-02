@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-03 00:38",
+  "tag": "규제",
+  "title": "US urges G20 countries to allow AI training on creators' work",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+  "summary": "미국이 G20 회원국에\nAI 훈련을 위해 창작물 사용을\n허용하도록 촉구했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-08-31 21:54",
   "tag": "수주",
   "title": "Nvidia invests $3.5 billion in MediaTek convertible bonds",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
   "summary": "Nvidia가 연말까지 중국향 AI 칩 선적 예정.\nThe Information 보도.\n이는 중국 시장 수요 충족 및 미국 수출 통제 우회 시도 가능성 시사.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 02:17",
-  "tag": "실적",
-  "title": "Nvidia looks well placed to benefit from the next stage of the AI boom",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY?oc=5",
-  "summary": "Nvidia는 AI 붐의 다음 단계를 주도할 것으로 예상됨.\nAI 칩 시장에서의 강력한 입지를 바탕으로 혜택을 볼 것으로 전망됨.",
   "importance": 4
  }
 ]
