@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-09-04 01:00",
+  "tag": "제품",
+  "title": "NVIDIA PAIR Turns Your Idle Home PCs Into A Local AI Cluster, Killing $1,200-Per-Month Cloud API Bills",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-pair-turns-your-idle-home-pcs-into-a-local-ai-cluster/",
+  "summary": "NVIDIA가 PAIR를 출시했음.\n집에 있는 PC들을 AI 클러스터로 활용 가능함.\n월 1,200달러 클라우드 API 비용 절감 기대.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-04 01:00",
+  "tag": "제품",
+  "title": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks — tool uses spare cycles to keep agent swarms from hammering one GPU",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+  "summary": "Nvidia가 개인 AI 라우터(PAIR) 유틸리티를 출시했음.\n이 유틸리티는 홈 네트워크의 모든 GPU를 클러스터로 묶음.\n에이전트 AI 작업에 활용하여 추론 속도를 높이고 프라이버시 강화가 가능함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-04 01:00",
+  "tag": "제품",
+  "title": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
+  "summary": "Nvidia RTX Spark N1X 칩이 10월 출시됨.\n노트북 및 데스크톱용으로 18~20개 CPU 코어와\n5,120~6,144개 CUDA 코어를 탑재했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-04 00:49",
+  "tag": "규제",
+  "title": "NVIDIA Insists Its $12.93 Billion Acquisition Of Hugging Face Will Escape Antitrust Scrutiny, Calling It A “Deconcentration Platform”",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-insists-its-12-93-billion-acquisition-of-hugging-face-will-escape-antitrust-scrutiny-calling-it-a-deconcentration-platform/",
+  "summary": "NVIDIA가 Hugging Face를 129.3억 달러에 인수했음.\nAI 칩 공급을 넘어 모델 배포 플랫폼까지 장악하려는 의도로 보임.\n인수를 통해 Hugging Face 호스팅 모델 추론 서비스 제공을 목표로 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-03 22:18",
   "tag": "기타",
   "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
@@ -681,42 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1o2TlhvUU5lSmlKU2xTYUdBTElPZ1czeHI4bi1pRG82enFqVUFyMUR4c1ZhWFRnNExBUk0tTnFnM3ppdEZna29MYjRGUW5pZm9WLTVhVjJubGNHamJrQXdFOVNyMWJXUndQSUNyNG5Ib0RpdENodGJyT1FaVWhLc3c0dEJRVXdaaEhwM1dQM0wtcnV4alJRUUZsc29TUFhocUtJakFDOWwxSV94eU5ZaU5vdWt1NE45?oc=5",
   "summary": "Nvidia가 전력 및 부지 확보를 통해\n자사의 AI 하드웨어 번들을 강화하고 있음.\n이를 통해 고객사의 이탈을 막고 강력한 생태계를 구축하려는 움직임임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-22 03:55",
-  "tag": "실적",
-  "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEFXQnpkUUNyMHptbUJnODZjcmJ1emU5RVNXWmlkZjF1cWROSjhGeWQ1OXd3UkpIZF93blNrV0RGQWRKWVI4R1RzbnhiWktaTXZMNjZUYWE1T19fV25McXhhN3FQZjkwSUdMTUlhSldvSzd0N29oMFFqZ1Q3djU0c05qSTQ5Rkk4TS1uU0dObndRRkFyMXlYSlYyVFlIdw?oc=5",
-  "summary": "AI 수혜주로 꼽히는 특정 기업이 신임 CFO를 임명했음.\nNvidia의 핵심 실적 발표가 임박했음을 알리는 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-22 01:42",
-  "tag": "제품",
-  "title": "NVIDIA Built Its AVO Coding Agent To Optimize CUDA GPU Kernels, And It Just Achieved A 100% Score On A Public Test Without Receiving Any Prior Instruction",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-built-its-avo-coding-agent-to-optimize-cuda-gpu-kernels-and-it-just-achieved-a-100-score-on-a-public-test-without-receiving-any-prior-instruction/",
-  "summary": "NVIDIA의 AVO 코딩 에이전트가\nARC-AGI-3 공개 테스트에서 100% 달성했음.\nClaude Opus 5 모델 기반이나, 자체 개발 래퍼로 성능 향상됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 23:58",
-  "tag": "실적",
-  "title": "Options Action: Nvidia reports earnings next week",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1I1VkUyWFVXNkxVZnBhUXNBTnIxc3JhSmZhSDEtMEgwOGJzbmxsSzdIU1hQbU5hc19Gc1E4SGRFSkhXdkxWN3dENDBqSGwtdFBEWVNuc0daeUZrUTVZckp1N2k4Zk5pUEl2VXB0N2RQZ0NLanhLcGpsNjBUUzJfTC00T0RQTjNIb3FXUXlQbnBZY2pmT3c?oc=5",
-  "summary": "Nvidia가 다음 주 실적 발표 예정임.\nAI 밸류체인 투자자는 이 발표에 주목해야 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 23:35",
-  "tag": "수주",
-  "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE?oc=5",
-  "summary": "Nvidia가 데이터센터 개발업체 Cloverleaf Infrastructure에 투자했음.\n이는 Nvidia의 데이터센터 사업 확장에 긍정적인 영향을 줄 것으로 보임.",
   "importance": 4
  }
 ]
