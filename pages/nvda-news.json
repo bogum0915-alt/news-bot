@@ -1,5 +1,59 @@
 [
  {
+  "ts": "2026-09-03 22:18",
+  "tag": "기타",
+  "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+  "summary": "Nvidia가 오픈 AI 모델에 대한 큰 투자로 Hugging Face를 130억 달러에 인수했음.\n이번 인수는 AI 밸류체인 판도에 큰 영향을 미칠 것으로 예상됨.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-09-03 22:01",
+  "tag": "기타",
+  "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수했음.\n이는 AI 밸류체인 판도에 큰 영향을 줄 수 있는 빅딜임.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-09-03 21:42",
+  "tag": "기타",
+  "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다고 확인했음.\nHugging Face는 3백만 개 이상의 모델을 호스팅하고\n1,800만 명 이상의 개발자가 사용하고 있다고 함.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-09-03 21:32",
+  "tag": "기타",
+  "title": "Nvidia to Buy Hugging Face for $12.9 Billion",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHVaSloyenVOS3dnYVR4R281LWVRdlNGY01mcVJPb3E0bFk4Y0xVYzFzRkNMS0RqdV9ielJPOFV4SEg5bjN4OVVYVEpmSm9kR1NXYnhrU0wySWxMOVFEUUE1SG5mTzhteGVVejNJUm9OaEZNY0pqNFhiZUZSYXVtWHFMOA?oc=5",
+  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다는 소식임.\nAI 밸류체인에서 AI 모델 개발 및 배포 분야의 주요 플레이어를 통합하는 대형 M&A임.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-09-03 21:28",
+  "tag": "기타",
+  "title": "Nvidia CEO Jensen Huang on Hugging Face deal: Open models matter greatly to our company",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVFtOVBKeWhDb0Q3UUZycm5id2ZBWWF0UEVyNXRDQ3JRVmRaVDFDWVVDNUd5R1FNb3MtUEpxdXdZcFpXRVFKbGxtbVJhOEdPNzZEYmZKNmlfUEFpY2tGZ0dkbGdTYnAwbmJjOU4yVXNkRS0ySER4SUdjQkg0dkJjbTRKRTNGaXJDQ2xiY3VrLWpDV3AzSHhCMGt0OHdBVDNhUWhEdjNaMWJIV3NzTjFEVHdyX09jZ1Y5TG1wRjgyVFV0dFJGWXdyb2VQV0tlam5Hak1iamxfRzk?oc=5",
+  "summary": "Nvidia CEO Jensen Huang이 Hugging Face와의 파트너십이\n자사에 매우 중요하다고 언급했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-03 21:15",
+  "tag": "기타",
+  "title": "Nvidia Agrees to Buy Hugging Face for $13 Billion",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5",
+  "summary": "Nvidia가 Hugging Face를 130억 달러에 인수 합의했음.\nAI 모델 공유 플랫폼인 Hugging Face는 Nvidia의 AI 생태계 강화에 기여할 것으로 보임.",
+  "importance": 5
+ },
+ {
   "ts": "2026-09-03 00:38",
   "tag": "규제",
   "title": "US urges G20 countries to allow AI training on creators' work",
@@ -663,60 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnVtUUVfYWJoSUhsRXpLZGNEdHM0eFBmU0hVZzZiVzlDdUZXWkV2X3k1bGppdnp5Zy1fcy1HYnBGc0pPXzZoRmpsZmtPTDRqSFd5anNGR1hnMDlOYjk2U1BZeU42UTh4RUxiaE1XSWRyZW9RTjUtWjYzVXM5N0ZYU0VXdXRSNmNmZnRpREUzdDE4U3l4VDBIa3JPdklOUjdvbFp3dGRZdlZnQjBwSEE?oc=5",
   "summary": "Nvidia가 데이터센터 개발업체 Cloverleaf Infrastructure에 투자했음.\n이는 Nvidia의 데이터센터 사업 확장에 긍정적인 영향을 줄 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 21:30",
-  "tag": "수주",
-  "title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDFTbmlITF9SbTZJcXNLUFhXbEJxVHZBSFlFSnJZbXJSczNUZ25COHQ4ejMzdGlycWJlX3M4UFVra2JQdlFhSm1FQmU4dy1BM1hNc3BfbmdNLTI1cG81RkxJX3RJMkhsbTBfVVlXODBCQTFQWG1mUXkyY0FZejBvY3ZwVFNibVFfLVBmUjVRTGp4NjMwaU9RdXpiVTBBZm1paWVVTFg4SmFuTkk5Yl9Rb1ZXQ3FVQ1dLY3hEN2hsbjBqNjhs?oc=5",
-  "summary": "Nvidia, 데이터센터 전력 개발 업체 Cloverleaf Infrastructure에 투자 논의 중임.\nCloverleaf는 Nvidia GPU 냉각 등에 필요한 전력 인프라 구축 협력 가능성 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 20:40",
-  "tag": "규제",
-  "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
-  "summary": "Nvidia H200 AI GPU가 중국에 일부 반입 허가됐음.\n하지만 미국 라이선스 물량의 대부분은 중국 본토 밖으로.\n중국 자체 칩이 시장을 장악하며 Nvidia에 늦었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 20:45",
-  "tag": "수주",
-  "title": "NVIDIA Reportedly Locks Multi-Year DRAM Deals With SK hynix and Micron as Memory Shortage Stretches to 2028",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-reportedly-locks-multi-year-dram-deals-with-sk-hynix-and-micron-as-memory-shortage-stretches-to-2028/",
-  "summary": "NVIDIA가 SK하이닉스, 마이크론과 멀티년 DRAM 계약 체결했음.\nAI 인프라 구축을 위한 메모리 확보 차원으로 보임.\n이는 최근 NVIDIA의 HBM 예상 사용량 하향 조정과 상반된 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 19:15",
-  "tag": "실적",
-  "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5",
-  "summary": "엔비디아 실적 발표와 잭슨홀 미팅이.\n주식 랠리의 주요 동력을 시험할 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 03:59",
-  "tag": "제품",
-  "title": "NVIDIA Is Plotting Its China Comeback Via A New LPU-Based Inference Chip, As SMIC Rides US Export Controls To A Virtual China Monopoly",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-is-plotting-its-china-comeback-via-a-new-lpu-based-inference-chip-as-smic-rides-us-export-controls-to-a-virtual-china-monopoly/",
-  "summary": "NVIDIA, 중국 시장 복귀 위해 LPU 기반 신규 칩 준비 중임.\n미국 수출 통제 속 중국 고객 위한 전략임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-21 02:34",
-  "tag": "제품",
-  "title": "Nvidia to ship AI chip for China by year-end, The Information reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-  "summary": "Nvidia가 연말까지 중국향 AI 칩 선적 예정.\nThe Information 보도.\n이는 중국 시장 수요 충족 및 미국 수출 통제 우회 시도 가능성 시사.",
   "importance": 4
  }
 ]
