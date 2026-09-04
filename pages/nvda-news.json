@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-05 01:02",
+  "tag": "수주",
+  "title": "NVIDIA Is Reportedly Giving Up On China As A Lost Cause Amid An Unassailable Lead From Huawei, As DeepSeek Snubs H20 GPUs For 160,000 Units Of Huawei’s Ascend 950DT Chips",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-is-reportedly-giving-up-on-china-as-a-lost-cause-amid-an-unassailable-lead-from-huawei-as-deepseek-snubs-h20-gpus-for-160000-units-of-huaweis-ascend-950dt-chips/",
+  "summary": "DeepSeek가 엔비디아 H20 GPU 대신\n화웨이 Ascend 950DT 칩 16만 개\n(약 2.56조원) 대규모 수주했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-04 17:08",
   "tag": "기타",
   "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5",
   "summary": "Nvidia가 AI 관련 제품 가격 인상을\n고객들에게 통보했다는 보도 나왔음.\n이는 AI 칩 수요 강세를 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-23 04:21",
-  "tag": "실적",
-  "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-  "summary": "Nvidia가 AI 관련 제품 가격을 15% 이상 인상할 예정.\n고객들에게 사전 통지했음.",
   "importance": 4
  }
 ]
