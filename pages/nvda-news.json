@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-04 17:08",
+  "tag": "기타",
+  "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
+  "summary": "Nvidia가 990억 달러에 달하는\n투자 규모로 전략적 기술 투자\n선두 주자로 부상했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-04 04:05",
   "tag": "수주",
   "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
   "summary": "Nvidia가 AI 관련 제품 가격을 15% 이상 인상할 예정.\n고객들에게 사전 통지했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-22 06:59",
-  "tag": "실적",
-  "title": "Bernstein's Rasgon: Nvidia's numbers should be good, looking for commentary on Rubin ramp",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcExBS1JobC0tMGFsOGQ5MDM1MjdUTzhQeDFOa2dQRXJKM19ia1NRMC1jRFNIeF9oVEtUUUl1Q2plZFpHVXk0a29HcTQyMllTY1ZUV196aEduQVdDR1UtYzUzUmxCUUQ3eXBXRHhEY21PNkZfV0FzcHJVY1pLX0VJTTU0bDI5T0REb2hReXlPWC1FMFRlUUk2LV84TXk0Y2hsQ0pBV1Ztd2dlNTFZeTRQT2ljd1FGck91bmVKM3hESlJTTERuV1lr?oc=5",
-  "summary": "Bernstein 분석가는 Nvidia의 실적이 좋을 것으로 예상함.\nRubin 램프 관련 코멘터리에 주목해야 한다고 언급했음.",
   "importance": 4
  }
 ]
