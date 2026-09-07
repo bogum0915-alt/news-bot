@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-07 19:00",
+  "tag": "실적",
+  "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5",
+  "summary": "Nvidia 파트너사의 CEO가 AI 컴퓨팅 수요가 \"결코 충족될 수 없을 것\"이라 발언했음.\n이는 AI 칩 수요의 지속적인 강세를 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-05 01:02",
   "tag": "수주",
   "title": "NVIDIA Is Reportedly Giving Up On China As A Lost Cause Amid An Unassailable Lead From Huawei, As DeepSeek Snubs H20 GPUs For 160,000 Units Of Huawei’s Ascend 950DT Chips",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
   "summary": "Nvidia가 중국 AI 대안으로 60억 달러 투자.\n미국 내 AI 인프라 구축에 집중할 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-23 05:26",
-  "tag": "실적",
-  "title": "Nvidia customers reportedly warned about AI-related price hikes",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5",
-  "summary": "Nvidia가 AI 관련 제품 가격 인상을\n고객들에게 통보했다는 보도 나왔음.\n이는 AI 칩 수요 강세를 시사함.",
   "importance": 4
  }
 ]
