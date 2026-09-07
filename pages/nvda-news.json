@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-07 23:53",
+  "tag": "제품",
+  "title": "OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s  Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/openais-1-billion-gpt-6-astra-heralds-the-age-of-agi-according-to-nvidias-jensen-huang-yet-anthropics-fable-5-1-still-beats-it-on-swe-bench-pro-and-coding-benchmarks/",
+  "summary": "OpenAI, GPT-6 Astra 모델 출시하며 10억 달러 투자 추정.\nNVIDIA CEO도 AI 시대 개막 언급했음.\n하지만 Anthropic의 Fable 5.1이 코딩 벤치마크에서 더 우수한 성능을 보였음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-07 19:00",
   "tag": "실적",
   "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
   "summary": "Nvidia, GB300 기반 DGX Station 출시.\n748GB 통합 메모리, 72코어 Grace CPU, Blackwell Ultra GPU 탑재.\n약 9만 5천 달러부터 시작하며, 최대 10만 8천 달러까지 구성 가능함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-23 09:00",
-  "tag": "수주",
-  "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-  "summary": "Nvidia가 중국 AI 대안으로 60억 달러 투자.\n미국 내 AI 인프라 구축에 집중할 것으로 보임.",
   "importance": 4
  }
 ]
