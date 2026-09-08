@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-08 13:38",
+  "tag": "규제",
+  "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
+  "summary": "미국 수출 통제에도 불구하고,\n블랙리스트에 오른 중국 기술 기업이\n미국의 최첨단 AI 칩을 계속 구매했음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-09-07 23:53",
   "tag": "제품",
   "title": "OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s  Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
   "summary": "Nvidia, 주요 고객사에 AI 서버 가격 15% 인상 통보했음.\nGrace Blackwell, Vera Rubin 시스템에 적용됨.\n내년 초 출하분부터 반영될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-23 22:00",
-  "tag": "제품",
-  "title": "Nvidia’s GB300-powered DGX Station desktop tower listed for nearly $100,000 online — Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
-  "summary": "Nvidia, GB300 기반 DGX Station 출시.\n748GB 통합 메모리, 72코어 Grace CPU, Blackwell Ultra GPU 탑재.\n약 9만 5천 달러부터 시작하며, 최대 10만 8천 달러까지 구성 가능함.",
   "importance": 4
  }
 ]
