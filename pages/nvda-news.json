@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-09-10 22:01",
+  "tag": "수주",
+  "title": "Nvidia Deepens Partnership With AI Chip Startup D-Matrix",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjdocnBtQzAwTnNGVmhBS2dEaDZYc3VjSFg2cHBMUHAxSTVRTHNUSUgzX2l6dVFRN1dob2dCZUhBT3lsNGw0SnUtSUhKbzRWVFJhRzhiNFVuNmZldXJ4clRCWkhOSG4yTl9rVzh5NUlzVFQtU1lBOFRCd0hPLVNxOTQxLVV5Vk8wQlpHU0Jab0dSRnI3aFJr?oc=5",
+  "summary": "Nvidia가 AI 칩 스타트업 D-Matrix와의\n파트너십을 강화했음.\n이는 Nvidia의 AI 칩 공급망 강화 및\n기술 협력 확대 가능성을 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-10 21:40",
+  "tag": "실적",
+  "title": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth — US export controls benefit homegrown chips as Nvidia and AMD exit market",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
+  "summary": "중국 AI 가속기 공급업체 Biren, 2026년 상반기 매출 2,000% 성장 기록했음.\n미국 수출 통제로 엔비디아·AMD 등 빠진 시장 영향으로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-10 17:00",
   "tag": "제품",
   "title": "NVIDIA DGX Spark “AI Supercomputer” Impressions – The Future of AI Computing In Tiny Boxes",
@@ -699,24 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9lc0VwTXhBMHF2bVFTWm1OR0hkcHVnU0U2VVRsN2FlVEFnZFZBMWJkSjdjNm1MUUR4cE55RHZ0R21PVDlTSk9rRlZnaVl4NUxnQS16YUlhdUVfcTBCbzNvU0tWaUdNU0U3SndtaUpWRGtLOEFJOU5XVzdfZmRnTUVOVi1XMWxQT0otTEpDTTM3cEl5QlMtaHYycFZNMzFPMUUwZFJadG9QalVLUFMteGRaNzhycVMzMF9kaw?oc=5",
   "summary": "Nvidia가 데이터센터 전력 업체에 투자했음.\nPerplexity AI와의 수십억 달러 규모 계약을 준비 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 10:00",
-  "tag": "실적",
-  "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5",
-  "summary": "WSJ는 월스트리트가 엔비디아의 AI 칩 수요에 크게 의존하고 있다고 보도했음.\n엔비디아 실적이 AI 시장 성장을 견인할 것이라는 기대감이 큼.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 02:55",
-  "tag": "수주",
-  "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-becomes-a-buyer-of-last-resort-for-its-own-gpus-by-earmarking-7-billion-for-poolside-just-as-sam-altman-admits-he-was-wrong-on-the-ai-timeline/",
-  "summary": "NVIDIA가 AI 스타트업 Poolside에 70억 달러를 투자하여 자체 GPU 구매자가 되었음.\n이는 AI 시장의 '버블' 시기에 NVIDIA가 리스크를 분산하려는 움직임을 보여줌.\nNemotron급 AI 모델 포트폴리오 구축을 지원하여 GPU 공급업체에서 자체 모델 개발 투자로 영역 확장함.",
   "importance": 4
  }
 ]
