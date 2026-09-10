@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-11 06:51",
+  "tag": "실적",
+  "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "summary": "Nvidia CEO Jensen Huang은 내년 70% 성장 전망을 확신함.\nNvidia는 다양한 분야에 참여하고 있으며, 향후 성장이 기대됨.\n그는 현재의 사업 관계가 순환적이지 않다고 강조했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-10 22:01",
   "tag": "수주",
   "title": "Nvidia Deepens Partnership With AI Chip Startup D-Matrix",
@@ -708,15 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxlN1FxWUZDcDVaclVEdkhXdmcyYmg0ZXRaTWNmQ20xRWNwaU9fNk1JaEZJWnhDZHdPNVA3emR6VGdrLXllaXp3Z0NzQ3JTQjdONm5sbjg3WE9JbHNVNmdWRThIcC1BWTZlMTM3cDljWXNQS3B0MzdJRmdKUTJsbXkwRk5la19JU1hDS1VMSW9rbXJHdmNOeXcyeENSWUU?oc=5",
   "summary": "Nvidia가 주력 AI 칩 가격을 17% 인상할 것으로 보임.\n이는 서버 제조사들의 언급을 통해 알려졌음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 15:03",
-  "tag": "수주",
-  "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOF9lc0VwTXhBMHF2bVFTWm1OR0hkcHVnU0U2VVRsN2FlVEFnZFZBMWJkSjdjNm1MUUR4cE55RHZ0R21PVDlTSk9rRlZnaVl4NUxnQS16YUlhdUVfcTBCbzNvU0tWaUdNU0U3SndtaUpWRGtLOEFJOU5XVzdfZmRnTUVOVi1XMWxQT0otTEpDTTM3cEl5QlMtaHYycFZNMzFPMUUwZFJadG9QalVLUFMteGRaNzhycVMzMF9kaw?oc=5",
-  "summary": "Nvidia가 데이터센터 전력 업체에 투자했음.\nPerplexity AI와의 수십억 달러 규모 계약을 준비 중임.",
   "importance": 4
  }
 ]
