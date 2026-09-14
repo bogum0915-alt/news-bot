@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-15 02:39",
+  "tag": "제품",
+  "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
+  "summary": "Nvidia가 RTX 5090 대신 AI 마진 극대화에 초점.\nRTX Pro 5500 Blackwell 워크스테이션 에디션 출시.\n생성형 AI 및 에이전트 AI 용도로 VRAM 2.6배 증가.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-11 06:51",
   "tag": "실적",
   "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3NzQktBcS1welhOOTlMaFhpbGJnSm9Tbm12VnhOSnExSTNoX3B4YWdBeFg3NG1Ld25TUjRsOEV0cUpRRkNJa0lXVm51bng4WU9LeEYzT0tucDlEdVJOUDdlV1ZmMWVoSWNKcDFiNEswdTFJdTFaLVB5QktOczVlVENoSUFSRmk5bVFCdzRnalpndzZqX01wNTBMUzJ0ZTA?oc=5",
   "summary": "Nvidia 실적이 AI 붐에 대한 월스트리트의 믿음을 시험할 것임.\nAI 칩 시장의 선두 주자인 Nvidia의 실적 발표는 투자자들에게 매우 중요한 지표가 될 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 15:06",
-  "tag": "실적",
-  "title": "Nvidia to Raise Flagship AI Chip Prices 17%, Server Makers Say",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxlN1FxWUZDcDVaclVEdkhXdmcyYmg0ZXRaTWNmQ20xRWNwaU9fNk1JaEZJWnhDZHdPNVA3emR6VGdrLXllaXp3Z0NzQ3JTQjdONm5sbjg3WE9JbHNVNmdWRThIcC1BWTZlMTM3cDljWXNQS3B0MzdJRmdKUTJsbXkwRk5la19JU1hDS1VMSW9rbXJHdmNOeXcyeENSWUU?oc=5",
-  "summary": "Nvidia가 주력 AI 칩 가격을 17% 인상할 것으로 보임.\n이는 서버 제조사들의 언급을 통해 알려졌음.",
   "importance": 4
  }
 ]
