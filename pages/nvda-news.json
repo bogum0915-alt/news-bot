@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-15 06:51",
+  "tag": "기타",
+  "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+  "summary": "Nvidia CEO 젠슨 황은 AI 개발 속도 둔화에 반대한다고 밝혔음.\n그는 일론 머스크, 샘 알트먼과 달리 AI 발전 지연을 원치 않는다고 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-15 02:39",
   "tag": "제품",
   "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3psWEdpcFVHOEIySlZnTml2c0tvelMzOE50Vm9BZVFBQldUUXlGZlNWTzZQb1VtWnBEQWladTdDRGxBM01uQ2NBckhqc1BNUUtnSFRGMzF3WUZ6M2R5RHZ1Q1pVMkpfMkxXTzR6LWQ1QmQzcXpEYWczQXdTeHpxOFdLRmI1cndmTHU2NURib2d2YWJWWFc3VFpiZzFEd0h1bkgyZnJlMmVSZ3lJNmNFN19ZR25ldw?oc=5",
   "summary": "Nvidia의 실적이 이번 주 시장 움직임에 핵심이 될 것이라는 전망임.\n투자자들은 Nvidia의 실적 발표를 주시할 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 19:00",
-  "tag": "실적",
-  "title": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3NzQktBcS1welhOOTlMaFhpbGJnSm9Tbm12VnhOSnExSTNoX3B4YWdBeFg3NG1Ld25TUjRsOEV0cUpRRkNJa0lXVm51bng4WU9LeEYzT0tucDlEdVJOUDdlV1ZmMWVoSWNKcDFiNEswdTFJdTFaLVB5QktOczVlVENoSUFSRmk5bVFCdzRnalpndzZqX01wNTBMUzJ0ZTA?oc=5",
-  "summary": "Nvidia 실적이 AI 붐에 대한 월스트리트의 믿음을 시험할 것임.\nAI 칩 시장의 선두 주자인 Nvidia의 실적 발표는 투자자들에게 매우 중요한 지표가 될 것임.",
   "importance": 4
  }
 ]
