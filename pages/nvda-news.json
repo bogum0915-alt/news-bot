@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-16 02:15",
+  "tag": "실적",
+  "title": "NVIDIA GeForce RTX 5090 Prices Blow Through the Roof, Now Starting at Over $6000 & Going Beyond $9000 While Chinese AI Firms Continue to Gobble Up Gaming Cards in Bulk",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-geforce-rtx-5090-prices-blow-through-the-roof-over-9000-usd/",
+  "summary": "NVIDIA RTX 5090 그래픽 카드 가격이 6,000달러 이상으로 급등했음.\n중국 AI 기업들이 높은 가격에도 불구하고 대량으로 게이밍 카드를 계속 구매하고 있음.\n이는 AI 학습 수요가 고성능 GPU 시장에 미치는 영향을 보여줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-15 08:30",
   "tag": "수주",
   "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
@@ -708,15 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUV9iR0ZlOXNzYm5zYmxqdHZQYU9KZmdoWWtnclZ0QXdyd1E3dnFNMDhyVEVLQ19kUlNCME5nWmtCMnVWaGJoSXM0azQwdWgyS0ZOTjIzQWR1RVhLZlFEUV9VMXFLaFdLNTRBVFBCbE93VDJYQlVpbWdJWFF5S2xPUEk3Y2pIS3luMkkyc05hMkdzaFgtT1l5ZG1xVDUzb091TGF6a3ZSZWNmcVNvUXNKZVNiZ2RtdHBhQTlV?oc=5",
   "summary": "Nvidia의 AI 칩 시장 지배력에 경쟁사들이 도전하고 있음.\nAMD, Intel 등 기존 경쟁사와 새로운 AI 칩 개발 스타트업들이 Nvidia를 추격 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 19:53",
-  "tag": "제품",
-  "title": "NVIDIA’s Vera Rubin & Blackwell GPU Server Prices Could Soar By As Much As 17% As Memory Prices Bite, Say Reports",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidias-vera-rubin-blackwell-gpu-server-prices-could-soar-by-as-much-as-17-as-memory-prices-bite-say-reports/",
-  "summary": "NVIDIA, 메모리 가격 상승으로\nBlackwell 및 Rubin GPU 서버\n가격 15% 이상 인상 전망.",
   "importance": 4
  }
 ]
