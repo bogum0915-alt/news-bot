@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-15 08:30",
+  "tag": "수주",
+  "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
+  "summary": "삼성전자가 GPU 대안 경쟁 심화 속에,\nAI 칩 스타트업에 2억 3천만 달러 투자 유치 지원했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-15 06:51",
   "tag": "기타",
   "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidias-vera-rubin-blackwell-gpu-server-prices-could-soar-by-as-much-as-17-as-memory-prices-bite-say-reports/",
   "summary": "NVIDIA, 메모리 가격 상승으로\nBlackwell 및 Rubin GPU 서버\n가격 15% 이상 인상 전망.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 19:36",
-  "tag": "실적",
-  "title": "Seema Shah: Nvidia earnings will be key to how the market moves this week",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3psWEdpcFVHOEIySlZnTml2c0tvelMzOE50Vm9BZVFBQldUUXlGZlNWTzZQb1VtWnBEQWladTdDRGxBM01uQ2NBckhqc1BNUUtnSFRGMzF3WUZ6M2R5RHZ1Q1pVMkpfMkxXTzR6LWQ1QmQzcXpEYWczQXdTeHpxOFdLRmI1cndmTHU2NURib2d2YWJWWFc3VFpiZzFEd0h1bkgyZnJlMmVSZ3lJNmNFN19ZR25ldw?oc=5",
-  "summary": "Nvidia의 실적이 이번 주 시장 움직임에 핵심이 될 것이라는 전망임.\n투자자들은 Nvidia의 실적 발표를 주시할 것임.",
   "importance": 4
  }
 ]
