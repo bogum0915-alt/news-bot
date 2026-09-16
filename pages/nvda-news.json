@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-16 08:35",
+  "tag": "기타",
+  "title": "Nvidia CEO Jensen Huang: Safety is an engineering problem",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZ2ZE9QSU1EelNQa3drTEs5azVvTWhsbVlJNlN5V0JpWmVWd29hdGV4LVYtdUhCa3NVemVXODFURC1IY1c5T0h4elFadXFoa3JxTW1nUkxUMlVQMkFUWVBzbEVpV1VDNnJ4YmhQZzVMaDVaMWFJQktVMi1TcGhEbURObUIyRHRDRFMzb1lOVnVBMklGN2l6d08tMGpGekQx?oc=5",
+  "summary": "Nvidia CEO Jensen Huang가 안전은 엔지니어링 문제라고 발언했음.\nAI 안전성에 대한 그의 관점을 제시했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-16 06:48",
   "tag": "기타",
   "title": "'Fast Money' traders react to Nvidia CEO Jensen Huang addressing AI safety",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/",
   "summary": "NVIDIA가 Groq 3 LPX AI 추론 가속기 칩을 양산 개시했음.\nVera Rubin 플랫폼에서 역대 최고 토큰 생성 속도를 기록했음.\n3,400 TPS를 달성하며 Agentic AI 분야 성능 향상을 기대케 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-24 23:23",
-  "tag": "실적",
-  "title": "Nvidia exploring price hikes for some of its largest customers: Report",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWF4NERUZ1dIaXVpeWV1Z29Nb0hiVEF3UEhNRXFkVEwxcFlfZ2hKSEhOVzU1Z2dsZ2c1ejhUMURBWlpSc1V0YmNHSnN3TmtPWk1FVllZbzBhdkRpS2RxaUh0dUg1RDFYX2t0VzEteXozWFNlT2tKZERfUTFIQ01nZGRIVlZ4MHM4d3BGaGVWVm51NEVDY1pVQWZBdFV1dkVFdl9iaWJyMWtHczRMWXM1a2N3?oc=5",
-  "summary": "Nvidia가 대형 고객 대상 일부 AI 칩 가격 인상 검토 중임.\n이는 AI 칩 수요 강세 및 생산 비용 증가 반영 가능성 시사함.",
   "importance": 4
  }
 ]
