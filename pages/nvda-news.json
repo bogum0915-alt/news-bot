@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-17 08:07",
+  "tag": "제품",
+  "title": "NVIDIA’s B200 GPUs Currently Command A Residual Value That Exceeds Their Original Launch Price By 58 Percent!",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidias-b200-gpus-currently-command-a-residual-value-that-exceeds-their-original-launch-price-by-58-percent/",
+  "summary": "NVIDIA B200 GPU 중고 가격이 출시가 대비 58% 상승했음.\n이는 LLM 시대 AI 슈퍼 사이클의 건재함을 보여줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-16 23:10",
   "tag": "제품",
   "title": "NVIDIA’s DSX MaxLPS Drives 40% More Token Throughput Per Megawatt, As Lambda’s Cluster Jumps To 5 Million Tokens Per Second",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
   "summary": "SK하이닉스가 HBM 775마이크론 두께 한계를 극복하기 위해\n하이브리드 본딩 기술을 개발 중임.\nNvidia Rubin향 MR-MUF 적용을 확대할 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 02:10",
-  "tag": "제품",
-  "title": "NVIDIA Vera Rubin Records A Massive 30x Increase In Throughput Per Watt Than Blackwell While Offering a 35x Token Cost Reduction Across Agentic AI Workloads",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-vera-rubin-30x-increase-in-throughput-per-watt-vs-blackwell-35x-token-cost-reduction-agentic-ai/",
-  "summary": "NVIDIA의 Vera Rubin 플랫폼은 Blackwell 대비\n와트당 처리량 30배, 토큰 비용 35배 절감.\nAgentic AI 워크로드에 특화된 성능을 보임.",
   "importance": 4
  }
 ]
