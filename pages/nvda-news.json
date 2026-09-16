@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-09-16 23:10",
+  "tag": "제품",
+  "title": "NVIDIA’s DSX MaxLPS Drives 40% More Token Throughput Per Megawatt, As Lambda’s Cluster Jumps To 5 Million Tokens Per Second",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-dsx-maxlps-drives-more-token-throughput-per-megawatt/",
+  "summary": "NVIDIA가 AI 연산 효율을 40% 높이는 DSX MaxLPS를 공개했음.\nLambda 클러스터는 초당 500만 토큰 처리가 가능해졌음.\nAI 수요 급증에 따른 전력 문제 해결에 기여할 것으로 보임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-16 22:40",
+  "tag": "제품",
+  "title": "Leaker Claims AMD And NVIDIA Delay Next-Gen GPUs To 2028, Except One RDNA 5-Based AT2 Chip Launching In 2027",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/amd-and-nvidia-are-rumoredly-skipping-2027-for-next-gen-gpus/",
+  "summary": "AMD와 NVIDIA의 차세대 GPU 출시가 2028년으로 연기될 수 있다는 루머가 나왔음.\n2027년에는 RDNA 5 기반 AT2 칩 1종만 출시될 것으로 예상됨.\n이는 AI 칩 시장 경쟁 구도에 영향을 줄 수 있는 제품 로드맵 변경 가능성을 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-16 22:25",
+  "tag": "수주",
+  "title": "Apple considers Nvidia tech for return to server market, The Information reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
+  "summary": "Apple이 서버 시장 복귀를 위해\nNvidia 기술 도입 검토 중인 것으로\n알려졌음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-16 22:00",
+  "tag": "기타",
+  "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+  "summary": "Apple이 서버 시장 복귀를 고려 중.\nNvidia와 네트워크 기술 사용 관련 논의를 했다고 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-16 08:35",
   "tag": "기타",
   "title": "Nvidia CEO Jensen Huang: Safety is an engineering problem",
@@ -681,42 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-vera-rubin-30x-increase-in-throughput-per-watt-vs-blackwell-35x-token-cost-reduction-agentic-ai/",
   "summary": "NVIDIA의 Vera Rubin 플랫폼은 Blackwell 대비\n와트당 처리량 30배, 토큰 비용 35배 절감.\nAgentic AI 워크로드에 특화된 성능을 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 00:09",
-  "tag": "규제",
-  "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-  "summary": "대만에서 엔비디아 B300 GPU 중국 불법 수출 관련 9명 기소됐음.\n세관 통제 회피 위한 5가지 전략도 공개됐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 00:06",
-  "tag": "수주",
-  "title": "Filling In the Gaps in Nvidia’s $500 Billion Financing Pitch",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTJMOFBfQmZ0ZDFKWDFHREtObG1heGpqUDRYb013Z1puVC1CS3kzcERZN0RSUXprOGtOR05XWG5wSzZsc3M5Y1czYVBjalBleGpySFR2VHk5NTl0d3RHQkJGdlpjSmhIbXl3Tll6Rk1kS095NklrZFVLcE1RN0s5VDNhQUZhVGItRE9HUHZkU1R4aU5iNW1JdW9RdlEta2d4OC1HN1JwUFJCbHBUbmlfQnowU1lLcDhvS3lSSEt2Yw?oc=5",
-  "summary": "Nvidia가 5000억 달러 투자 계획을 발표했음.\n이 계획은 AI 칩 생산을 위한 다양한 분야에 걸친 투자를 포함함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 00:05",
-  "tag": "수주",
-  "title": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/spacexai-to-use-nvidia-vera-cpu-vera-rubin-servers-agentic-ai-grok-starmind-ai-sattelite/",
-  "summary": "SpaceXAI가 차세대 에이전트 AI 워크로드 가속을 위해\nNVIDIA의 Vera CPU와 Vera Rubin 서버를 사용하기로 했음.\nGrok AI 및 Starmind AI 위성에도 적용될 예정임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 00:00",
-  "tag": "제품",
-  "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/",
-  "summary": "NVIDIA가 Groq 3 LPX AI 추론 가속기 칩을 양산 개시했음.\nVera Rubin 플랫폼에서 역대 최고 토큰 생성 속도를 기록했음.\n3,400 TPS를 달성하며 Agentic AI 분야 성능 향상을 기대케 함.",
   "importance": 4
  }
 ]
