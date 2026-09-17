@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-09-17 21:00",
+  "tag": "규제",
+  "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+  "summary": "미국 비영리단체 C4ADS 보고서에 따르면,\n트럼프 행정부의 수출 규제에도 불구하고\n수십억 달러 상당의 엔비디아 AI 칩이 중국으로 유통되고 있음.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-09-17 20:00",
+  "tag": "기타",
+  "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
+  "summary": "Apple이 자체 AI 서버에 Nvidia의 NVLink Fusion 도입 고려 중임.\n2029년 데이터센터 시장 공략 위한 협력 가능성 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-17 08:07",
   "tag": "제품",
   "title": "NVIDIA’s B200 GPUs Currently Command A Residual Value That Exceeds Their Original Launch Price By 58 Percent!",
@@ -699,24 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
   "summary": "Nvidia 실적 발표 후 주가 2800억 달러 변동 가능성.\n옵션 시장에서 이 정도 규모의 움직임이 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 05:40",
-  "tag": "실적",
-  "title": "Nvidia results 'so important' for gauging AI funding fears, expert says",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14eHNMbG1lSU9FQ3NyM1c1eVZyWUFMWnJBZVNpcFhEZC1nLWxMWGg1Vm1FT3BYZnZaM3FFTmJLcFExN3NHbmlacDZIdzl3QmdrTklaT0k3VUExM3R5eXpkb1YyM2tlREk?oc=5",
-  "summary": "Nvidia 실적이 AI 투자 자금 조달에 대한 우려를 가늠하는 중요한 지표가 될 것이라는 전문가 의견 나왔음.\nAI 칩 선두주자의 실적 발표는 밸류체인 전반의 투자 심리에 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 02:55",
-  "tag": "제품",
-  "title": "SK hynix pushes hybrid bonding HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
-  "summary": "SK하이닉스가 HBM 775마이크론 두께 한계를 극복하기 위해\n하이브리드 본딩 기술을 개발 중임.\nNvidia Rubin향 MR-MUF 적용을 확대할 예정임.",
   "importance": 4
  }
 ]
