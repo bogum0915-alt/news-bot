@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-19 06:51",
+  "tag": "제품",
+  "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+  "summary": "AMD가 EPYC 'Venice' CPU 벤치마크 공개했음.\n256코어 칩이 Nvidia Vera 대비 2배 이상 빠르다고 주장함.\n96코어 모델도 코어당 성능 20% 우세라고 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-17 21:00",
   "tag": "규제",
   "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5",
   "summary": "Nvidia가 AI 붐의 '은행가' 역할을 수행하며 위험한 상황에 놓였음.\nAI 칩 공급을 통해 막대한 이익을 얻는 동시에, 고객사에 대한 금융 지원 역할까지 확대되었음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 14:09",
-  "tag": "실적",
-  "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
-  "summary": "Nvidia 실적 발표 후 주가 2800억 달러 변동 가능성.\n옵션 시장에서 이 정도 규모의 움직임이 예상됨.",
   "importance": 4
  }
 ]
