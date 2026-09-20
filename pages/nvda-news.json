@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-21 01:01",
+  "tag": "제품",
+  "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcy0xc0p1OHNZUzlhM2ZoN0ZOeVY0SElmYTU5V1JDWVQ0NnNoUTM1bC1GblNKc09TZHIwd3FwbndKZEs1Vk02MTdtcmV6SGtyanlEeC1zN1hqU2ZlUlMwVWhnbWlwZ0NsQXFjZmtPZ0VDNmFDQTB0aU01RDA3QlpZcVBaSi1qRVdxbEdkUzdmMldMU0dPeXVodTFWeFRLZnY0ZVkyV3QxNUFMNVFxdlE?oc=5",
+  "summary": "엔비디아가 데이터센터 전력 병목 현상 해결에 주력하고 있음.\nAI 칩의 전력 효율 개선 및 데이터센터 인프라 최적화 방안 모색 중임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-20 19:55",
   "tag": "규제",
   "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
@@ -708,15 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dGaTZHRWtJTFZDTU16bXdIajItMUxnbXZMeGd2MnluZVEzM1VtOTdGaUV4TG1BSDV1RlNySVl2WmVWNWtHbTZiR2hzWC1vVnRpQmoza1JYeEp3ZV80WkE2V0Y0aWxGNnl3UEpEV1lIcVNqd3V1bzkzOGlVRzdwOHA0UHRXa3Nvb01pb2k1S0JJcGZWdGhNWWdFanRkNHNrUkdLQW01SlZtalE4ejNyWDF0SnBaQQ?oc=5",
   "summary": "인도 데이터센터 기업이 엔비디아의\n9,000개 시스템(Vera Rubin)을 주문했음.\nAI 인프라 투자가 확대되는 모습임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 18:41",
-  "tag": "실적",
-  "title": "Watch Why Investors Are Worried About Nvidia Earnings",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczd3YVJrTWZ2bDVINFJVdGtXLTBrWjRXUmdpbnE2d2NEVXpDaTlkN3NLUl9nM1dSUUloTGZKVV9tX2NQbUxKbHRrX2lNRWxhQzd2R2Q0dzNVTG8yajJfYzhUSi0zeVdCQVc0a0FTVFRjVk9oaUZEZUZEX0lRNHRqQUlpNDNRNmZPamlSTlpfU1FGYUFObmxnQmRZY0pldTNnZ05tOQ?oc=5",
-  "summary": "투자자들이 엔비디아 실적 발표를 우려하고 있음.\n엔비디아 실적 발표에 대한 투자자들의 우려가 커지고 있음.",
   "importance": 4
  }
 ]
