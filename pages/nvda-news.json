@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-20 19:55",
+  "tag": "규제",
+  "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
+  "summary": "엔비디아 CEO 젠슨 황은 2030년까지 AI가 세상을 파괴할 확률이 0%라고 주장했음.\n안전 장치로 AI의 위험을 통제할 수 있다고 했음.\nAI 발전 속도를 늦추지 말고 최대한 빠르게 나아가야 한다고 말했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-19 06:51",
   "tag": "제품",
   "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
@@ -708,15 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczd3YVJrTWZ2bDVINFJVdGtXLTBrWjRXUmdpbnE2d2NEVXpDaTlkN3NLUl9nM1dSUUloTGZKVV9tX2NQbUxKbHRrX2lNRWxhQzd2R2Q0dzNVTG8yajJfYzhUSi0zeVdCQVc0a0FTVFRjVk9oaUZEZUZEX0lRNHRqQUlpNDNRNmZPamlSTlpfU1FGYUFObmxnQmRZY0pldTNnZ05tOQ?oc=5",
   "summary": "투자자들이 엔비디아 실적 발표를 우려하고 있음.\n엔비디아 실적 발표에 대한 투자자들의 우려가 커지고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 18:30",
-  "tag": "기타",
-  "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5",
-  "summary": "Nvidia가 AI 붐의 '은행가' 역할을 수행하며 위험한 상황에 놓였음.\nAI 칩 공급을 통해 막대한 이익을 얻는 동시에, 고객사에 대한 금융 지원 역할까지 확대되었음.",
   "importance": 4
  }
 ]
