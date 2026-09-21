@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-09-22 00:42",
+  "tag": "실적",
+  "title": "AMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion",
+  "summary": "AMD가 시가총액 1조 달러 돌파했음.\nNvidia, Broadcom, SK하이닉스와 함께\n해당 클럽에 합류했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-21 23:30",
+  "tag": "제품",
+  "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — 15,488-chip Atlas clusters leverage optical networking to counter Nvidia, scales to 120 EFLOPS",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops",
+  "summary": "화웨이가 중국 내 AI 칩 수요 충족을 위해\n글로벌 출시 계획을 연기했음. 이는 내수 집중을 의미함.\n내부 15,488 칩 Atlas 클러스터는 광 네트워킹 활용.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-21 01:01",
   "tag": "제품",
   "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
@@ -699,24 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU91VUx2bDVfM1V1NDN3eGYtVk1kNzBLUEpUS2tkcW9ULXV2U0NqaVdEUG03aXc2SVd2Q3J4QXVtYWlnbFRpQWszb19mR3JqWTh3RHlKMVZfeTFwalZxLTJMRGhSbHJVeHdHUjlTOVBDcklqVXdLcDYxbXk4VW85VWZpZEhRdHNNTzJiemtnUHlESWx0LWJmbVFQaHVTVzBqbmZRUFRlS3hqN0hWRVkxTlVXWWJDdE1wTk02RUd4cmxKaUU?oc=5",
   "summary": "Nvidia, 루빈 데뷔 시점에 AI 자금 조달에 대한 조사 직면했음.\n성장 모멘텀을 유지할 수 있을지 시험대에 올랐음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 19:35",
-  "tag": "수주",
-  "title": "NVIDIA’s CoWoS AI Chip Packaging Demand To Be Foreshadowed In 2027 By AMD Due To Agentic AI CPU Ramp, Says Morgan Stanley",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidias-cowos-ai-chip-packaging-demand-to-be-foreshadowed-in-2027-by-amd-due-to-agentic-ai-cpu-ramp-says-morgan-stanley/",
-  "summary": "TSMC의 CoWoS 패키징 캐파 배분이 2027년에 AMD 쪽으로 늘고 NVIDIA는 줄어들 전망임.\nAMD의 CoWoS 수요는 2026년 53만 웨이퍼까지 급증할 것으로 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 18:42",
-  "tag": "수주",
-  "title": "India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dGaTZHRWtJTFZDTU16bXdIajItMUxnbXZMeGd2MnluZVEzM1VtOTdGaUV4TG1BSDV1RlNySVl2WmVWNWtHbTZiR2hzWC1vVnRpQmoza1JYeEp3ZV80WkE2V0Y0aWxGNnl3UEpEV1lIcVNqd3V1bzkzOGlVRzdwOHA0UHRXa3Nvb01pb2k1S0JJcGZWdGhNWWdFanRkNHNrUkdLQW01SlZtalE4ejNyWDF0SnBaQQ?oc=5",
-  "summary": "인도 데이터센터 기업이 엔비디아의\n9,000개 시스템(Vera Rubin)을 주문했음.\nAI 인프라 투자가 확대되는 모습임.",
   "importance": 4
  }
 ]
