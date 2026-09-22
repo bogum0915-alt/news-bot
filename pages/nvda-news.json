@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-23 01:00",
+  "tag": "제품",
+  "title": "Alibaba Brags That Its Next-Gen Zhenwu V900 AI Chip Offers More On-Package Memory Than NVIDIA H200, Outlines Plans To Deploy 20 GW Of Compute, And Teases 4-10 trillion parameters For Upcoming Qwen Models",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/alibaba-brags-that-its-next-gen-zhenwu-v900-ai-chip-offers-more-on-package-memory-than-nvidia-h200-outlines-plans-to-deploy-20-gw-of-compute-and-teases-4-10-trillion-parameters-for-upcoming-qwen-mod/",
+  "summary": "알리바바가 차세대 AI 칩 'Zhenwu V900' 발표했음.\nNVIDIA H200보다 많은 온패키지 메모리 탑재.\n20GW 규모 컴퓨팅 구축 및 4~10조 파라미터 Qwen 모델 계획 공개했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-22 15:01",
   "tag": "기타",
   "title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
   "summary": "Nvidia가 Hot Chips 2026에서 Vera CPU 정보를 공개했음.\n공간 멀티스레딩과 LPDDR5X 메모리 시스템의 장점을 강조했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 19:41",
-  "tag": "제품",
-  "title": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads — will use optimized Vera Rubin NVL72 in space with Starmind satellite",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-will-deploy-standalone-nvidia-vera-cpus-for-groks-agentic-workloads",
-  "summary": "SpaceXAI가 Nvidia Vera CPU를 Grok의 에이전트 워크로드에 도입함.\n최적화된 Vera Rubin NVL72 칩을 우주에서도 활용 예정임.\n해당 칩은 x86 대비 최대 1.8배 빠른 데이터 처리 성능을 주장함.",
   "importance": 4
  }
 ]
