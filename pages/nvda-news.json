@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-23 03:19",
+  "tag": "제품",
+  "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
+  "summary": "애플이 새로운 맥 제품으로\n마이크로소프트, 엔비디아와 경쟁하며\nAI 비용 절감에 나섰음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-23 01:00",
   "tag": "제품",
   "title": "Alibaba Brags That Its Next-Gen Zhenwu V900 AI Chip Offers More On-Package Memory Than NVIDIA H200, Outlines Plans To Deploy 20 GW Of Compute, And Teases 4-10 trillion parameters For Upcoming Qwen Models",
@@ -709,14 +718,5 @@
   "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
   "summary": "러시아 AI 드론이 엔비디아 Jetson Orin 모듈을 사용해,\n우크라이나 민간인 3명 사망시켰다고 함.\n완전 자율 표적 기능을 사용한 첫 사례임.",
   "importance": 5
- },
- {
-  "ts": "2026-08-25 20:53",
-  "tag": "제품",
-  "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
-  "summary": "Nvidia가 Hot Chips 2026에서 Vera CPU 정보를 공개했음.\n공간 멀티스레딩과 LPDDR5X 메모리 시스템의 장점을 강조했음.",
-  "importance": 4
  }
 ]
