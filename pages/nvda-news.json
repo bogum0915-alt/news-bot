@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-22 15:01",
+  "tag": "기타",
+  "title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTJzNzJmYzhBcG1WaGtLOEhFUzBuRUZKQjd4N042Mkw0SFVBRDI4bmZXT1JDeHNSMjZic0NTejVLSUtrRVBlRXZKbVJEc1R4Mkhyak0wLWp2a0VWSmZncFM5V2NCTnZkQmZTSnJtbFFCRFhuRFF1c2NnMjNPQTBiU0F3?oc=5",
+  "summary": "AI 개발 속도 조절을 주장하는 Dario와\n전속력 질주를 원하는 Jensen의 의견 대립.\nAI 칩 경쟁 및 기술 개발 방향성에 영향 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-22 00:42",
   "tag": "실적",
   "title": "AMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-will-deploy-standalone-nvidia-vera-cpus-for-groks-agentic-workloads",
   "summary": "SpaceXAI가 Nvidia Vera CPU를 Grok의 에이전트 워크로드에 도입함.\n최적화된 Vera Rubin NVL72 칩을 우주에서도 활용 예정임.\n해당 칩은 x86 대비 최대 1.8배 빠른 데이터 처리 성능을 주장함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-25 19:27",
-  "tag": "실적",
-  "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU91VUx2bDVfM1V1NDN3eGYtVk1kNzBLUEpUS2tkcW9ULXV2U0NqaVdEUG03aXc2SVd2Q3J4QXVtYWlnbFRpQWszb19mR3JqWTh3RHlKMVZfeTFwalZxLTJMRGhSbHJVeHdHUjlTOVBDcklqVXdLcDYxbXk4VW85VWZpZEhRdHNNTzJiemtnUHlESWx0LWJmbVFQaHVTVzBqbmZRUFRlS3hqN0hWRVkxTlVXWWJDdE1wTk02RUd4cmxKaUU?oc=5",
-  "summary": "Nvidia, 루빈 데뷔 시점에 AI 자금 조달에 대한 조사 직면했음.\n성장 모멘텀을 유지할 수 있을지 시험대에 올랐음.",
   "importance": 4
  }
 ]
