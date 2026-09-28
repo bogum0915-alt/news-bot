@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-09-28 23:58",
+  "tag": "실적",
+  "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iclhOaUhUeDFGRDNBZWJzNWFOWUVtaVBwck91TFE4Um5rUDJ5Z1RsRXJSN2VWTUR3X2lmV0x5cDRqZEM5aDRwLVp5OWpzOHNtV2phY2hVNTF5NWo5M0JpYW1rcEhqTHFSTmZqZl9KSTdNZkt0QWhrZQ?oc=5",
+  "summary": "Nvidia가 역대 최대 규모인 1,500억 달러 규모의 자사주 매입 계획을 발표했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-09-28 23:54",
+  "tag": "실적",
+  "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
+  "summary": "Nvidia가 AI 붐으로 인한 성장세를 바탕으로\n역대 최대 규모인 1,500억 달러 자사주 매입을 발표했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-25 23:46",
   "tag": "수주",
   "title": "Elon Musk Goes All In To Bring A Whopping 1.2 Million NVIDIA’s Latest GPUs Online In His Mega Data Center To Take On OpenAI",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/openais-first-gen-jalapeno-asic-blows-competition-out-of-the-park-performs-1-5x-to-1-9x-more-work-per-kilowatt-than-nvidias-blackwell-chips-while-threatening-the-cuda-moat/",
   "summary": "OpenAI가 자체 개발한 Jalapeno ASIC 칩은\nNVIDIA Blackwell 칩 대비 전력 효율이 1.5~1.9배 높음.\n자체 개발한 Gluon 커널 언어로 NVIDIA CUDA 생태계를 위협할 가능성 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 00:49",
-  "tag": "실적",
-  "title": "BMO's Kristin Milchanowski on Nvidia earnings and the AI trade",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejN4VGdaUkRQcjFVZ3BMVXRqb1p6OEg4NnlPUDcxS29jNS1GZjZ6ZC1jUUNzSGlFMlVKRVRrcVpWclZnX1hoMlR2WmhmQ0NxQXA3M2RBWHJVZjZ2NkhscldmUjZfSE16M041UGVPM2ROR0NOeEgtal9fWnhMbzVLWXFMam9OVlFJaVlQZlYzdm9BdlJWczBZSFpZXzFQOExNS3JwOFJ0TQ?oc=5",
-  "summary": "BMO의 Kristin Milchanowski가 엔비디아 실적과 AI 투자 동향을 분석했음.\nAI 투자 흐름이 엔비디아 실적에 미치는 영향을 설명했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 00:30",
-  "tag": "제품",
-  "title": "NVIDIA Launches DLSS 4.5 Ray Reconstruction: Coming To 007 First Light, Control Resonant, & Now Supported In RTX Remix",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-dlss-4-5-ray-reconstruction-launch-coming-to-007-first-light-control-resonant-rtx-remix/",
-  "summary": "NVIDIA가 DLSS 4.5 레이 리컨스트럭션 기술을 공식 출시했음.\n2세대 트랜스포머 모델 기반으로 시각 품질을 개선했음.\n007 퍼스트 라이트, 컨트롤 레조넌트 등 게임과 RTX Remix에서 지원될 예정임.",
   "importance": 4
  }
 ]
