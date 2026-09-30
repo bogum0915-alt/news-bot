@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-09-30 22:36",
+  "tag": "제품",
+  "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSVnEtX2xUV3VfaDRUanAyY2Y0Q2o1WEZRM2hTVEFIRDg0SGIxYUtGR1lNbkpRaFgwS0NHSGdvOXNfaUpkMmxCTDZ0dEhuaWRjZkwxejNjTkU4LW9tMlpEUl9rUFF3MmFYZnRJY244UkFzNkZzZmtVcDZpY0JEQQ?oc=5",
+  "summary": "DeepSeek와 화웨이가 엔비디아 AI 칩 지배력에 도전하고 있음.\n이들 기업은 엔비디아의 핵심 경쟁 우위인 AI 칩 기술 및 공급망에 영향을 줄 것으로 예상됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-28 23:58",
   "tag": "실적",
   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
   "summary": "OpenAI가 자체 개발한 'Jalapeño' ASIC 칩 공개.\nNvidia 플래그십 GPU 대비 전력 효율성과 지연 시간 측면에서 우수하다고 주장함.\nBroadcom과 협력하여 개발했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 02:04",
-  "tag": "제품",
-  "title": "OpenAI’s First-Gen Jalapeno ASIC Blows Competition Out Of The Park, Performs 1.5x to 1.9x More Work Per Kilowatt Than NVIDIA’s Blackwell Chips, While Threatening The CUDA Moat",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/openais-first-gen-jalapeno-asic-blows-competition-out-of-the-park-performs-1-5x-to-1-9x-more-work-per-kilowatt-than-nvidias-blackwell-chips-while-threatening-the-cuda-moat/",
-  "summary": "OpenAI가 자체 개발한 Jalapeno ASIC 칩은\nNVIDIA Blackwell 칩 대비 전력 효율이 1.5~1.9배 높음.\n자체 개발한 Gluon 커널 언어로 NVIDIA CUDA 생태계를 위협할 가능성 있음.",
   "importance": 4
  }
 ]
