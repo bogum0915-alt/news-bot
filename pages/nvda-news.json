@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-02 00:59",
+  "tag": "실적",
+  "title": "Focus: Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5",
+  "summary": "Nvidia의 AI 붐 자금 조달 칩 베팅에 대한 월스트리트 현실 점검.\nAI 칩 수요가 급증하는 가운데, Nvidia의 공격적인 투자 전략과 시장 기대치 사이의 간극을 다루고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-09-30 22:36",
   "tag": "제품",
   "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
@@ -708,15 +717,6 @@
   "source": "Bloomberg",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVlfM3VCeGZpSzZLLUdLS1VhQ3JpQ1RfME9SSzV1NEYzSFQ1dzVaSEJDTEdneGRIVDhHQ1NMeFc2OUlkY20tSHVvVUpwd3E3UHlsWndXelZIQ1lXQ00zLWVlMWFfZUhaSDRBejdmODBnTWZoNTdqM3U0SHBvWmhWUEVUa1BrTWY0YXBvT0tmYnYyd0hYdkpOMy1mcmxyYXIyeWk0QVJfZ3AwWUhzSXBEZjZjNA?oc=5",
   "summary": "Nvidia 투자자들은 실적 발표뿐만 아니라\n향후 로드맵에 대한 정보도 기대하고 있음.\nAI 칩 시장의 미래 성장성을 확인하길 원함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 03:05",
-  "tag": "제품",
-  "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
-  "summary": "OpenAI가 자체 개발한 'Jalapeño' ASIC 칩 공개.\nNvidia 플래그십 GPU 대비 전력 효율성과 지연 시간 측면에서 우수하다고 주장함.\nBroadcom과 협력하여 개발했음.",
   "importance": 4
  }
 ]
