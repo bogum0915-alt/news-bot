@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-06 01:46",
+  "tag": "제품",
+  "title": "The 552B DeepSeek V4.1-Flash Model Offers A Peak Output Of 494 Tokens/Second When Powered By An At-Home Rig Spanning 4x NVIDIA DGX Spark Units",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/the-552b-deepseek-v4-1-flash-model-offers-a-peak-output-of-494-tokens-second-when-powered-by-an-at-home-rig-spanning-4x-nvidia-dgx-spark-units/",
+  "summary": "DeepSeek V4.1-Flash 모델이 NVIDIA DGX Spark 4개로\n494 토큰/초 처리량 달성했음.\n온프레미스 환경에서 높은 추론 성능 가능함을 보여줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-02 22:00",
   "tag": "제품",
   "title": "NVIDIA’s 64 GB DGX Spark “AI Supercomputer” Launches This Month For $4999, While The 128 GB Spark Jumps Past $6000",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV0VLUFZWY1hxODZ1TkNLQkV4RDk3eDdDSExJaS1EYXNPMy1sR1JzNlY3SkFIS2xNRk1rQ2V3T05YdnltTUNKeHhCalJ6VGhmTURYakJxX2FJZjNJRWdWZlFjTHVrLVhLOUh4R0xLUTV3Q0x2cTRzdm16S0dPX0RxX1ZHVXA3TG5IeHVMU1BJb0hxdzFoV0F6eDNzZEFUTW9pZGNhZ0pCUDI3eHp0VnJjTkoyeENpWHQxODdFM2NIT1lRWFVGSEZWTWNFVE92b2FnYnZ5SXp6OA?oc=5",
   "summary": "Jim Cramer가 엔비디아가 경제 전반에 미치는 영향력을 언급했음.\n이전에는 이런 회사가 없었다고 평가했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 07:55",
-  "tag": "기타",
-  "title": "Cramer says Nvidia has become 'all-important' to the AI trade. Here's what to watch beyond the numbers",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iY2luWmgzY0d3bldwd1dTZEVyNFE0S3BocnFRT1BYeFYyNVY4QTVCdXpxUHNxWEp6czRvM2VGWGRGQ0tycURqZ3MyYmR4U1hMVFFBdDdRMzVxU3hDQ3phSFhnWFZTTDM3aGZ1V0NnZlR0VklwWnJHUjFRWXIxZw?oc=5",
-  "summary": "Nvidia가 AI 트레이드에 절대적으로 중요해졌다고 Cramer가 언급했음.\n숫자 너머의 AI 관련 지표를 주목해야 한다고 함.",
   "importance": 4
  }
 ]
