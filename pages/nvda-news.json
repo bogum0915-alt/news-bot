@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-07 22:00",
+  "tag": "기타",
+  "title": "Where Nvidia’s $100 Billion Dealmaking Juggernaut Will Go Next",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXpJWmRiREpOWHpYYnJmeWhROGV2T0lrbXQyOHBGT19EWGlTWFN0bGY0LXBOanBPeXpqSzRzdFpXNElfNG9XWGtSX3kyQ05pUjc3c00wUnlITXc0bmxkR09LN0VLTER6Vk1LdkNkeGhCV3ZTblZ0bWhFbzR6OS0zNTRscF8zdEh4b3hveG1nR2lCcXVGVS0wS0ln?oc=5",
+  "summary": "Nvidia의 1000억 달러 규모 인수합병 계획이 공개됨.\n이 계획은 AI 칩, 데이터센터, 소프트웨어 등 다양한 분야를 아우를 것임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-07 21:00",
+  "tag": "기타",
+  "title": "Former Google, Nvidia Execs Launch Company to Ease GPU Crunch",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdCUGk0TnAyQVhEWDdxVElBN0d0YlR1RXZ5S2tQbUpoLVZ6WEhyQ21sOXF2WjRxckthZmo2a2JpMm9lVE9hb0JFQ0Q3SnkwMEZvQ1hySEpQeTNZNW1MWHRGT0R1STNsM0l5OXJLQnpfeV84TVlBZjdKTDU2QThZQ19sR0pxZVRUMUVUVTRJU3oxdkhVZWdKLVBfeHREQzg?oc=5",
+  "summary": "구글/엔비디아 전직 임원들이 GPU 공급 부족 완화를 위한 신생 기업 설립했음.\nAI 칩 공급망 병목 현상 해소에 기여할 수 있을 것으로 기대됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-06 01:46",
   "tag": "제품",
   "title": "The 552B DeepSeek V4.1-Flash Model Offers A Peak Output Of 494 Tokens/Second When Powered By An At-Home Rig Spanning 4x NVIDIA DGX Spark Units",
@@ -699,24 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcjdaVENYV0p6T1RiWFZsMVYzUHNGdmhJN19PMmhZdFRxVWtJQjJCUGh3SWVVZWRlQnBYSXdtNV83dVR6RjJoQlRSY3FmWms4dmNuR1YyQ1dWZ0llT1pJaHFYa1FKUXFxZ1pZ0gFwQVVfeXFMTmc4dkpMekV6eXBnNUw4N2FyVzRrakd5aTZ6bjlybnBtZXJMQkJDLTdsemJ1a25PMGJOSWdrMlpUekwxQzQyMUlBMWtseDVSMEUwTDNCQUI1X1lJUEx2M2ZxalU3XzlhRmVzOHRhSnE2TQ?oc=5",
   "summary": "Nvidia가 AI 산업 전반을 주도하고 있음을 강조함.\nAI 밸류체인의 핵심 역할을 하며 시장 영향력이 큼.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 14:03",
-  "tag": "기타",
-  "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMnY5MmlpU1NuQkRfenlXQkRCZVJpbWlUTFFFSWRmeFdRRVBYSk1kNmlxV2pUUzBELXFBNW41RUxMMmUzTUY2Q3Z2SmJGNWtKM3U4VUZfMEhWM0JGa1VYbG5HUFZlUnJXanpzWFdfWVI?oc=5",
-  "summary": "Nvidia가 '밸런스시트-서비스' 모델을 통해.\nAI 인프라 구축 위한 금융 솔루션 제공. \n거대 자본 조달 및 유동성 지원 가능성 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 08:11",
-  "tag": "기타",
-  "title": "Before Nvidia, there's never been a company with as much involvement in our economy, says Jim Cramer",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV0VLUFZWY1hxODZ1TkNLQkV4RDk3eDdDSExJaS1EYXNPMy1sR1JzNlY3SkFIS2xNRk1rQ2V3T05YdnltTUNKeHhCalJ6VGhmTURYakJxX2FJZjNJRWdWZlFjTHVrLVhLOUh4R0xLUTV3Q0x2cTRzdm16S0dPX0RxX1ZHVXA3TG5IeHVMU1BJb0hxdzFoV0F6eDNzZEFUTW9pZGNhZ0pCUDI3eHp0VnJjTkoyeENpWHQxODdFM2NIT1lRWFVGSEZWTWNFVE92b2FnYnZ5SXp6OA?oc=5",
-  "summary": "Jim Cramer가 엔비디아가 경제 전반에 미치는 영향력을 언급했음.\n이전에는 이런 회사가 없었다고 평가했음.",
   "importance": 4
  }
 ]
