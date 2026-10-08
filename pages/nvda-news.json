@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-08 20:00",
+  "tag": "수주",
+  "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
+  "summary": "SpaceX가 Nvidia AI 칩 구매를 위해\n400억 달러 규모의 부채 조달을 추진 중임.\n이는 36만 개의 Nvidia Rubin AI 가속기 확보 목적임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-08 12:19",
   "tag": "실적",
   "title": "Breakingviews - COMMENTARY: Samsung's AI riches lag Nvidia's money machine",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3lRdE45LTVBdkMzMUp4WTUyd1NQWjV5bHlvN0J0QmwzS1kzN1FOMzVmWHVrYjdoQVplMDQ2Rkk2azdBS0M1LW9mTlJnZndVNXpvd09hYmF4RFVER1hvOFJKeGNWeGEyeU40bVNna3ZrNVE3Ym9seF9RWUU4WnJZUnpkYWNEemg5RHhUV1l2cG9ZOGRuVE9ucWloZmZORlNZbGR1b0pndw?oc=5",
   "summary": "Nvidia의 현재 시장 지배력은 영원하지 않을 것이라는 CNBC 보도 나왔음.\nAI 칩 시장의 경쟁 심화 가능성 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 19:11",
-  "tag": "실적",
-  "title": "The $1.5 Trillion Question Nvidia’s Earnings Can’t Answer",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWNncXNZWG9FUXNNN2VJWmVNeno1eG5tYmZCQ3VmZElBZWFKU2JPRTlCVWRBUUtZaGFxeUZYX1QtUndBalAyWFdMeEhLU19oLVVkVTMtRW1XM0xhV3BESDVFeWxGM3RreEJVMzVmWmlJZllUalpzWmJ5MFlQMW1GNTF3cjhJLWhDMm5oMXhBTEFxd2dLeEE?oc=5",
-  "summary": "엔비디아 실적이 1.5조 달러 질문에 답할 수 없음.",
   "importance": 4
  }
 ]
