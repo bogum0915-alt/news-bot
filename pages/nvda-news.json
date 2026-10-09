@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-10 06:25",
+  "tag": "제품",
+  "title": "NVIDIA’s Vera CPU Brings 2,000 Sandboxes Online Faster Than AMD’s EPYC “Zen 5” Can Boot Just 1,000 In Agentic AI",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-vera-cpu-brings-2000-sandboxes-online-faster-than-amd-epyc-zen-5-agentic-ai/",
+  "summary": "NVIDIA Vera CPU, Agentic AI 워크로드에서\nAMD EPYC Zen 5 대비 월등한 성능 입증.\n2,000개 샌드박스 온라인, EPYC의 2배 속도.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-09 18:30",
   "tag": "실적",
   "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3YzanBTQVFLZGhLRThKbDhBNHdaZGtiTjI3dkU5VS1pNVlrbXpXM1NIZDMyTFN1Vm9BdzhlR2xFd09FS0pxSzhRdzV5VEN0V3JxMkZUS3JtQzdJNnA4cV8tWkVTOWRRYVhSLVZtTnl2WS1GUjN1eXNvZDlqbWVwVFBHTG1wMUV1bWtycENiRjVDcHgyR1E5aHJ5bw?oc=5",
   "summary": "Nvidia의 2분기 실적 발표가 오늘 예정됨.\n투자자들은 이에 대한 전망을 주시하고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 20:10",
-  "tag": "실적",
-  "title": "Nvidia set to report Q2 earnings: BofA's Vivek Arya on what to expect",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkMwWmhrLWl2dVFNemV2V0ZqMl90NzdIaTB1VU9xZXhIaU9qZXpIOTVGd3cwVVRrWVgxZVBxTmRUekIzaGhTTmhKVUVJVGYxOXpWRmwtRFNvSm1TQ2FiRFlJajVTcXRjc3J3c0lsQ09GdXFIOFR6SjNqNEtfY0VWRGdnZ09PdUl2Wnc2X3F0dUxQN3J1eGd2a3J4ZDB1NnZvdFVuQjdraW5GeFJLRmk0?oc=5",
-  "summary": "Nvidia 2분기 실적 발표 예정.\nBofA 애널리스트 Vivek Arya가 전망.\n주요 예상치 및 투자 포인트 제시할 것으로 보임.",
   "importance": 4
  }
 ]
