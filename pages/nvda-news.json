@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-09 18:30",
+  "tag": "실적",
+  "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
+  "summary": "Nvidia가 현금 흐름 계산 방식을 변경했음.\n이는 자사주 매입 여력에 큰 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-08 20:00",
   "tag": "수주",
   "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkMwWmhrLWl2dVFNemV2V0ZqMl90NzdIaTB1VU9xZXhIaU9qZXpIOTVGd3cwVVRrWVgxZVBxTmRUekIzaGhTTmhKVUVJVGYxOXpWRmwtRFNvSm1TQ2FiRFlJajVTcXRjc3J3c0lsQ09GdXFIOFR6SjNqNEtfY0VWRGdnZ09PdUl2Wnc2X3F0dUxQN3J1eGd2a3J4ZDB1NnZvdFVuQjdraW5GeFJLRmk0?oc=5",
   "summary": "Nvidia 2분기 실적 발표 예정.\nBofA 애널리스트 Vivek Arya가 전망.\n주요 예상치 및 투자 포인트 제시할 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 19:20",
-  "tag": "기타",
-  "title": "Bluebox: Nvidia's current market position will not last forever",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3lRdE45LTVBdkMzMUp4WTUyd1NQWjV5bHlvN0J0QmwzS1kzN1FOMzVmWHVrYjdoQVplMDQ2Rkk2azdBS0M1LW9mTlJnZndVNXpvd09hYmF4RFVER1hvOFJKeGNWeGEyeU40bVNna3ZrNVE3Ym9seF9RWUU4WnJZUnpkYWNEemg5RHhUV1l2cG9ZOGRuVE9ucWloZmZORlNZbGR1b0pndw?oc=5",
-  "summary": "Nvidia의 현재 시장 지배력은 영원하지 않을 것이라는 CNBC 보도 나왔음.\nAI 칩 시장의 경쟁 심화 가능성 시사함.",
   "importance": 4
  }
 ]
