@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-10 08:18",
+  "tag": "규제",
+  "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
+  "summary": "AI 서버를 중국으로 불법 유출한 혐의로 Super Micro 협력업체 관계자가 유죄 인정했음.\n이들은 Nvidia 칩이 탑재된 AI 서버를 빼돌려 중국으로 보낸 것으로 알려짐.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-10 06:25",
   "tag": "제품",
   "title": "NVIDIA’s Vera CPU Brings 2,000 Sandboxes Online Faster Than AMD’s EPYC “Zen 5” Can Boot Just 1,000 In Agentic AI",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/data-centers/hot-chips-2026-nvidia-touts-benefits-of-its-dsx-maxlps-site-power-management-approach-tech-allows-for-more-compute-from-fixed-data-center-power-budgets",
   "summary": "Nvidia, Rubin GPU 발표에서 데이터센터 전력 예산 내.\n더 많은 컴퓨팅 성능 제공하는 DSX MaxLPS 기술 강조함.\n100MW 전력 예산으로 Vera Rubin NVL72 시스템.\n더 많은 연산 능력 제공 가능성 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-26 22:12",
-  "tag": "실적",
-  "title": "Nvidia reports Q2 results today: Here's what to expect",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3YzanBTQVFLZGhLRThKbDhBNHdaZGtiTjI3dkU5VS1pNVlrbXpXM1NIZDMyTFN1Vm9BdzhlR2xFd09FS0pxSzhRdzV5VEN0V3JxMkZUS3JtQzdJNnA4cV8tWkVTOWRRYVhSLVZtTnl2WS1GUjN1eXNvZDlqbWVwVFBHTG1wMUV1bWtycENiRjVDcHgyR1E5aHJ5bw?oc=5",
-  "summary": "Nvidia의 2분기 실적 발표가 오늘 예정됨.\n투자자들은 이에 대한 전망을 주시하고 있음.",
   "importance": 4
  }
 ]
