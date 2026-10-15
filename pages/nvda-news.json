@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-16 00:29",
+  "tag": "수주",
+  "title": "KeyBanc Says Intel Has Won Contracts From Broadcom, Google, Apple, AMD, Microsoft, And NVIDIA, While Amazon, Anthropic, And SpaceX’s Terafab Continue To Evaluate Its 14A And 18A-P Processes",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/keybanc-says-intel-has-won-contracts-from-broadcom-google-apple-amd-microsoft-and-nvidia-while-amazon-anthropic-and-spacexs-terafab-continue-to-evaluate-its-14a-and-18a-p-processes/",
+  "summary": "KeyBanc, 인텔 파운드리 사업 긍정적 전망 발표했음.\nBroadcom, Google, Apple 등 AI/하이퍼스케일러 대규모 수주 기대됨.\n주요 공정은 14A, 일부 18A-P 공정 계약도 포함됐음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-16 00:00",
+  "tag": "제품",
+  "title": "NVIDIA Announces The 120B Nemotron 3.5 Super VL Model For AI Agents And 2 Tiny 4 GB And 24 GB Edge Models Under The Nemotron 3.5 Bolt Umbrella",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/",
+  "summary": "NVIDIA, 120B 파라미터 Nemotron 3.5 Super VL 및 엣지 모델 2종 발표했음.\nHugging Face 인수 협상 중인 상황에서 오픈 가중치 모델 강화 움직임.\nAI 에이전트 및 로컬 워크로드 최적화 지원 모델임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-15 20:12",
   "tag": "기타",
   "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-develops-custom-nvhbm-memory-for-ai-more-bandwidth-lower-power-than-hbm4e/",
   "summary": "NVIDIA가 AI용 커스텀 메모리 'NVHBM' 공개했음.\nHBM4E 대비 30% 대역폭 향상, 15% 전력 효율 개선.\n향후 NVIDIA GPU에 탑재되어 AI 워크로드 성능 강화 기대됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 06:45",
-  "tag": "실적",
-  "title": "Nvidia Reports Record Sales (Again)",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCeTNqY3kwR1F2T2tCa1V2RlZ1VF9hMWdtcnc1aW44T3l1bTlmWlMwQ2hYMTdqMkJkOVRHZmI0WEJTNXdsaHJrQzlrZTRTQk1tTjNfQUZkbmN6RG8yMFNObzB0RGhYd1o5T0hhVHFjQ3RMWWx4QkFFUDZ3?oc=5",
-  "summary": "Nvidia가 다시 한번 기록적인 매출을 보고했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 06:43",
-  "tag": "실적",
-  "title": "Nvidia forecasts quarterly revenue above estimates, shares rise",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
-  "summary": "Nvidia가 예상치를 상회하는 분기 매출 전망치를 발표했음.\n이 소식에 따라 Nvidia 주가가 상승했음.",
   "importance": 4
  }
 ]
