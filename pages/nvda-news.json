@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-15 20:12",
+  "tag": "기타",
+  "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEYjc4dkowbWxWTnNOYUdjTVk1Sml3aXVyZGpmak1uZ0p6RkpaNTRPWThSWldLa2pGc0kwVS15WHFzVnJUU1dia3cwbTBPVktDUmVhak5Lak8yUi10V0syRFl1c0NvbXBMejR2amJzX0ZSdzDSAXhBVV95cUxQZUVwekQ3WExVS3ZTeXIxWEZ5OW9iTnpwbzUxMWVhSWMydTJoNTBoT2V4ZVk1bm50Rl93dklWRnU4NnR6aDZBS01LZ2NJUzVYWHkzejFJUVR0cnFPamxXRHJxSUNDVHFtaWdwYVFqQ21HMXg4ZVVId1k?oc=5",
+  "summary": "Nvidia CEO Jensen Huang은 중국 AI 기업들과 안전 문제에 대해 협력해야 한다고 CNBC에 밝혔음.\n이는 미중 기술 갈등 속에서 Nvidia의 중국 시장 전략 변화 가능성을 시사함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-15 19:50",
+  "tag": "제품",
+  "title": "NVIDIA Rubin GPUs Expected To Stick With 12-Hi HBM4 Despite Reports Of An 8-Hi Shift, As HBM Prices Could Surge 121% In 2027",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-rubin-gpus-expected-to-stick-with-12-hi-hbm4-despite-reports-of-an-8-hi-shift-as-hbm-prices-could-surge-121-in-2027/",
+  "summary": "NVIDIA의 차세대 Rubin GPU는 12단 HBM4를 주로 탑재할 것으로 예상됨.\n8단 HBM4 전환 가능성 보도는 사실이 아닐 가능성이 높음.\n메모리 부족으로 2027년 HBM 가격 급등 가능성도 제기됐음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-14 01:57",
   "tag": "수주",
   "title": "TSMC Could Hit Its 2027 2nm Capacity Goals A Year Early As NVIDIA, AMD And Apple Pile On Orders For Latest Chipmaking Tech",
@@ -699,24 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
   "summary": "Nvidia가 예상치를 상회하는 분기 매출 전망치를 발표했음.\n이 소식에 따라 Nvidia 주가가 상승했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 03:13",
-  "tag": "실적",
-  "title": "Here's how much traders think Nvidia will move off earnings — and in which direction",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmw1d2ZKTzBOTWNRWjY4ekV5VzJrODFUWEpVMjAzZmdZalhQYV85cHlZMldRSS1vbjdRRFVHalcxZ3NoaUtPdW84b2lXWTJUazIyVTFmNV9WVG9xMVlOb0tVYms2ZkNXUmdDbkdLdFJlRVVUWjBSOERTNDE0dktXclVnRHJ3enQ5Ylk0eXV5Q0diaUFjbnFPMVpOZTRKWk9SemlEdWl2UllJZy1LaFhtai1PWEdQXzRoalHSAb8BQVVfeXFMTi05bmJ3NmZJaXdtb1hnOXJyOWxDc1BGNUxPbU05RUlnaHliaWxXOGVQQ0tfd2JmV3JhYkdLQlBJMXhjcjFnT2FOS20wQ0tQaHRlNDh2WEd4TVVmTkRleDd5TW1BT3g3U2c5QnZHT3psYUwwUWdpU2liZjljcmxkbnpZSEEzTC1ab2I3dDUwSjVuVjdZdVcyYXI2eE1saWdkV1BTZHZyNlRQVTBNMUFYdUlkZjVZbTF1OHBJOGNtWG8?oc=5",
-  "summary": "엔비디아 실적 발표 앞두고.\n트레이더들은 주가 변동성 예상함.\n주요 상승/하락 방향성도 예측 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 01:41",
-  "tag": "실적",
-  "title": "Looking ahead to Nvidia earnings tonight: Investor's investment strategy",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcllwQ0dhYmFFLWNzZGZLQzBZVEZndC1iWDR6bUl4ZTVrc3NHZFVkN2JPckN6MFU4R25lYjZUdmZMV054UTdaVXpiRnRvNm1mcmNCeDBUUTZTWWpxYTdEal9vTy1odnhzZGhzMHlPNU00bUhJc2dxaEh6MFozeHRlX2xsYmJrWnJOVW1vWlZhc3VyWFlkYzVBMnVCR2JLRjdSc2VvUU5lMnVpc0c2ZWdFajhYWQ?oc=5",
-  "summary": "엔비디아 실적 발표를 앞두고 투자 전략을 제시하는 기사임.\n실적 발표가 투자 판단에 중요함.",
   "importance": 4
  }
 ]
