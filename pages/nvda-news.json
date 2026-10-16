@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-16 22:45",
+  "tag": "제품",
+  "title": "ASUS ProArt P16 “RTX Spark” Laptop Review – NVIDIA’s First Full PC Platform Brings Powerful AI & Gaming Capabilities",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/review/asus-proart-p16-rtx-spark-laptop-review-nvidias-first-full-pc-platform/",
+  "summary": "NVIDIA의 새로운 PC 플랫폼 'RTX Spark'가 출시됐음.\nWindows on Arm 기반으로 AI 및 게이밍 성능을 강화했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-16 00:29",
   "tag": "수주",
   "title": "KeyBanc Says Intel Has Won Contracts From Broadcom, Google, Apple, AMD, Microsoft, And NVIDIA, While Amazon, Anthropic, And SpaceX’s Terafab Continue To Evaluate Its 14A And 18A-P Processes",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtIdlFrOWRSZkItb0NtNVd0ZjFxcFZERm9aLTBCRnFyMU9kVEotOC1mWld3amlVczc4N3EyOE42Ui1VY3U5VXlkU2RkTU51ODd4RnVyYy04cXFOSWp3bVdQQWlLYkJIbUxTcUNZUXE5MkVKY0g5NHBBeGItNjlvd1VQdGV0NHBJSlFCVURkcko5M01xblFRS2lkdG1PZGV3cWdhTg?oc=5",
   "summary": "엔비디아 주가가 실적 발표 후 초기 하락을 딛고 상승했음.\nAI 시장에 대한 열기가 여전히 뜨겁다는 신호임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 06:45",
-  "tag": "제품",
-  "title": "NVIDIA Develops Custom “NVHBM” Memory For AI, Claiming 30% More Bandwidth and 15% Lower Power Than HBM4E",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-develops-custom-nvhbm-memory-for-ai-more-bandwidth-lower-power-than-hbm4e/",
-  "summary": "NVIDIA가 AI용 커스텀 메모리 'NVHBM' 공개했음.\nHBM4E 대비 30% 대역폭 향상, 15% 전력 효율 개선.\n향후 NVIDIA GPU에 탑재되어 AI 워크로드 성능 강화 기대됨.",
   "importance": 4
  }
 ]
