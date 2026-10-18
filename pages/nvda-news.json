@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-18 21:09",
+  "tag": "수주",
+  "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+  "summary": "삼성전자가 엔비디아 차세대 메모리 칩 생산에 TSMC 기술을 사용할 것이라는 보도가 나왔음.\n이는 AI 칩 제조 공정 및 밸류체인 내 협력 관계에 대한 중요한 시사점을 줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-16 22:45",
   "tag": "제품",
   "title": "ASUS ProArt P16 “RTX Spark” Laptop Review – NVIDIA’s First Full PC Platform Brings Powerful AI & Gaming Capabilities",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZERTckZlOG0ySXJTcWltQUFqeUhUS1MyVHpOWVNqckE4dl9pb3NudG9hLU1KZHdvVnpvTnRIWFFsMXdrUG9FTGl6enUwM2xFRDhmbGFhOUpPbXowSmdHYTlkVDQwWDA5Zml0QzRGbDJqNDNlTW9wVTRNdGNpV255Sy13cGhBR3p3T19Nc2xrT0hBUW5wYktfY2Y1Q01mb190VzVF?oc=5",
   "summary": "Nvidia가 악재 연쇄 반응의 위험을 인지하고 있음.\n경쟁 심화 및 시장 포화 가능성 우려.\nAI 칩 시장 지배력 유지 위한 전략 모색 중.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 07:06",
-  "tag": "실적",
-  "title": "Nvidia stock jumps after early dip following results; AI fever is unabated",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUtIdlFrOWRSZkItb0NtNVd0ZjFxcFZERm9aLTBCRnFyMU9kVEotOC1mWld3amlVczc4N3EyOE42Ui1VY3U5VXlkU2RkTU51ODd4RnVyYy04cXFOSWp3bVdQQWlLYkJIbUxTcUNZUXE5MkVKY0g5NHBBeGItNjlvd1VQdGV0NHBJSlFCVURkcko5M01xblFRS2lkdG1PZGV3cWdhTg?oc=5",
-  "summary": "엔비디아 주가가 실적 발표 후 초기 하락을 딛고 상승했음.\nAI 시장에 대한 열기가 여전히 뜨겁다는 신호임.",
   "importance": 4
  }
 ]
