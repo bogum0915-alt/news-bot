@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-19 13:55",
+  "tag": "수주",
+  "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcENpWHJUV2Z2SS1SbWYwbWVuaWZsMzc2NVBqMkpBbjViZ1dNaklBY1JMRXVjS2VoNzZ5LUVGZkM1aktLV3ZHb2pxQ3pyTnYzYXpSaERMZzFaN0U0dHBrQkYxUWNKWDZwejBuMEJsTW55R2Z1d0JMejNmdUNnSklBMDBKS0lpN3d4SWg0VHJDZWFhZG5EVVR3dlJyaXNnZDBCR0NIQjJUWTluMnc1U1E?oc=5",
+  "summary": "Nvidia가 차세대 메모리 칩 생산을 위해 TSMC 공정 사용을 공급업체에 요청했음.\n이는 HBM 등 고성능 메모리 칩 생산 능력을 확보하려는 움직임임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-18 21:09",
   "tag": "수주",
   "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
   "summary": "Nvidia가 NVLink Fusion 파트너 대상\nNVHBM이라는 커스텀 HBM 공개했음.\n기존 HBM4e 대비 대역폭 30%↑, 전력 15%↓.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 07:07",
-  "tag": "실적",
-  "title": "Breakingviews - Nvidia leans into the danger of a bad-news spiral",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZERTckZlOG0ySXJTcWltQUFqeUhUS1MyVHpOWVNqckE4dl9pb3NudG9hLU1KZHdvVnpvTnRIWFFsMXdrUG9FTGl6enUwM2xFRDhmbGFhOUpPbXowSmdHYTlkVDQwWDA5Zml0QzRGbDJqNDNlTW9wVTRNdGNpV255Sy13cGhBR3p3T19Nc2xrT0hBUW5wYktfY2Y1Q01mb190VzVF?oc=5",
-  "summary": "Nvidia가 악재 연쇄 반응의 위험을 인지하고 있음.\n경쟁 심화 및 시장 포화 가능성 우려.\nAI 칩 시장 지배력 유지 위한 전략 모색 중.",
   "importance": 4
  }
 ]
