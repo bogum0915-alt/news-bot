@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-19 22:03",
+  "tag": "제품",
+  "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c?oc=5",
+  "summary": "아마존이 자체 AI 칩을 인기 코딩 언어와 호환되도록 만들었다고 밝힘.\n이는 엔비디아에 대한 도전으로 해석될 수 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-19 13:55",
   "tag": "수주",
   "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
@@ -709,14 +718,5 @@
   "url": "https://wccftech.com/amazon-commits-to-3-million-nvidia-gpus-in-aws-tripling-a-deal-that-started-at-just-one-million/",
   "summary": "Amazon이 AWS에 NVIDIA AI GPU 300만 개 도입을 발표했음.\n이는 기존 100만 개 계약의 3배 규모임.\nAgentic AI, 자동화 등 다양한 워크로드에 사용될 예정임.",
   "importance": 5
- },
- {
-  "ts": "2026-08-27 07:45",
-  "tag": "제품",
-  "title": "Nvidia custom 'NVHBM' promises 30% higher bandwidth, 15% lower power than commodity HBM4e — custom base die and PHY will be available to NVLink Fusion partners",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
-  "summary": "Nvidia가 NVLink Fusion 파트너 대상\nNVHBM이라는 커스텀 HBM 공개했음.\n기존 HBM4e 대비 대역폭 30%↑, 전력 15%↓.",
-  "importance": 4
  }
 ]
