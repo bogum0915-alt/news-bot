@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-20 10:15",
+  "tag": "실적",
+  "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/amazon-free-cash-flow-negative-ai-infrastructure-spending/",
+  "summary": "아마존이 NVIDIA GB300 랙을 대규모로 선구매했음.\n8월에만 50억 달러 규모의 납품이 있었고, 이후에도 월 30억 달러가 예상됨.\n이에 따라 아마존의 잉여현금흐름이 급감했으며, 개선 전망은 불투명함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-20 09:50",
+  "tag": "제품",
+  "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR?oc=5",
+  "summary": "Nvidia, Meta, Apple이 새로운 오픈 모델 공개했음.\n이들 기업의 AI 기술 경쟁 및 협력 움직임에 주목할 필요가 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-19 22:03",
   "tag": "제품",
   "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
@@ -700,23 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
   "summary": "Nvidia가 백악관의 제재 가능성 경고 속에서,\n중국 오픈 AI 모델 지원 강화에 나섰음.",
   "importance": 4
- },
- {
-  "ts": "2026-08-27 12:15",
-  "tag": "기타",
-  "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, The Information reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnRUV293OVVFOWdRY2o0c0tqNDhzYzRfMHVQdFBrT3ZZdmxiRGVOeDl0d3JiZmN6NnVBY3JvODV5MTdlRXZhWlZuM3ZfcldFSXlDR0RLNHVvYUFrVmR6VXBoR21tWlpXWE1YZ2ItQXJFeHAxWllIVnBtXzB1ci1uUHp2d296ZlRzU0VYOGlkbUlBZnl3X2FtV2tYaE5TdHQ5V1d1MTdVVloyNjhjS19mbkJtbDlBOXBLT2R6ZVdB?oc=5",
-  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수합의했음.\nAI 밸류체인 내 M&A로 큰 변화 예상됨.",
-  "importance": 5
- },
- {
-  "ts": "2026-08-27 07:47",
-  "tag": "수주",
-  "title": "Amazon Commits to 3 Million NVIDIA GPUs in AWS, Tripling a Deal That Started at Just One Million",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/amazon-commits-to-3-million-nvidia-gpus-in-aws-tripling-a-deal-that-started-at-just-one-million/",
-  "summary": "Amazon이 AWS에 NVIDIA AI GPU 300만 개 도입을 발표했음.\n이는 기존 100만 개 계약의 3배 규모임.\nAgentic AI, 자동화 등 다양한 워크로드에 사용될 예정임.",
-  "importance": 5
  }
 ]
