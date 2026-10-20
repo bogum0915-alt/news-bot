@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-21 01:20",
+  "tag": "기타",
+  "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+  "summary": "로보틱스 분야의 \"ChatGPT 순간\"이 곧 올 것이라는 전망임.\nAI 칩 스타트업 엑셀러레이터 출신 VC의 예측임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-21 00:51",
+  "tag": "수주",
+  "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+  "summary": "바이트댄스, 알리바바, 텐센트가 엔비디아에 350억 달러 이상 칩 주문했음.\n이들 중국 빅테크 기업들의 대규모 AI 칩 구매는 AI 칩 시장의 수요 확대와 공급망에 중요한 영향을 줄 수 있음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-10-20 21:10",
   "tag": "수주",
   "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
@@ -699,24 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl9XV0ZOa3VDelZVWV9yY0RwXzNFZmRBc0FYSDk3d0pWbmFJMG5JTDZEUE1UY05WanRSdWUwV0FfdW0yb2N4dGV2cUR1NUtFaEhoY2dmR3NzNTVIcWYzN0k0Y2FsT2xWaW52MzlnVGQydEh3RzZZRHRUNkNsQkptV2ln?oc=5",
   "summary": "Nvidia가 2790억 달러 규모의 공급망 투자 계획을 세웠음.\nAI 칩 수요 폭증에 대비한 선제적 움직임으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-28 08:55",
-  "tag": "규제",
-  "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-quietly-freezes-its-cloud-credit-support-deals-after-internal-talks-warn-of-antitrust-exposure/",
-  "summary": "NVIDIA가 AI 성장 지원을 위한 수수료 공유 및 크레딧 지원 프로그램을 중단했음.\n내부 논의에서 반독점 규제 노출 우려가 제기된 것이 원인으로 보임.\n이는 OpenAI 등과의 수백억 달러 규모 데이터센터 인프라 지원 계약 발표 하루 만에 나온 소식임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-28 00:33",
-  "tag": "실적",
-  "title": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-expects-to-sell-usd20-billion-worth-of-vera-rubin-hardware-this-quarter-would-account-for-20-percent-of-data-center-revenue-its-fastest-ramp-in-company-history",
-  "summary": "Nvidia가 3분기에 Vera Rubin 시스템 200억 달러 판매를 예상함.\n이는 데이터센터 매출의 20%를 차지하며, 역사상 가장 빠른 성장세를 보일 전망임.",
   "importance": 4
  }
 ]
