@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-21 04:03",
+  "tag": "기타",
+  "title": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlBQZWpwdUJacndaVm1uenphRkZIRXpUMk9aRF9kZURpUm1tUEYtMkJMZ2hzSW5mUFpISFA5d0JtTV9xSm81OVJ2TklDNjAyaE1pSE9XQzJmdlptZTJqNHNiTFRGdzFTeTdSMDFqNnNrUm5INW5ma1VzYUVRUGNYV1YyTTRuTFE5ZU56cFF4N3EtVVNKa0E?oc=5",
+  "summary": "Nvidia가 AI 산업의 핵심 중앙은행 역할을 하고 있음.\nAI 칩 공급 부족 현상이 지속되면서,\nAI 개발사들이 Nvidia에 대한 의존도를 높이고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-21 01:20",
   "tag": "기타",
   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
   "summary": "Nvidia가 로봇 시장 공략 의지를 보이며,\n중국 시장에서 이에 대한 높은 관심을 보이고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-29 12:31",
-  "tag": "수주",
-  "title": "Nvidia’s $279 Billion Supply-Chain Gamble",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl9XV0ZOa3VDelZVWV9yY0RwXzNFZmRBc0FYSDk3d0pWbmFJMG5JTDZEUE1UY05WanRSdWUwV0FfdW0yb2N4dGV2cUR1NUtFaEhoY2dmR3NzNTVIcWYzN0k0Y2FsT2xWaW52MzlnVGQydEh3RzZZRHRUNkNsQkptV2ln?oc=5",
-  "summary": "Nvidia가 2790억 달러 규모의 공급망 투자 계획을 세웠음.\nAI 칩 수요 폭증에 대비한 선제적 움직임으로 보임.",
   "importance": 4
  }
 ]
