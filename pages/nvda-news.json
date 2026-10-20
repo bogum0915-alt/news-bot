@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-20 21:10",
+  "tag": "수주",
+  "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
+  "summary": "중국 빅3(텐센트, 알리바바, 바이트댄스)가\nAI 야망 실현 위해 350억 달러 상당\nRTX Pro 5500 GPU 주문했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-20 10:15",
   "tag": "실적",
   "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-expects-to-sell-usd20-billion-worth-of-vera-rubin-hardware-this-quarter-would-account-for-20-percent-of-data-center-revenue-its-fastest-ramp-in-company-history",
   "summary": "Nvidia가 3분기에 Vera Rubin 시스템 200억 달러 판매를 예상함.\n이는 데이터센터 매출의 20%를 차지하며, 역사상 가장 빠른 성장세를 보일 전망임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-27 23:31",
-  "tag": "규제",
-  "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
-  "summary": "Nvidia가 백악관의 제재 가능성 경고 속에서,\n중국 오픈 AI 모델 지원 강화에 나섰음.",
   "importance": 4
  }
 ]
