@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-10-21 20:30",
+  "tag": "제품",
+  "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
+  "summary": "Nvidia가 트럭 운송 가능한 Vera Rubin 랙 발표했음.\nAI 워크로드를 위한 고성능 컴퓨팅 솔루션임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-10-21 20:26",
+  "tag": "수주",
+  "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/chinese-tech-giants-reject-huawei-ai-accelerators-favor-nvidia-rtx-pro-5500/",
+  "summary": "중국 빅테크 기업들(ByteDance, Alibaba, Tencent)이\nNVIDIA RTX PRO 5500 3백만 대 이상 주문했음.\n화웨이 AI 가속기 대신 NVIDIA GPU 선호함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-21 04:03",
   "tag": "기타",
   "title": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/openai-hoarding-tens-of-thousands-of-apple-mac-mini-and-mac-studio-devices-as-asus-and-msi-burn-through-their-entire-first-batch-of-nvidia-rtx-spark-chip-and-beg-for-more/",
   "summary": "OpenAI가 수천 대의 Apple Mac mini 및 Mac Studio 장치를 대량 구매하고 있음.\nNVIDIA RTX Spark 칩은 출시 전부터 공급 부족 조짐을 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-30 07:23",
-  "tag": "제품",
-  "title": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/",
-  "summary": "NVIDIA DLSS 5, 신경망 렌더링 기술로 실시간 그래픽 향상.\n조명, 재질, 피부, 머리카락 등 시각적 요소 개선.\n정식 출시 전 비공식적으로 게임 적용 시도 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-30 00:00",
-  "tag": "기타",
-  "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-  "summary": "Nvidia가 로봇 시장 공략 의지를 보이며,\n중국 시장에서 이에 대한 높은 관심을 보이고 있음.",
   "importance": 4
  }
 ]
