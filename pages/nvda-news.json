@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-22 01:53",
+  "tag": "제품",
+  "title": "NVIDIA’s Jensen Huang Says GPUs Now Last 8 Years Or More, While Elon Musk Says Even Older GPUs Deliver A Higher “Intelligence Per Watt”",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidias-jensen-huang-says-gpus-now-last-8-years-or-more-while-elon-musk-says-even-older-gpus-deliver-a-higher-intelligence-per-watt/",
+  "summary": "NVIDIA CEO 젠슨 황과 테슬라 CEO 일론 머스크가\nGPU의 수명이 8년 이상으로 늘고 있다고 언급했음.\n오래된 GPU도 '와트당 지능' 면에서 뛰어나다고 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-21 20:30",
   "tag": "제품",
   "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
   "summary": "Nvidia가 MediaTek에 35억 달러 규모의 전환사채 투자했음.\n이는 AI 칩 시장에서의 경쟁 및 협력 구도에 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-31 08:32",
-  "tag": "수주",
-  "title": "OpenAI Hoarding Tens Of Thousands Of Apple Mac mini And Mac Studio Devices, As ASUS And MSI Burn Through Their Entire First Batch Of NVIDIA RTX Spark Chip And Beg For More",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/openai-hoarding-tens-of-thousands-of-apple-mac-mini-and-mac-studio-devices-as-asus-and-msi-burn-through-their-entire-first-batch-of-nvidia-rtx-spark-chip-and-beg-for-more/",
-  "summary": "OpenAI가 수천 대의 Apple Mac mini 및 Mac Studio 장치를 대량 구매하고 있음.\nNVIDIA RTX Spark 칩은 출시 전부터 공급 부족 조짐을 보임.",
   "importance": 4
  }
 ]
