@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-10-22 22:12",
+  "tag": "기타",
+  "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y?oc=5",
+  "summary": "엔비디아 젠슨 황 CEO가\n2029년 메모리 과잉 징후 없다고 언급함.\n\"메모리는 항상 더 많이 사용될 수 있다\"고 강조함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-22 01:53",
   "tag": "제품",
   "title": "NVIDIA’s Jensen Huang Says GPUs Now Last 8 Years Or More, While Elon Musk Says Even Older GPUs Deliver A Higher “Intelligence Per Watt”",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
   "summary": "미국이 G20 회원국에\nAI 훈련을 위해 창작물 사용을\n허용하도록 촉구했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-08-31 21:54",
-  "tag": "수주",
-  "title": "Nvidia invests $3.5 billion in MediaTek convertible bonds",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
-  "summary": "Nvidia가 MediaTek에 35억 달러 규모의 전환사채 투자했음.\n이는 AI 칩 시장에서의 경쟁 및 협력 구도에 영향을 줄 수 있음.",
   "importance": 4
  }
 ]
