@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-06 05:20",
+  "tag": "기타",
+  "title": "NVIDIA’s Vendor Financing Deals Are Not A Ponzi Scheme As It Is Slated To “Take Out $420 Billion” By Putting In $250 Billion, Says Tech Venture Capitalist Gene Munster",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidias-vendor-financing-deals-are-not-a-ponzi-scheme-as-it-is-slated-to-take-out-420-billion-by-putting-in-250-billion-says-tech-venture-capitalist-gene-munster/",
+  "summary": "AI 칩 선두주자 NVIDIA의 벤더 파이낸싱 계약이 폰지 사기가 아니라는 VC의 분석이 나왔음.\nNVIDIA는 고객에게 자금 지원으로 AI 인프라 구축을 돕고 있으며, 90년대 닷컴 버블과 다르다고 강조했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-06 04:47",
+  "tag": "수주",
+  "title": "Nvidia’s Workaround For Data Center Backlash: Retrofitting Old Telephone Buildings",
+  "source": "The Information",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5",
+  "summary": "Nvidia가 데이터 센터 수요 급증에 대응하기 위해\n오래된 전화국 건물을 개조하여 AI 훈련 센터로 활용하고 있음.\n이를 통해 전력 및 냉각 시스템을 효율적으로 구축하려는 시도로 보임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-05 20:54",
   "tag": "규제",
   "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
@@ -699,24 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHVaSloyenVOS3dnYVR4R281LWVRdlNGY01mcVJPb3E0bFk4Y0xVYzFzRkNMS0RqdV9ielJPOFV4SEg5bjN4OVVYVEpmSm9kR1NXYnhrU0wySWxMOVFEUUE1SG5mTzhteGVVejNJUm9OaEZNY0pqNFhiZUZSYXVtWHFMOA?oc=5",
   "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다는 소식임.\nAI 밸류체인에서 AI 모델 개발 및 배포 분야의 주요 플레이어를 통합하는 대형 M&A임.",
-  "importance": 5
- },
- {
-  "ts": "2026-09-03 21:28",
-  "tag": "기타",
-  "title": "Nvidia CEO Jensen Huang on Hugging Face deal: Open models matter greatly to our company",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVFtOVBKeWhDb0Q3UUZycm5id2ZBWWF0UEVyNXRDQ3JRVmRaVDFDWVVDNUd5R1FNb3MtUEpxdXdZcFpXRVFKbGxtbVJhOEdPNzZEYmZKNmlfUEFpY2tGZ0dkbGdTYnAwbmJjOU4yVXNkRS0ySER4SUdjQkg0dkJjbTRKRTNGaXJDQ2xiY3VrLWpDV3AzSHhCMGt0OHdBVDNhUWhEdjNaMWJIV3NzTjFEVHdyX09jZ1Y5TG1wRjgyVFV0dFJGWXdyb2VQV0tlam5Hak1iamxfRzk?oc=5",
-  "summary": "Nvidia CEO Jensen Huang이 Hugging Face와의 파트너십이\n자사에 매우 중요하다고 언급했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-03 21:15",
-  "tag": "기타",
-  "title": "Nvidia Agrees to Buy Hugging Face for $13 Billion",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5",
-  "summary": "Nvidia가 Hugging Face를 130억 달러에 인수 합의했음.\nAI 모델 공유 플랫폼인 Hugging Face는 Nvidia의 AI 생태계 강화에 기여할 것으로 보임.",
   "importance": 5
  }
 ]
