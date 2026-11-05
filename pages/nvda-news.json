@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-05 20:54",
+  "tag": "규제",
+  "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+  "summary": "홍콩에 엔비디아 칩 재고가 쌓이고 있음.\n중국 정부가 수입 승인을 보류했기 때문임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-10-22 22:12",
   "tag": "기타",
   "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
@@ -709,14 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5",
   "summary": "Nvidia가 Hugging Face를 130억 달러에 인수 합의했음.\nAI 모델 공유 플랫폼인 Hugging Face는 Nvidia의 AI 생태계 강화에 기여할 것으로 보임.",
   "importance": 5
- },
- {
-  "ts": "2026-09-03 00:38",
-  "tag": "규제",
-  "title": "US urges G20 countries to allow AI training on creators' work",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
-  "summary": "미국이 G20 회원국에\nAI 훈련을 위해 창작물 사용을\n허용하도록 촉구했음.",
-  "importance": 4
  }
 ]
