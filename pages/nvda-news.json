@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-06 22:49",
+  "tag": "규제",
+  "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+  "summary": "Nvidia가 동남아 AI GPU 불법 유통 방지.\nCSP 파트너십에 GPU 추적 프로그램 의무화.\n미국 수출 통제 강화에 따른 조치임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-06 05:20",
   "tag": "기타",
   "title": "NVIDIA’s Vendor Financing Deals Are Not A Ponzi Scheme As It Is Slated To “Take Out $420 Billion” By Putting In $250 Billion, Says Tech Venture Capitalist Gene Munster",
@@ -708,15 +717,6 @@
   "source": "TechCrunch",
   "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
   "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다고 확인했음.\nHugging Face는 3백만 개 이상의 모델을 호스팅하고\n1,800만 명 이상의 개발자가 사용하고 있다고 함.",
-  "importance": 5
- },
- {
-  "ts": "2026-09-03 21:32",
-  "tag": "기타",
-  "title": "Nvidia to Buy Hugging Face for $12.9 Billion",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHVaSloyenVOS3dnYVR4R281LWVRdlNGY01mcVJPb3E0bFk4Y0xVYzFzRkNMS0RqdV9ielJPOFV4SEg5bjN4OVVYVEpmSm9kR1NXYnhrU0wySWxMOVFEUUE1SG5mTzhteGVVejNJUm9OaEZNY0pqNFhiZUZSYXVtWHFMOA?oc=5",
-  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다는 소식임.\nAI 밸류체인에서 AI 모델 개발 및 배포 분야의 주요 플레이어를 통합하는 대형 M&A임.",
   "importance": 5
  }
 ]
