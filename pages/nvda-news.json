@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-08 09:00",
+  "tag": "수주",
+  "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node [Update]",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/",
+  "summary": "TSMC가 NVIDIA의 맞춤형 HBM용 베이스 다이 양산을 맡게 됐음.\n3D DRAM 생산 요청 가능성도 제기됐으나 TSMC는 부인했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-06 22:49",
   "tag": "규제",
   "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
@@ -708,15 +717,6 @@
   "source": "The New York Times",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
   "summary": "Nvidia가 Hugging Face를 129억 달러에 인수했음.\n이는 AI 밸류체인 판도에 큰 영향을 줄 수 있는 빅딜임.",
-  "importance": 5
- },
- {
-  "ts": "2026-09-03 21:42",
-  "tag": "기타",
-  "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수한다고 확인했음.\nHugging Face는 3백만 개 이상의 모델을 호스팅하고\n1,800만 명 이상의 개발자가 사용하고 있다고 함.",
   "importance": 5
  }
 ]
