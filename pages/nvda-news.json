@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-09 06:48",
+  "tag": "규제",
+  "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
+  "summary": "미국이 중국 기업에 엔비디아 칩 수출 허가했음.\n해당 기업은 유령 사무실 보유 및 수상한 관계 의혹이 있었음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-09 03:06",
   "tag": "규제",
   "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -709,14 +718,5 @@
   "url": "https://wccftech.com/nvidia-insists-its-12-93-billion-acquisition-of-hugging-face-will-escape-antitrust-scrutiny-calling-it-a-deconcentration-platform/",
   "summary": "NVIDIA가 Hugging Face를 129.3억 달러에 인수했음.\nAI 칩 공급을 넘어 모델 배포 플랫폼까지 장악하려는 의도로 보임.\n인수를 통해 Hugging Face 호스팅 모델 추론 서비스 제공을 목표로 함.",
   "importance": 4
- },
- {
-  "ts": "2026-09-03 22:18",
-  "tag": "기타",
-  "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
-  "summary": "Nvidia가 오픈 AI 모델에 대한 큰 투자로 Hugging Face를 130억 달러에 인수했음.\n이번 인수는 AI 밸류체인 판도에 큰 영향을 미칠 것으로 예상됨.",
-  "importance": 5
  }
 ]
