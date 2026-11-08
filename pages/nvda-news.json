@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-09 03:06",
+  "tag": "규제",
+  "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5Nw?oc=5",
+  "summary": "Nvidia CEO 젠슨 황, 중국 스파이 연루 보도로.\n미 의회 초당적 조사 직면했음.\n이는 AI 칩 공급망 및 규제 리스크 부각시키고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-08 09:00",
   "tag": "수주",
   "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node [Update]",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
   "summary": "Nvidia가 오픈 AI 모델에 대한 큰 투자로 Hugging Face를 130억 달러에 인수했음.\n이번 인수는 AI 밸류체인 판도에 큰 영향을 미칠 것으로 예상됨.",
-  "importance": 5
- },
- {
-  "ts": "2026-09-03 22:01",
-  "tag": "기타",
-  "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-  "source": "The New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
-  "summary": "Nvidia가 Hugging Face를 129억 달러에 인수했음.\n이는 AI 밸류체인 판도에 큰 영향을 줄 수 있는 빅딜임.",
   "importance": 5
  }
 ]
