@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-09 09:33",
+  "tag": "규제",
+  "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+  "summary": "Jensen Huang의 중국 스파이 연루 의혹으로\nNvidia가 조사 착수했음.\n이는 AI 칩 공급망 및 지정학적 리스크에\n중대한 영향을 줄 수 있음.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-11-09 09:24",
+  "tag": "기타",
+  "title": "Nvidia's importance to U.S. national security and AI trade highlighted in CEO affair and spy probe",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEhfcnZKYmpFTzJhUHRWdHZOZUhpX3ZvV09aWVkyMTNXZE13N2RBTW1Gdi1Ga2U2VTlkVThiOVNGOF83WGNTdkFtdnN3dURXYy1qb1M5b1ByeHVvaDlWWThYSEcwRUdaQzd4dFo5RzNnZk9JTzV0emhUQm9xc2dqU1V6RTVkMlByQ1JaUVNvcFhXLTVq?oc=5",
+  "summary": "Nvidia CEO의 스캔들과 첩보 조사 관련 소식이\n미국 국가 안보와 AI 산업에 미치는 중요성을 부각함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-09 06:48",
   "tag": "규제",
   "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
@@ -699,24 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
   "summary": "Nvidia가 개인 AI 라우터(PAIR) 유틸리티를 출시했음.\n이 유틸리티는 홈 네트워크의 모든 GPU를 클러스터로 묶음.\n에이전트 AI 작업에 활용하여 추론 속도를 높이고 프라이버시 강화가 가능함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-04 01:00",
-  "tag": "제품",
-  "title": "Nvidia's RTX Spark N1X launches in October for laptops and desktops — 18 or 20 CPU cores, paired with 5,120 or6,144 CUDA cores, up to 128GB of unified memory",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
-  "summary": "Nvidia RTX Spark N1X 칩이 10월 출시됨.\n노트북 및 데스크톱용으로 18~20개 CPU 코어와\n5,120~6,144개 CUDA 코어를 탑재했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-04 00:49",
-  "tag": "규제",
-  "title": "NVIDIA Insists Its $12.93 Billion Acquisition Of Hugging Face Will Escape Antitrust Scrutiny, Calling It A “Deconcentration Platform”",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-insists-its-12-93-billion-acquisition-of-hugging-face-will-escape-antitrust-scrutiny-calling-it-a-deconcentration-platform/",
-  "summary": "NVIDIA가 Hugging Face를 129.3억 달러에 인수했음.\nAI 칩 공급을 넘어 모델 배포 플랫폼까지 장악하려는 의도로 보임.\n인수를 통해 Hugging Face 호스팅 모델 추론 서비스 제공을 목표로 함.",
   "importance": 4
  }
 ]
