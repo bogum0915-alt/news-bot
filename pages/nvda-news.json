@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-10 03:15",
+  "tag": "규제",
+  "title": "NVIDIA Allegedly Became A Roadblock For Federal Investigation In Megaspeed AI Chip Smuggling Probe After GPU Maker Intervened With Commerce Department",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-intervened-federal-investigation-megaspeed-ai-chip-smuggling-probe/",
+  "summary": "NVIDIA, AI 칩 밀수 조사 관련 연방 수사 방해 의혹에 휩싸였음.\n상무부에 개입하여 조사 과정에 어려움을 야기했다는 보도 나왔음.\n이전 CEO와의 개인적 관계 관련 의혹에 이어 또 다른 악재 직면했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-09 09:33",
   "tag": "규제",
   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-pair-turns-your-idle-home-pcs-into-a-local-ai-cluster/",
   "summary": "NVIDIA가 PAIR를 출시했음.\n집에 있는 PC들을 AI 클러스터로 활용 가능함.\n월 1,200달러 클라우드 API 비용 절감 기대.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-04 01:00",
-  "tag": "제품",
-  "title": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks — tool uses spare cycles to keep agent swarms from hammering one GPU",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
-  "summary": "Nvidia가 개인 AI 라우터(PAIR) 유틸리티를 출시했음.\n이 유틸리티는 홈 네트워크의 모든 GPU를 클러스터로 묶음.\n에이전트 AI 작업에 활용하여 추론 속도를 높이고 프라이버시 강화가 가능함.",
   "importance": 4
  }
 ]
