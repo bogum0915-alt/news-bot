@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-10 18:20",
+  "tag": "기타",
+  "title": "Answering the big questions on Nvidia's future",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE5QNVdrWkFSdGE3YkdyNEdjdFphNVB5emx0YWVpdEVWbk5KWlEtRW9SYUVWaFBxZnBUMnljWGpLTUUzTng2UFBQaVhDd05HVVRiYUZyZzh1UG5jVzVES0FUZWVtQ2lXTTFqdC02VENrdEd6aVZ6d3N5YXJld0VfUXVkaldpUDluZDNMMFQycEJxQQ?oc=5",
+  "summary": "Nvidia의 미래에 대한 주요 질문들을 다루는 기사임.\nAI 칩 시장에서의 경쟁 우위 및 성장 가능성 분석.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-10 03:15",
   "tag": "규제",
   "title": "NVIDIA Allegedly Became A Roadblock For Federal Investigation In Megaspeed AI Chip Smuggling Probe After GPU Maker Intervened With Commerce Department",
@@ -709,14 +718,5 @@
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
   "summary": "Nvidia가 Hugging Face를 129.3억 달러에 인수했음.\nAI 하드웨어를 넘어 AI 모델 플랫폼을 확보했음.\n경쟁 모델, 클라우드, 하드웨어 지원은 유지할 것이라 함.",
   "importance": 5
- },
- {
-  "ts": "2026-09-04 01:00",
-  "tag": "제품",
-  "title": "NVIDIA PAIR Turns Your Idle Home PCs Into A Local AI Cluster, Killing $1,200-Per-Month Cloud API Bills",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-pair-turns-your-idle-home-pcs-into-a-local-ai-cluster/",
-  "summary": "NVIDIA가 PAIR를 출시했음.\n집에 있는 PC들을 AI 클러스터로 활용 가능함.\n월 1,200달러 클라우드 API 비용 절감 기대.",
-  "importance": 4
  }
 ]
