@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-11 01:26",
+  "tag": "기타",
+  "title": "NVIDIA CEO Huang’s Troubles Send Shockwaves Across AI Chip Supply Chains As Chatter Starts About Firm Losing Dominance To Custom ASIC AI Chips",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-ceo-huangs-troubles-send-shockwaves-across-ai-chip-supply-chains-as-chatter-starts-about-firm-losing-dominance-to-custom-asic-ai-chips/",
+  "summary": "NVIDIA CEO의 최근 문제가 AI 칩 공급망에 파장을 일으키고 있음.\n주요 GPU 공급사인 NVIDIA의 주문 둔화 루머가 돌고 있음.\nAMD와 맞춤형 AI 칩(ASIC) 설계 업체들이 수혜를 볼 것이란 전망임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-10 18:20",
   "tag": "기타",
   "title": "Answering the big questions on Nvidia's future",
@@ -709,14 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
   "summary": "Nvidia가 990억 달러에 달하는\n투자 규모로 전략적 기술 투자\n선두 주자로 부상했음.",
   "importance": 4
- },
- {
-  "ts": "2026-09-04 04:05",
-  "tag": "수주",
-  "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
-  "summary": "Nvidia가 Hugging Face를 129.3억 달러에 인수했음.\nAI 하드웨어를 넘어 AI 모델 플랫폼을 확보했음.\n경쟁 모델, 클라우드, 하드웨어 지원은 유지할 것이라 함.",
-  "importance": 5
  }
 ]
