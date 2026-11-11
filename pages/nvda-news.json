@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-11-12 08:15",
+  "tag": "규제",
+  "title": "NEWSLETTER: Nvidia drama revives chip export ban debate",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVERVMHpGRTdJWkp4X1FKTTk2N3VEQjhrRVRJSklGY0poVEM3a3dybHVpcW9yZzZGMmN3YlNYUFRZcnRCVWZ0VWtMakdadUg2NWpLZHhEdVZNd1U5X2t1SExpLUpRZ2FZb3pXbWJleG5qSjhSeWhpZXlFTl8zMUsyMV9kUTlpOUFfSGEzblBwVk5pWjZiQzVjWXh5d2psR3lnSzFiRVJzYUhwQmhmejJ0R3dmX0k?oc=5",
+  "summary": "Nvidia의 미국 정부 제재 관련 드라마가 칩 수출 통제 논쟁을 재점화했음.\n이는 AI 칩 공급망 전반에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-12 06:59",
+  "tag": "규제",
+  "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjJRY2daaGR0MlE5NzU0bndocWZPVF9qODRlRlBzUUVLN1dyNkE2VXlJeUdGanF2NkQ5OGVZMmJTYk9xY244NU9sUHppeFU2dVlHcVRwWFptNG9CSUN6ay1Ic3NVdFJRZTNkY05nQzJJUFJsSVp1N21LRElnSHotZmZyYVR2a25v?oc=5",
+  "summary": "젠슨 황 CEO, 워싱턴 D.C. 방문.\n중국 수출 통제 강화 움직임 논의.\nNvidia 경영진의 정치권 접촉 및 수출 규제 영향 주목해야 함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-12 06:56",
+  "tag": "규제",
+  "title": "Commerce Sec. Lutnick stalled Pres. Trump's Nvidia China chip curbs after talks, according to Axios",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdzFfekpjalpRX0V3RkVtc1kxZW1HOXFFamJWeURrZUx1NG4wa3lod05DdUdRaGwzaTRUZ1p4emJmZ1FMQUR4cWpGcjBjdHo0VktxVEM4bThkaWthanI0TWh3bENRcUgwOXNzN3VuUVpRMXk2b25RN19FbU0yOHo3dHlXUm9yMzRSTkhNck1SLWxKcUNVTmJKRnBoMWVyNnBUemttTXYwV0JkWVRTeGY0OXFJajdPT0FoaG1teUtZdWVDejA3MC02d1RSYW10bWFERGlvMQ?oc=5",
+  "summary": "미국 상무장관이 트럼프 행정부 시절 엔비디아 중국 반도체 수출 규제에 대해 협상 후 보류했었다는 보도가 나왔음.\n이는 AI 칩 기업에 대한 미국 정부의 규제 움직임에 대한 중요한 시사점을 줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-11 01:26",
   "tag": "기타",
   "title": "NVIDIA CEO Huang’s Troubles Send Shockwaves Across AI Chip Supply Chains As Chatter Starts About Firm Losing Dominance To Custom ASIC AI Chips",
@@ -690,33 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/openais-1-billion-gpt-6-astra-heralds-the-age-of-agi-according-to-nvidias-jensen-huang-yet-anthropics-fable-5-1-still-beats-it-on-swe-bench-pro-and-coding-benchmarks/",
   "summary": "OpenAI, GPT-6 Astra 모델 출시하며 10억 달러 투자 추정.\nNVIDIA CEO도 AI 시대 개막 언급했음.\n하지만 Anthropic의 Fable 5.1이 코딩 벤치마크에서 더 우수한 성능을 보였음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-07 19:00",
-  "tag": "실적",
-  "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5",
-  "summary": "Nvidia 파트너사의 CEO가 AI 컴퓨팅 수요가 \"결코 충족될 수 없을 것\"이라 발언했음.\n이는 AI 칩 수요의 지속적인 강세를 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-05 01:02",
-  "tag": "수주",
-  "title": "NVIDIA Is Reportedly Giving Up On China As A Lost Cause Amid An Unassailable Lead From Huawei, As DeepSeek Snubs H20 GPUs For 160,000 Units Of Huawei’s Ascend 950DT Chips",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-is-reportedly-giving-up-on-china-as-a-lost-cause-amid-an-unassailable-lead-from-huawei-as-deepseek-snubs-h20-gpus-for-160000-units-of-huaweis-ascend-950dt-chips/",
-  "summary": "DeepSeek가 엔비디아 H20 GPU 대신\n화웨이 Ascend 950DT 칩 16만 개\n(약 2.56조원) 대규모 수주했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-04 17:08",
-  "tag": "기타",
-  "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
-  "summary": "Nvidia가 990억 달러에 달하는\n투자 규모로 전략적 기술 투자\n선두 주자로 부상했음.",
   "importance": 4
  }
 ]
