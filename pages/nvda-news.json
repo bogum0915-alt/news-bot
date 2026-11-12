@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-12 12:46",
+  "tag": "규제",
+  "title": "Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concerns",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
+  "summary": "미국 민주당 상원의원들이\n중국 안보 우려 속에 엔비디아의\n수출 기록 보존을 행정부에 촉구했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-12 08:15",
   "tag": "규제",
   "title": "NEWSLETTER: Nvidia drama revives chip export ban debate",
@@ -709,14 +718,5 @@
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
   "summary": "미국 수출 통제에도 불구하고,\n블랙리스트에 오른 중국 기술 기업이\n미국의 최첨단 AI 칩을 계속 구매했음.",
   "importance": 5
- },
- {
-  "ts": "2026-09-07 23:53",
-  "tag": "제품",
-  "title": "OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s  Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/openais-1-billion-gpt-6-astra-heralds-the-age-of-agi-according-to-nvidias-jensen-huang-yet-anthropics-fable-5-1-still-beats-it-on-swe-bench-pro-and-coding-benchmarks/",
-  "summary": "OpenAI, GPT-6 Astra 모델 출시하며 10억 달러 투자 추정.\nNVIDIA CEO도 AI 시대 개막 언급했음.\n하지만 Anthropic의 Fable 5.1이 코딩 벤치마크에서 더 우수한 성능을 보였음.",
-  "importance": 4
  }
 ]
