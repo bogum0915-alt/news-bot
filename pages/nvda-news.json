@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-14 01:15",
+  "tag": "규제",
+  "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+  "summary": "말레이시아와 싱가포르가 엔비디아 AI 칩 관련 조사를 강화했음.\n미국 대중국 수출 규제 우회 가능성과 AI 서버 부품 의혹 때문임.\n917대 AI 서버의 의심스러운 구매 건으로 싱가포르에서 임원 기소됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-13 16:29",
   "tag": "기타",
   "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
   "summary": "중국 AI 가속기 공급업체 Biren, 2026년 상반기 매출 2,000% 성장 기록했음.\n미국 수출 통제로 엔비디아·AMD 등 빠진 시장 영향으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-10 17:00",
-  "tag": "제품",
-  "title": "NVIDIA DGX Spark “AI Supercomputer” Impressions – The Future of AI Computing In Tiny Boxes",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/review/nvidia-dgx-spark-ai-supercomputer-impressions-the-future-of-ai-computing-in-tiny-boxes/",
-  "summary": "NVIDIA가 LLM 및 에이전트 처리를 위한\n\"AI 슈퍼컴퓨터\" DGX Spark PC를 출시했음.\nAI PC 시장과 로컬 AI 가속 박스 부문에\n혁신을 가져올 것으로 기대됨.",
   "importance": 4
  }
 ]
