@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-14 17:15",
+  "tag": "실적",
+  "title": "Nvidia’s Meteoric Rise, in One Chart",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTT3UxS2N3Wjg3ZlFSd3h0NXlIcnlSR0tiOVlpMW9LeVFEazNOMWVqZ1ZiYnFHX0x3UmVBdXliczNoNUhaSzl4cVpoZXB5blpWV0gwWUY0V1BFUVlUNzE1QWxZVUZBck1pYnQ0OEpZOE15Y3lHMFI4?oc=5",
+  "summary": "Nvidia의 급격한 성장을 한 장의 차트로 보여줌.\nAI 칩 시장에서의 지배력과 미래 성장 가능성을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-14 07:43",
   "tag": "기타",
   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -708,15 +717,6 @@
   "source": "TechCrunch",
   "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
   "summary": "Nvidia CEO Jensen Huang은 내년 70% 성장 전망을 확신함.\nNvidia는 다양한 분야에 참여하고 있으며, 향후 성장이 기대됨.\n그는 현재의 사업 관계가 순환적이지 않다고 강조했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-10 22:01",
-  "tag": "수주",
-  "title": "Nvidia Deepens Partnership With AI Chip Startup D-Matrix",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjdocnBtQzAwTnNGVmhBS2dEaDZYc3VjSFg2cHBMUHAxSTVRTHNUSUgzX2l6dVFRN1dob2dCZUhBT3lsNGw0SnUtSUhKbzRWVFJhRzhiNFVuNmZldXJ4clRCWkhOSG4yTl9rVzh5NUlzVFQtU1lBOFRCd0hPLVNxOTQxLVV5Vk8wQlpHU0Jab0dSRnI3aFJr?oc=5",
-  "summary": "Nvidia가 AI 칩 스타트업 D-Matrix와의\n파트너십을 강화했음.\n이는 Nvidia의 AI 칩 공급망 강화 및\n기술 협력 확대 가능성을 시사함.",
   "importance": 4
  }
 ]
