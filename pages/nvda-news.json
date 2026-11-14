@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-15 04:58",
+  "tag": "수주",
+  "title": "Elon Musk Praises Jensen Huang’s Reliability On Compute Deliveries, “Without Jensen, At Least Some Of Those Critical Deals Will Be Lost”",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/elon-musk-warns-nvidia-lose-critical-supply-deals-without-jensen-huang/",
+  "summary": "일론 머스크가 젠슨 황의 컴퓨팅 칩 공급 능력에 찬사를 보냈음.\n젠슨 황 없이는 중요한 계약들이 성사되지 못했을 것이라 언급했음.\n하지만 황의 갑작스러운 사임으로 NVIDIA가 공급망 계약을 잃을 위험도 있다고 경고했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-15 00:35",
   "tag": "규제",
   "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
   "summary": "삼성전자가 GPU 대안 경쟁 심화 속에,\nAI 칩 스타트업에 2억 3천만 달러 투자 유치 지원했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-15 06:51",
-  "tag": "기타",
-  "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-  "summary": "Nvidia CEO 젠슨 황은 AI 개발 속도 둔화에 반대한다고 밝혔음.\n그는 일론 머스크, 샘 알트먼과 달리 AI 발전 지연을 원치 않는다고 함.",
   "importance": 4
  }
 ]
