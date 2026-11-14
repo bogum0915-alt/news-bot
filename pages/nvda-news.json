@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-15 00:35",
+  "tag": "규제",
+  "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
+  "summary": "미국 재무장관이 엔비디아가 AI GPU를 유령 회사에 판매했는지 의문을 제기했음.\n회사가 책임을 져야 한다고 발언했으나, 젠슨 황 CEO를 직접 비난하지는 않았음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-14 23:50",
+  "tag": "규제",
+  "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+  "summary": "중국 AI 모델(DeepSeek, Kimi 등)이\n수출 통제된 엔비디아 Blackwell GPU로\n학습됐다는 연구 결과 나왔음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-14 17:15",
   "tag": "실적",
   "title": "Nvidia’s Meteoric Rise, in One Chart",
@@ -699,24 +717,6 @@
   "source": "TechCrunch",
   "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
   "summary": "Nvidia CEO 젠슨 황은 AI 개발 속도 둔화에 반대한다고 밝혔음.\n그는 일론 머스크, 샘 알트먼과 달리 AI 발전 지연을 원치 않는다고 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-15 02:39",
-  "tag": "제품",
-  "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
-  "summary": "Nvidia가 RTX 5090 대신 AI 마진 극대화에 초점.\nRTX Pro 5500 Blackwell 워크스테이션 에디션 출시.\n생성형 AI 및 에이전트 AI 용도로 VRAM 2.6배 증가.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-11 06:51",
-  "tag": "실적",
-  "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-  "source": "TechCrunch",
-  "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-  "summary": "Nvidia CEO Jensen Huang은 내년 70% 성장 전망을 확신함.\nNvidia는 다양한 분야에 참여하고 있으며, 향후 성장이 기대됨.\n그는 현재의 사업 관계가 순환적이지 않다고 강조했음.",
   "importance": 4
  }
 ]
