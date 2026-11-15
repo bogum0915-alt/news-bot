@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-16 04:03",
+  "tag": "기타",
+  "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
+  "summary": "엔비디아 CEO 젠슨 황이 동료들과 복귀에 대해 논했음.\n그의 리더십과 회사의 향후 방향성에 대한 중요한 발언으로 해석됨.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-15 23:18",
   "tag": "기타",
   "title": "Potential Jensen Huang Comeback Threatens To Derail Rumored Anthropic Push Against Open-Source AI, As NVIDIA Board Urged Not To Rush Permanent CEO Replacement",
@@ -708,15 +717,6 @@
   "source": "CNBC",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDBIS3pHZ2F3YXZhLTd0a1A4QmpWd3VLeVVjUUxKbEFrOW9ibmNaX1paTzNBRW8tZzZuajJvcm45S1RWSUQzRHBtMXZuMFQtWFhpZ292Z2RTVWpJMGg4Y2hUNzhUemIwMDRGYWlFTmctd0VpcVllTjJMcnd0OWhmMF8ydUFMVnl1aXRXYkpjcTdOMmJvOWprM05FSVFCbGNxeWx1R1BkQ1N3SmN2b2oteVg0bVhBdw?oc=5",
   "summary": "엔비디아 CEO 젠슨 황이 AI 안전에 대해 발언했음.\n이는 AI 칩 및 밸류체인 투자에 중요한 시사점을 줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 02:15",
-  "tag": "실적",
-  "title": "NVIDIA GeForce RTX 5090 Prices Blow Through the Roof, Now Starting at Over $6000 & Going Beyond $9000 While Chinese AI Firms Continue to Gobble Up Gaming Cards in Bulk",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-geforce-rtx-5090-prices-blow-through-the-roof-over-9000-usd/",
-  "summary": "NVIDIA RTX 5090 그래픽 카드 가격이 6,000달러 이상으로 급등했음.\n중국 AI 기업들이 높은 가격에도 불구하고 대량으로 게이밍 카드를 계속 구매하고 있음.\n이는 AI 학습 수요가 고성능 GPU 시장에 미치는 영향을 보여줌.",
   "importance": 4
  }
 ]
