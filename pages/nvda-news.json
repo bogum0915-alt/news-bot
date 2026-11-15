@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-16 07:54",
+  "tag": "규제",
+  "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5",
+  "summary": "트럼프-시진핑 회담에서 엔비디아 관련 논의가 있을 수 있다는 전망 나옴.\n미국 정부의 대중국 AI 칩 수출 통제 강화 가능성이 제기됨.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-16 06:56",
+  "tag": "기타",
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "summary": "엔비디아 젠슨 황 CEO에 대한 뉴스가 AI 산업 전체에 영향을 줄 수 있다는 분석임.\nAI 경제가 엔비디아에 크게 의존하고 있다는 점을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-16 04:03",
   "tag": "기타",
   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -699,24 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
   "summary": "Apple이 서버 시장 복귀를 고려 중.\nNvidia와 네트워크 기술 사용 관련 논의를 했다고 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 08:35",
-  "tag": "기타",
-  "title": "Nvidia CEO Jensen Huang: Safety is an engineering problem",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZ2ZE9QSU1EelNQa3drTEs5azVvTWhsbVlJNlN5V0JpWmVWd29hdGV4LVYtdUhCa3NVemVXODFURC1IY1c5T0h4elFadXFoa3JxTW1nUkxUMlVQMkFUWVBzbEVpV1VDNnJ4YmhQZzVMaDVaMWFJQktVMi1TcGhEbURObUIyRHRDRFMzb1lOVnVBMklGN2l6d08tMGpGekQx?oc=5",
-  "summary": "Nvidia CEO Jensen Huang가 안전은 엔지니어링 문제라고 발언했음.\nAI 안전성에 대한 그의 관점을 제시했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 06:48",
-  "tag": "기타",
-  "title": "'Fast Money' traders react to Nvidia CEO Jensen Huang addressing AI safety",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDBIS3pHZ2F3YXZhLTd0a1A4QmpWd3VLeVVjUUxKbEFrOW9ibmNaX1paTzNBRW8tZzZuajJvcm45S1RWSUQzRHBtMXZuMFQtWFhpZ292Z2RTVWpJMGg4Y2hUNzhUemIwMDRGYWlFTmctd0VpcVllTjJMcnd0OWhmMF8ydUFMVnl1aXRXYkpjcTdOMmJvOWprM05FSVFCbGNxeWx1R1BkQ1N3SmN2b2oteVg0bVhBdw?oc=5",
-  "summary": "엔비디아 CEO 젠슨 황이 AI 안전에 대해 발언했음.\n이는 AI 칩 및 밸류체인 투자에 중요한 시사점을 줌.",
   "importance": 4
  }
 ]
