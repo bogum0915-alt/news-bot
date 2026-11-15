@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-15 23:18",
+  "tag": "기타",
+  "title": "Potential Jensen Huang Comeback Threatens To Derail Rumored Anthropic Push Against Open-Source AI, As NVIDIA Board Urged Not To Rush Permanent CEO Replacement",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/potential-jensen-huang-comeback-threatens-rumored-anthropic-push-against-open-source-ai/",
+  "summary": "엔비디아 주요 주주들이 창업자 젠슨 황의 복귀 가능성을 열어두려는 움직임이 있음.\n만약 복귀한다면, 앤스로픽 같은 폐쇄형 AI 기업들이 오픈소스 AI 생태계를 약화시키려는 시도를 무산시킬 수 있다고 함.\n현재 임시 CEO인 코렛 크레스의 영구 CEO 교체 결정이 만장일치로 이뤄지지 않을 수 있다고 함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-15 04:58",
   "tag": "수주",
   "title": "Elon Musk Praises Jensen Huang’s Reliability On Compute Deliveries, “Without Jensen, At Least Some Of Those Critical Deals Will Be Lost”",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-geforce-rtx-5090-prices-blow-through-the-roof-over-9000-usd/",
   "summary": "NVIDIA RTX 5090 그래픽 카드 가격이 6,000달러 이상으로 급등했음.\n중국 AI 기업들이 높은 가격에도 불구하고 대량으로 게이밍 카드를 계속 구매하고 있음.\n이는 AI 학습 수요가 고성능 GPU 시장에 미치는 영향을 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-15 08:30",
-  "tag": "수주",
-  "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
-  "source": "CNBC",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
-  "summary": "삼성전자가 GPU 대안 경쟁 심화 속에,\nAI 칩 스타트업에 2억 3천만 달러 투자 유치 지원했음.",
   "importance": 4
  }
 ]
