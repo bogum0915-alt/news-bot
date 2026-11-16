@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-16 20:07",
+  "tag": "기타",
+  "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2JkdDdXVFVDWWplOU5DRUtSZ0tQS25DanRfRl92ZUU5WVNDQnBwUUhhM3RRdDRSdEdISTNwa002U05EdkRlSlFXNE1PZ1RSVElZUjU5ZnRvT2RqQjZjaVRidXJRQ2dtb3FuRG9GQ0hrMm1ialRwSkN3U0VLTkZoNUhpUTYwakJUUUlOR0FMWWVMdUI0MUlkdVdYdUZOYzc5YVNtYk5wMjlHYlRKaG1RUWNOMGtnM1dCZEJpUEw4cThSc1Js?oc=5",
+  "summary": "Nvidia의 AI 금융 사업은 CEO 황이 없어도 유지될 수 있으나,\n리스크 감수성은 낮아질 가능성이 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-16 20:00",
+  "tag": "수주",
+  "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market —  supply commitments rose by nearly a quarter of a trillion dollars in a single quarter",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
+  "summary": "Nvidia가 AI 시장 장악을 위해\n5,300억 달러의 재정적 보증을 확보했음.\n단일 분기에 공급 계약이 2,500억 달러 급증했음.",
+  "importance": 5
+ },
+ {
   "ts": "2026-11-16 11:21",
   "tag": "실적",
   "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidias-b200-gpus-currently-command-a-residual-value-that-exceeds-their-original-launch-price-by-58-percent/",
   "summary": "NVIDIA B200 GPU 중고 가격이 출시가 대비 58% 상승했음.\n이는 LLM 시대 AI 슈퍼 사이클의 건재함을 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 23:10",
-  "tag": "제품",
-  "title": "NVIDIA’s DSX MaxLPS Drives 40% More Token Throughput Per Megawatt, As Lambda’s Cluster Jumps To 5 Million Tokens Per Second",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-dsx-maxlps-drives-more-token-throughput-per-megawatt/",
-  "summary": "NVIDIA가 AI 연산 효율을 40% 높이는 DSX MaxLPS를 공개했음.\nLambda 클러스터는 초당 500만 토큰 처리가 가능해졌음.\nAI 수요 급증에 따른 전력 문제 해결에 기여할 것으로 보임.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 22:40",
-  "tag": "제품",
-  "title": "Leaker Claims AMD And NVIDIA Delay Next-Gen GPUs To 2028, Except One RDNA 5-Based AT2 Chip Launching In 2027",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/amd-and-nvidia-are-rumoredly-skipping-2027-for-next-gen-gpus/",
-  "summary": "AMD와 NVIDIA의 차세대 GPU 출시가 2028년으로 연기될 수 있다는 루머가 나왔음.\n2027년에는 RDNA 5 기반 AT2 칩 1종만 출시될 것으로 예상됨.\n이는 AI 칩 시장 경쟁 구도에 영향을 줄 수 있는 제품 로드맵 변경 가능성을 시사함.",
   "importance": 4
  }
 ]
