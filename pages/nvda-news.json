@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-16 11:21",
+  "tag": "실적",
+  "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5",
+  "summary": "Nvidia의 AI 경제에 대한 무한한 지출 시대가 끝나갈 수 있음을 시사함.\nAI 칩 수요 증가세가 둔화될 가능성을 언급했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-16 10:36",
+  "tag": "실적",
+  "title": "Jensen Huang Comeback Report Primes Nvidia Shares for a Bounce",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFZxVFh3T0hqYnIySTZ0RzRNR0FWN3FkNWxMN2NTbDI5RjlNLUo4Z05mZFEwbzR2YW52bGdzdTZjWEJEM2JvQ01Bd2ZrYXNBa0E2c1Z3SWJSQ1ZIdVZXSEJyTXo3SXVFMXZRZEFSM0xSMHJoSDJPWG9qX2xIeHpLYThFWURtaFRwVC1OU2dKUUR1Wmd5ZnhYQ21FZ3l1N2RuSzJ5cmpQSmpPQUV5S29aUngtUjB6QQ?oc=5",
+  "summary": "엔비디아 CEO 젠슨 황의 보고서가.\n주가 반등 가능성을 점치고 있음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-16 07:54",
   "tag": "규제",
   "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/amd-and-nvidia-are-rumoredly-skipping-2027-for-next-gen-gpus/",
   "summary": "AMD와 NVIDIA의 차세대 GPU 출시가 2028년으로 연기될 수 있다는 루머가 나왔음.\n2027년에는 RDNA 5 기반 AT2 칩 1종만 출시될 것으로 예상됨.\n이는 AI 칩 시장 경쟁 구도에 영향을 줄 수 있는 제품 로드맵 변경 가능성을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 22:25",
-  "tag": "수주",
-  "title": "Apple considers Nvidia tech for return to server market, The Information reports",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
-  "summary": "Apple이 서버 시장 복귀를 위해\nNvidia 기술 도입 검토 중인 것으로\n알려졌음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-16 22:00",
-  "tag": "기타",
-  "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
-  "summary": "Apple이 서버 시장 복귀를 고려 중.\nNvidia와 네트워크 기술 사용 관련 논의를 했다고 함.",
   "importance": 4
  }
 ]
