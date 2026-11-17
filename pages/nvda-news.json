@@ -1,5 +1,41 @@
 [
  {
+  "ts": "2026-11-17 20:42",
+  "tag": "기타",
+  "title": "Nvidia turmoil marks the end of easy money for the AI trade",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2s1OTd5YWwta0FpTHlwdW5YbUc5Zmc0S3RfczZVTTM5MXBaWlpuZHV4ajRNaGZqNXVuaUx5XzJlZkdqT203WTJHdmJpNllpX3plcFFqMkFqRmRkWHRycDlEWUNoNUtOQ3cwUnRaREJ0NVZhT0NyaWZMODgwcXRCZHJXZ3VfWkw2R3dham9Wc3RRaEk?oc=5",
+  "summary": "Nvidia의 최근 불안정은 AI 투자 열기에 대한 경고로 해석됐음.\nAI 반도체 업계의 쉬운 수익 시대가 끝났다는 분석임.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-17 20:21",
+  "tag": "규제",
+  "title": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts",
+  "summary": "Nvidia 이사회가 국가 안보 및 수출 통제 감독 위원회를 설립했음.\n이는 젠슨 황 CEO 관련 스캔들을 방지하기 위함임.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-11-17 20:20",
+  "tag": "실적",
+  "title": "Nvidia shares set for $335 billion swing after earnings, options show",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU45dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU?oc=5",
+  "summary": "Nvidia 주가, 실적 발표 후 3350억 달러 변동 가능성이 옵션 시장에서 예상됐음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-17 20:05",
+  "tag": "기타",
+  "title": "Nvidia Forms National-Security Committee After Huang’s Exit",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXhhSVphOVEtNXVqU24ySnNTdTdRbzFpQ3hQc2k0dzJuZndjVW4yNGlDQWFpRWRXR1ZWQnJ1U0gwcmdnZkpPb2hMaGhfbmhmMG55UGd0QzctQy00RUF6aThiRHAzSC0zVWFFdkJ4RFpjNGhSWkVCYVBjY2FKRGFDcUJrZTdGa2NDODhiYkh1NGE0czRCNmVpMmQ3RER4WlBYTjBRdHFaUmVQTTIya2V2Ri00Wng?oc=5",
+  "summary": "엔비디아가 창업자 겸 CEO인 젠슨 황의 퇴진 이후 국가 안보 위원회를 설립했음.\n이는 AI 칩 기술의 민감성과 중요성을 반영함.",
+  "importance": 5
+ },
+ {
   "ts": "2026-11-16 20:07",
   "tag": "기타",
   "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
@@ -681,42 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
   "summary": "엔비디아 CEO 젠슨 황은 2030년까지 AI가 세상을 파괴할 확률이 0%라고 주장했음.\n안전 장치로 AI의 위험을 통제할 수 있다고 했음.\nAI 발전 속도를 늦추지 말고 최대한 빠르게 나아가야 한다고 말했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-19 06:51",
-  "tag": "제품",
-  "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
-  "summary": "AMD가 EPYC 'Venice' CPU 벤치마크 공개했음.\n256코어 칩이 Nvidia Vera 대비 2배 이상 빠르다고 주장함.\n96코어 모델도 코어당 성능 20% 우세라고 함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-17 21:00",
-  "tag": "규제",
-  "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-  "summary": "미국 비영리단체 C4ADS 보고서에 따르면,\n트럼프 행정부의 수출 규제에도 불구하고\n수십억 달러 상당의 엔비디아 AI 칩이 중국으로 유통되고 있음.",
-  "importance": 5
- },
- {
-  "ts": "2026-09-17 20:00",
-  "tag": "기타",
-  "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
-  "summary": "Apple이 자체 AI 서버에 Nvidia의 NVLink Fusion 도입 고려 중임.\n2029년 데이터센터 시장 공략 위한 협력 가능성 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-17 08:07",
-  "tag": "제품",
-  "title": "NVIDIA’s B200 GPUs Currently Command A Residual Value That Exceeds Their Original Launch Price By 58 Percent!",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidias-b200-gpus-currently-command-a-residual-value-that-exceeds-their-original-launch-price-by-58-percent/",
-  "summary": "NVIDIA B200 GPU 중고 가격이 출시가 대비 58% 상승했음.\n이는 LLM 시대 AI 슈퍼 사이클의 건재함을 보여줌.",
   "importance": 4
  }
 ]
