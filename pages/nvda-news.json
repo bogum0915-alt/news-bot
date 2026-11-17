@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-18 05:56",
+  "tag": "규제",
+  "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+  "summary": "WSJ에 따르면 SEC가 엔비디아를 조사 중임.\n이는 CEO 젠슨 황의 퇴진과 관련된 것으로 보임.",
+  "importance": 5
+ },
+ {
   "ts": "2026-11-17 20:42",
   "tag": "기타",
   "title": "Nvidia turmoil marks the end of easy money for the AI trade",
@@ -708,15 +717,6 @@
   "source": "The Information",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcy0xc0p1OHNZUzlhM2ZoN0ZOeVY0SElmYTU5V1JDWVQ0NnNoUTM1bC1GblNKc09TZHIwd3FwbndKZEs1Vk02MTdtcmV6SGtyanlEeC1zN1hqU2ZlUlMwVWhnbWlwZ0NsQXFjZmtPZ0VDNmFDQTB0aU01RDA3QlpZcVBaSi1qRVdxbEdkUzdmMldMU0dPeXVodTFWeFRLZnY0ZVkyV3QxNUFMNVFxdlE?oc=5",
   "summary": "엔비디아가 데이터센터 전력 병목 현상 해결에 주력하고 있음.\nAI 칩의 전력 효율 개선 및 데이터센터 인프라 최적화 방안 모색 중임.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-20 19:55",
-  "tag": "규제",
-  "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
-  "summary": "엔비디아 CEO 젠슨 황은 2030년까지 AI가 세상을 파괴할 확률이 0%라고 주장했음.\n안전 장치로 AI의 위험을 통제할 수 있다고 했음.\nAI 발전 속도를 늦추지 말고 최대한 빠르게 나아가야 한다고 말했음.",
   "importance": 4
  }
 ]
