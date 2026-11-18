@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-11-18 20:12",
+  "tag": "실적",
+  "title": "AI stocks rally as Nvidia outlook calms demand fears",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
+  "summary": "엔비디아의 실적 전망이 AI 칩 수요에 대한 우려를 완화시켰음.\n이로 인해 AI 관련 주식들이 전반적으로 상승세를 보였음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-18 19:50",
+  "tag": "실적",
+  "title": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMU1ZSS1sYUtTTlkwMVhodlljcjFvQkR1VHItVFc1N2N2WUEtWUxhbWVaVGFFV1pjNWZ0RUFZLU5GV0tjNG45WVBzSXpDVTcwa1B6aklTVFR4b2RLMHpOU240LV9Sd1FLcFI5SlAzaTF0MU1JRnpqSXRVSUlMTWFmVGdrR25ick9OTWRhaDlZMXVRQXh6RVVJbjVPd0d2X2c3bkNLR2RYZw?oc=5",
+  "summary": "Nvidia의 견고한 실적 발표에도 불구하고\n미래 성장성에 대한 의문이 여전히 제기되고 있음.\n이는 AI 밸류체인 전반에 걸쳐 투자 판단에 영향을 줄 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-18 18:37",
+  "tag": "실적",
+  "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+  "summary": "엔비디아 실적이 AI 시장 불안감을 해소했음.\nAI 관련 주식 선물이 상승세를 보였음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-18 11:36",
   "tag": "실적",
   "title": "NVIDIA GPU Rental Prices Have Doubled, Asserts Interim CEO Kress As She Reports A Whopping $309 Billion In Supply Commitments Fueled By Pricey Memory Chips",
@@ -690,33 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/alibaba-brags-that-its-next-gen-zhenwu-v900-ai-chip-offers-more-on-package-memory-than-nvidia-h200-outlines-plans-to-deploy-20-gw-of-compute-and-teases-4-10-trillion-parameters-for-upcoming-qwen-mod/",
   "summary": "알리바바가 차세대 AI 칩 'Zhenwu V900' 발표했음.\nNVIDIA H200보다 많은 온패키지 메모리 탑재.\n20GW 규모 컴퓨팅 구축 및 4~10조 파라미터 Qwen 모델 계획 공개했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-22 15:01",
-  "tag": "기타",
-  "title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTJzNzJmYzhBcG1WaGtLOEhFUzBuRUZKQjd4N042Mkw0SFVBRDI4bmZXT1JDeHNSMjZic0NTejVLSUtrRVBlRXZKbVJEc1R4Mkhyak0wLWp2a0VWSmZncFM5V2NCTnZkQmZTSnJtbFFCRFhuRFF1c2NnMjNPQTBiU0F3?oc=5",
-  "summary": "AI 개발 속도 조절을 주장하는 Dario와\n전속력 질주를 원하는 Jensen의 의견 대립.\nAI 칩 경쟁 및 기술 개발 방향성에 영향 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-22 00:42",
-  "tag": "실적",
-  "title": "AMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion",
-  "summary": "AMD가 시가총액 1조 달러 돌파했음.\nNvidia, Broadcom, SK하이닉스와 함께\n해당 클럽에 합류했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-21 23:30",
-  "tag": "제품",
-  "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — 15,488-chip Atlas clusters leverage optical networking to counter Nvidia, scales to 120 EFLOPS",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops",
-  "summary": "화웨이가 중국 내 AI 칩 수요 충족을 위해\n글로벌 출시 계획을 연기했음. 이는 내수 집중을 의미함.\n내부 15,488 칩 Atlas 클러스터는 광 네트워킹 활용.",
   "importance": 4
  }
 ]
