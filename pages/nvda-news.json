@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-18 11:36",
+  "tag": "실적",
+  "title": "NVIDIA GPU Rental Prices Have Doubled, Asserts Interim CEO Kress As She Reports A Whopping $309 Billion In Supply Commitments Fueled By Pricey Memory Chips",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-gpu-rental-prices-have-doubled-asserts-interim-ceo-kress-as-she-reports-a-whopping-309-billion-in-supply-commitments-fueled-by-pricey-memory-chips/",
+  "summary": "NVIDIA, 3분기 3,900억 달러 규모 공급 약정 발표했음.\nGPU 렌탈 가격 두 배 상승했음.\n메모리 칩 산업 혼란과 CEO 사임 영향 받았음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-18 05:56",
   "tag": "규제",
   "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops",
   "summary": "화웨이가 중국 내 AI 칩 수요 충족을 위해\n글로벌 출시 계획을 연기했음. 이는 내수 집중을 의미함.\n내부 15,488 칩 Atlas 클러스터는 광 네트워킹 활용.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-21 01:01",
-  "tag": "제품",
-  "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcy0xc0p1OHNZUzlhM2ZoN0ZOeVY0SElmYTU5V1JDWVQ0NnNoUTM1bC1GblNKc09TZHIwd3FwbndKZEs1Vk02MTdtcmV6SGtyanlEeC1zN1hqU2ZlUlMwVWhnbWlwZ0NsQXFjZmtPZ0VDNmFDQTB0aU01RDA3QlpZcVBaSi1qRVdxbEdkUzdmMldMU0dPeXVodTFWeFRLZnY0ZVkyV3QxNUFMNVFxdlE?oc=5",
-  "summary": "엔비디아가 데이터센터 전력 병목 현상 해결에 주력하고 있음.\nAI 칩의 전력 효율 개선 및 데이터센터 인프라 최적화 방안 모색 중임.",
   "importance": 4
  }
 ]
