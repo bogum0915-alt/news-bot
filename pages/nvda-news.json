@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-21 00:31",
+  "tag": "기타",
+  "title": "Nvidia's share slide knocks it below Alphabet in valuation",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1lHWVFlSnZTcW9OVTZGU0lwdDdreE5TSm94Z0FTZDktRHRLOEU0LVBTTHpOZ1lYYmFCZ041UWUtTEh6VEFhczZFd2xlSjNLRlNNMHhDd2tFcDl2N1BIMndRY1VaN09HeHowT0hVblhkd1ZpUGxTakdwVFk4cjFWTzlTRnJQeWNGUW92YUxWUG9XR3BzM0hrZDdaWU5vUHJyMVdRcDktdWNMSUlkLS1Nek1SZjYxQQ?oc=5",
+  "summary": "엔비디아 주가 하락으로 시총이 알파벳을 밑돌았음.\nAI 칩 시장 리더십 변화 가능성을 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-19 03:07",
   "tag": "실적",
   "title": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0?oc=5",
   "summary": "엔비디아 CEO가 AI 기업들의\n규제 면제는 바람직하지 않다고 발언했음.\n이는 AI 산업의 공정 경쟁 환경에 대한\n중요한 시사점을 줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-23 03:19",
-  "tag": "제품",
-  "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
-  "summary": "애플이 새로운 맥 제품으로\n마이크로소프트, 엔비디아와 경쟁하며\nAI 비용 절감에 나섰음.",
   "importance": 4
  }
 ]
