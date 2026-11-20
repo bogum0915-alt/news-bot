@@ -1,5 +1,23 @@
 [
  {
+  "ts": "2026-11-21 07:02",
+  "tag": "규제",
+  "title": "NVIDIA Being Investigated By The SEC For Accounting Issues, Says Report",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/nvidia-being-investigated-by-the-sec-for-accounting-issues-says-report/",
+  "summary": "SEC가 회계 문제로 엔비디아 조사 중이랬음.\n이는 전 CEO 사임과 CFO의 AI 생태계 투자 전략 의문 제기 보도 직후 나왔음.\n작년 암호화폐 수익 관련 550만 달러 벌금 납부한 바 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-21 06:37",
+  "tag": "규제",
+  "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+  "summary": "Nvidia가 미국 SEC의 조사를 받고 있음.\n회계 관행이 조사 초점이라고 함.\n소스에 의하면 그렇다는 거임.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-21 00:31",
   "tag": "기타",
   "title": "Nvidia's share slide knocks it below Alphabet in valuation",
@@ -699,24 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/elon-musk-goes-all-in-to-bring-a-whopping-1-2-million-nvidias-latest-gpus-online-in-his-mega-data-center-to-take-on-openai/",
   "summary": "일론 머스크가 OpenAI에 대항하기 위해\nNVIDIA GPU 120만 개를 데이터센터에 구축 중.\n1단계는 이미 운영, 2단계는 NVIDIA GPU 사용 계획임.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-24 06:05",
-  "tag": "제품",
-  "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-  "summary": "NVIDIA가 차세대 뉴럴 렌더링 및 경로 추적 기술을 위한\nRTX Kit SDK와 RTX Mega Geometry 2.0 SDK를 출시했음.\nArm64 지원 추가로 개발자에게 새로운 기능을 제공함.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-24 05:27",
-  "tag": "규제",
-  "title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0?oc=5",
-  "summary": "엔비디아 CEO가 AI 기업들의\n규제 면제는 바람직하지 않다고 발언했음.\n이는 AI 산업의 공정 경쟁 환경에 대한\n중요한 시사점을 줌.",
   "importance": 4
  }
 ]
