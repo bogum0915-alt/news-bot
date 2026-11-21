@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-21 19:31",
+  "tag": "규제",
+  "title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHpsUWpRNHV2N1B5QVI4LUdwb1VMWjB1aXRnV2I0YkowdGZDRnBLeGJWYWx3UERrRXNWWmh4QV9wQkd0UlUydEp6WDVYMVJBMHNSOXJUMHhHUUMtbjUzUFp1aXdlX283dWt1aDlUaWhYQW5oNkozeGY2dUVSbkxiZjQ2Nkd0QjBfVjVLRW44YktRbTMtdEx5ZWZuTGl6LVVvRWpWS1hfZU9pR0RVVkRYUUh3?oc=5",
+  "summary": "중국 AI 기업들이 엔비디아 칩에 대한 의존도가 높음.\n미국 규제로 인한 칩 공급 차질로 어려움 직면했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-21 07:02",
   "tag": "규제",
   "title": "NVIDIA Being Investigated By The SEC For Accounting Issues, Says Report",
@@ -708,15 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
   "summary": "Nvidia가 AI 붐으로 인한 성장세를 바탕으로\n역대 최대 규모인 1,500억 달러 자사주 매입을 발표했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-25 23:46",
-  "tag": "수주",
-  "title": "Elon Musk Goes All In To Bring A Whopping 1.2 Million NVIDIA’s Latest GPUs Online In His Mega Data Center To Take On OpenAI",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/elon-musk-goes-all-in-to-bring-a-whopping-1-2-million-nvidias-latest-gpus-online-in-his-mega-data-center-to-take-on-openai/",
-  "summary": "일론 머스크가 OpenAI에 대항하기 위해\nNVIDIA GPU 120만 개를 데이터센터에 구축 중.\n1단계는 이미 운영, 2단계는 NVIDIA GPU 사용 계획임.",
   "importance": 4
  }
 ]
