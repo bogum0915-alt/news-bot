@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-11-23 03:11",
+  "tag": "실적",
+  "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5",
+  "summary": "Nvidia가 예상보다 빠른 성장세를 보고했음.\nJensen Huang CEO의 경영 복귀 관련 정보가 나온 점은 주목할 만함.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-23 02:55",
+  "tag": "규제",
+  "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU9MT1BaVjdSS2pURVRCVjNXdm02bzJhTU9Uc1lVUEI1TkpLb2lJaXVYblJyZWtYWjRiV0NLZTVaay11all2cUUtaThtUDFQYjU0UzVQMTVEajRrNC1USTQ0S05QQ2NFc2xBa3cxajMtTzFNOEVPeEZJYXMtRTBHdGZ2bG4wbzZsSHc?oc=5",
+  "summary": "Nvidia에 대한 중국 칩 판매 관련 정보 요구 촉구.\nScott Bessent가 Nvidia에 답변 요구했음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-23 02:53",
+  "tag": "규제",
+  "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+  "summary": "미국 정부가 엔비디아의 대중국 칩 판매에 대한\n질문을 계속하고 있다고 로이터가 보도했음.\n이는 미중 기술 갈등과 관련된 규제 리스크를 시사함.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-21 19:31",
   "tag": "규제",
   "title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
@@ -690,33 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5",
   "summary": "Nvidia의 AI 붐 자금 조달 칩 베팅에 대한 월스트리트 현실 점검.\nAI 칩 수요가 급증하는 가운데, Nvidia의 공격적인 투자 전략과 시장 기대치 사이의 간극을 다루고 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-30 22:36",
-  "tag": "제품",
-  "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
-  "source": "The New York Times",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSVnEtX2xUV3VfaDRUanAyY2Y0Q2o1WEZRM2hTVEFIRDg0SGIxYUtGR1lNbkpRaFgwS0NHSGdvOXNfaUpkMmxCTDZ0dEhuaWRjZkwxejNjTkU4LW9tMlpEUl9rUFF3MmFYZnRJY244UkFzNkZzZmtVcDZpY0JEQQ?oc=5",
-  "summary": "DeepSeek와 화웨이가 엔비디아 AI 칩 지배력에 도전하고 있음.\n이들 기업은 엔비디아의 핵심 경쟁 우위인 AI 칩 기술 및 공급망에 영향을 줄 것으로 예상됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-28 23:58",
-  "tag": "실적",
-  "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-  "source": "The New York Times",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iclhOaUhUeDFGRDNBZWJzNWFOWUVtaVBwck91TFE4Um5rUDJ5Z1RsRXJSN2VWTUR3X2lmV0x5cDRqZEM5aDRwLVp5OWpzOHNtV2phY2hVNTF5NWo5M0JpYW1rcEhqTHFSTmZqZl9KSTdNZkt0QWhrZQ?oc=5",
-  "summary": "Nvidia가 역대 최대 규모인 1,500억 달러 규모의 자사주 매입 계획을 발표했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-09-28 23:54",
-  "tag": "실적",
-  "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
-  "summary": "Nvidia가 AI 붐으로 인한 성장세를 바탕으로\n역대 최대 규모인 1,500억 달러 자사주 매입을 발표했음.",
   "importance": 4
  }
 ]
