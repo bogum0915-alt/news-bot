@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-23 12:47",
+  "tag": "기타",
+  "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTJfaHd4Zm9NQVJDVlFGYVY2YzJYQ1dLa1ltRmNXdE1pT1BSRFFNVkZJNXZTT2IxM2JoUDh0dGZtUlJ5eFR4cGhyaTUzSWI0WU5zdVV2THhKNkk0bENScFRDNl9zNjFsYWRSb2tGQ2s2TnhfT1hyZmtuaHBxTGJCNWN5bE5kTF9CdlBrM3hfYmlfZzkwV19Qc2ZYR2IxWUNQbFAw?oc=5",
+  "summary": "대만 지정학적 불확실성이 애플, 엔비디아 등 미국 기술 기업에 위험이 될 수 있다는 대만 총리 발언 나왔음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-23 03:11",
   "tag": "실적",
   "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
   "summary": "OpenAI가 자체 개발한 Jalapeño ASIC을 AMD EPYC Turin CPU와 함께 사용하기로 했음.\nNvidia의 Vera와 같은 고성능 칩 대신 AMD CPU를 선택했음.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-02 00:59",
-  "tag": "실적",
-  "title": "Focus: Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5",
-  "summary": "Nvidia의 AI 붐 자금 조달 칩 베팅에 대한 월스트리트 현실 점검.\nAI 칩 수요가 급증하는 가운데, Nvidia의 공격적인 투자 전략과 시장 기대치 사이의 간극을 다루고 있음.",
   "importance": 4
  }
 ]
