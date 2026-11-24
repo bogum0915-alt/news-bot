@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-24 11:18",
+  "tag": "기타",
+  "title": "Live Updates: Huang’s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism",
+  "source": "The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5",
+  "summary": "엔비디아 CEO 젠슨 황의 복귀 소식.\n이로 인해 엔비디아 주가 급등했음.\n동시에 정치권의 회의적인 시각도 나왔음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-23 12:47",
   "tag": "기타",
   "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-64-gb-dgx-spark-this-month-for-4999-usd-128-gb-spark-jumps-past-6000/",
   "summary": "NVIDIA가 64GB DGX Spark AI 슈퍼컴퓨터를 이달 출시함.\n기존 128GB 모델과 동일한 가격에 메모리 용량은 절반임.\n메모리 비용 상승으로 가격이 크게 올랐기 때문임.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-02 21:40",
-  "tag": "제품",
-  "title": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
-  "summary": "OpenAI가 자체 개발한 Jalapeño ASIC을 AMD EPYC Turin CPU와 함께 사용하기로 했음.\nNvidia의 Vera와 같은 고성능 칩 대신 AMD CPU를 선택했음.",
   "importance": 4
  }
 ]
