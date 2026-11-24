@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-24 21:01",
+  "tag": "규제",
+  "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
+  "summary": "미국, 엔비디아 고객사 메가스피드 제재.\n중국 AI 칩 시장에 영향 가능성.\n미중 기술 갈등 심화 우려.",
+  "importance": 5
+ },
+ {
   "ts": "2026-11-24 11:18",
   "tag": "기타",
   "title": "Live Updates: Huang’s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/the-552b-deepseek-v4-1-flash-model-offers-a-peak-output-of-494-tokens-second-when-powered-by-an-at-home-rig-spanning-4x-nvidia-dgx-spark-units/",
   "summary": "DeepSeek V4.1-Flash 모델이 NVIDIA DGX Spark 4개로\n494 토큰/초 처리량 달성했음.\n온프레미스 환경에서 높은 추론 성능 가능함을 보여줌.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-02 22:00",
-  "tag": "제품",
-  "title": "NVIDIA’s 64 GB DGX Spark “AI Supercomputer” Launches This Month For $4999, While The 128 GB Spark Jumps Past $6000",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/nvidia-64-gb-dgx-spark-this-month-for-4999-usd-128-gb-spark-jumps-past-6000/",
-  "summary": "NVIDIA가 64GB DGX Spark AI 슈퍼컴퓨터를 이달 출시함.\n기존 128GB 모델과 동일한 가격에 메모리 용량은 절반임.\n메모리 비용 상승으로 가격이 크게 올랐기 때문임.",
   "importance": 4
  }
 ]
