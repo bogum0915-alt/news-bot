@@ -1,5 +1,32 @@
 [
  {
+  "ts": "2026-11-26 07:44",
+  "tag": "기타",
+  "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+  "summary": "S&P가 엔비디아 이사회의 이해 상충 가능성을 경고했음.\n이에 따라 엔비디아의 신용 등급 강등 가능성을 주시하기 시작했음.",
+  "importance": 5
+ },
+ {
+  "ts": "2026-11-26 07:44",
+  "tag": "기타",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "source": "TechCrunch",
+  "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "summary": "S&P가 엔비디아의 신용등급 하향 검토 중임.\n거버넌스와 '핵심 인물' 위험 때문임.\nAA- 등급으로 낮아질 수 있음.",
+  "importance": 4
+ },
+ {
+  "ts": "2026-11-26 07:25",
+  "tag": "기타",
+  "title": "NEWSLETTER: Jensen is back. What’s next for Nvidia?",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZEaGMtUmdmSmZPX1BXTmtqRG4xUXpNcFFiRmxWY0d2MnBmR0ZUWVRJM1d6Q0N6QzVjZ2NnYXVZTFNXejg5N2JaeWZTYTlHWlZJNFZYb09kS1JsY0ZadXVrLXZXN0lWNmRQdThKMmZOV1NBd0FYNk1CNnVPN0g5Zkd2ajh0c1l4VlFLbkNCYldadTl3c0Jrek0zak9XeW9BTWJMVkJ3?oc=5",
+  "summary": "Nvidia 창업자 젠슨 황 복귀.\n향후 Nvidia 사업 방향에 주목.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-24 21:01",
   "tag": "규제",
   "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
@@ -690,33 +717,6 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUI2a1hBLXE5bUZyeDFhTmNWczFrV1drNFoxSEx4UzJ6X0dVb1YwRE9KZkMwUEpSSjhQMDlnbkp6aVRsMjZ1WURDYmJrMnM0WU9UckpqTkZGempLenJSYmFkUGxlRWJvSHd0TTRPOFBDMVZXQkJwLTNvMTZfUW9yenZ2eF9LT3g5dXVPTUtWajE1bnhHM0FoVzNqUUhuTjgtNzBYOXlSbDk?oc=5",
   "summary": "삼성전자의 AI 관련 수익이 엔비디아의 AI 수익 창출 능력에 비해 뒤처진다는 분석임.\n이는 AI 밸류체인 내 삼성전자의 위치와 경쟁력을 시사함.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-07 22:00",
-  "tag": "기타",
-  "title": "Where Nvidia’s $100 Billion Dealmaking Juggernaut Will Go Next",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXpJWmRiREpOWHpYYnJmeWhROGV2T0lrbXQyOHBGT19EWGlTWFN0bGY0LXBOanBPeXpqSzRzdFpXNElfNG9XWGtSX3kyQ05pUjc3c00wUnlITXc0bmxkR09LN0VLTER6Vk1LdkNkeGhCV3ZTblZ0bWhFbzR6OS0zNTRscF8zdEh4b3hveG1nR2lCcXVGVS0wS0ln?oc=5",
-  "summary": "Nvidia의 1000억 달러 규모 인수합병 계획이 공개됨.\n이 계획은 AI 칩, 데이터센터, 소프트웨어 등 다양한 분야를 아우를 것임.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-07 21:00",
-  "tag": "기타",
-  "title": "Former Google, Nvidia Execs Launch Company to Ease GPU Crunch",
-  "source": "The Information",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdCUGk0TnAyQVhEWDdxVElBN0d0YlR1RXZ5S2tQbUpoLVZ6WEhyQ21sOXF2WjRxckthZmo2a2JpMm9lVE9hb0JFQ0Q3SnkwMEZvQ1hySEpQeTNZNW1MWHRGT0R1STNsM0l5OXJLQnpfeV84TVlBZjdKTDU2QThZQ19sR0pxZVRUMUVUVTRJU3oxdkhVZWdKLVBfeHREQzg?oc=5",
-  "summary": "구글/엔비디아 전직 임원들이 GPU 공급 부족 완화를 위한 신생 기업 설립했음.\nAI 칩 공급망 병목 현상 해소에 기여할 수 있을 것으로 기대됨.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-06 01:46",
-  "tag": "제품",
-  "title": "The 552B DeepSeek V4.1-Flash Model Offers A Peak Output Of 494 Tokens/Second When Powered By An At-Home Rig Spanning 4x NVIDIA DGX Spark Units",
-  "source": "Wccftech",
-  "url": "https://wccftech.com/the-552b-deepseek-v4-1-flash-model-offers-a-peak-output-of-494-tokens-second-when-powered-by-an-at-home-rig-spanning-4x-nvidia-dgx-spark-units/",
-  "summary": "DeepSeek V4.1-Flash 모델이 NVIDIA DGX Spark 4개로\n494 토큰/초 처리량 달성했음.\n온프레미스 환경에서 높은 추론 성능 가능함을 보여줌.",
   "importance": 4
  }
 ]
