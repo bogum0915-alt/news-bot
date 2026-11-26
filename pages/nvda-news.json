@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-27 01:00",
+  "tag": "규제",
+  "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+  "source": "Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+  "summary": "Nvidia가 중국 클라우드 접근 금지 조치에 따라 동남아시아 지역으로 AI GPU 출하를 중단했음.\n싱가포르, 말레이시아, 태국, 인도네시아 데이터센터는 GPU 수령 시 수출 허가 필요.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-26 07:44",
   "tag": "기타",
   "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
@@ -708,15 +717,6 @@
   "source": "Tom's Hardware",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
   "summary": "SpaceX가 Nvidia AI 칩 구매를 위해\n400억 달러 규모의 부채 조달을 추진 중임.\n이는 36만 개의 Nvidia Rubin AI 가속기 확보 목적임.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-08 12:19",
-  "tag": "실적",
-  "title": "Breakingviews - COMMENTARY: Samsung's AI riches lag Nvidia's money machine",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUI2a1hBLXE5bUZyeDFhTmNWczFrV1drNFoxSEx4UzJ6X0dVb1YwRE9KZkMwUEpSSjhQMDlnbkp6aVRsMjZ1WURDYmJrMnM0WU9UckpqTkZGempLenJSYmFkUGxlRWJvSHd0TTRPOFBDMVZXQkJwLTNvMTZfUW9yenZ2eF9LT3g5dXVPTUtWajE1bnhHM0FoVzNqUUhuTjgtNzBYOXlSbDk?oc=5",
-  "summary": "삼성전자의 AI 관련 수익이 엔비디아의 AI 수익 창출 능력에 비해 뒤처진다는 분석임.\n이는 AI 밸류체인 내 삼성전자의 위치와 경쟁력을 시사함.",
   "importance": 4
  }
 ]
