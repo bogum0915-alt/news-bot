@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-28 03:53",
+  "tag": "기타",
+  "title": "Will be topping off Nvidia position if there is another selloff, says Laffer Tengler's Nancy Tengler",
+  "source": "CNBC",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVY3SGZid1l1aGRXLU9PczF0c2tSU2VUOFltTWlFTmxLVV9SRjlJSnQxZk5paUZ5SmVmRnBNUXAzSlJYbUxyY3pmRkZPXzRFMDR1dmFnSDRDVUE1N05JY2hUWXFJZGV6dmVHNXA2S2JianRJMV9mV1NmRVJVRk9teHJUbUJzbjJsNGF2OHQxaHhob3d2TWZBYnJNMWlQbzY1dC1vQkozdXNWR0FOQ3F5VS1aUGZMNV9QVkVVbDEzczBOY2REZTVCbkd3bE51dXFjSHM5LXllUDY?oc=5",
+  "summary": "Lafer Tengler의 Nancy Tengler가 Nvidia 주가 하락 시 매수 포지션을 늘릴 계획이라고 밝혔음.\n이는 AI 칩 선두 주자인 Nvidia에 대한 투자 전략을 보여줌.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-27 18:20",
   "tag": "제품",
   "title": "Intel’s Four-Year-Old Gaudi Chips Deliver 60% Higher Decode Throughput Than NVIDIA’s H100 in Qwen3.5-27B, As AI Software Optimizations Unlock Full Potential",
@@ -708,15 +717,6 @@
   "source": "Wccftech",
   "url": "https://wccftech.com/nvidia-vera-cpu-brings-2000-sandboxes-online-faster-than-amd-epyc-zen-5-agentic-ai/",
   "summary": "NVIDIA Vera CPU, Agentic AI 워크로드에서\nAMD EPYC Zen 5 대비 월등한 성능 입증.\n2,000개 샌드박스 온라인, EPYC의 2배 속도.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-09 18:30",
-  "tag": "실적",
-  "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
-  "summary": "Nvidia가 현금 흐름 계산 방식을 변경했음.\n이는 자사주 매입 여력에 큰 영향을 줄 수 있음.",
   "importance": 4
  }
 ]
