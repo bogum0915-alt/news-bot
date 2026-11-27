@@ -1,5 +1,14 @@
 [
  {
+  "ts": "2026-11-27 18:20",
+  "tag": "제품",
+  "title": "Intel’s Four-Year-Old Gaudi Chips Deliver 60% Higher Decode Throughput Than NVIDIA’s H100 in Qwen3.5-27B, As AI Software Optimizations Unlock Full Potential",
+  "source": "Wccftech",
+  "url": "https://wccftech.com/intel-gaudi-chips-ai-optimizations-outperform-nvidia-h100/",
+  "summary": "AI 소프트웨어 최적화로 인텔 가우디 칩이 엔비디아 H100 대비 Qwen3.5-27B에서 60% 높은 디코드 처리량 달성했음.\n토큰 처리량/달러 효율 9.4배 향상, 추론 벤치마크서 최대 3.21배 성능 개선했음.\n초기 벤치마크서 경쟁력 부족했으나, 가치 제안으로 승부했음.",
+  "importance": 4
+ },
+ {
   "ts": "2026-11-27 01:00",
   "tag": "규제",
   "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
@@ -708,15 +717,6 @@
   "source": "WSJ",
   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
   "summary": "Nvidia가 현금 흐름 계산 방식을 변경했음.\n이는 자사주 매입 여력에 큰 영향을 줄 수 있음.",
-  "importance": 4
- },
- {
-  "ts": "2026-10-08 20:00",
-  "tag": "수주",
-  "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
-  "source": "Tom's Hardware",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
-  "summary": "SpaceX가 Nvidia AI 칩 구매를 위해\n400억 달러 규모의 부채 조달을 추진 중임.\n이는 36만 개의 Nvidia Rubin AI 가속기 확보 목적임.",
   "importance": 4
  }
 ]
